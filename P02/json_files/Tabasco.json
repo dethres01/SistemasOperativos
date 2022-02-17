@@ -1,0 +1,2445 @@
+{
+    "86000": {
+        "code": "86000",
+        "colonies": [
+            {
+                "name": "Villahermosa Centro",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86010": {
+        "code": "86010",
+        "colonies": [
+            {
+                "name": "Medellin y Pigua 1ra. Sección",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Triangulo Industrial",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86019": {
+        "code": "86019",
+        "colonies": [
+            {
+                "name": "Roberto Madrazo Pintado Ciudad Industrial",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86020": {
+        "code": "86020",
+        "colonies": [
+            {
+                "name": "El Recreo",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Framboyanes",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86026": {
+        "code": "86026",
+        "colonies": [
+            {
+                "name": "Privada Golondrinas",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Villa de las Palmas",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Las Torres",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86027": {
+        "code": "86027",
+        "colonies": [
+            {
+                "name": "Jardines de Villahermosa",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86029": {
+        "code": "86029",
+        "colonies": [
+            {
+                "name": "José María Pino Suárez",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Tierra Colorada",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86035": {
+        "code": "86035",
+        "colonies": [
+            {
+                "name": "Galaxia/tabasco 2000",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Paseos Del Usumacinta",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Real de Tabasco",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86037": {
+        "code": "86037",
+        "colonies": [
+            {
+                "name": "Parque Tabasco",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86040": {
+        "code": "86040",
+        "colonies": [
+            {
+                "name": "Adolfo Lopez Mateos",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Florida",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Jesús Garcia",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Lago Ilusiones",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Lidia Esther Mónica de Portilla",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86050": {
+        "code": "86050",
+        "colonies": [
+            {
+                "name": "Jose N Rovirosa",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86059": {
+        "code": "86059",
+        "colonies": [
+            {
+                "name": "Periodista",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86060": {
+        "code": "86060",
+        "colonies": [
+            {
+                "name": "Casa Blanca 1a Sección",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Casa Blanca 2a Sección",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86067": {
+        "code": "86067",
+        "colonies": [
+            {
+                "name": "Gaviotas Norte Sector Popular",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86068": {
+        "code": "86068",
+        "colonies": [
+            {
+                "name": "Gaviotas Norte",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "La Manga II",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "La Manga III",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86069": {
+        "code": "86069",
+        "colonies": [
+            {
+                "name": "La Manga I",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86070": {
+        "code": "86070",
+        "colonies": [
+            {
+                "name": "Nueva Villahermosa",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86080": {
+        "code": "86080",
+        "colonies": [
+            {
+                "name": "Gil y Sáenz (El Águila)",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Reforma",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86090": {
+        "code": "86090",
+        "colonies": [
+            {
+                "name": "Guayabal",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Gaviotas Sur Sección San Jose",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Municipal",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Gaviotas Norte Sector Explanada",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86095": {
+        "code": "86095",
+        "colonies": [
+            {
+                "name": "Las Brisas",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86096": {
+        "code": "86096",
+        "colonies": [
+            {
+                "name": "El Parque",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86098": {
+        "code": "86098",
+        "colonies": [
+            {
+                "name": "Mayito",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86099": {
+        "code": "86099",
+        "colonies": [
+            {
+                "name": "Gaviotas Sur Sector Armenia",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Gaviotas Sur (El Monal)",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Triunfo la Manga I",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86100": {
+        "code": "86100",
+        "colonies": [
+            {
+                "name": "Atasta",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Jose Colomo",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86108": {
+        "code": "86108",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "El Espejo 1",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Villa de los Trabajadores",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Carrizal",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86109": {
+        "code": "86109",
+        "colonies": [
+            {
+                "name": "El Espejo 2",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86120": {
+        "code": "86120",
+        "colonies": [
+            {
+                "name": "Guadalupe Borja",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86125": {
+        "code": "86125",
+        "colonies": [
+            {
+                "name": "Jose Pages Llergo",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86127": {
+        "code": "86127",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86129": {
+        "code": "86129",
+        "colonies": [
+            {
+                "name": "Cotip",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86130": {
+        "code": "86130",
+        "colonies": [
+            {
+                "name": "Villa de los Arcos",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86140": {
+        "code": "86140",
+        "colonies": [
+            {
+                "name": "18 de Marzo",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Las Delicias",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86149": {
+        "code": "86149",
+        "colonies": [
+            {
+                "name": "Nueva Pensiones",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86150": {
+        "code": "86150",
+        "colonies": [
+            {
+                "name": "Punta Brava",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Tamulte de las Barrancas",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86153": {
+        "code": "86153",
+        "colonies": [
+            {
+                "name": "Sabina",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Real de Sabina",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86160": {
+        "code": "86160",
+        "colonies": [
+            {
+                "name": "Del Bosque",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Sanchez Magallanes",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86167": {
+        "code": "86167",
+        "colonies": [
+            {
+                "name": "Villa las Fuentes",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86168": {
+        "code": "86168",
+        "colonies": [
+            {
+                "name": "Pino Suárez",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86169": {
+        "code": "86169",
+        "colonies": [
+            {
+                "name": "Pensiones",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86170": {
+        "code": "86170",
+        "colonies": [
+            {
+                "name": "Plutarco Elías Calles (Cura Hueso)",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86190": {
+        "code": "86190",
+        "colonies": [
+            {
+                "name": "Primero de Mayo",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86193": {
+        "code": "86193",
+        "colonies": [
+            {
+                "name": "La Providencia (La Majahua)",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86200": {
+        "code": "86200",
+        "colonies": [
+            {
+                "name": "Jalpa de Mendez Centro",
+                "municipality": "Jalpa de Méndez, Tabasco"
+            }
+        ]
+    },
+    "86209": {
+        "code": "86209",
+        "colonies": [
+            {
+                "name": "El Mango",
+                "municipality": "Jalpa de Méndez, Tabasco"
+            }
+        ]
+    },
+    "86216": {
+        "code": "86216",
+        "colonies": [
+            {
+                "name": "El Carmen",
+                "municipality": "Jalpa de Méndez, Tabasco"
+            },
+            {
+                "name": "San Gregorio",
+                "municipality": "Jalpa de Méndez, Tabasco"
+            }
+        ]
+    },
+    "86220": {
+        "code": "86220",
+        "colonies": [
+            {
+                "name": "17 de Julio",
+                "municipality": "Nacajuca, Tabasco"
+            },
+            {
+                "name": "El Carmen",
+                "municipality": "Nacajuca, Tabasco"
+            },
+            {
+                "name": "Nacaxuxuca 2a Secc",
+                "municipality": "Nacajuca, Tabasco"
+            },
+            {
+                "name": "Nacaxuxuca 1a Secc",
+                "municipality": "Nacajuca, Tabasco"
+            }
+        ]
+    },
+    "86246": {
+        "code": "86246",
+        "colonies": [
+            {
+                "name": "Libertad",
+                "municipality": "Nacajuca, Tabasco"
+            },
+            {
+                "name": "Bosque de Saloya",
+                "municipality": "Nacajuca, Tabasco"
+            },
+            {
+                "name": "Manuel Buendía Téllez Girón",
+                "municipality": "Nacajuca, Tabasco"
+            }
+        ]
+    },
+    "86250": {
+        "code": "86250",
+        "colonies": [
+            {
+                "name": "Buena Vista 2da. Sección",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Tocoal",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Reforma",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Santa Isabel",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86254": {
+        "code": "86254",
+        "colonies": [
+            {
+                "name": "Buena Vista 1a Sección",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86276": {
+        "code": "86276",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86280": {
+        "code": "86280",
+        "colonies": [
+            {
+                "name": "Buena Vista Río Nuevo 1ra. Sección",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Buena Vista Río Nuevo 4a Sección",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86287": {
+        "code": "86287",
+        "colonies": [
+            {
+                "name": "Anacleto Canabal 1ra. Sección",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Anacleto Canabal 2da. Sección",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86288": {
+        "code": "86288",
+        "colonies": [
+            {
+                "name": "Clara Córdova Moran",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Centro, Tabasco"
+            },
+            {
+                "name": "Santa Rita",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86289": {
+        "code": "86289",
+        "colonies": [
+            {
+                "name": "Agraria (La Isla)",
+                "municipality": "Centro, Tabasco"
+            }
+        ]
+    },
+    "86300": {
+        "code": "86300",
+        "colonies": [
+            {
+                "name": "Comalcalco Centro",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86320": {
+        "code": "86320",
+        "colonies": [
+            {
+                "name": "San Silverio",
+                "municipality": "Comalcalco, Tabasco"
+            },
+            {
+                "name": "Gustavo de La Fuente Dorantes",
+                "municipality": "Comalcalco, Tabasco"
+            },
+            {
+                "name": "Belén",
+                "municipality": "Comalcalco, Tabasco"
+            },
+            {
+                "name": "Tomas Garrido",
+                "municipality": "Comalcalco, Tabasco"
+            },
+            {
+                "name": "Infonavit",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86323": {
+        "code": "86323",
+        "colonies": [
+            {
+                "name": "San Miguel",
+                "municipality": "Comalcalco, Tabasco"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86330": {
+        "code": "86330",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86340": {
+        "code": "86340",
+        "colonies": [
+            {
+                "name": "Bicentenario",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86350": {
+        "code": "86350",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86360": {
+        "code": "86360",
+        "colonies": [
+            {
+                "name": "La Escondida",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86369": {
+        "code": "86369",
+        "colonies": [
+            {
+                "name": "Xochimilco",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86370": {
+        "code": "86370",
+        "colonies": [
+            {
+                "name": "Santa Amalia",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86389": {
+        "code": "86389",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas Del Rio",
+                "municipality": "Comalcalco, Tabasco"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86400": {
+        "code": "86400",
+        "colonies": [
+            {
+                "name": "Huimanguillo Centro",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Nuevo Centro de Convivencia",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Club Liberal",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "El Torito",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Los Angeles",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Pedro C Colorado",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Avenida de La Juventud",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Mastelero",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "C-31 (General Francisco Villa)",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Jardines de Mezcalapa",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Los Frutales",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Huimanguillo, Tabasco"
+            }
+        ]
+    },
+    "86402": {
+        "code": "86402",
+        "colonies": [
+            {
+                "name": "Alfa y Omega",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Ada Isabel",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Río Seco y Montaña 2da. Sección",
+                "municipality": "Huimanguillo, Tabasco"
+            }
+        ]
+    },
+    "86403": {
+        "code": "86403",
+        "colonies": [
+            {
+                "name": "C-34 (Licenciado Benito Juárez García)",
+                "municipality": "Huimanguillo, Tabasco"
+            }
+        ]
+    },
+    "86410": {
+        "code": "86410",
+        "colonies": [
+            {
+                "name": "C-32 (Licenciado Francisco Trujillo Gurría)",
+                "municipality": "Huimanguillo, Tabasco"
+            }
+        ]
+    },
+    "86415": {
+        "code": "86415",
+        "colonies": [
+            {
+                "name": "Benito Juárez 1ra. Sección",
+                "municipality": "Huimanguillo, Tabasco"
+            }
+        ]
+    },
+    "86418": {
+        "code": "86418",
+        "colonies": [
+            {
+                "name": "El Salvamento",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Rovirosa",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "El Piojo",
+                "municipality": "Huimanguillo, Tabasco"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Huimanguillo, Tabasco"
+            }
+        ]
+    },
+    "86428": {
+        "code": "86428",
+        "colonies": [
+            {
+                "name": "Río Pedregal",
+                "municipality": "Huimanguillo, Tabasco"
+            }
+        ]
+    },
+    "86433": {
+        "code": "86433",
+        "colonies": [
+            {
+                "name": "Marcelino Inorrueta de la Fuente",
+                "municipality": "Huimanguillo, Tabasco"
+            }
+        ]
+    },
+    "86460": {
+        "code": "86460",
+        "colonies": [
+            {
+                "name": "El Barí 1ra. Sección",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Tomás Brito Lara",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86461": {
+        "code": "86461",
+        "colonies": [
+            {
+                "name": "El Campo",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86485": {
+        "code": "86485",
+        "colonies": [
+            {
+                "name": "Ingenio Presidente Benito Juárez",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86490": {
+        "code": "86490",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio Murrieta",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Celia González de Rovirosa",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Santa Rosalía (Miguel Hidalgo 2da Sección)",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Santa Rosalía",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Santa Maria de Guadalupe",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "De los Santos",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Villa San Miguel",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86495": {
+        "code": "86495",
+        "colonies": [
+            {
+                "name": "Santa Isidra",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "El Parnaso",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86500": {
+        "code": "86500",
+        "colonies": [
+            {
+                "name": "Cárdenas Centro",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "El Gringo",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86520": {
+        "code": "86520",
+        "colonies": [
+            {
+                "name": "Alameda",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Melchor Ocampo 2a Secc",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86524": {
+        "code": "86524",
+        "colonies": [
+            {
+                "name": "Río Seco",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86527": {
+        "code": "86527",
+        "colonies": [
+            {
+                "name": "El Suspiro",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86528": {
+        "code": "86528",
+        "colonies": [
+            {
+                "name": "Santa Rita Infonavit",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86529": {
+        "code": "86529",
+        "colonies": [
+            {
+                "name": "Nuevo Progreso",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86530": {
+        "code": "86530",
+        "colonies": [
+            {
+                "name": "Carlos Pellicer Camara",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Bajío Loma Bonita Infonavit",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Sahop",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Infonavit Loma Bonita",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86533": {
+        "code": "86533",
+        "colonies": [
+            {
+                "name": "El Toloque",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86534": {
+        "code": "86534",
+        "colonies": [
+            {
+                "name": "Vereda",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86535": {
+        "code": "86535",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86540": {
+        "code": "86540",
+        "colonies": [
+            {
+                "name": "San Antonio",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Calzada",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86544": {
+        "code": "86544",
+        "colonies": [
+            {
+                "name": "Carlos Alberto Wilson Gómez",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86545": {
+        "code": "86545",
+        "colonies": [
+            {
+                "name": "Melchor Ocampo",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Roger Falconi Vera",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Agua Sol",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86550": {
+        "code": "86550",
+        "colonies": [
+            {
+                "name": "Empleados Del Csat",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Ceiba",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "7 de Octubre",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86553": {
+        "code": "86553",
+        "colonies": [
+            {
+                "name": "Jacinto Lopez",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Santa María Periférico",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86554": {
+        "code": "86554",
+        "colonies": [
+            {
+                "name": "Los Jiménez",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86555": {
+        "code": "86555",
+        "colonies": [
+            {
+                "name": "Sección 10 de Azucareros",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86556": {
+        "code": "86556",
+        "colonies": [
+            {
+                "name": "Benito Juárez (La Playita)",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86560": {
+        "code": "86560",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86564": {
+        "code": "86564",
+        "colonies": [
+            {
+                "name": "El Palmar",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86573": {
+        "code": "86573",
+        "colonies": [
+            {
+                "name": "Santa Catalina",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86574": {
+        "code": "86574",
+        "colonies": [
+            {
+                "name": "Santa Cruz",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86584": {
+        "code": "86584",
+        "colonies": [
+            {
+                "name": "General Francisco Villa",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86596": {
+        "code": "86596",
+        "colonies": [
+            {
+                "name": "S.A.R.H.",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86597": {
+        "code": "86597",
+        "colonies": [
+            {
+                "name": "Zolia E. Peña Falcón",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Paso y Playa Invitab",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Petrolera",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86598": {
+        "code": "86598",
+        "colonies": [
+            {
+                "name": "Jose Eduardo de Cárdenas",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "El Bajío 1ra. Sección",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86599": {
+        "code": "86599",
+        "colonies": [
+            {
+                "name": "Sección 40",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "El Embudo Fovissste",
+                "municipality": "Cárdenas, Tabasco"
+            },
+            {
+                "name": "Jardines de Tabasco",
+                "municipality": "Cárdenas, Tabasco"
+            }
+        ]
+    },
+    "86600": {
+        "code": "86600",
+        "colonies": [
+            {
+                "name": "Francisco I. Madero (Madero)",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Moctezuma 1ra. Sección",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Moctezuma 2da. Sección",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Moctezuma (Francisco I. Madero 3ra. Sección)",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Francisco I. Madero 2da. Sección",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Paraíso, Tabasco"
+            }
+        ]
+    },
+    "86605": {
+        "code": "86605",
+        "colonies": [
+            {
+                "name": "Paraíso Centro",
+                "municipality": "Paraíso, Tabasco"
+            }
+        ]
+    },
+    "86606": {
+        "code": "86606",
+        "colonies": [
+            {
+                "name": "El Limoncito",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "El Limón",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Empleados de Confianza",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Petrolera",
+                "municipality": "Paraíso, Tabasco"
+            }
+        ]
+    },
+    "86607": {
+        "code": "86607",
+        "colonies": [
+            {
+                "name": "La Ceiba",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Los Cocos",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "La Continuidad",
+                "municipality": "Paraíso, Tabasco"
+            }
+        ]
+    },
+    "86608": {
+        "code": "86608",
+        "colonies": [
+            {
+                "name": "Carlos A Madrazo Becerra",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Fonhapo",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Los Mangos",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Quintín Arauz",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "La Deportiva",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Hueso de Puerco (Colonia Quintín Arauz)",
+                "municipality": "Paraíso, Tabasco"
+            }
+        ]
+    },
+    "86609": {
+        "code": "86609",
+        "colonies": [
+            {
+                "name": "El Coquito",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Adalberto Santos",
+                "municipality": "Paraíso, Tabasco"
+            }
+        ]
+    },
+    "86613": {
+        "code": "86613",
+        "colonies": [
+            {
+                "name": "Nuevo Torno Largo",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "El Bellote (Miguel de la Madrid)",
+                "municipality": "Paraíso, Tabasco"
+            },
+            {
+                "name": "Chiltepec (Sección Pénjamo)",
+                "municipality": "Paraíso, Tabasco"
+            }
+        ]
+    },
+    "86640": {
+        "code": "86640",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86670": {
+        "code": "86670",
+        "colonies": [
+            {
+                "name": "Gobernadores",
+                "municipality": "Comalcalco, Tabasco"
+            }
+        ]
+    },
+    "86690": {
+        "code": "86690",
+        "colonies": [
+            {
+                "name": "El Carmelo",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Cunduacán Centro",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Abraham de La Cruz",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Cristal",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Esperanza",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "José María Morelos y Pavón (Morelitos)",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Manuel Sanchez Mármol",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Burócratas",
+                "municipality": "Cunduacán, Tabasco"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Cunduacán, Tabasco"
+            }
+        ]
+    },
+    "86697": {
+        "code": "86697",
+        "colonies": [
+            {
+                "name": "Oscar Gómez Sáuz",
+                "municipality": "Cunduacán, Tabasco"
+            }
+        ]
+    },
+    "86698": {
+        "code": "86698",
+        "colonies": [
+            {
+                "name": "Mario Barrueta García",
+                "municipality": "Cunduacán, Tabasco"
+            }
+        ]
+    },
+    "86705": {
+        "code": "86705",
+        "colonies": [
+            {
+                "name": "San Joseito",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86706": {
+        "code": "86706",
+        "colonies": [
+            {
+                "name": "Arboleda",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Macuspana Centro",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86707": {
+        "code": "86707",
+        "colonies": [
+            {
+                "name": "Ignacio Zaragoza (Los Ateos)",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Burócratas",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Municipal",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "El Recuerdo",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86708": {
+        "code": "86708",
+        "colonies": [
+            {
+                "name": "El Castaño",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Zaragoza",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Los Gatos",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86709": {
+        "code": "86709",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Josefa Ortiz de Dominguez",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Florida",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86715": {
+        "code": "86715",
+        "colonies": [
+            {
+                "name": "Buergos",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86720": {
+        "code": "86720",
+        "colonies": [
+            {
+                "name": "Doctores",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "La Curva Uno",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "18 de Marzo",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "La Curva",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "La Unión",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Empleados de Confianza",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Las Delicias",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "El Canal",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86726": {
+        "code": "86726",
+        "colonies": [
+            {
+                "name": "San Juan Bautista",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "El Mango",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "El Naranjo",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "18 de Marzo",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Linda Vista",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Santa Teresa",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Campo Deportivo",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Manuel Vargas Ramirez",
+                "municipality": "Macuspana, Tabasco"
+            },
+            {
+                "name": "Los Arbolitos",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86736": {
+        "code": "86736",
+        "colonies": [
+            {
+                "name": "Sitio Nuevo",
+                "municipality": "Macuspana, Tabasco"
+            }
+        ]
+    },
+    "86750": {
+        "code": "86750",
+        "colonies": [
+            {
+                "name": "CETMAR",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Frontera Centro",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Infonavit",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Jacobo Nazar",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Quinta Maria",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Ulises Garcia",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "De Pescadores",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Nueva Alianza",
+                "municipality": "Centla, Tabasco"
+            },
+            {
+                "name": "Nueva Frontera",
+                "municipality": "Centla, Tabasco"
+            }
+        ]
+    },
+    "86753": {
+        "code": "86753",
+        "colonies": [
+            {
+                "name": "Arroyo Polo 2da. Sección",
+                "municipality": "Centla, Tabasco"
+            }
+        ]
+    },
+    "86762": {
+        "code": "86762",
+        "colonies": [
+            {
+                "name": "Álvaro Obregón (Santa Cruz)",
+                "municipality": "Centla, Tabasco"
+            }
+        ]
+    },
+    "86780": {
+        "code": "86780",
+        "colonies": [
+            {
+                "name": "Municipal",
+                "municipality": "Jonuta, Tabasco"
+            },
+            {
+                "name": "El Zapotal",
+                "municipality": "Jonuta, Tabasco"
+            },
+            {
+                "name": "Jonuta",
+                "municipality": "Jonuta, Tabasco"
+            },
+            {
+                "name": "Certeza Tabasco",
+                "municipality": "Jonuta, Tabasco"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Jonuta, Tabasco"
+            },
+            {
+                "name": "Jonuta 2000",
+                "municipality": "Jonuta, Tabasco"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Jonuta, Tabasco"
+            }
+        ]
+    },
+    "86800": {
+        "code": "86800",
+        "colonies": [
+            {
+                "name": "Liberación",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Teapa Centro",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Teapa, Tabasco"
+            }
+        ]
+    },
+    "86801": {
+        "code": "86801",
+        "colonies": [
+            {
+                "name": "Florida",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Reforma",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "La Sierra",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Las Grutas",
+                "municipality": "Teapa, Tabasco"
+            }
+        ]
+    },
+    "86803": {
+        "code": "86803",
+        "colonies": [
+            {
+                "name": "Nueva San Isidro",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Morelia",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Municipal",
+                "municipality": "Teapa, Tabasco"
+            },
+            {
+                "name": "Manuel Buelta 1ra Sección",
+                "municipality": "Teapa, Tabasco"
+            }
+        ]
+    },
+    "86808": {
+        "code": "86808",
+        "colonies": [
+            {
+                "name": "Chapultepec",
+                "municipality": "Teapa, Tabasco"
+            }
+        ]
+    },
+    "86830": {
+        "code": "86830",
+        "colonies": [
+            {
+                "name": "Benito González",
+                "municipality": "Jalapa, Tabasco"
+            }
+        ]
+    },
+    "86870": {
+        "code": "86870",
+        "colonies": [
+            {
+                "name": "Tacotalpa",
+                "municipality": "Tacotalpa, Tabasco"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Tacotalpa, Tabasco"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Tacotalpa, Tabasco"
+            },
+            {
+                "name": "Graciela Pintado de Madrazo",
+                "municipality": "Tacotalpa, Tabasco"
+            }
+        ]
+    },
+    "86878": {
+        "code": "86878",
+        "colonies": [
+            {
+                "name": "San Ramón",
+                "municipality": "Tacotalpa, Tabasco"
+            }
+        ]
+    },
+    "86892": {
+        "code": "86892",
+        "colonies": [
+            {
+                "name": "Agua Escondida",
+                "municipality": "Tacotalpa, Tabasco"
+            }
+        ]
+    },
+    "86896": {
+        "code": "86896",
+        "colonies": [
+            {
+                "name": "Villa Luz",
+                "municipality": "Tacotalpa, Tabasco"
+            }
+        ]
+    },
+    "86900": {
+        "code": "86900",
+        "colonies": [
+            {
+                "name": "Tenosique de Pino Suárez Centro",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Los Angelitos",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Tenosique, Tabasco"
+            }
+        ]
+    },
+    "86901": {
+        "code": "86901",
+        "colonies": [
+            {
+                "name": "Estación Nueva",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Luis Gómez Zeta",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "San Román",
+                "municipality": "Tenosique, Tabasco"
+            }
+        ]
+    },
+    "86902": {
+        "code": "86902",
+        "colonies": [
+            {
+                "name": "El Chivo Negro",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Cocoyol",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "La Trinchera",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "San Miguelito",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Belén",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Ampliación Cocoyol",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Tenosique, Tabasco"
+            }
+        ]
+    },
+    "86904": {
+        "code": "86904",
+        "colonies": [
+            {
+                "name": "La Raza",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "El Ingenio Hermenegildo Galeana",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Héroes de Nacozari",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Municipal",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Pueblo Unido",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Roberto Madrazo Pintado",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Unidad y Gratitud",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Guadalupe Tepeyac",
+                "municipality": "Tenosique, Tabasco"
+            },
+            {
+                "name": "Siquiscab",
+                "municipality": "Tenosique, Tabasco"
+            }
+        ]
+    },
+    "86919": {
+        "code": "86919",
+        "colonies": [
+            {
+                "name": "Certeza",
+                "municipality": "Tenosique, Tabasco"
+            }
+        ]
+    },
+    "86930": {
+        "code": "86930",
+        "colonies": [
+            {
+                "name": "Periférico",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "La Colmena",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Prados de Balancán",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Brigada Usumacinta",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "El Yomel",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "La Guadalupe",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "La Mecha",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Balancán Centro",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Municipal",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Monte Libano",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Gregorio Méndez",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Jardines de Balancán",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Carlos A. Madrazo",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Nuevo México",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Carlos Enrique Abreu",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Luis Felipe Domínguez",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "Nuevo Milenio",
+                "municipality": "Balancán, Tabasco"
+            },
+            {
+                "name": "San Marcos",
+                "municipality": "Balancán, Tabasco"
+            }
+        ]
+    },
+    "86954": {
+        "code": "86954",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Balancán, Tabasco"
+            }
+        ]
+    },
+    "86974": {
+        "code": "86974",
+        "colonies": [
+            {
+                "name": "San Marcos",
+                "municipality": "Balancán, Tabasco"
+            }
+        ]
+    },
+    "86986": {
+        "code": "86986",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    },
+    "86990": {
+        "code": "86990",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata Centro",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    },
+    "86992": {
+        "code": "86992",
+        "colonies": [
+            {
+                "name": "Ganadera",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Los Pescadores",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Pedregal de Montecristo",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Unidos en Solidaridad",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "San Bartolo",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    },
+    "86993": {
+        "code": "86993",
+        "colonies": [
+            {
+                "name": "Barrio Olvidado",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "El Tucuy",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Heriberto Cabrera",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    },
+    "86994": {
+        "code": "86994",
+        "colonies": [
+            {
+                "name": "Elda y Jose",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Tierra Montecristo",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "El Mangal",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    },
+    "86995": {
+        "code": "86995",
+        "colonies": [
+            {
+                "name": "Ecologista",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Colonos del Usumacinta",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Municipal",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    },
+    "86996": {
+        "code": "86996",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Santa Isabel",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Banrural",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Luis Donaldo Colosio II",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Último Esfuerzo",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    },
+    "86997": {
+        "code": "86997",
+        "colonies": [
+            {
+                "name": "El Recreo",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Las Lomas",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "La Ceiba",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    },
+    "86998": {
+        "code": "86998",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "El Piedral",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "José Lehman Ocampo",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Emiliano Zapata, Tabasco"
+            },
+            {
+                "name": "Santa Fé",
+                "municipality": "Emiliano Zapata, Tabasco"
+            }
+        ]
+    }
+}

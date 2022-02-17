@@ -1,0 +1,5279 @@
+{
+    "80000": {
+        "code": "80000",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Centro Sinaloa",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80010": {
+        "code": "80010",
+        "colonies": [
+            {
+                "name": "Ignacio Allende",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "6 de Enero",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Vicente Lombardo Toledano",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80013": {
+        "code": "80013",
+        "colonies": [
+            {
+                "name": "Obrero Campesino",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Universitaria",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80014": {
+        "code": "80014",
+        "colonies": [
+            {
+                "name": "Agrarista Mexicana",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Buena Vista",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Rosario Uzarraga",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Lomas de Tamazula",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Nueva Galaxia",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80015": {
+        "code": "80015",
+        "colonies": [
+            {
+                "name": "Ruben Jaramillo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Villa Del Sol",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Lomas Del Magisterio",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Grecia",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80016": {
+        "code": "80016",
+        "colonies": [
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Juan de Dios Bátiz",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80017": {
+        "code": "80017",
+        "colonies": [
+            {
+                "name": "El Mirador",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Jesús Valdez Aldana",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80018": {
+        "code": "80018",
+        "colonies": [
+            {
+                "name": "Las Cucas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Los Alamitos",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80019": {
+        "code": "80019",
+        "colonies": [
+            {
+                "name": "Loma de Rodriguera",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Los Mezcales",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Girasoles",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Rotarismo",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80020": {
+        "code": "80020",
+        "colonies": [
+            {
+                "name": "Humaya",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80027": {
+        "code": "80027",
+        "colonies": [
+            {
+                "name": "Campestre Los Laureles",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80028": {
+        "code": "80028",
+        "colonies": [
+            {
+                "name": "Agustina Ramirez",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Campestre San Jorge",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80029": {
+        "code": "80029",
+        "colonies": [
+            {
+                "name": "Colinas Del Humaya",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "10 de Abril",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Pedregal del Humaya",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Heraclio Bernal",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Lomas Del Humaya",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Los Cerritos",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80030": {
+        "code": "80030",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Gabriel Leyva",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80040": {
+        "code": "80040",
+        "colonies": [
+            {
+                "name": "Chapultepec",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Lima",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80050": {
+        "code": "80050",
+        "colonies": [
+            {
+                "name": "Hermanos Flores Magón",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Juntas de Humaya",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Valle Del Rio",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80054": {
+        "code": "80054",
+        "colonies": [
+            {
+                "name": "4 de Marzo",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80058": {
+        "code": "80058",
+        "colonies": [
+            {
+                "name": "9 de Marzo",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80059": {
+        "code": "80059",
+        "colonies": [
+            {
+                "name": "Praderas del Humaya",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80060": {
+        "code": "80060",
+        "colonies": [
+            {
+                "name": "Aurora",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Periodista",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80064": {
+        "code": "80064",
+        "colonies": [
+            {
+                "name": "Limita de Hitaje",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80070": {
+        "code": "80070",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80080": {
+        "code": "80080",
+        "colonies": [
+            {
+                "name": "El Barrio",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Genaro Estrada",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80090": {
+        "code": "80090",
+        "colonies": [
+            {
+                "name": "Las Vegas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80104": {
+        "code": "80104",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80105": {
+        "code": "80105",
+        "colonies": [
+            {
+                "name": "Recursos Hidráulicos",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Vallado Viejo",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80110": {
+        "code": "80110",
+        "colonies": [
+            {
+                "name": "El Vallado",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80120": {
+        "code": "80120",
+        "colonies": [
+            {
+                "name": "Industrial Bravo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Popular",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80128": {
+        "code": "80128",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80130": {
+        "code": "80130",
+        "colonies": [
+            {
+                "name": "Aeropuerto",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Altos de Bachigualato",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80135": {
+        "code": "80135",
+        "colonies": [
+            {
+                "name": "Nuevo Bachigualato",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "San Javier",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80140": {
+        "code": "80140",
+        "colonies": [
+            {
+                "name": "Bachigualato",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80150": {
+        "code": "80150",
+        "colonies": [
+            {
+                "name": "San Rafael",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80160": {
+        "code": "80160",
+        "colonies": [
+            {
+                "name": "Industrial El Palmito",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Salvador Alvarado",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80170": {
+        "code": "80170",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Nuevo Culiacán",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "ISSSTE Insurgentes",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80180": {
+        "code": "80180",
+        "colonies": [
+            {
+                "name": "Gustavo Díaz Ordaz",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "PEMEX",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80184": {
+        "code": "80184",
+        "colonies": [
+            {
+                "name": "Villa Dorada",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80190": {
+        "code": "80190",
+        "colonies": [
+            {
+                "name": "Adolfo Lopez Mateos",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Aquiles Serdán",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Josefa Ortiz de Dominguez",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Adolfo Ruiz Cortinez",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80194": {
+        "code": "80194",
+        "colonies": [
+            {
+                "name": "Domingo Rubí",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Ferrocarrilera",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Plutarco Elias Calles",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80197": {
+        "code": "80197",
+        "colonies": [
+            {
+                "name": "Esthela Ortiz de Toledo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80199": {
+        "code": "80199",
+        "colonies": [
+            {
+                "name": "Amado Nervo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Francisco Labastida Ochoa",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "22 de Diciembre",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Diana Laura Riojas de Colosio",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Francisco Alarcon Fregoso",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Renato Vega Alvarado",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80200": {
+        "code": "80200",
+        "colonies": [
+            {
+                "name": "Jorge Almada",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Miguel Alemán",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80210": {
+        "code": "80210",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80220": {
+        "code": "80220",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80230": {
+        "code": "80230",
+        "colonies": [
+            {
+                "name": "Antonio Rosales",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Melchor Ocampo",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80240": {
+        "code": "80240",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80246": {
+        "code": "80246",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Las Coloradas",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80247": {
+        "code": "80247",
+        "colonies": [
+            {
+                "name": "5 de Febrero",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "7 Gotas",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80248": {
+        "code": "80248",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Rincón Feliz",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80249": {
+        "code": "80249",
+        "colonies": [
+            {
+                "name": "Campesina El Barrio",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Constitución CROC",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "El Pipila",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Amistad",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Ampliación El Barrio",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80260": {
+        "code": "80260",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Rafael Buelna",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Sinaloa",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80270": {
+        "code": "80270",
+        "colonies": [
+            {
+                "name": "10 de Mayo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Margarita",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80279": {
+        "code": "80279",
+        "colonies": [
+            {
+                "name": "República Mexicana",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80280": {
+        "code": "80280",
+        "colonies": [
+            {
+                "name": "21 de Marzo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Renato Vega Amador",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Cascada",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80290": {
+        "code": "80290",
+        "colonies": [
+            {
+                "name": "Las Huertas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Simon Bolívar",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80295": {
+        "code": "80295",
+        "colonies": [
+            {
+                "name": "Las Ilusiones",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Miguel de La Madrid",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80296": {
+        "code": "80296",
+        "colonies": [
+            {
+                "name": "Antonio Toledo Corro",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "12 de Diciembre",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Costera",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "8 de Febrero",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80297": {
+        "code": "80297",
+        "colonies": [
+            {
+                "name": "CNOP",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Nuevo México",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80298": {
+        "code": "80298",
+        "colonies": [
+            {
+                "name": "Huizaches",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80300": {
+        "code": "80300",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Loma de los Huizaches",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Unión Antorchista",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "El Ranchito",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Jesús Manuel Camez Valdez",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80308": {
+        "code": "80308",
+        "colonies": [
+            {
+                "name": "Aguaruto Centro",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Demetrio Vallejo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Agustina Ramirez",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Villegas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Jardines de San Bartolome",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Nueva",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Compuerta",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Rosita",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Aguaruto Viejo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Ceiba",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Presidentes de México",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Campo Batán",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Las Amapas",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80320": {
+        "code": "80320",
+        "colonies": [
+            {
+                "name": "Navolato Centro",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80322": {
+        "code": "80322",
+        "colonies": [
+            {
+                "name": "Nayarit",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Pueblo Nuevo No. 1",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Los Alcanfores",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Manuel Ávila Camacho (Obrera)",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Antonio Yamaguchi González",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "José María Martínez CTM INFONAVIT",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Secciones Hermanas CTM",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80323": {
+        "code": "80323",
+        "colonies": [
+            {
+                "name": "La Arrocera",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80324": {
+        "code": "80324",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo No. 2 (Los Cochambres)",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Jardín",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Primavera II",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "5 de Febrero",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Primavera I",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Renato Vega Alvarado",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Amalia Plata",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Prodensa",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Salvador Alvarado",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Las Vegas",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Belén Torres",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80327": {
+        "code": "80327",
+        "colonies": [
+            {
+                "name": "Ejidal (Los Mangos)",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "ISSSTESIN Esperanza",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Coca Cola INFONAVIT",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Alfonso G. Calderón",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Heriberto Zazueta",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Antonio Bonifant",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Los Aguilares",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Popular",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Albañiles",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Residencial Santa María",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Valle Verde",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Ampliación Alfonso G. Calderón",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Embotelladoras",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "El Batey",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "La Tenería",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80332": {
+        "code": "80332",
+        "colonies": [
+            {
+                "name": "Ensenada (Tecomate)",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80347": {
+        "code": "80347",
+        "colonies": [
+            {
+                "name": "Santa Fe",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80349": {
+        "code": "80349",
+        "colonies": [
+            {
+                "name": "Nicolás Bravo",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Fidel Gutiérrez",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Del Parque",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Linda Vista",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "22 de Junio",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Fidel Velázquez",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Manuel de Jesús Clouthier del Rincón",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Matzumoto",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Juan S. Millán",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80378": {
+        "code": "80378",
+        "colonies": [
+            {
+                "name": "El Tapacal",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "José López Portillo",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "4 de Marzo",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Margarita Maza de Juárez",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Las Cupias",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "La Primavera",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Tierra y Libertad (Las Cañitas)",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Liberación 89",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Perfecto Arredondo",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "José Vasconcelos",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Manuel Gómez Morin",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Praderas del Sol",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Ampliación Praderas del Sol",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Las Granjas",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Las Amapas",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Popular",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Santa Natalia",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Víctor Godoy",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Villa Bonita",
+                "municipality": "Navolato, Sinaloa"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Navolato, Sinaloa"
+            }
+        ]
+    },
+    "80400": {
+        "code": "80400",
+        "colonies": [
+            {
+                "name": "Ampliación Unión (Nueva)",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Quilá Centro",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80402": {
+        "code": "80402",
+        "colonies": [
+            {
+                "name": "Santa María",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Alto de Quilá (San Francisco)",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80403": {
+        "code": "80403",
+        "colonies": [
+            {
+                "name": "Unión",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80405": {
+        "code": "80405",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80408": {
+        "code": "80408",
+        "colonies": [
+            {
+                "name": "Cedros",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80409": {
+        "code": "80409",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Aviación",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80430": {
+        "code": "80430",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Benito Juárez Norte",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Benito Juárez Sur",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "18 de Marzo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Cañitas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Nuevas Cañitas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Constituyentes",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Juan de Dios Bátiz",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Las Carpas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Popular",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Villa Rica",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Sinaloa",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Las Piedritas",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT Alondras",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Solidaridad Campesina",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT Prados del Sol",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "El Real",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT 88",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "General Zapata",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "S.T.A.S.A.C.",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Veracruz",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Ingenio",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Barrio Estación",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Los Chinitos",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Renato Vega Amador",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80450": {
+        "code": "80450",
+        "colonies": [
+            {
+                "name": "La Huertita",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Eldorado Viejo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Navito",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Arboleda",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Renato Vega Amador",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Adolfo Ruiz Cortines",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Jardines del Sol",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Centro",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Los Cuartos",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Fidel Velázquez",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Los Payes",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Lienzo Charro",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Huerta de Redo 1",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Huerta de Redo 2",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Quinto Patio",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Ampliación Navito",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Ruben Jaramillo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "El Chorrito",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Alejandro Redo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "5° Álvarez",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT San Diego",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT San Diego 2",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Mariano Escobedo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Rastro Viejo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Bombas de Redo",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Cuchilla",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "La Aviación",
+                "municipality": "Culiacán, Sinaloa"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80485": {
+        "code": "80485",
+        "colonies": [
+            {
+                "name": "Estación Obispo",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80490": {
+        "code": "80490",
+        "colonies": [
+            {
+                "name": "Emancipación",
+                "municipality": "Culiacán, Sinaloa"
+            }
+        ]
+    },
+    "80700": {
+        "code": "80700",
+        "colonies": [
+            {
+                "name": "Cosala Centro",
+                "municipality": "Cosalá, Sinaloa"
+            }
+        ]
+    },
+    "80702": {
+        "code": "80702",
+        "colonies": [
+            {
+                "name": "Las Quintas",
+                "municipality": "Cosalá, Sinaloa"
+            },
+            {
+                "name": "Sánchez Celis",
+                "municipality": "Cosalá, Sinaloa"
+            },
+            {
+                "name": "Capellanes",
+                "municipality": "Cosalá, Sinaloa"
+            }
+        ]
+    },
+    "80704": {
+        "code": "80704",
+        "colonies": [
+            {
+                "name": "Los Arroyos",
+                "municipality": "Cosalá, Sinaloa"
+            },
+            {
+                "name": "Las Lomitas",
+                "municipality": "Cosalá, Sinaloa"
+            }
+        ]
+    },
+    "80705": {
+        "code": "80705",
+        "colonies": [
+            {
+                "name": "Bajío",
+                "municipality": "Cosalá, Sinaloa"
+            }
+        ]
+    },
+    "80706": {
+        "code": "80706",
+        "colonies": [
+            {
+                "name": "Canela",
+                "municipality": "Cosalá, Sinaloa"
+            },
+            {
+                "name": "Sierra Mojada",
+                "municipality": "Cosalá, Sinaloa"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "Cosalá, Sinaloa"
+            }
+        ]
+    },
+    "80707": {
+        "code": "80707",
+        "colonies": [
+            {
+                "name": "VIVAH",
+                "municipality": "Cosalá, Sinaloa"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Cosalá, Sinaloa"
+            }
+        ]
+    },
+    "80708": {
+        "code": "80708",
+        "colonies": [
+            {
+                "name": "El Llano de La Carrera",
+                "municipality": "Cosalá, Sinaloa"
+            }
+        ]
+    },
+    "80800": {
+        "code": "80800",
+        "colonies": [
+            {
+                "name": "Mocorito Centro",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "80803": {
+        "code": "80803",
+        "colonies": [
+            {
+                "name": "Bugambilias",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "Candilejas",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "80804": {
+        "code": "80804",
+        "colonies": [
+            {
+                "name": "Mercadito",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "80805": {
+        "code": "80805",
+        "colonies": [
+            {
+                "name": "Fovissste",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "Las Playitas",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "La Brecha",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "80806": {
+        "code": "80806",
+        "colonies": [
+            {
+                "name": "Infonavit",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "80807": {
+        "code": "80807",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "Tabachines",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "80808": {
+        "code": "80808",
+        "colonies": [
+            {
+                "name": "Alameda",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "80950": {
+        "code": "80950",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "Fonhapo",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "Salinas de Gortari",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "Del Parque",
+                "municipality": "Mocorito, Sinaloa"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "80953": {
+        "code": "80953",
+        "colonies": [
+            {
+                "name": "El Rosario (Chayo)",
+                "municipality": "Mocorito, Sinaloa"
+            }
+        ]
+    },
+    "81000": {
+        "code": "81000",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81010": {
+        "code": "81010",
+        "colonies": [
+            {
+                "name": "Ocoro",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81014": {
+        "code": "81014",
+        "colonies": [
+            {
+                "name": "2 de Octubre",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Fresno",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81015": {
+        "code": "81015",
+        "colonies": [
+            {
+                "name": "La Florida",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Once Ríos",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81016": {
+        "code": "81016",
+        "colonies": [
+            {
+                "name": "Revolución Mexicana",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81017": {
+        "code": "81017",
+        "colonies": [
+            {
+                "name": "La Piedrera",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81018": {
+        "code": "81018",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81020": {
+        "code": "81020",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81028": {
+        "code": "81028",
+        "colonies": [
+            {
+                "name": "San José",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Ayuntamiento 92",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Valle Bonito",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81029": {
+        "code": "81029",
+        "colonies": [
+            {
+                "name": "Eduardo Labastida",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Los Sauces",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "STASE",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Sinaloa",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "México",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81030": {
+        "code": "81030",
+        "colonies": [
+            {
+                "name": "Sector La Ermita",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Sector DIF",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81040": {
+        "code": "81040",
+        "colonies": [
+            {
+                "name": "Del Bosque",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Ángel Flores",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81042": {
+        "code": "81042",
+        "colonies": [
+            {
+                "name": "San Carlos",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81043": {
+        "code": "81043",
+        "colonies": [
+            {
+                "name": "Electricistas",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "San Fernando",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81045": {
+        "code": "81045",
+        "colonies": [
+            {
+                "name": "Petatlán",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81048": {
+        "code": "81048",
+        "colonies": [
+            {
+                "name": "Las Palmas",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Lomas del Mar",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "U.N.E.",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Jardines del Sol",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Unión de Colonos",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81049": {
+        "code": "81049",
+        "colonies": [
+            {
+                "name": "Santa Clara",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Miguel Leyson Pérez",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Las Glorias",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Constelación",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Doctores",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "San Joachin",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81050": {
+        "code": "81050",
+        "colonies": [
+            {
+                "name": "Sector Rivera",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81060": {
+        "code": "81060",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81065": {
+        "code": "81065",
+        "colonies": [
+            {
+                "name": "Ampliación 24 de Febrero",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Universitaria",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "24 de Febrero",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Tecomate",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81066": {
+        "code": "81066",
+        "colonies": [
+            {
+                "name": "18 de Marzo",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81075": {
+        "code": "81075",
+        "colonies": [
+            {
+                "name": "Las Huertas",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81077": {
+        "code": "81077",
+        "colonies": [
+            {
+                "name": "Makarenko",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81090": {
+        "code": "81090",
+        "colonies": [
+            {
+                "name": "El Chaleco",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81095": {
+        "code": "81095",
+        "colonies": [
+            {
+                "name": "Renato Vega Amador",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "17 de Mayo",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Jardines del Valle",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81120": {
+        "code": "81120",
+        "colonies": [
+            {
+                "name": "24 de Febrero",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81121": {
+        "code": "81121",
+        "colonies": [
+            {
+                "name": "Campestre Valle",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Rancho California",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Adolfo Ruiz Cortinez Dos",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81122": {
+        "code": "81122",
+        "colonies": [
+            {
+                "name": "Ampliación Leyva Solano",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81124": {
+        "code": "81124",
+        "colonies": [
+            {
+                "name": "Hidalgo",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "El Gallo",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81127": {
+        "code": "81127",
+        "colonies": [
+            {
+                "name": "Lic. Benito Juárez",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "El Tajito",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Gallo de los Limones",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81130": {
+        "code": "81130",
+        "colonies": [
+            {
+                "name": "Francisco Ley",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81140": {
+        "code": "81140",
+        "colonies": [
+            {
+                "name": "6 de Mayo",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "Horacio Gracía Arrayales",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81160": {
+        "code": "81160",
+        "colonies": [
+            {
+                "name": "Bonanza",
+                "municipality": "Guasave, Sinaloa"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Guasave, Sinaloa"
+            }
+        ]
+    },
+    "81200": {
+        "code": "81200",
+        "colonies": [
+            {
+                "name": "Primer Cuadro (Centro)",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81210": {
+        "code": "81210",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81215": {
+        "code": "81215",
+        "colonies": [
+            {
+                "name": "ISSSTESIN",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81216": {
+        "code": "81216",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Las Malvinas",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81217": {
+        "code": "81217",
+        "colonies": [
+            {
+                "name": "Narciso Mendoza",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81218": {
+        "code": "81218",
+        "colonies": [
+            {
+                "name": "Prof. Conrado Espinoza",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81220": {
+        "code": "81220",
+        "colonies": [
+            {
+                "name": "Jiquilpan",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81228": {
+        "code": "81228",
+        "colonies": [
+            {
+                "name": "Daniel Biul Ruelas",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81229": {
+        "code": "81229",
+        "colonies": [
+            {
+                "name": "Jiquilpan",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Tepeka",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81230": {
+        "code": "81230",
+        "colonies": [
+            {
+                "name": "Jardín",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Ruben Jaramillo",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81233": {
+        "code": "81233",
+        "colonies": [
+            {
+                "name": "México",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Flor de las Arboledas",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81234": {
+        "code": "81234",
+        "colonies": [
+            {
+                "name": "El Chamizal",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "75 (Heriberto Valdez Romero)",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Santa Fe",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81235": {
+        "code": "81235",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81236": {
+        "code": "81236",
+        "colonies": [
+            {
+                "name": "Alfonso G Calderón",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81237": {
+        "code": "81237",
+        "colonies": [
+            {
+                "name": "Estrella",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81238": {
+        "code": "81238",
+        "colonies": [
+            {
+                "name": "Adolfo Lopez Mateos",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "28 de Junio",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81240": {
+        "code": "81240",
+        "colonies": [
+            {
+                "name": "Scally",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81245": {
+        "code": "81245",
+        "colonies": [
+            {
+                "name": "Jardines Del Valle",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81248": {
+        "code": "81248",
+        "colonies": [
+            {
+                "name": "Álamo",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "José Ángel Ferrusquilla",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Álamos I",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Álamos II",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81249": {
+        "code": "81249",
+        "colonies": [
+            {
+                "name": "Residencial Del Valle",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Teresita",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Progresivo San Rafael",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT Mochicahui II",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Jardines de Zacatecas",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81250": {
+        "code": "81250",
+        "colonies": [
+            {
+                "name": "La Cuchilla",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81255": {
+        "code": "81255",
+        "colonies": [
+            {
+                "name": "Zona Industrial",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81256": {
+        "code": "81256",
+        "colonies": [
+            {
+                "name": "Ingeniero Heriberto Valdez Romero",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Jiquilpan 2",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81257": {
+        "code": "81257",
+        "colonies": [
+            {
+                "name": "Tabachines",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Roberto Perez Jacobo",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81260": {
+        "code": "81260",
+        "colonies": [
+            {
+                "name": "Alejandro Peña",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Rosendo G Castro",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81265": {
+        "code": "81265",
+        "colonies": [
+            {
+                "name": "Ferrocarril",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81270": {
+        "code": "81270",
+        "colonies": [
+            {
+                "name": "Gabriel Leyva",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Margarita",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Villas Monterrey",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81271": {
+        "code": "81271",
+        "colonies": [
+            {
+                "name": "12 de Octubre",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81278": {
+        "code": "81278",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81280": {
+        "code": "81280",
+        "colonies": [
+            {
+                "name": "Anáhuac",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Bienestar",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Insurgentes Obrera",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81285": {
+        "code": "81285",
+        "colonies": [
+            {
+                "name": "Antonio Toledo Corro",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Francisco Labastida Ochoa",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81289": {
+        "code": "81289",
+        "colonies": [
+            {
+                "name": "Parque Sinaloa",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Americana",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81290": {
+        "code": "81290",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Lopez Portillo",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Ampliación Burócrata",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81293": {
+        "code": "81293",
+        "colonies": [
+            {
+                "name": "Pradera de Villa",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81294": {
+        "code": "81294",
+        "colonies": [
+            {
+                "name": "Nueva Revolución",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81304": {
+        "code": "81304",
+        "colonies": [
+            {
+                "name": "El Embudo",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Mezcalera",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Juricahui",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Paroscahui",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81315": {
+        "code": "81315",
+        "colonies": [
+            {
+                "name": "Ahome Centro",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81316": {
+        "code": "81316",
+        "colonies": [
+            {
+                "name": "La Florida",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Las Bombitas",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Inzunza",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Melchor Ocampo",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81317": {
+        "code": "81317",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81318": {
+        "code": "81318",
+        "colonies": [
+            {
+                "name": "Individual Ahome",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Hidráulica",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Ahome Independencia",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81320": {
+        "code": "81320",
+        "colonies": [
+            {
+                "name": "Antonio Toledo Corro",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81330": {
+        "code": "81330",
+        "colonies": [
+            {
+                "name": "Gloria Ochoa de Labastida",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Guasavito",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Higueras de Zaragoza Centro",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "San Lorenzo Nuevo",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Hidráulica",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81334": {
+        "code": "81334",
+        "colonies": [
+            {
+                "name": "Nueva",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81370": {
+        "code": "81370",
+        "colonies": [
+            {
+                "name": "Topolobampo Centro",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81372": {
+        "code": "81372",
+        "colonies": [
+            {
+                "name": "Correos",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Secundaria",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Plaza",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Estación 1",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Aduana",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Capilla San José",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "San José 1",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "San José 2",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Kilómetro 23",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Pestalozzi",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Varadero 1",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Varadero 2",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81373": {
+        "code": "81373",
+        "colonies": [
+            {
+                "name": "Banamex",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Seguro Social",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Los Conchos",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Pérgola 1",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Pérgola 2",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Mendez",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Secretaria de Marina",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Sindicato",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Telmex",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Pesquera",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Secretaria de Marina Bajos",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81374": {
+        "code": "81374",
+        "colonies": [
+            {
+                "name": "CET Mar",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "La Guasima",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81375": {
+        "code": "81375",
+        "colonies": [
+            {
+                "name": "Estación 2",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT La Curva",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "Cartolandia",
+                "municipality": "Ahome, Sinaloa"
+            },
+            {
+                "name": "24 de Febrero",
+                "municipality": "Ahome, Sinaloa"
+            }
+        ]
+    },
+    "81400": {
+        "code": "81400",
+        "colonies": [
+            {
+                "name": "Zona Centro",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Empleados de FFCC Nacionales de México Secc 26",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Empleados de FFCC Nacionales de México Secc 27",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81410": {
+        "code": "81410",
+        "colonies": [
+            {
+                "name": "Lomas del Valle",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Ampliación Lomas del Valle",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81413": {
+        "code": "81413",
+        "colonies": [
+            {
+                "name": "Los Mautos",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81420": {
+        "code": "81420",
+        "colonies": [
+            {
+                "name": "San Miguel",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81426": {
+        "code": "81426",
+        "colonies": [
+            {
+                "name": "5 de Febrero",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81427": {
+        "code": "81427",
+        "colonies": [
+            {
+                "name": "La Cuesta de Higuera",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Los Laureles",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81429": {
+        "code": "81429",
+        "colonies": [
+            {
+                "name": "10 de Mayo",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81430": {
+        "code": "81430",
+        "colonies": [
+            {
+                "name": "Agustina Ramírez",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81440": {
+        "code": "81440",
+        "colonies": [
+            {
+                "name": "Militar",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "15 de Julio",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "12 de Enero",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81448": {
+        "code": "81448",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Profesionistas",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81450": {
+        "code": "81450",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81460": {
+        "code": "81460",
+        "colonies": [
+            {
+                "name": "Bebelamas INFONAVIT",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Chutamonas",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Del Evora",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81469": {
+        "code": "81469",
+        "colonies": [
+            {
+                "name": "Los Parques",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81470": {
+        "code": "81470",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "La Gloria",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Magisterio",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "FOVISSSTE",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81474": {
+        "code": "81474",
+        "colonies": [
+            {
+                "name": "Las Palmas",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81475": {
+        "code": "81475",
+        "colonies": [
+            {
+                "name": "Solidaridad",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "10 de Abril",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Pedro Infante",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Maquío Clouthier",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Évora 2000",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81476": {
+        "code": "81476",
+        "colonies": [
+            {
+                "name": "Renato Vega",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "1 de Mayo",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81477": {
+        "code": "81477",
+        "colonies": [
+            {
+                "name": "Tultita",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81478": {
+        "code": "81478",
+        "colonies": [
+            {
+                "name": "Unidad Nacional",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81479": {
+        "code": "81479",
+        "colonies": [
+            {
+                "name": "Las Fuentes",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Residencial del Valle",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Santa María",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Victoria",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Nuestra Señora de Guadalupe",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81480": {
+        "code": "81480",
+        "colonies": [
+            {
+                "name": "San Pedro",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Ampliación San Pedro",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81490": {
+        "code": "81490",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Las Garzas",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            },
+            {
+                "name": "Amapas",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81510": {
+        "code": "81510",
+        "colonies": [
+            {
+                "name": "Veintisiete de Noviembre",
+                "municipality": "Salvador Alvarado, Sinaloa"
+            }
+        ]
+    },
+    "81600": {
+        "code": "81600",
+        "colonies": [
+            {
+                "name": "Angostura Centro",
+                "municipality": "Angostura, Sinaloa"
+            }
+        ]
+    },
+    "81605": {
+        "code": "81605",
+        "colonies": [
+            {
+                "name": "Fovissste",
+                "municipality": "Angostura, Sinaloa"
+            }
+        ]
+    },
+    "81607": {
+        "code": "81607",
+        "colonies": [
+            {
+                "name": "Labastida Ochoa",
+                "municipality": "Angostura, Sinaloa"
+            }
+        ]
+    },
+    "81666": {
+        "code": "81666",
+        "colonies": [
+            {
+                "name": "Costa Azul",
+                "municipality": "Angostura, Sinaloa"
+            }
+        ]
+    },
+    "81690": {
+        "code": "81690",
+        "colonies": [
+            {
+                "name": "Independencia (Chinitos)",
+                "municipality": "Angostura, Sinaloa"
+            },
+            {
+                "name": "Arboladas",
+                "municipality": "Angostura, Sinaloa"
+            }
+        ]
+    },
+    "81700": {
+        "code": "81700",
+        "colonies": [
+            {
+                "name": "Choix Centro",
+                "municipality": "Choix, Sinaloa"
+            }
+        ]
+    },
+    "81703": {
+        "code": "81703",
+        "colonies": [
+            {
+                "name": "El Guajito",
+                "municipality": "Choix, Sinaloa"
+            },
+            {
+                "name": "Huites",
+                "municipality": "Choix, Sinaloa"
+            },
+            {
+                "name": "Francisco R. Serrano",
+                "municipality": "Choix, Sinaloa"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Choix, Sinaloa"
+            }
+        ]
+    },
+    "81705": {
+        "code": "81705",
+        "colonies": [
+            {
+                "name": "La Higuera",
+                "municipality": "Choix, Sinaloa"
+            }
+        ]
+    },
+    "81706": {
+        "code": "81706",
+        "colonies": [
+            {
+                "name": "Las Conchas",
+                "municipality": "Choix, Sinaloa"
+            }
+        ]
+    },
+    "81707": {
+        "code": "81707",
+        "colonies": [
+            {
+                "name": "Ayuntamiento",
+                "municipality": "Choix, Sinaloa"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Choix, Sinaloa"
+            }
+        ]
+    },
+    "81708": {
+        "code": "81708",
+        "colonies": [
+            {
+                "name": "Ampliación Reforma",
+                "municipality": "Choix, Sinaloa"
+            },
+            {
+                "name": "Nuevo Huites",
+                "municipality": "Choix, Sinaloa"
+            }
+        ]
+    },
+    "81709": {
+        "code": "81709",
+        "colonies": [
+            {
+                "name": "Reforma",
+                "municipality": "Choix, Sinaloa"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Choix, Sinaloa"
+            }
+        ]
+    },
+    "81800": {
+        "code": "81800",
+        "colonies": [
+            {
+                "name": "San Blas Centro",
+                "municipality": "El Fuerte, Sinaloa"
+            }
+        ]
+    },
+    "81802": {
+        "code": "81802",
+        "colonies": [
+            {
+                "name": "Kansas",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "San Blas Viejo",
+                "municipality": "El Fuerte, Sinaloa"
+            }
+        ]
+    },
+    "81803": {
+        "code": "81803",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Cananea",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Sección 23",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Sección 29",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "La Candelaria",
+                "municipality": "El Fuerte, Sinaloa"
+            }
+        ]
+    },
+    "81804": {
+        "code": "81804",
+        "colonies": [
+            {
+                "name": "8 de Octubre",
+                "municipality": "El Fuerte, Sinaloa"
+            }
+        ]
+    },
+    "81820": {
+        "code": "81820",
+        "colonies": [
+            {
+                "name": "Pablo Macias Valenzuela",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "El Diquito",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Los Ayalos",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Leopoldo Sanchez Celis",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Villa de Montesclaros",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Campamento CNA",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "El Dique",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "H. Ayuntamiento",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Hospital",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "La Bolsa",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "La Bomba",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "La Tenería",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Quince",
+                "municipality": "El Fuerte, Sinaloa"
+            }
+        ]
+    },
+    "81833": {
+        "code": "81833",
+        "colonies": [
+            {
+                "name": "Loma",
+                "municipality": "El Fuerte, Sinaloa"
+            }
+        ]
+    },
+    "81834": {
+        "code": "81834",
+        "colonies": [
+            {
+                "name": "Barrio Nuevo",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "El Fuerte, Sinaloa"
+            }
+        ]
+    },
+    "81872": {
+        "code": "81872",
+        "colonies": [
+            {
+                "name": "El Chorizo",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "El Nopal",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "El Poblado",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "La Bacilia",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "La Calaca",
+                "municipality": "El Fuerte, Sinaloa"
+            },
+            {
+                "name": "La Pitaya",
+                "municipality": "El Fuerte, Sinaloa"
+            }
+        ]
+    },
+    "81910": {
+        "code": "81910",
+        "colonies": [
+            {
+                "name": "Sinaloa de Leyva Centro",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "Sinaloa, Sinaloa"
+            }
+        ]
+    },
+    "81912": {
+        "code": "81912",
+        "colonies": [
+            {
+                "name": "El Kalzetin",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "Choipa",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "Lomas de San Phelipe",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "Guadalupana",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "Los Doctores",
+                "municipality": "Sinaloa, Sinaloa"
+            }
+        ]
+    },
+    "81913": {
+        "code": "81913",
+        "colonies": [
+            {
+                "name": "La Choya",
+                "municipality": "Sinaloa, Sinaloa"
+            }
+        ]
+    },
+    "81915": {
+        "code": "81915",
+        "colonies": [
+            {
+                "name": "La Torre",
+                "municipality": "Sinaloa, Sinaloa"
+            }
+        ]
+    },
+    "81916": {
+        "code": "81916",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "San Jerónimo",
+                "municipality": "Sinaloa, Sinaloa"
+            }
+        ]
+    },
+    "81980": {
+        "code": "81980",
+        "colonies": [
+            {
+                "name": "Naranjo Centro",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "Alfredo V Bonfil",
+                "municipality": "Sinaloa, Sinaloa"
+            }
+        ]
+    },
+    "81983": {
+        "code": "81983",
+        "colonies": [
+            {
+                "name": "Nuevo San Fermín",
+                "municipality": "Sinaloa, Sinaloa"
+            },
+            {
+                "name": "Las Viejas",
+                "municipality": "Sinaloa, Sinaloa"
+            }
+        ]
+    },
+    "82000": {
+        "code": "82000",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Centro",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82007": {
+        "code": "82007",
+        "colonies": [
+            {
+                "name": "Loma Linda",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82010": {
+        "code": "82010",
+        "colonies": [
+            {
+                "name": "Estero",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Juan Carrasco",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Palos Prietos",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82013": {
+        "code": "82013",
+        "colonies": [
+            {
+                "name": "Ferrocarrilera",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82015": {
+        "code": "82015",
+        "colonies": [
+            {
+                "name": "Trópico de Cáncer",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82018": {
+        "code": "82018",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82019": {
+        "code": "82019",
+        "colonies": [
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82020": {
+        "code": "82020",
+        "colonies": [
+            {
+                "name": "12 de Mayo",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Klein",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Bahías",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Nueva Creación",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82028": {
+        "code": "82028",
+        "colonies": [
+            {
+                "name": "Casas Económicas",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82030": {
+        "code": "82030",
+        "colonies": [
+            {
+                "name": "Montuosa",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Reforma",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82035": {
+        "code": "82035",
+        "colonies": [
+            {
+                "name": "Sanchez Taboada",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82037": {
+        "code": "82037",
+        "colonies": [
+            {
+                "name": "Francisco Solís",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82038": {
+        "code": "82038",
+        "colonies": [
+            {
+                "name": "Obrera",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82040": {
+        "code": "82040",
+        "colonies": [
+            {
+                "name": "Gabriel Leyva",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Villas Playa Sur",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82043": {
+        "code": "82043",
+        "colonies": [
+            {
+                "name": "José de Nazaret",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Isla de la Piedra",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ecológica",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Anabella de Gavica",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82048": {
+        "code": "82048",
+        "colonies": [
+            {
+                "name": "Cerro de La Cruz",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82050": {
+        "code": "82050",
+        "colonies": [
+            {
+                "name": "Las Malvinas",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82059": {
+        "code": "82059",
+        "colonies": [
+            {
+                "name": "Casa Redonda",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82060": {
+        "code": "82060",
+        "colonies": [
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "José María Pino Suárez",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82070": {
+        "code": "82070",
+        "colonies": [
+            {
+                "name": "Ejido Rincón de Urías",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82080": {
+        "code": "82080",
+        "colonies": [
+            {
+                "name": "Gral. Rafael Buelna",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "5ta Chapalita",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82089": {
+        "code": "82089",
+        "colonies": [
+            {
+                "name": "La Sirena",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Miramar",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82090": {
+        "code": "82090",
+        "colonies": [
+            {
+                "name": "Diaz Ordaz",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ampliación Felipe Ángeles",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Hacienda de Urias",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "2a Ampliación Felipe Ángeles",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "María del Mar",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Valle de Urias",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "2da. Ampliación Valle de Urias",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82099": {
+        "code": "82099",
+        "colonies": [
+            {
+                "name": "Urias",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ampliación de Urías II",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ladrillera",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "María Elena",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ampliación de Urías I",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ampliación de Urías III",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82102": {
+        "code": "82102",
+        "colonies": [
+            {
+                "name": "Marina El Cid",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82112": {
+        "code": "82112",
+        "colonies": [
+            {
+                "name": "Villas de Rueda",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Playa Linda",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82120": {
+        "code": "82120",
+        "colonies": [
+            {
+                "name": "Olimpo Infonavit",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Periodista",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Sanchez Celis",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "El Toro",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Zafiro",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82124": {
+        "code": "82124",
+        "colonies": [
+            {
+                "name": "El Palmito",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Rincón de las Palmas",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82127": {
+        "code": "82127",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Dorados de Villa",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Libertad de Expresión",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ejidal Francisco Villa",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82129": {
+        "code": "82129",
+        "colonies": [
+            {
+                "name": "Monte Calvario",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Huerta Grande",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82134": {
+        "code": "82134",
+        "colonies": [
+            {
+                "name": "Hogar Pescador",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Jesús Osuna",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Colosio Si",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Renato Vega",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Salinas de Gortari",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Valle Del Ejido",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Nuevo Milenio",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Felicidad",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Sinaloa",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Lucio Valverde",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Jardines del Valle",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Los Robles",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Romanita de La Peña",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ampliación Valle del Ejido",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Mundialista",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82136": {
+        "code": "82136",
+        "colonies": [
+            {
+                "name": "Montebello",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Jaripillo",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "María Antonieta",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82137": {
+        "code": "82137",
+        "colonies": [
+            {
+                "name": "Huertos Familiares",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82139": {
+        "code": "82139",
+        "colonies": [
+            {
+                "name": "Jesús Kumate",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Francisco Labastida Ochoa",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "El Conchi",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82140": {
+        "code": "82140",
+        "colonies": [
+            {
+                "name": "López Mateos",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82150": {
+        "code": "82150",
+        "colonies": [
+            {
+                "name": "Olímpica",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "El Castillo",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82153": {
+        "code": "82153",
+        "colonies": [
+            {
+                "name": "Antonio Toledo Corro",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82155": {
+        "code": "82155",
+        "colonies": [
+            {
+                "name": "Ruben Jaramillo",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82156": {
+        "code": "82156",
+        "colonies": [
+            {
+                "name": "Villas del Estero",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82158": {
+        "code": "82158",
+        "colonies": [
+            {
+                "name": "Federico Velarde",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ampl. Lico Velarde",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82160": {
+        "code": "82160",
+        "colonies": [
+            {
+                "name": "Luis Echeverría Alvarez",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82163": {
+        "code": "82163",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82164": {
+        "code": "82164",
+        "colonies": [
+            {
+                "name": "Salvador Allende",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82170": {
+        "code": "82170",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ramon F Iturbide",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82180": {
+        "code": "82180",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Esperanza",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Jesús Garcia",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Santa Elena",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Venustiano Carranza",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82183": {
+        "code": "82183",
+        "colonies": [
+            {
+                "name": "Obrera Industrial",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82185": {
+        "code": "82185",
+        "colonies": [
+            {
+                "name": "Loma Atravesada",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82186": {
+        "code": "82186",
+        "colonies": [
+            {
+                "name": "Azteca",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82187": {
+        "code": "82187",
+        "colonies": [
+            {
+                "name": "San Rafael",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82188": {
+        "code": "82188",
+        "colonies": [
+            {
+                "name": "Anáhuac",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82190": {
+        "code": "82190",
+        "colonies": [
+            {
+                "name": "Lomas de las Torres",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Flores Magón",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Mazatlan I",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ampliación Esperanza",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82195": {
+        "code": "82195",
+        "colonies": [
+            {
+                "name": "Mazatlán III",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Mazatlan II",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Lomas Del Porvenir",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Lomas de Cristo Rey",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Universo",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Rincón de Mazatlán",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "El Pescador",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82196": {
+        "code": "82196",
+        "colonies": [
+            {
+                "name": "Mirasol",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82197": {
+        "code": "82197",
+        "colonies": [
+            {
+                "name": "Primavera",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82198": {
+        "code": "82198",
+        "colonies": [
+            {
+                "name": "Lomas Del Ébano",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Villas Del Sol",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Rinconada Del Valle",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Simon Jimenez Cárdenas",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ampl. Lomas del Ébano",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82199": {
+        "code": "82199",
+        "colonies": [
+            {
+                "name": "Genaro Estrada Calderón",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82206": {
+        "code": "82206",
+        "colonies": [
+            {
+                "name": "Pedro Rodríguez",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82210": {
+        "code": "82210",
+        "colonies": [
+            {
+                "name": "Villa Unión Centro",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82213": {
+        "code": "82213",
+        "colonies": [
+            {
+                "name": "El Tronconal",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82214": {
+        "code": "82214",
+        "colonies": [
+            {
+                "name": "Buenavista",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Fidel Velázquez",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Alfonso G. Calderón",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Lomas de Villa Unión",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Flor de Mayo",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Agustina Ramírez",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "7 de Abril",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82215": {
+        "code": "82215",
+        "colonies": [
+            {
+                "name": "Antonio Toledo Corro",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "José López Portillo",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Renato Vega",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Ángela Peralta",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82216": {
+        "code": "82216",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "11 Ríos",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82217": {
+        "code": "82217",
+        "colonies": [
+            {
+                "name": "Margarita Maza de Juárez",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Sixto Osuna",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Raul Osuna Burgueño",
+                "municipality": "Mazatlán, Sinaloa"
+            },
+            {
+                "name": "Julio Arroyo",
+                "municipality": "Mazatlán, Sinaloa"
+            }
+        ]
+    },
+    "82400": {
+        "code": "82400",
+        "colonies": [
+            {
+                "name": "Escuinapa Centro",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "FOVISSSTE Buenos Aires",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82410": {
+        "code": "82410",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT El Arroyo",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82420": {
+        "code": "82420",
+        "colonies": [
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82430": {
+        "code": "82430",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "El Roblito",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82440": {
+        "code": "82440",
+        "colonies": [
+            {
+                "name": "10 de Mayo",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82457": {
+        "code": "82457",
+        "colonies": [
+            {
+                "name": "INFONAVIT Las Flores",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "13 de Septiembre",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT Del Valle",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "Dámaso Murua",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82458": {
+        "code": "82458",
+        "colonies": [
+            {
+                "name": "Villa Galaxia",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82459": {
+        "code": "82459",
+        "colonies": [
+            {
+                "name": "Antonio Toledo Corro",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT del Mar",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82460": {
+        "code": "82460",
+        "colonies": [
+            {
+                "name": "Gabriel Leyva",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT Los Mangos",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "Juvencio Aragón",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82470": {
+        "code": "82470",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82478": {
+        "code": "82478",
+        "colonies": [
+            {
+                "name": "Ampliación Benito Juárez",
+                "municipality": "Escuinapa, Sinaloa"
+            },
+            {
+                "name": "Santa Lucía",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82530": {
+        "code": "82530",
+        "colonies": [
+            {
+                "name": "José María Morelos y Pavón",
+                "municipality": "Escuinapa, Sinaloa"
+            }
+        ]
+    },
+    "82600": {
+        "code": "82600",
+        "colonies": [
+            {
+                "name": "Villa de Guadalupe",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "San Sebastián",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "La Maravilla",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "Los Ranchitos",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "20 de Enero",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "Estadio",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT Loma Linda",
+                "municipality": "Concordia, Sinaloa"
+            },
+            {
+                "name": "Invies Colinas",
+                "municipality": "Concordia, Sinaloa"
+            }
+        ]
+    },
+    "82700": {
+        "code": "82700",
+        "colonies": [
+            {
+                "name": "La Cruz Centro",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82702": {
+        "code": "82702",
+        "colonies": [
+            {
+                "name": "Azteca",
+                "municipality": "Elota, Sinaloa"
+            },
+            {
+                "name": "Arroyitos",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82703": {
+        "code": "82703",
+        "colonies": [
+            {
+                "name": "Colinas del Río",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82704": {
+        "code": "82704",
+        "colonies": [
+            {
+                "name": "Pedregal",
+                "municipality": "Elota, Sinaloa"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82705": {
+        "code": "82705",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82706": {
+        "code": "82706",
+        "colonies": [
+            {
+                "name": "Palos Blancos",
+                "municipality": "Elota, Sinaloa"
+            },
+            {
+                "name": "Víctor Manuel Quintero",
+                "municipality": "Elota, Sinaloa"
+            },
+            {
+                "name": "Margarita",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82707": {
+        "code": "82707",
+        "colonies": [
+            {
+                "name": "Miramar",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82708": {
+        "code": "82708",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82770": {
+        "code": "82770",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82786": {
+        "code": "82786",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Elota, Sinaloa"
+            }
+        ]
+    },
+    "82800": {
+        "code": "82800",
+        "colonies": [
+            {
+                "name": "El Rosario Centro",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Anonal",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82802": {
+        "code": "82802",
+        "colonies": [
+            {
+                "name": "Panteón",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "López Portillo",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82803": {
+        "code": "82803",
+        "colonies": [
+            {
+                "name": "INFONAVIT Lola Beltrán",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Genaro Estrada",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82804": {
+        "code": "82804",
+        "colonies": [
+            {
+                "name": "Mecha Ardiendo",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Rubén Jaramillo",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82805": {
+        "code": "82805",
+        "colonies": [
+            {
+                "name": "La Joya",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Pablo de Villavicencio",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "El Tierral",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82806": {
+        "code": "82806",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Potreritos",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Pedro Ibarra",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82807": {
+        "code": "82807",
+        "colonies": [
+            {
+                "name": "Bonifacio Rojas",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Alfonso G. Calderón",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "INFONAVIT Real de Minas",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Juan S. Millán",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Ampliación Juan S. Millán",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82808": {
+        "code": "82808",
+        "colonies": [
+            {
+                "name": "Marcelo Loya",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Valle Nuevo",
+                "municipality": "Rosario, Sinaloa"
+            },
+            {
+                "name": "Presidentes",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82830": {
+        "code": "82830",
+        "colonies": [
+            {
+                "name": "Francisco Quintero",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82872": {
+        "code": "82872",
+        "colonies": [
+            {
+                "name": "Ampliación Benito Juárez",
+                "municipality": "Rosario, Sinaloa"
+            }
+        ]
+    },
+    "82910": {
+        "code": "82910",
+        "colonies": [
+            {
+                "name": "San Ignacio Centro",
+                "municipality": "San Ignacio, Sinaloa"
+            }
+        ]
+    },
+    "82912": {
+        "code": "82912",
+        "colonies": [
+            {
+                "name": "Heraclio Bernal",
+                "municipality": "San Ignacio, Sinaloa"
+            },
+            {
+                "name": "Feliciano Roque",
+                "municipality": "San Ignacio, Sinaloa"
+            }
+        ]
+    },
+    "82913": {
+        "code": "82913",
+        "colonies": [
+            {
+                "name": "Azucena del Río",
+                "municipality": "San Ignacio, Sinaloa"
+            },
+            {
+                "name": "El Pueblito",
+                "municipality": "San Ignacio, Sinaloa"
+            }
+        ]
+    },
+    "82916": {
+        "code": "82916",
+        "colonies": [
+            {
+                "name": "La Chora (Renato Vega)",
+                "municipality": "San Ignacio, Sinaloa"
+            }
+        ]
+    },
+    "82917": {
+        "code": "82917",
+        "colonies": [
+            {
+                "name": "La Vega",
+                "municipality": "San Ignacio, Sinaloa"
+            }
+        ]
+    },
+    "82918": {
+        "code": "82918",
+        "colonies": [
+            {
+                "name": "Labastida Ochoa",
+                "municipality": "San Ignacio, Sinaloa"
+            }
+        ]
+    }
+}

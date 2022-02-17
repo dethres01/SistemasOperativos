@@ -1,0 +1,4352 @@
+{
+    "76000": {
+        "code": "76000",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San José Inn",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76010": {
+        "code": "76010",
+        "colonies": [
+            {
+                "name": "Las Campanas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76020": {
+        "code": "76020",
+        "colonies": [
+            {
+                "name": "Bosques del Acueducto",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Calesa",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Diligencias",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Cortijo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jardines de Querétaro",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Pathé",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Javier",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76024": {
+        "code": "76024",
+        "colonies": [
+            {
+                "name": "Karina",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76025": {
+        "code": "76025",
+        "colonies": [
+            {
+                "name": "La Pastora",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76028": {
+        "code": "76028",
+        "colonies": [
+            {
+                "name": "Universidad",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76030": {
+        "code": "76030",
+        "colonies": [
+            {
+                "name": "Casa Blanca",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Carrizal",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Estrella",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Fuentes",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Misiones",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Ángel",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Prado",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76037": {
+        "code": "76037",
+        "colonies": [
+            {
+                "name": "Mariano de las Casas",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76040": {
+        "code": "76040",
+        "colonies": [
+            {
+                "name": "Alameda",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Aragón",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Mercurio",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Observatorio",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Panamericano",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Valle Alameda",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Villas del Sur",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76046": {
+        "code": "76046",
+        "colonies": [
+            {
+                "name": "Villas del Sol",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76047": {
+        "code": "76047",
+        "colonies": [
+            {
+                "name": "El Marqués",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Quintas del Marqués",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76048": {
+        "code": "76048",
+        "colonies": [
+            {
+                "name": "Arquitos",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76049": {
+        "code": "76049",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76050": {
+        "code": "76050",
+        "colonies": [
+            {
+                "name": "Carretas",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76057": {
+        "code": "76057",
+        "colonies": [
+            {
+                "name": "Hidalgo",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76060": {
+        "code": "76060",
+        "colonies": [
+            {
+                "name": "Loma Dorada",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Vista Dorada",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76063": {
+        "code": "76063",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76067": {
+        "code": "76067",
+        "colonies": [
+            {
+                "name": "La Laguna",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76069": {
+        "code": "76069",
+        "colonies": [
+            {
+                "name": "Jardines de Hércules",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "2 de Abril",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Limonar",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tejas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Hércules",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "8 de Diciembre",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San José de los Perales",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Cuesta",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Estación 2a. Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nuevo Morelos",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76070": {
+        "code": "76070",
+        "colonies": [
+            {
+                "name": "Corregidora (Burocrata)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Prados del Mirador",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76078": {
+        "code": "76078",
+        "colonies": [
+            {
+                "name": "Villas Valle Alameda",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76079": {
+        "code": "76079",
+        "colonies": [
+            {
+                "name": "Balaustradas",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76080": {
+        "code": "76080",
+        "colonies": [
+            {
+                "name": "Lomas de Casa Blanca",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Presidentes",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76085": {
+        "code": "76085",
+        "colonies": [
+            {
+                "name": "Azteca",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Arte Mexicano",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Marqués Queretano",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lázaro Cárdenas III",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Universo 2000",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Fraternidad de Santiago",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Vistas del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas del Valle",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Altos del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bosques del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Rincón del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76086": {
+        "code": "76086",
+        "colonies": [
+            {
+                "name": "Reforma Agraria 1a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Reforma Agraria 2a Secc",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Reforma Agraria 3a Secc",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Reforma Agraria 4a Secc",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Reforma Agraria 5a Secc",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76087": {
+        "code": "76087",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Comerciantes",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bosques del Cimatario 2a. Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Zapata Vive",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bosques de Querétaro",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cuitlahuac",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Linderos del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Prados de Querétaro",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bosques de las Lomas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Pedregal del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Manantiales del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Raquel Trejo Ortiz",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Prados del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76090": {
+        "code": "76090",
+        "colonies": [
+            {
+                "name": "Colinas del Cimatario",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Centro Sur",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76093": {
+        "code": "76093",
+        "colonies": [
+            {
+                "name": "Claustros del Marques",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Claustros del Sur",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76099": {
+        "code": "76099",
+        "colonies": [
+            {
+                "name": "Plazas del Sol 1a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Plazas del Sol 2a Sección",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76100": {
+        "code": "76100",
+        "colonies": [
+            {
+                "name": "El Bordo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Gobernantes",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Campanas",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76110": {
+        "code": "76110",
+        "colonies": [
+            {
+                "name": "Satélite",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cosmos (Satelite)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez III",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas de Satélite",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Satélite Sección Andadores",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Satélite Sección Condominios",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Ampliación Satélite",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76113": {
+        "code": "76113",
+        "colonies": [
+            {
+                "name": "El Sol",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Rinconada del Sol",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bosques del Sol",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Luna",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Valle de San Pedro 2a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Plan Santa María",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Santa Isabel",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Alborada",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tonatiuh 4a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tonatiú",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tonatiuh 2a. Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tonatiuh 3a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Valle de San Pedro",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76114": {
+        "code": "76114",
+        "colonies": [
+            {
+                "name": "El Rocio",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Sauces",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Rocio II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Don Manuel",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Puerta del Sol II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Huerta",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Castaños",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76115": {
+        "code": "76115",
+        "colonies": [
+            {
+                "name": "El Garambullo",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76116": {
+        "code": "76116",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cerrito Colorado",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Ex-Hacienda Santana",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Villas de Guadalupe",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cerrito Colorado II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Teotihuacan",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Claustros de la Loma",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tenochtitlán",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Patria Nueva",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Ampliación Patria Nueva",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Che Guevara (Axayacatl)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "25 de Diciembre",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez IV",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tenochtitlán II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Víctor Iturbe",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Eucaliptos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Camelinas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jardines de Azucenas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Prados del Rincón 2a. Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Floresta",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76117": {
+        "code": "76117",
+        "colonies": [
+            {
+                "name": "San Marcos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Desarrollo Familiar",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Rubén Jaramillo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Pedro Mártir",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Colinas de Santa Cruz 1a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Colinas de Santa Cruz 2a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Prados del Rincón",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Fernando de Tapia",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Pedregal de Buenos Aires",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jardines del Sol",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Marcos I",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Esmeralda",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Laderas de San Pedro",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Comevi",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Francisco Javier Mina",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Centenario",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76118": {
+        "code": "76118",
+        "colonies": [
+            {
+                "name": "Loma Bonita 2a. Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Francisco Villa I",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Rosendo Salazar",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Francisco Villa II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "10 de Abril",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "15 de Mayo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Romerillal",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Paraíso",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Prados de Loma Bonita",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Leyes de Reforma",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Tepeyac",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "5 de Febrero",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas del Pedregal 2a. Sección",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76121": {
+        "code": "76121",
+        "colonies": [
+            {
+                "name": "Las Américas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Américas San Pablo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Conquistadores",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tlanese",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Altos de San Pablo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Puesta del Sol",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76125": {
+        "code": "76125",
+        "colonies": [
+            {
+                "name": "Desarrollo San Pablo II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Desarrollo San Pablo I",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Terrazas de San Pablo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Robles",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cipreses",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Sergio Villaseñor",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jardines de Alborada",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Condesa",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Balcones de San Pablo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nuevo Horizonte",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Valle de San Pablo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Latinoamericana",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "José María Bustamante",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Margaritas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Proyección 2000",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76127": {
+        "code": "76127",
+        "colonies": [
+            {
+                "name": "El Salitre",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cuitláhuac",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas del Salitre",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76130": {
+        "code": "76130",
+        "colonies": [
+            {
+                "name": "Industrial",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76134": {
+        "code": "76134",
+        "colonies": [
+            {
+                "name": "El Tintero",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Arco",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Solidaridad 90",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Plutarco Elías Calles",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nuevo Carrillo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Sebastián",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76135": {
+        "code": "76135",
+        "colonies": [
+            {
+                "name": "San Antonio de la Punta",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76136": {
+        "code": "76136",
+        "colonies": [
+            {
+                "name": "José María Arteaga",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76137": {
+        "code": "76137",
+        "colonies": [
+            {
+                "name": "Santa María Magdalena",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Santo Niño",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Antonio del Maurel",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Sierrita",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jardines del Valle",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76138": {
+        "code": "76138",
+        "colonies": [
+            {
+                "name": "Felipe Carrillo Puerto",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Teresas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Progreso",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Valle del Mezquital",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Higo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Villas de Santa Mónica",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76139": {
+        "code": "76139",
+        "colonies": [
+            {
+                "name": "Manuel Jurado",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Tabachines",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San José",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Diego",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Laureles",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76140": {
+        "code": "76140",
+        "colonies": [
+            {
+                "name": "Arboledas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Balcones Coloniales",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Colinas del Parque",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Arboledas del Parque",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76144": {
+        "code": "76144",
+        "colonies": [
+            {
+                "name": "Bolaños",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76146": {
+        "code": "76146",
+        "colonies": [
+            {
+                "name": "Lomas del Marqués",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Purísima",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bolaños",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas del Campanario II",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76147": {
+        "code": "76147",
+        "colonies": [
+            {
+                "name": "Ejido Menchaca (Los Pinos)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Menchaca I",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Victoria Popular",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Rancho Menchaca (Ex-Hacienda Menchaca)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Menchaca II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Menchaca III",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San José el Alto",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Colinas de Menchaca",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Mujeres Independientes",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cinco Halcones",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Diana Laura Rojas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nueva Creación",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Real de España",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Santa Fe",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Felipe",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Renacimiento",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Tinaja",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jardines de San José",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Pedregal de San José",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Villas de San José",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Epigmenio González (El Oasis)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Arroyitos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Rancho Menchaca",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Ladera (Menchaca III)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Arcángel (La Guayina)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lic. Alfredo Estrada Romero",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Monarca",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Enrique Burgos (La Rinconada)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "12 de Diciembre",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Ángel",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Palmas de San José",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Oasis",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jardines de San José 3a. Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nuevo Menchaca",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Colinas de Menchaca 2a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas de San José",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Ladera",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jardines de San José 2a. Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Generación 2000",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas de Menchaca",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Rinconada las Joyas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Antorchista",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76148": {
+        "code": "76148",
+        "colonies": [
+            {
+                "name": "Peñuelas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas de San Pedrito",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Amalia Solórzano",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Sabinos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Pedrito Ecológico",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Pedrito Peñuelas I",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Pedrito Peñuelas II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Pedrito Peñuelas III",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Pedrito Peñuelas IV",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas de San Pedrito (Sección Portales)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Reforma Agraria Radical",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Villas de Santiago",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Cuesta Azul",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Unidad Nacional",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Padilla",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bosques de la Hacienda",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bosques de Buenavista",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Ampliación Amalia Solórzano",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Paseos del Pedregal",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Colinas de San Pablo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nuevo San Pedrito",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Anexo a la Ecólogia",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Ladera",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Bosques de Iturbide",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76150": {
+        "code": "76150",
+        "colonies": [
+            {
+                "name": "La Florida",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Era",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Piedad",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Alcanfores",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Fresnos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Molinos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Molinos de la Era",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Roque",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Villas Tecnológico",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Vitrales",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Fenix",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Asalias",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76154": {
+        "code": "76154",
+        "colonies": [
+            {
+                "name": "El Retablo",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76155": {
+        "code": "76155",
+        "colonies": [
+            {
+                "name": "Viveros de Querétaro",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76156": {
+        "code": "76156",
+        "colonies": [
+            {
+                "name": "Constituyentes de 1824",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Eucaliptos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Gregorio",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76157": {
+        "code": "76157",
+        "colonies": [
+            {
+                "name": "Santa Catarina",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76158": {
+        "code": "76158",
+        "colonies": [
+            {
+                "name": "España",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Peñitas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Porvenir",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Tecnológico",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76159": {
+        "code": "76159",
+        "colonies": [
+            {
+                "name": "San Pablo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Girasoles",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76160": {
+        "code": "76160",
+        "colonies": [
+            {
+                "name": "Álamos 3a Sección",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Tepetate",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Brujas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Hadas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Privada Bugambilias",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Romy",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76164": {
+        "code": "76164",
+        "colonies": [
+            {
+                "name": "Nacozari",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Rosas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76165": {
+        "code": "76165",
+        "colonies": [
+            {
+                "name": "Los Cedros",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Margaritas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Sebastián",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Guadalupe Victoria (SAHOP)",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76166": {
+        "code": "76166",
+        "colonies": [
+            {
+                "name": "La Trinidad",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76168": {
+        "code": "76168",
+        "colonies": [
+            {
+                "name": "Las Gemas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Industria del Hierro",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Jacarandas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Quinta la Laborcilla",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76170": {
+        "code": "76170",
+        "colonies": [
+            {
+                "name": "La Capilla",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Eucaliptos I",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Eucaliptos II",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Eucaliptos III",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76175": {
+        "code": "76175",
+        "colonies": [
+            {
+                "name": "Los Virreyes",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76176": {
+        "code": "76176",
+        "colonies": [
+            {
+                "name": "Prados de la Capilla",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76177": {
+        "code": "76177",
+        "colonies": [
+            {
+                "name": "Modelo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Demetrio Vallejo",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Frida Kahlo",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76178": {
+        "code": "76178",
+        "colonies": [
+            {
+                "name": "Ensueño",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Villa las Arboledas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Rosario",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76179": {
+        "code": "76179",
+        "colonies": [
+            {
+                "name": "Santiago",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Sillar",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76180": {
+        "code": "76180",
+        "colonies": [
+            {
+                "name": "Jardines de la Hacienda",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Granja",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Plazas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Orquídeas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Anáhuac",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76185": {
+        "code": "76185",
+        "colonies": [
+            {
+                "name": "Mansiones del Valle",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76190": {
+        "code": "76190",
+        "colonies": [
+            {
+                "name": "Club Campestre",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Del Valle",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas de Querétaro",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Pilares",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76197": {
+        "code": "76197",
+        "colonies": [
+            {
+                "name": "Fidel Velázquez Sánchez",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76213": {
+        "code": "76213",
+        "colonies": [
+            {
+                "name": "La Versolilla",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76215": {
+        "code": "76215",
+        "colonies": [
+            {
+                "name": "Jofre",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76220": {
+        "code": "76220",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Continental",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Rosas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Arquitos",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Santa Lucia",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Colinas de Santa Rosa",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Lajitas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Corregidora",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76223": {
+        "code": "76223",
+        "colonies": [
+            {
+                "name": "San Isidro Buenavista",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Santa Catarina",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Corea",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Santa Catarina (Asociación de Colonos)",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Ampliación Piano",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76224": {
+        "code": "76224",
+        "colonies": [
+            {
+                "name": "El Paraíso",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "El Madroño",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76226": {
+        "code": "76226",
+        "colonies": [
+            {
+                "name": "Acequia Blanca",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76227": {
+        "code": "76227",
+        "colonies": [
+            {
+                "name": "El Tránsito",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76229": {
+        "code": "76229",
+        "colonies": [
+            {
+                "name": "San Francisco de la Palma",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76230": {
+        "code": "76230",
+        "colonies": [
+            {
+                "name": "La Solana",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nuevo Juriquilla",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Rancho Largo",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76233": {
+        "code": "76233",
+        "colonies": [
+            {
+                "name": "El Huizachal de las Tetillas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Mariposas",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76238": {
+        "code": "76238",
+        "colonies": [
+            {
+                "name": "Prados de Miranda",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Santa Juanita Miranda",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Las Águilas",
+                "municipality": "Querétaro, Querétaro"
+            },
+            {
+                "name": "Nuevo Horizonte",
+                "municipality": "Querétaro, Querétaro"
+            }
+        ]
+    },
+    "76240": {
+        "code": "76240",
+        "colonies": [
+            {
+                "name": "La Cañada Centro",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Villas la Cañada",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76244": {
+        "code": "76244",
+        "colonies": [
+            {
+                "name": "El Pinito",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76245": {
+        "code": "76245",
+        "colonies": [
+            {
+                "name": "Agua Azul",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Coyotillos",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "El Coyme",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76246": {
+        "code": "76246",
+        "colonies": [
+            {
+                "name": "Segundo Barrio de Dolores",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Cumbres de Conín",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "San Isidro Miranda",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Cumbres de Conín Tercera Sección",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Villas de San José (Ampliación la Piedad)",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Colorilandia",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "El Durazno",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "El Organal",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Loma de la Cruz",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "San Cristobal (El Colorado)",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76247": {
+        "code": "76247",
+        "colonies": [
+            {
+                "name": "El Monte",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76248": {
+        "code": "76248",
+        "colonies": [
+            {
+                "name": "El Paraíso",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Monte de la Calavera",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Ampliación del Paraíso",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76249": {
+        "code": "76249",
+        "colonies": [
+            {
+                "name": "Guadalupe la Venta",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Casa Blanca",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "San Pedro Zacatenco",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Cerrito Colorado (La Curva)",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76263": {
+        "code": "76263",
+        "colonies": [
+            {
+                "name": "San Gabriel",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76265": {
+        "code": "76265",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "El Bosque",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "San José",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "San Pedrito (La Tegua)",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76267": {
+        "code": "76267",
+        "colonies": [
+            {
+                "name": "Saldarriaga",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "El Rodeo",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "Nueva la Campana",
+                "municipality": "El Marqués, Querétaro"
+            },
+            {
+                "name": "La Mariola (El Rosario)",
+                "municipality": "El Marqués, Querétaro"
+            }
+        ]
+    },
+    "76270": {
+        "code": "76270",
+        "colonies": [
+            {
+                "name": "Colón Centro",
+                "municipality": "Colón, Querétaro"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Colón, Querétaro"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Colón, Querétaro"
+            },
+            {
+                "name": "Soriano",
+                "municipality": "Colón, Querétaro"
+            }
+        ]
+    },
+    "76280": {
+        "code": "76280",
+        "colonies": [
+            {
+                "name": "Centro (Ajuchitlán)",
+                "municipality": "Colón, Querétaro"
+            }
+        ]
+    },
+    "76286": {
+        "code": "76286",
+        "colonies": [
+            {
+                "name": "Nuevo Progreso",
+                "municipality": "Colón, Querétaro"
+            }
+        ]
+    },
+    "76289": {
+        "code": "76289",
+        "colonies": [
+            {
+                "name": "Esperanza",
+                "municipality": "Colón, Querétaro"
+            }
+        ]
+    },
+    "76294": {
+        "code": "76294",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Colón, Querétaro"
+            }
+        ]
+    },
+    "76295": {
+        "code": "76295",
+        "colonies": [
+            {
+                "name": "Viborillas",
+                "municipality": "Colón, Querétaro"
+            }
+        ]
+    },
+    "76296": {
+        "code": "76296",
+        "colonies": [
+            {
+                "name": "Purísima de Cubos (La Purísima)",
+                "municipality": "Colón, Querétaro"
+            }
+        ]
+    },
+    "76300": {
+        "code": "76300",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Pinal de Amoles, Querétaro"
+            },
+            {
+                "name": "Piedra Grande",
+                "municipality": "Pinal de Amoles, Querétaro"
+            },
+            {
+                "name": "Curva Colorada",
+                "municipality": "Pinal de Amoles, Querétaro"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Pinal de Amoles, Querétaro"
+            }
+        ]
+    },
+    "76303": {
+        "code": "76303",
+        "colonies": [
+            {
+                "name": "Puerto de Amoles",
+                "municipality": "Pinal de Amoles, Querétaro"
+            }
+        ]
+    },
+    "76304": {
+        "code": "76304",
+        "colonies": [
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Pinal de Amoles, Querétaro"
+            }
+        ]
+    },
+    "76314": {
+        "code": "76314",
+        "colonies": [
+            {
+                "name": "San Martín",
+                "municipality": "Pinal de Amoles, Querétaro"
+            }
+        ]
+    },
+    "76333": {
+        "code": "76333",
+        "colonies": [
+            {
+                "name": "La Dinamita",
+                "municipality": "Pinal de Amoles, Querétaro"
+            }
+        ]
+    },
+    "76340": {
+        "code": "76340",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Jalpan de Serra, Querétaro"
+            }
+        ]
+    },
+    "76342": {
+        "code": "76342",
+        "colonies": [
+            {
+                "name": "La Pedrera",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "El Mercado",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Paseos de los Adobes",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Los Cocos (El Coco)",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "San José",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Arroyo del Real",
+                "municipality": "Jalpan de Serra, Querétaro"
+            }
+        ]
+    },
+    "76344": {
+        "code": "76344",
+        "colonies": [
+            {
+                "name": "Vivah",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "El Platanito",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Jalpan de Serra, Querétaro"
+            }
+        ]
+    },
+    "76345": {
+        "code": "76345",
+        "colonies": [
+            {
+                "name": "Las Terrazas",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Santa Inés",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Las Misiones",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Bosques de la Sierra",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Puerto de San Nicolás",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Las Auroras",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "Alcantarilla",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "San Nicolás",
+                "municipality": "Jalpan de Serra, Querétaro"
+            }
+        ]
+    },
+    "76346": {
+        "code": "76346",
+        "colonies": [
+            {
+                "name": "Loma de la Guerra",
+                "municipality": "Jalpan de Serra, Querétaro"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Jalpan de Serra, Querétaro"
+            }
+        ]
+    },
+    "76347": {
+        "code": "76347",
+        "colonies": [
+            {
+                "name": "La Ceiba",
+                "municipality": "Jalpan de Serra, Querétaro"
+            }
+        ]
+    },
+    "76360": {
+        "code": "76360",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Landa de Matamoros, Querétaro"
+            }
+        ]
+    },
+    "76400": {
+        "code": "76400",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Arroyo Seco, Querétaro"
+            }
+        ]
+    },
+    "76410": {
+        "code": "76410",
+        "colonies": [
+            {
+                "name": "El Temporalito",
+                "municipality": "Arroyo Seco, Querétaro"
+            },
+            {
+                "name": "Los Puentes",
+                "municipality": "Arroyo Seco, Querétaro"
+            },
+            {
+                "name": "Los Canelos",
+                "municipality": "Arroyo Seco, Querétaro"
+            }
+        ]
+    },
+    "76440": {
+        "code": "76440",
+        "colonies": [
+            {
+                "name": "El Sabino",
+                "municipality": "Arroyo Seco, Querétaro"
+            }
+        ]
+    },
+    "76450": {
+        "code": "76450",
+        "colonies": [
+            {
+                "name": "Peñamiller Centro",
+                "municipality": "Peñamiller, Querétaro"
+            }
+        ]
+    },
+    "76453": {
+        "code": "76453",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Peñamiller, Querétaro"
+            },
+            {
+                "name": "Presidentes de México",
+                "municipality": "Peñamiller, Querétaro"
+            }
+        ]
+    },
+    "76454": {
+        "code": "76454",
+        "colonies": [
+            {
+                "name": "La Ermita",
+                "municipality": "Peñamiller, Querétaro"
+            },
+            {
+                "name": "Villas de Guadalupe",
+                "municipality": "Peñamiller, Querétaro"
+            },
+            {
+                "name": "San Marcos",
+                "municipality": "Peñamiller, Querétaro"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Peñamiller, Querétaro"
+            }
+        ]
+    },
+    "76500": {
+        "code": "76500",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            }
+        ]
+    },
+    "76503": {
+        "code": "76503",
+        "colonies": [
+            {
+                "name": "Los Llanitos",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            }
+        ]
+    },
+    "76504": {
+        "code": "76504",
+        "colonies": [
+            {
+                "name": "Las Fuentes",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            },
+            {
+                "name": "Fuentes y Pueblo Nuevo",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            },
+            {
+                "name": "La Meseta",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            }
+        ]
+    },
+    "76505": {
+        "code": "76505",
+        "colonies": [
+            {
+                "name": "La Magdalena",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            },
+            {
+                "name": "El Refugio",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            },
+            {
+                "name": "San Diego",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            }
+        ]
+    },
+    "76506": {
+        "code": "76506",
+        "colonies": [
+            {
+                "name": "La Fuente",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            },
+            {
+                "name": "El Demiño",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            }
+        ]
+    },
+    "76513": {
+        "code": "76513",
+        "colonies": [
+            {
+                "name": "Llano Blanco",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            }
+        ]
+    },
+    "76516": {
+        "code": "76516",
+        "colonies": [
+            {
+                "name": "Los Vázquez",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            }
+        ]
+    },
+    "76544": {
+        "code": "76544",
+        "colonies": [
+            {
+                "name": "Los Badillo",
+                "municipality": "Cadereyta de Montes, Querétaro"
+            }
+        ]
+    },
+    "76550": {
+        "code": "76550",
+        "colonies": [
+            {
+                "name": "La Laderita",
+                "municipality": "San Joaquín, Querétaro"
+            },
+            {
+                "name": "Campo Alegre (Las Cabañas)",
+                "municipality": "San Joaquín, Querétaro"
+            },
+            {
+                "name": "La Laguna",
+                "municipality": "San Joaquín, Querétaro"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "San Joaquín, Querétaro"
+            },
+            {
+                "name": "Puerto las Pilas",
+                "municipality": "San Joaquín, Querétaro"
+            }
+        ]
+    },
+    "76600": {
+        "code": "76600",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Tolimán, Querétaro"
+            }
+        ]
+    },
+    "76605": {
+        "code": "76605",
+        "colonies": [
+            {
+                "name": "San Pedro de los Eucaliptos",
+                "municipality": "Tolimán, Querétaro"
+            }
+        ]
+    },
+    "76631": {
+        "code": "76631",
+        "colonies": [
+            {
+                "name": "El Tequesquite",
+                "municipality": "Tolimán, Querétaro"
+            }
+        ]
+    },
+    "76632": {
+        "code": "76632",
+        "colonies": [
+            {
+                "name": "Nueva el Granjeno",
+                "municipality": "Tolimán, Querétaro"
+            }
+        ]
+    },
+    "76640": {
+        "code": "76640",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Tolimán, Querétaro"
+            },
+            {
+                "name": "El Rincón",
+                "municipality": "Tolimán, Querétaro"
+            }
+        ]
+    },
+    "76643": {
+        "code": "76643",
+        "colonies": [
+            {
+                "name": "La Villita",
+                "municipality": "Tolimán, Querétaro"
+            },
+            {
+                "name": "San Pablo Tolimán",
+                "municipality": "Tolimán, Querétaro"
+            },
+            {
+                "name": "Lomas Bonitas",
+                "municipality": "Tolimán, Querétaro"
+            },
+            {
+                "name": "Campesina",
+                "municipality": "Tolimán, Querétaro"
+            }
+        ]
+    },
+    "76644": {
+        "code": "76644",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Tolimán, Querétaro"
+            },
+            {
+                "name": "Los Roque",
+                "municipality": "Tolimán, Querétaro"
+            },
+            {
+                "name": "Manantial Chalmita",
+                "municipality": "Tolimán, Querétaro"
+            }
+        ]
+    },
+    "76650": {
+        "code": "76650",
+        "colonies": [
+            {
+                "name": "San Félix",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "Ezequiel Montes Centro",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "La Presa",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76651": {
+        "code": "76651",
+        "colonies": [
+            {
+                "name": "La Laguna",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76654": {
+        "code": "76654",
+        "colonies": [
+            {
+                "name": "La Queretana",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "Santa Elena",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76655": {
+        "code": "76655",
+        "colonies": [
+            {
+                "name": "Mansión del Ciervo",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "La Providencia",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76656": {
+        "code": "76656",
+        "colonies": [
+            {
+                "name": "Los Velásquez",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76657": {
+        "code": "76657",
+        "colonies": [
+            {
+                "name": "La Uca",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76663": {
+        "code": "76663",
+        "colonies": [
+            {
+                "name": "La Luna",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "La Nueva Unidad",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76664": {
+        "code": "76664",
+        "colonies": [
+            {
+                "name": "La Providencia (Las Norbertas)",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "La Ermita",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "Valle Colorado",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "La Nueva Unidad Cardenista",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "Villa Nueva",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76670": {
+        "code": "76670",
+        "colonies": [
+            {
+                "name": "El Tablado",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "Las Canteras",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "La Boveda",
+                "municipality": "Ezequiel Montes, Querétaro"
+            },
+            {
+                "name": "Santa María",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76683": {
+        "code": "76683",
+        "colonies": [
+            {
+                "name": "San José del Jagüey",
+                "municipality": "Ezequiel Montes, Querétaro"
+            }
+        ]
+    },
+    "76700": {
+        "code": "76700",
+        "colonies": [
+            {
+                "name": "Pedro Escobedo Centro",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Estrella",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "El Chamizal",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Los Girasoles",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76704": {
+        "code": "76704",
+        "colonies": [
+            {
+                "name": "Toreo",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Toreo 2a Sección",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Unidad Social",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Villa Escobedo 2000",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76705": {
+        "code": "76705",
+        "colonies": [
+            {
+                "name": "Presidentes",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "20 de Enero 2a Sección",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "20 de Enero 1a Sección",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76710": {
+        "code": "76710",
+        "colonies": [
+            {
+                "name": "Villas de Escobedo",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Desarrollo Ciudadano",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76714": {
+        "code": "76714",
+        "colonies": [
+            {
+                "name": "Las Torres",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76715": {
+        "code": "76715",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Moctezuma",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76720": {
+        "code": "76720",
+        "colonies": [
+            {
+                "name": "Negro",
+                "municipality": "Pedro Escobedo, Querétaro"
+            },
+            {
+                "name": "Tepetate",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76729": {
+        "code": "76729",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76740": {
+        "code": "76740",
+        "colonies": [
+            {
+                "name": "La presa",
+                "municipality": "Pedro Escobedo, Querétaro"
+            }
+        ]
+    },
+    "76750": {
+        "code": "76750",
+        "colonies": [
+            {
+                "name": "Tequisquiapan Centro",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "El Vergel",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "La Magdalena",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76753": {
+        "code": "76753",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos 2a Sección",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Bordo Blanco",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76755": {
+        "code": "76755",
+        "colonies": [
+            {
+                "name": "Santa Fe",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Balcones de Tequisquiapan",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Sección Sureste de Tequisquiapan",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Ramas Blancas",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76756": {
+        "code": "76756",
+        "colonies": [
+            {
+                "name": "Pedregal de Hacienda Grande",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76775": {
+        "code": "76775",
+        "colonies": [
+            {
+                "name": "Santa María del Camino",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Las Corraletas",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "La Ermita",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Cerrito San José",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76786": {
+        "code": "76786",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "La Cañadita",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76790": {
+        "code": "76790",
+        "colonies": [
+            {
+                "name": "Los Arquitos",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76795": {
+        "code": "76795",
+        "colonies": [
+            {
+                "name": "La Tortuga",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "La Lagunita",
+                "municipality": "Tequisquiapan, Querétaro"
+            },
+            {
+                "name": "Fátima (Ejido de Fuentezuelas)",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76799": {
+        "code": "76799",
+        "colonies": [
+            {
+                "name": "Hacienda Grande",
+                "municipality": "Tequisquiapan, Querétaro"
+            }
+        ]
+    },
+    "76800": {
+        "code": "76800",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76803": {
+        "code": "76803",
+        "colonies": [
+            {
+                "name": "Santa Fe",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Valle de Oro",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "El Carrizo",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Manantiales de San Juan",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Espíritu Santo",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Nuevo Espíritu Santo",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Jardines de San Juan",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "José López Portillo",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Siglo XXI",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76804": {
+        "code": "76804",
+        "colonies": [
+            {
+                "name": "Nuevo Banthí (Ampliación Banthí)",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Banthí",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Santa Cruz Nieto",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Villa de las Haciendas",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Aquiles Serdán",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Floresta",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Paz",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "El Rocío",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Aquiles Serdán Sección Libertad",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Loma (Ampliación Santa Cruz)",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76805": {
+        "code": "76805",
+        "colonies": [
+            {
+                "name": "De Enmedio",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Los Girasoles",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Colinas de Oriente",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Heraclio Bernal",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Paseos de Xhosda",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76806": {
+        "code": "76806",
+        "colonies": [
+            {
+                "name": "Lomas de San Juan 2da. Sección",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Pedregal de San Juan",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "San Cayetano",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "INDECO",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Lomas de San Juan",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "México",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Comevi Banthi",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Lomas de San Juan Sección Campestre",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Villas del Parque",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Villa las Flores",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Villas del Pedregal",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Villas del Pedregal 1a. Sección",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Lomas de San Juan Sección Jardines",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Jardines del Pedregal",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76807": {
+        "code": "76807",
+        "colonies": [
+            {
+                "name": "Betania",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "San Juan Bosco",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Fátima",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Ramos Millán",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Lomas de Guadalupe",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "El Riel",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Guadalupe de las Peñas",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Venta",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76810": {
+        "code": "76810",
+        "colonies": [
+            {
+                "name": "Ampliación Visthá Norte",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "San José",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Visthá",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Pueblo Quieto",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76814": {
+        "code": "76814",
+        "colonies": [
+            {
+                "name": "Loma de la Valla (Buenavista de la Valla)",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Militar",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Santa Elena",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Valla",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Llave",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76820": {
+        "code": "76820",
+        "colonies": [
+            {
+                "name": "Loma Linda",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Arcila",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "El Rosario",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Casa Blanca",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76821": {
+        "code": "76821",
+        "colonies": [
+            {
+                "name": "Senegal de las Palomas",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76824": {
+        "code": "76824",
+        "colonies": [
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Estancia",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Lomo de Toro",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76826": {
+        "code": "76826",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Mina",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76830": {
+        "code": "76830",
+        "colonies": [
+            {
+                "name": "Paso de Mata zona IV",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Paso de Mata zona VII",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Margaritas (Loma Bonita)",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Cerro Gordo",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Prados de Cerro Gordo",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Arcos del Sol",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76833": {
+        "code": "76833",
+        "colonies": [
+            {
+                "name": "San José",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Santa Cruz Escandón",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Villas de San José",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76837": {
+        "code": "76837",
+        "colonies": [
+            {
+                "name": "La Caseta (Ampliación Santa Bárbara)",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Palmillas",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76838": {
+        "code": "76838",
+        "colonies": [
+            {
+                "name": "Cristo Rey",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "San Isidro Labrador",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "San Juan de Dios",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Santa Anita",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76840": {
+        "code": "76840",
+        "colonies": [
+            {
+                "name": "Revolución",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Palma de Romero",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76842": {
+        "code": "76842",
+        "colonies": [
+            {
+                "name": "Los Llanitos",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Dolores Godoy",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Buenavista Palma de Romero",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76843": {
+        "code": "76843",
+        "colonies": [
+            {
+                "name": "San Martín",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "La Guadalupana",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Santa Isabel",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "El Rodeo",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Lázaro Cárdenas 1a. Sección",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Tercera Sección del Rodeo",
+                "municipality": "San Juan del Río, Querétaro"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez 4a. Sección",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76845": {
+        "code": "76845",
+        "colonies": [
+            {
+                "name": "Los Frailes",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76846": {
+        "code": "76846",
+        "colonies": [
+            {
+                "name": "La Corregidora",
+                "municipality": "San Juan del Río, Querétaro"
+            }
+        ]
+    },
+    "76850": {
+        "code": "76850",
+        "colonies": [
+            {
+                "name": "Amealco de Bonfil Centro",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "El Vicario",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Los Miradores",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Jardines del Bosque",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Cerro de los Gallos",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "La Mora",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "San Higinio",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "El Pinar",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "La Perita",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Vista Real",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Balcones de Amealco",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "El Fresno",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Las Delicias",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Bosdha",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Las Ánimas",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Los Duraznos",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            },
+            {
+                "name": "Las Américas (La Haciendita)",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            }
+        ]
+    },
+    "76885": {
+        "code": "76885",
+        "colonies": [
+            {
+                "name": "Nuevo Amanecer",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            }
+        ]
+    },
+    "76894": {
+        "code": "76894",
+        "colonies": [
+            {
+                "name": "Los Argueta",
+                "municipality": "Amealco de Bonfil, Querétaro"
+            }
+        ]
+    },
+    "76900": {
+        "code": "76900",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "El Pueblito Centro",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "San Miguelito",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Ampliación el Pueblito",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76902": {
+        "code": "76902",
+        "colonies": [
+            {
+                "name": "San José de los Olvera",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "El Pocito",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Rincón Campestre",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "El Roble",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Santa Lucía",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76903": {
+        "code": "76903",
+        "colonies": [
+            {
+                "name": "José María Truchuelo",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Los Candiles",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Los Olivos",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Villas Fontana",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Bernardo Quintana Arrioja",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Boulevares del Cimatario",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Venceremos",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Lomas del Mirador",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76904": {
+        "code": "76904",
+        "colonies": [
+            {
+                "name": "Los Olvera",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Filosofal",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Panorama",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Ampliación Huertas del Carmen",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76905": {
+        "code": "76905",
+        "colonies": [
+            {
+                "name": "El Paraíso",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Bosques de Viena",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Popular Ecológica Valle de Oro",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76906": {
+        "code": "76906",
+        "colonies": [
+            {
+                "name": "Santa Bárbara 1a Sección",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Santa Bárbara 2a Sección",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76907": {
+        "code": "76907",
+        "colonies": [
+            {
+                "name": "La Negreta",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Lomas de la Cruz",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Rincón de Guadalupe",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "21 de Marzo",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Jardines de la Negreta",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Los Reyes",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Balcones de la Negreta",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Valle de Aragón 1a Sección",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "El Milagrito",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "20 de Enero",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "20 de Enero 2a Sección",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Prados de Balvanera",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Valle de los Pinos",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Villas de las Flores",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Espíritu Santo",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Valle de Santiago",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Colinas del Sur",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Valle Arboledas",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76908": {
+        "code": "76908",
+        "colonies": [
+            {
+                "name": "Las Cabañas",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Niños Héroes de Chapultepec",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Colinas de los Ángeles",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Valle Dorado 2000",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Praderas de los Ángeles",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Ampliación los Ángeles",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Federal del Río",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "La Palma",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76912": {
+        "code": "76912",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Cruz de Fuego",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76915": {
+        "code": "76915",
+        "colonies": [
+            {
+                "name": "El Romeral",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76920": {
+        "code": "76920",
+        "colonies": [
+            {
+                "name": "Lomas de Zaragoza",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76922": {
+        "code": "76922",
+        "colonies": [
+            {
+                "name": "El Progreso (Las Trojas)",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76927": {
+        "code": "76927",
+        "colonies": [
+            {
+                "name": "Bosques de Lourdes",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Doctores",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Praderas de Lourdes",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Lourdes",
+                "municipality": "Corregidora, Querétaro"
+            },
+            {
+                "name": "Vistas del Sol",
+                "municipality": "Corregidora, Querétaro"
+            }
+        ]
+    },
+    "76950": {
+        "code": "76950",
+        "colonies": [
+            {
+                "name": "La Florida",
+                "municipality": "Huimilpan, Querétaro"
+            },
+            {
+                "name": "Huimilpan Centro",
+                "municipality": "Huimilpan, Querétaro"
+            },
+            {
+                "name": "Alto",
+                "municipality": "Huimilpan, Querétaro"
+            }
+        ]
+    },
+    "76951": {
+        "code": "76951",
+        "colonies": [
+            {
+                "name": "El Vegil",
+                "municipality": "Huimilpan, Querétaro"
+            }
+        ]
+    },
+    "76955": {
+        "code": "76955",
+        "colonies": [
+            {
+                "name": "La Ceja",
+                "municipality": "Huimilpan, Querétaro"
+            }
+        ]
+    },
+    "76973": {
+        "code": "76973",
+        "colonies": [
+            {
+                "name": "Cumbres del Cimatario",
+                "municipality": "Huimilpan, Querétaro"
+            }
+        ]
+    },
+    "76980": {
+        "code": "76980",
+        "colonies": [
+            {
+                "name": "Lagunillas",
+                "municipality": "Huimilpan, Querétaro"
+            }
+        ]
+    }
+}

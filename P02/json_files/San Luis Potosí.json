@@ -1,0 +1,6430 @@
+{
+    "78000": {
+        "code": "78000",
+        "colonies": [
+            {
+                "name": "San Luis Potosí Centro",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78037": {
+        "code": "78037",
+        "colonies": [
+            {
+                "name": "La Paz",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78040": {
+        "code": "78040",
+        "colonies": [
+            {
+                "name": "Hidalgo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Rinconada de Santiago",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78048": {
+        "code": "78048",
+        "colonies": [
+            {
+                "name": "Juan Alvarez",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78100": {
+        "code": "78100",
+        "colonies": [
+            {
+                "name": "Mártires de La Revolución",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Sauce",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Tercera Chica",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Luis Córdova Reyes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Rincón Verde",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "La Matamoros",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Sáuz",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Huachichiles",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Real de Peñasco",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Villas del Vergel",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Alcatraces",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78106": {
+        "code": "78106",
+        "colonies": [
+            {
+                "name": "La Morena",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78107": {
+        "code": "78107",
+        "colonies": [
+            {
+                "name": "La Tuna",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78109": {
+        "code": "78109",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Villa de Las Flores II",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78110": {
+        "code": "78110",
+        "colonies": [
+            {
+                "name": "Imperio Azteca",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "División del Norte",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Saucito",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Casa Blanca",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Eulalio Gutiérrez",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Oasis",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Garita de Saltillo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Árbol del Gallo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78115": {
+        "code": "78115",
+        "colonies": [
+            {
+                "name": "Santa Rosa",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78116": {
+        "code": "78116",
+        "colonies": [
+            {
+                "name": "El Sauzalito",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Rancho la Cruz",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Villas del Saucito",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Villas del Sauzalito",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Salazares",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Jardines del Sauzal",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78117": {
+        "code": "78117",
+        "colonies": [
+            {
+                "name": "La Angostura",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78120": {
+        "code": "78120",
+        "colonies": [
+            {
+                "name": "La Forestal",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Ángel",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Condado Sauzal",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Limones",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Wenceslao Victoria",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Residencial Villerias",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78130": {
+        "code": "78130",
+        "colonies": [
+            {
+                "name": "El Mezquital",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Rural Atlas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Lomas del Mezquital",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Gerardo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Martínez del Mezquital",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Jardines del Bosque",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78133": {
+        "code": "78133",
+        "colonies": [
+            {
+                "name": "Paseo de las Arboledas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78135": {
+        "code": "78135",
+        "colonies": [
+            {
+                "name": "Privada San Gabriel",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78136": {
+        "code": "78136",
+        "colonies": [
+            {
+                "name": "Valle de Jacarandas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Julias",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Casanova",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Salinas de Gortari",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Lomas del Mezquital Segunda Sección",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Gutiérrez Barrios",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78137": {
+        "code": "78137",
+        "colonies": [
+            {
+                "name": "Valle del Tecnológico",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78140": {
+        "code": "78140",
+        "colonies": [
+            {
+                "name": "Industrial Aviación",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Retornos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Norte",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78143": {
+        "code": "78143",
+        "colonies": [
+            {
+                "name": "Pedroza",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Morenas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Campesina Norte",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Potosí Río Verde",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Tercera Grande",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Ecuestre",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78144": {
+        "code": "78144",
+        "colonies": [
+            {
+                "name": "Santa Inés",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Torres de México",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78146": {
+        "code": "78146",
+        "colonies": [
+            {
+                "name": "Tecnológico",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78147": {
+        "code": "78147",
+        "colonies": [
+            {
+                "name": "San Alberto",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Humberto",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78148": {
+        "code": "78148",
+        "colonies": [
+            {
+                "name": "Jacarandas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78150": {
+        "code": "78150",
+        "colonies": [
+            {
+                "name": "Las Piedras",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78153": {
+        "code": "78153",
+        "colonies": [
+            {
+                "name": "Albino García",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Arboledas del Campestre",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Eucaliptos Campestre",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78154": {
+        "code": "78154",
+        "colonies": [
+            {
+                "name": "Los Pirules",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78165": {
+        "code": "78165",
+        "colonies": [
+            {
+                "name": "Muñoz",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78170": {
+        "code": "78170",
+        "colonies": [
+            {
+                "name": "Aeropuerto",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Cortijo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Palomas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Reyes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Reyitos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Rinconada de Las Arboledas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78173": {
+        "code": "78173",
+        "colonies": [
+            {
+                "name": "Del Bosque",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Industrial Aviación 2a Sección",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Tláloc",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78174": {
+        "code": "78174",
+        "colonies": [
+            {
+                "name": "Damián Carmona",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Álamos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Guanos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Vergeles",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Residencial Ogarrio",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78175": {
+        "code": "78175",
+        "colonies": [
+            {
+                "name": "Hacienda de Bravo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Del Río",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78176": {
+        "code": "78176",
+        "colonies": [
+            {
+                "name": "Matehuala",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Condesa",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78177": {
+        "code": "78177",
+        "colonies": [
+            {
+                "name": "García Diego",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78178": {
+        "code": "78178",
+        "colonies": [
+            {
+                "name": "San Pedro",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78180": {
+        "code": "78180",
+        "colonies": [
+            {
+                "name": "Morales",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78183": {
+        "code": "78183",
+        "colonies": [
+            {
+                "name": "Villa Magna",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78200": {
+        "code": "78200",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Fuentes del Bosque",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78210": {
+        "code": "78210",
+        "colonies": [
+            {
+                "name": "Bellas Lomas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Cumbres",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Loma Alta",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Lomas 1a Secc",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Filtros",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Lomas 2a Sección",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78213": {
+        "code": "78213",
+        "colonies": [
+            {
+                "name": "Burócratas del Estado",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Residencial Morales",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78214": {
+        "code": "78214",
+        "colonies": [
+            {
+                "name": "Loma Verde",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Villantigua",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78215": {
+        "code": "78215",
+        "colonies": [
+            {
+                "name": "Loma Dorada",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Lomas del Tecnológico",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78216": {
+        "code": "78216",
+        "colonies": [
+            {
+                "name": "Lomas 3a Secc",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Santa Mónica",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Lomas Cuarta Sección",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78218": {
+        "code": "78218",
+        "colonies": [
+            {
+                "name": "Villas del Pedregal",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Nueva Rinconada de los Andes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Rinconada de los Andes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78219": {
+        "code": "78219",
+        "colonies": [
+            {
+                "name": "Lomas de los Filtros",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78220": {
+        "code": "78220",
+        "colonies": [
+            {
+                "name": "Busqueta",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Polanco",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78230": {
+        "code": "78230",
+        "colonies": [
+            {
+                "name": "Bugambilias",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "La Victoria",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78233": {
+        "code": "78233",
+        "colonies": [
+            {
+                "name": "Moderna",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78234": {
+        "code": "78234",
+        "colonies": [
+            {
+                "name": "La Arboleda",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78235": {
+        "code": "78235",
+        "colonies": [
+            {
+                "name": "Arboleda de Tequisquiapan",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "La Huerta",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78236": {
+        "code": "78236",
+        "colonies": [
+            {
+                "name": "Vista Verde",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78238": {
+        "code": "78238",
+        "colonies": [
+            {
+                "name": "Valle de Tequisquiapan",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78239": {
+        "code": "78239",
+        "colonies": [
+            {
+                "name": "Las Garzas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Llamaradas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Norias",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78240": {
+        "code": "78240",
+        "colonies": [
+            {
+                "name": "Avenida",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Sol",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Virreyes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78250": {
+        "code": "78250",
+        "colonies": [
+            {
+                "name": "Cap. Caldera",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Jardines de La Rivera",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Parque España",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Valle de Bravo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Mariano Ávila",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Valle de Bravo II",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78258": {
+        "code": "78258",
+        "colonies": [
+            {
+                "name": "Lago Azul",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78260": {
+        "code": "78260",
+        "colonies": [
+            {
+                "name": "Las Águilas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78268": {
+        "code": "78268",
+        "colonies": [
+            {
+                "name": "Prados de San Luis",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78270": {
+        "code": "78270",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Fundadores",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Jardín",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78280": {
+        "code": "78280",
+        "colonies": [
+            {
+                "name": "Alamitos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Del Real",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Estadio",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Himno Nacional",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "ISSSTE",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Jardines del Estadio",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78290": {
+        "code": "78290",
+        "colonies": [
+            {
+                "name": "Universitaria",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Viveros",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78294": {
+        "code": "78294",
+        "colonies": [
+            {
+                "name": "Garita de Jalisco",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78295": {
+        "code": "78295",
+        "colonies": [
+            {
+                "name": "Desarrollo del Pedregal",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78298": {
+        "code": "78298",
+        "colonies": [
+            {
+                "name": "Acacias",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78300": {
+        "code": "78300",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Ferrocarrilera",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Popular",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78309": {
+        "code": "78309",
+        "colonies": [
+            {
+                "name": "Industrial Mexicana",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78310": {
+        "code": "78310",
+        "colonies": [
+            {
+                "name": "San Luis",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Azteca Norte",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78320": {
+        "code": "78320",
+        "colonies": [
+            {
+                "name": "El Paseo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78330": {
+        "code": "78330",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Bolívar",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78338": {
+        "code": "78338",
+        "colonies": [
+            {
+                "name": "De La Rosa",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78340": {
+        "code": "78340",
+        "colonies": [
+            {
+                "name": "Julián Carrillo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78348": {
+        "code": "78348",
+        "colonies": [
+            {
+                "name": "Campesina",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78349": {
+        "code": "78349",
+        "colonies": [
+            {
+                "name": "San Sebastián",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78350": {
+        "code": "78350",
+        "colonies": [
+            {
+                "name": "Revolución",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Luis Rey",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Santa Fe Sur",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78356": {
+        "code": "78356",
+        "colonies": [
+            {
+                "name": "Valle del Santuario",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78357": {
+        "code": "78357",
+        "colonies": [
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78358": {
+        "code": "78358",
+        "colonies": [
+            {
+                "name": "Villa Rica",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78360": {
+        "code": "78360",
+        "colonies": [
+            {
+                "name": "Cúpulas del Santuario",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Gral. Ignacio Martínez",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Mercado",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Prof. Graciano Sanchez",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Prof. Graciano Sanchez 2a Sección",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Apostólica",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78364": {
+        "code": "78364",
+        "colonies": [
+            {
+                "name": "Tierra Blanca",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78365": {
+        "code": "78365",
+        "colonies": [
+            {
+                "name": "Campestre Juan Silos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78366": {
+        "code": "78366",
+        "colonies": [
+            {
+                "name": "Los Arquitos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78367": {
+        "code": "78367",
+        "colonies": [
+            {
+                "name": "Primavera",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78368": {
+        "code": "78368",
+        "colonies": [
+            {
+                "name": "Xicotencatl",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78369": {
+        "code": "78369",
+        "colonies": [
+            {
+                "name": "Himno Nacional 2a Secc",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78370": {
+        "code": "78370",
+        "colonies": [
+            {
+                "name": "Progreso",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "6 de Junio",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78377": {
+        "code": "78377",
+        "colonies": [
+            {
+                "name": "Del Llano",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78378": {
+        "code": "78378",
+        "colonies": [
+            {
+                "name": "Españita",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78379": {
+        "code": "78379",
+        "colonies": [
+            {
+                "name": "Las Pilitas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Anáhuac",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Pedregal del Valle",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Manuel",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78380": {
+        "code": "78380",
+        "colonies": [
+            {
+                "name": "Satélite Francisco I Madero",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Santuario",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Lomas de Bellavista",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Simón Diaz",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Viveros Satélite",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Prados Satélite",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78384": {
+        "code": "78384",
+        "colonies": [
+            {
+                "name": "Tepeyac",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78385": {
+        "code": "78385",
+        "colonies": [
+            {
+                "name": "Antorcha Popular",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Simón Díaz (Indeco)",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Simón Diaz Aguaje",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Valle de Las Rosas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78387": {
+        "code": "78387",
+        "colonies": [
+            {
+                "name": "San Leonel",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78388": {
+        "code": "78388",
+        "colonies": [
+            {
+                "name": "Constituyentes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78389": {
+        "code": "78389",
+        "colonies": [
+            {
+                "name": "5 de Febrero",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Colorines",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78390": {
+        "code": "78390",
+        "colonies": [
+            {
+                "name": "Centro de Abastos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Jaime Torres Bodet",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Jardines de Oriente",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Mayamil",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Prados Glorieta",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Ricardo B Anaya",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Santa Fe Oriente",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78394": {
+        "code": "78394",
+        "colonies": [
+            {
+                "name": "Cielo Claro Las Mercedes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Mercedes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Prados de San Vicente Segunda Sección",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Prados de San Vicente Tercera Sección",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Rancho Viejo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Cecilia Occely",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Palmar",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Silos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "La Libertad",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Ejido la Libertad",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Enramadas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78395": {
+        "code": "78395",
+        "colonies": [
+            {
+                "name": "Providencia Real",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78396": {
+        "code": "78396",
+        "colonies": [
+            {
+                "name": "Estrella de Oriente",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "José de Gálvez",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Obispado",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Ricardo B Anaya 2a Secc",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Prados de San Vicente",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Residencial Cumbres",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78397": {
+        "code": "78397",
+        "colonies": [
+            {
+                "name": "Jardines del Edén",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Orquídea",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Poza Real",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Alta Vida",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Casanova",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Pueblito",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Villa Delicias",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Olivos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Alquerías de Pozos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Cruces",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Cuartel Aguilares",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "El Mesón",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Nueva Orquídea",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78398": {
+        "code": "78398",
+        "colonies": [
+            {
+                "name": "Juan Sarabia",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Nicolás del Aguaje",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Palmar Chico",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Salvador",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Enrique Flores Magón",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Antorchistas de Chimalhuacán",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78399": {
+        "code": "78399",
+        "colonies": [
+            {
+                "name": "Capricornio",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Jardines del Sur",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Talleres",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Las Joyas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Patricio",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Nuevo Valle Dorado",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78400": {
+        "code": "78400",
+        "colonies": [
+            {
+                "name": "Cerritos de Zavala",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78413": {
+        "code": "78413",
+        "colonies": [
+            {
+                "name": "Colonia los Salazares (Las Pulcatras)",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Insurgentes",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Santiago Arroyo",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78414": {
+        "code": "78414",
+        "colonies": [
+            {
+                "name": "Las Vegas (El Garambullal)",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Benito",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Unión Antorchista",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Colonia la Unión",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Colonia de Comité Movimiento Amplio Popular",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Colonia la Estrella",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Juanico Chico",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78418": {
+        "code": "78418",
+        "colonies": [
+            {
+                "name": "Las Pilitas",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78420": {
+        "code": "78420",
+        "colonies": [
+            {
+                "name": "San Nicolás de los Jassos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78421": {
+        "code": "78421",
+        "colonies": [
+            {
+                "name": "Laguna de Santa Rita",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Villa de Pozos",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "San Miguel de La Colina",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Tanque el Jagüey",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78424": {
+        "code": "78424",
+        "colonies": [
+            {
+                "name": "Noria de San José",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78426": {
+        "code": "78426",
+        "colonies": [
+            {
+                "name": "La Pila",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Los Barrón",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Palma China",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            },
+            {
+                "name": "Joyas del Aguaje",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78427": {
+        "code": "78427",
+        "colonies": [
+            {
+                "name": "Colonia el Peñascal",
+                "municipality": "San Luis Potosí, San Luis Potosí"
+            }
+        ]
+    },
+    "78430": {
+        "code": "78430",
+        "colonies": [
+            {
+                "name": "Expropiación Petrolera",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Pipila",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Rancho Nuevo",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "San Juanita",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Soledad de Graciano Sánchez Centro",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Textil",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "El Zapote",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Las Capillas",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Fracción Rivera",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78432": {
+        "code": "78432",
+        "colonies": [
+            {
+                "name": "El Laurel",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78433": {
+        "code": "78433",
+        "colonies": [
+            {
+                "name": "La Constancia",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Los Fresnos",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "San Felipe",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "La Cofradía",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Santa Teresa",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "San José del Barro",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Urbana Morelos",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78434": {
+        "code": "78434",
+        "colonies": [
+            {
+                "name": "Central",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "El Morro",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Escobillal",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "La Lomita 1a Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Hogares Populares Pavón 2a Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Hogares Populares Pavón 1a Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "La Lomita 2a Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "La Lomita 3a Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Urbana Central de Maquinaria",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Jardín Chapultepec",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Hogares Populares Pavón 3a Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78435": {
+        "code": "78435",
+        "colonies": [
+            {
+                "name": "La Hormiga",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Quintas de Don Roberto",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78436": {
+        "code": "78436",
+        "colonies": [
+            {
+                "name": "Azaleas",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "El Polvorín",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Fidel Velázquez",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "General Genovevo Rivas Guillen",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Hogares Ferrocarrileros 1a Secc",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Hogares Ferrocarrileros 2a Secc",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Praderas del Maurel",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Puente Real",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Hogares Ferrocarrileros 3a Secc",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "General Genovevo Rivas Guillén Segunda Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "General Genovevo Rivas Guillén Tercera Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Las Canteras",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Rancho Blanco",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Misión de San Pedro",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Los Álamos",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78437": {
+        "code": "78437",
+        "colonies": [
+            {
+                "name": "Graciano Sanchez",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "El Laurel",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Francisco Sarabia",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Jardines del Valle",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Unidad Ponciano Arriaga",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Unidad Ponciano Arriaga 2a Secc",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "21 de Marzo",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Reforma 2da. Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "El Lavadero",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78438": {
+        "code": "78438",
+        "colonies": [
+            {
+                "name": "Colinas del Márquez",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Primero de Mayo",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Foresta",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Hogares Obreros",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Los Gómez",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Villa Alborada",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Colinas del Bosque",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Rancho la Libertad",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Derechos Humanos",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "El Tanquesito",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Primero de Mayo 2a. Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Roberto Cervantes",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Los Hornos",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Rinconada del Palmar",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "La Libertad",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78439": {
+        "code": "78439",
+        "colonies": [
+            {
+                "name": "9 de Mayo",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Enrique Estrada (La Concha)",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "División del Norte Primera Sección",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Las Capillas",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            },
+            {
+                "name": "Jardines de San Pedro",
+                "municipality": "Soledad de Graciano Sánchez, San Luis Potosí"
+            }
+        ]
+    },
+    "78447": {
+        "code": "78447",
+        "colonies": [
+            {
+                "name": "Joyita de la Cruz",
+                "municipality": "Cerro de San Pedro, San Luis Potosí"
+            },
+            {
+                "name": "Nueva Zapatilla",
+                "municipality": "Cerro de San Pedro, San Luis Potosí"
+            }
+        ]
+    },
+    "78448": {
+        "code": "78448",
+        "colonies": [
+            {
+                "name": "Granjas de la Florida",
+                "municipality": "Cerro de San Pedro, San Luis Potosí"
+            },
+            {
+                "name": "Los Gómez Lado Oriente",
+                "municipality": "Cerro de San Pedro, San Luis Potosí"
+            },
+            {
+                "name": "Granjas de San Francisco",
+                "municipality": "Cerro de San Pedro, San Luis Potosí"
+            },
+            {
+                "name": "Granjas de San Pedro",
+                "municipality": "Cerro de San Pedro, San Luis Potosí"
+            },
+            {
+                "name": "Real del Potosí",
+                "municipality": "Cerro de San Pedro, San Luis Potosí"
+            }
+        ]
+    },
+    "78450": {
+        "code": "78450",
+        "colonies": [
+            {
+                "name": "Julián Carrillo",
+                "municipality": "Ahualulco, San Luis Potosí"
+            },
+            {
+                "name": "Lomas de la Soledad",
+                "municipality": "Ahualulco, San Luis Potosí"
+            },
+            {
+                "name": "Los Magueyes",
+                "municipality": "Ahualulco, San Luis Potosí"
+            }
+        ]
+    },
+    "78455": {
+        "code": "78455",
+        "colonies": [
+            {
+                "name": "Colonia de la Cruz",
+                "municipality": "Ahualulco, San Luis Potosí"
+            }
+        ]
+    },
+    "78456": {
+        "code": "78456",
+        "colonies": [
+            {
+                "name": "San Juan (San Juan de Coyotillos)",
+                "municipality": "Ahualulco, San Luis Potosí"
+            }
+        ]
+    },
+    "78460": {
+        "code": "78460",
+        "colonies": [
+            {
+                "name": "Colonia Emiliano Zapata (El Chamizal)",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Guadalupes",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78463": {
+        "code": "78463",
+        "colonies": [
+            {
+                "name": "Colonia Progreso",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78465": {
+        "code": "78465",
+        "colonies": [
+            {
+                "name": "Colonia Primero de Enero",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78467": {
+        "code": "78467",
+        "colonies": [
+            {
+                "name": "Colonia Molino del Carmen",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Orilla del Río",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78470": {
+        "code": "78470",
+        "colonies": [
+            {
+                "name": "La Cruz",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78474": {
+        "code": "78474",
+        "colonies": [
+            {
+                "name": "Colonia Álvaro Obregón",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78475": {
+        "code": "78475",
+        "colonies": [
+            {
+                "name": "Ejido Miguel Hidalgo",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78480": {
+        "code": "78480",
+        "colonies": [
+            {
+                "name": "Mexquitic de Carmona Centro",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78483": {
+        "code": "78483",
+        "colonies": [
+            {
+                "name": "El Llanito",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            },
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78484": {
+        "code": "78484",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78485": {
+        "code": "78485",
+        "colonies": [
+            {
+                "name": "Revolución",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78486": {
+        "code": "78486",
+        "colonies": [
+            {
+                "name": "La Playa",
+                "municipality": "Mexquitic de Carmona, San Luis Potosí"
+            }
+        ]
+    },
+    "78490": {
+        "code": "78490",
+        "colonies": [
+            {
+                "name": "Villa de Arriaga Centro",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            },
+            {
+                "name": "Ayun",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            },
+            {
+                "name": "Clara Cordova",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            },
+            {
+                "name": "El Montecillo",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            },
+            {
+                "name": "San Miguelito",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            }
+        ]
+    },
+    "78493": {
+        "code": "78493",
+        "colonies": [
+            {
+                "name": "Santa Rosa de Gallinas",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            }
+        ]
+    },
+    "78494": {
+        "code": "78494",
+        "colonies": [
+            {
+                "name": "Colonia la Laborcilla",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            },
+            {
+                "name": "Colonia los Manueles",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Palomas",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            },
+            {
+                "name": "La Luz (Los Gutiérrez)",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            }
+        ]
+    },
+    "78495": {
+        "code": "78495",
+        "colonies": [
+            {
+                "name": "Colonia Guadalupe Victoria (Fátima)",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            },
+            {
+                "name": "Ojo de Agua de Juan Pérez",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            }
+        ]
+    },
+    "78496": {
+        "code": "78496",
+        "colonies": [
+            {
+                "name": "Colonia Emiliano Zapata",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            }
+        ]
+    },
+    "78497": {
+        "code": "78497",
+        "colonies": [
+            {
+                "name": "Colonia la Luz",
+                "municipality": "Villa de Arriaga, San Luis Potosí"
+            }
+        ]
+    },
+    "78500": {
+        "code": "78500",
+        "colonies": [
+            {
+                "name": "Estación Vanegas Centro",
+                "municipality": "Vanegas, San Luis Potosí"
+            }
+        ]
+    },
+    "78520": {
+        "code": "78520",
+        "colonies": [
+            {
+                "name": "La Luz",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "Valle de las Flores",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "Cedral Centro",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "Valle Verde",
+                "municipality": "Cedral, San Luis Potosí"
+            }
+        ]
+    },
+    "78523": {
+        "code": "78523",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "Progresistas",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "Santa Fe",
+                "municipality": "Cedral, San Luis Potosí"
+            }
+        ]
+    },
+    "78524": {
+        "code": "78524",
+        "colonies": [
+            {
+                "name": "La Unión",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "El Dólar",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "Escritores",
+                "municipality": "Cedral, San Luis Potosí"
+            }
+        ]
+    },
+    "78525": {
+        "code": "78525",
+        "colonies": [
+            {
+                "name": "Villa las Palmas",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Cedral, San Luis Potosí"
+            }
+        ]
+    },
+    "78526": {
+        "code": "78526",
+        "colonies": [
+            {
+                "name": "Domingo Soto",
+                "municipality": "Cedral, San Luis Potosí"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Cedral, San Luis Potosí"
+            }
+        ]
+    },
+    "78527": {
+        "code": "78527",
+        "colonies": [
+            {
+                "name": "Antigua Guayulera",
+                "municipality": "Cedral, San Luis Potosí"
+            }
+        ]
+    },
+    "78536": {
+        "code": "78536",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Cedral, San Luis Potosí"
+            }
+        ]
+    },
+    "78590": {
+        "code": "78590",
+        "colonies": [
+            {
+                "name": "Charcas Centro",
+                "municipality": "Charcas, San Luis Potosí"
+            }
+        ]
+    },
+    "78594": {
+        "code": "78594",
+        "colonies": [
+            {
+                "name": "Siglo XXI",
+                "municipality": "Charcas, San Luis Potosí"
+            },
+            {
+                "name": "Cruz del Siglo",
+                "municipality": "Charcas, San Luis Potosí"
+            }
+        ]
+    },
+    "78595": {
+        "code": "78595",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Charcas, San Luis Potosí"
+            },
+            {
+                "name": "El Mezquite",
+                "municipality": "Charcas, San Luis Potosí"
+            },
+            {
+                "name": "El Caiman",
+                "municipality": "Charcas, San Luis Potosí"
+            }
+        ]
+    },
+    "78596": {
+        "code": "78596",
+        "colonies": [
+            {
+                "name": "La Peregrina",
+                "municipality": "Charcas, San Luis Potosí"
+            },
+            {
+                "name": "Santa María",
+                "municipality": "Charcas, San Luis Potosí"
+            }
+        ]
+    },
+    "78597": {
+        "code": "78597",
+        "colonies": [
+            {
+                "name": "IMMSA",
+                "municipality": "Charcas, San Luis Potosí"
+            },
+            {
+                "name": "El Mineral",
+                "municipality": "Charcas, San Luis Potosí"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Charcas, San Luis Potosí"
+            },
+            {
+                "name": "El Minero",
+                "municipality": "Charcas, San Luis Potosí"
+            }
+        ]
+    },
+    "78620": {
+        "code": "78620",
+        "colonies": [
+            {
+                "name": "Salinas de Hidalgo Centro",
+                "municipality": "Salinas, San Luis Potosí"
+            }
+        ]
+    },
+    "78622": {
+        "code": "78622",
+        "colonies": [
+            {
+                "name": "Satélite",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "La Paz",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "Palmar de los Sacerdotes",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "Santo Niño",
+                "municipality": "Salinas, San Luis Potosí"
+            }
+        ]
+    },
+    "78624": {
+        "code": "78624",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "La Huerta",
+                "municipality": "Salinas, San Luis Potosí"
+            }
+        ]
+    },
+    "78625": {
+        "code": "78625",
+        "colonies": [
+            {
+                "name": "El Mirador",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "La Joya",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "La Curva",
+                "municipality": "Salinas, San Luis Potosí"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Salinas, San Luis Potosí"
+            }
+        ]
+    },
+    "78626": {
+        "code": "78626",
+        "colonies": [
+            {
+                "name": "San Pablo",
+                "municipality": "Salinas, San Luis Potosí"
+            }
+        ]
+    },
+    "78700": {
+        "code": "78700",
+        "colonies": [
+            {
+                "name": "Matehuala Centro",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Baltazar Martínez",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78710": {
+        "code": "78710",
+        "colonies": [
+            {
+                "name": "Obrera (Ferrocarrilera)",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Villas La Forestal",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78712": {
+        "code": "78712",
+        "colonies": [
+            {
+                "name": "Bella Gaviota",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78715": {
+        "code": "78715",
+        "colonies": [
+            {
+                "name": "La Hacienda",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "22 de Mayo",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Antorchistas",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "La Finca II",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78716": {
+        "code": "78716",
+        "colonies": [
+            {
+                "name": "La Granja",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Las Mercedes II",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78717": {
+        "code": "78717",
+        "colonies": [
+            {
+                "name": "La Finca",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Florida II",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Llano Azul",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78720": {
+        "code": "78720",
+        "colonies": [
+            {
+                "name": "Guadalupe Tepeyac",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Magisterial los Reyes",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Magisterial María Luisa Castillo",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Luis Echeverría",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78722": {
+        "code": "78722",
+        "colonies": [
+            {
+                "name": "Colinas de La Paz",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Hidalgo",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78724": {
+        "code": "78724",
+        "colonies": [
+            {
+                "name": "Fidel Velázquez",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Los Magueyes de La Piedra",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Minerales",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78725": {
+        "code": "78725",
+        "colonies": [
+            {
+                "name": "La Florida",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Jardines de Ojo de Agua",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78726": {
+        "code": "78726",
+        "colonies": [
+            {
+                "name": "Ollería",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78730": {
+        "code": "78730",
+        "colonies": [
+            {
+                "name": "El Pineño",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Forestal",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Luis N Morones",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78740": {
+        "code": "78740",
+        "colonies": [
+            {
+                "name": "República",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78743": {
+        "code": "78743",
+        "colonies": [
+            {
+                "name": "Unidad Antorchista",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78745": {
+        "code": "78745",
+        "colonies": [
+            {
+                "name": "Manuel Moreno Torres",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Las Vegas",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78746": {
+        "code": "78746",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78747": {
+        "code": "78747",
+        "colonies": [
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78750": {
+        "code": "78750",
+        "colonies": [
+            {
+                "name": "Juárez",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78759": {
+        "code": "78759",
+        "colonies": [
+            {
+                "name": "Las Cumbres",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Santa Lucina",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78760": {
+        "code": "78760",
+        "colonies": [
+            {
+                "name": "El Fraile",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Nogales",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Santa Martha",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Las Arboledas",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78769": {
+        "code": "78769",
+        "colonies": [
+            {
+                "name": "Electricistas",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78770": {
+        "code": "78770",
+        "colonies": [
+            {
+                "name": "Lagunita",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78779": {
+        "code": "78779",
+        "colonies": [
+            {
+                "name": "La Dichosa",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Valle de La Dichosa",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78780": {
+        "code": "78780",
+        "colonies": [
+            {
+                "name": "General Rivas Guillen",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Paraíso",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78783": {
+        "code": "78783",
+        "colonies": [
+            {
+                "name": "San José",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Las Hadas",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Lupita",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78784": {
+        "code": "78784",
+        "colonies": [
+            {
+                "name": "San Angel",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78785": {
+        "code": "78785",
+        "colonies": [
+            {
+                "name": "El Mirador",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78786": {
+        "code": "78786",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78788": {
+        "code": "78788",
+        "colonies": [
+            {
+                "name": "Viveros",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78789": {
+        "code": "78789",
+        "colonies": [
+            {
+                "name": "Jardín",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Vistahermosa",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78790": {
+        "code": "78790",
+        "colonies": [
+            {
+                "name": "Olivar de las Animas",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "La Conejera",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78793": {
+        "code": "78793",
+        "colonies": [
+            {
+                "name": "Las Heroínas Mexicanas",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "San Ramón (Campestre)",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78796": {
+        "code": "78796",
+        "colonies": [
+            {
+                "name": "Santa Ana",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78797": {
+        "code": "78797",
+        "colonies": [
+            {
+                "name": "Altamira",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78798": {
+        "code": "78798",
+        "colonies": [
+            {
+                "name": "La Concepción",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Las Mitras",
+                "municipality": "Matehuala, San Luis Potosí"
+            },
+            {
+                "name": "Ánimas",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78799": {
+        "code": "78799",
+        "colonies": [
+            {
+                "name": "El Encanto",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78802": {
+        "code": "78802",
+        "colonies": [
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78804": {
+        "code": "78804",
+        "colonies": [
+            {
+                "name": "San Antonio de Zaragoza",
+                "municipality": "Matehuala, San Luis Potosí"
+            }
+        ]
+    },
+    "78830": {
+        "code": "78830",
+        "colonies": [
+            {
+                "name": "Villa de la Paz Centro",
+                "municipality": "Villa de la Paz, San Luis Potosí"
+            },
+            {
+                "name": "Real de Minas",
+                "municipality": "Villa de la Paz, San Luis Potosí"
+            },
+            {
+                "name": "Departamento de la Cruz",
+                "municipality": "Villa de la Paz, San Luis Potosí"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Villa de la Paz, San Luis Potosí"
+            },
+            {
+                "name": "San José",
+                "municipality": "Villa de la Paz, San Luis Potosí"
+            }
+        ]
+    },
+    "78870": {
+        "code": "78870",
+        "colonies": [
+            {
+                "name": "Cantarranas",
+                "municipality": "Guadalcázar, San Luis Potosí"
+            }
+        ]
+    },
+    "78873": {
+        "code": "78873",
+        "colonies": [
+            {
+                "name": "San Pedro",
+                "municipality": "Guadalcázar, San Luis Potosí"
+            }
+        ]
+    },
+    "78880": {
+        "code": "78880",
+        "colonies": [
+            {
+                "name": "Colonia Menonita del Huizache",
+                "municipality": "Guadalcázar, San Luis Potosí"
+            }
+        ]
+    },
+    "78884": {
+        "code": "78884",
+        "colonies": [
+            {
+                "name": "Colonia Agrícola San José",
+                "municipality": "Guadalcázar, San Luis Potosí"
+            }
+        ]
+    },
+    "78900": {
+        "code": "78900",
+        "colonies": [
+            {
+                "name": "La Ladrillera",
+                "municipality": "Moctezuma, San Luis Potosí"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Moctezuma, San Luis Potosí"
+            },
+            {
+                "name": "Moctezuma",
+                "municipality": "Moctezuma, San Luis Potosí"
+            },
+            {
+                "name": "Cristo Rey",
+                "municipality": "Moctezuma, San Luis Potosí"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Moctezuma, San Luis Potosí"
+            }
+        ]
+    },
+    "78925": {
+        "code": "78925",
+        "colonies": [
+            {
+                "name": "San Sebastián",
+                "municipality": "Venado, San Luis Potosí"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Venado, San Luis Potosí"
+            },
+            {
+                "name": "Lomas de Guadalupe",
+                "municipality": "Venado, San Luis Potosí"
+            }
+        ]
+    },
+    "78926": {
+        "code": "78926",
+        "colonies": [
+            {
+                "name": "Loma Linda",
+                "municipality": "Venado, San Luis Potosí"
+            },
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Venado, San Luis Potosí"
+            }
+        ]
+    },
+    "78927": {
+        "code": "78927",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "Venado, San Luis Potosí"
+            },
+            {
+                "name": "Villa de Las Flores",
+                "municipality": "Venado, San Luis Potosí"
+            }
+        ]
+    },
+    "78940": {
+        "code": "78940",
+        "colonies": [
+            {
+                "name": "Villa de Arista Centro",
+                "municipality": "Villa de Arista, San Luis Potosí"
+            },
+            {
+                "name": "Valle de Arista",
+                "municipality": "Villa de Arista, San Luis Potosí"
+            }
+        ]
+    },
+    "78943": {
+        "code": "78943",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Villa de Arista, San Luis Potosí"
+            },
+            {
+                "name": "Los Nogales",
+                "municipality": "Villa de Arista, San Luis Potosí"
+            }
+        ]
+    },
+    "78947": {
+        "code": "78947",
+        "colonies": [
+            {
+                "name": "Niños Héroes",
+                "municipality": "Villa de Arista, San Luis Potosí"
+            }
+        ]
+    },
+    "78950": {
+        "code": "78950",
+        "colonies": [
+            {
+                "name": "Colonia Guadalupe",
+                "municipality": "Villa de Arista, San Luis Potosí"
+            }
+        ]
+    },
+    "78955": {
+        "code": "78955",
+        "colonies": [
+            {
+                "name": "Cirilo Saldaña",
+                "municipality": "Villa de Arista, San Luis Potosí"
+            }
+        ]
+    },
+    "78957": {
+        "code": "78957",
+        "colonies": [
+            {
+                "name": "Colonia Buenavista",
+                "municipality": "Villa de Arista, San Luis Potosí"
+            }
+        ]
+    },
+    "78960": {
+        "code": "78960",
+        "colonies": [
+            {
+                "name": "Villa Hidalgo Centro",
+                "municipality": "Villa Hidalgo, San Luis Potosí"
+            }
+        ]
+    },
+    "78963": {
+        "code": "78963",
+        "colonies": [
+            {
+                "name": "Las Lomas",
+                "municipality": "Villa Hidalgo, San Luis Potosí"
+            }
+        ]
+    },
+    "78965": {
+        "code": "78965",
+        "colonies": [
+            {
+                "name": "Campamento",
+                "municipality": "Villa Hidalgo, San Luis Potosí"
+            },
+            {
+                "name": "La Chinana",
+                "municipality": "Villa Hidalgo, San Luis Potosí"
+            },
+            {
+                "name": "Zapioris",
+                "municipality": "Villa Hidalgo, San Luis Potosí"
+            }
+        ]
+    },
+    "79000": {
+        "code": "79000",
+        "colonies": [
+            {
+                "name": "Ciudad Valles Centro",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79010": {
+        "code": "79010",
+        "colonies": [
+            {
+                "name": "América",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Ferrocarrilera",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Doctor Márquez",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Morelos y Pavón",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Santa María",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79019": {
+        "code": "79019",
+        "colonies": [
+            {
+                "name": "Santa Lucía",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Mujeres en Solidaridad",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Tecnológico",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79020": {
+        "code": "79020",
+        "colonies": [
+            {
+                "name": "12 de Julio",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "18 de Marzo",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Doracely",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Valle Alto",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Campo Colonial",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Granjas Buenos Aires",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Marques",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79025": {
+        "code": "79025",
+        "colonies": [
+            {
+                "name": "18 de Marzo",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Mary Tere",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Las Granjas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79027": {
+        "code": "79027",
+        "colonies": [
+            {
+                "name": "Alfonso Esper",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "El Pacifico",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79028": {
+        "code": "79028",
+        "colonies": [
+            {
+                "name": "2 de Enero",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Tanculpaya",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "El 21",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Las Fincas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Popular Solidaridad",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Victoria",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "S.C.T.",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79030": {
+        "code": "79030",
+        "colonies": [
+            {
+                "name": "Praderas del Río",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Diana",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79033": {
+        "code": "79033",
+        "colonies": [
+            {
+                "name": "Del Campo",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Loma de los Silleros",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Estación",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79034": {
+        "code": "79034",
+        "colonies": [
+            {
+                "name": "Florida",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Palo de Rosa",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79035": {
+        "code": "79035",
+        "colonies": [
+            {
+                "name": "La Diana",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79040": {
+        "code": "79040",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Moctezuma",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Avance",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79043": {
+        "code": "79043",
+        "colonies": [
+            {
+                "name": "Tetuán",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Las Lomas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79050": {
+        "code": "79050",
+        "colonies": [
+            {
+                "name": "Alta Vista",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Jardines del Valle",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Nelly Zulaiman",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Real de Villas II",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Antonio Esper",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Bonifacio Salinas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Lomas del Mirador",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Real de Villas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Altavista",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Méndez",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Mirador",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Porvenir",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Tipzén",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Anfer",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Valle de Oriente",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Villa Real de Santiago",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79059": {
+        "code": "79059",
+        "colonies": [
+            {
+                "name": "Lomas del Porvenir",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "19 de Enero (Las Brisas)",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79060": {
+        "code": "79060",
+        "colonies": [
+            {
+                "name": "Rafael Curiel",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Las Águilas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79063": {
+        "code": "79063",
+        "colonies": [
+            {
+                "name": "San Rafael",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Tantocob",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79064": {
+        "code": "79064",
+        "colonies": [
+            {
+                "name": "Tampico",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "San Ángel I",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79068": {
+        "code": "79068",
+        "colonies": [
+            {
+                "name": "La Pimienta",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Del Carmen",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Palma Sola",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79070": {
+        "code": "79070",
+        "colonies": [
+            {
+                "name": "Juárez",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79080": {
+        "code": "79080",
+        "colonies": [
+            {
+                "name": "Vergel",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Cerillera",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Hidalgo",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Rotarios",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79082": {
+        "code": "79082",
+        "colonies": [
+            {
+                "name": "Lomas de Yuejat",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79084": {
+        "code": "79084",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79090": {
+        "code": "79090",
+        "colonies": [
+            {
+                "name": "Olegario Vizcarra",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79092": {
+        "code": "79092",
+        "colonies": [
+            {
+                "name": "Rodríguez",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Militar",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Real Campestre",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79093": {
+        "code": "79093",
+        "colonies": [
+            {
+                "name": "Oxitipa",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79094": {
+        "code": "79094",
+        "colonies": [
+            {
+                "name": "San Ángel II",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79095": {
+        "code": "79095",
+        "colonies": [
+            {
+                "name": "El Gavilán",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Las Huastecas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "José María Morelos y Pavón",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Gregorio Osuna",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Municipal Valles 85",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79098": {
+        "code": "79098",
+        "colonies": [
+            {
+                "name": "Margarita de Gortari",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79100": {
+        "code": "79100",
+        "colonies": [
+            {
+                "name": "Ebano Centro",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79110": {
+        "code": "79110",
+        "colonies": [
+            {
+                "name": "Zostepec",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Estación",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79120": {
+        "code": "79120",
+        "colonies": [
+            {
+                "name": "Antonio J. Bermúdez",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79122": {
+        "code": "79122",
+        "colonies": [
+            {
+                "name": "Ejido 20 de Noviembre",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79130": {
+        "code": "79130",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79139": {
+        "code": "79139",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "El Hule",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79140": {
+        "code": "79140",
+        "colonies": [
+            {
+                "name": "Obrera",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79142": {
+        "code": "79142",
+        "colonies": [
+            {
+                "name": "Dr. Quintana",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Vicente Inguanzo",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79143": {
+        "code": "79143",
+        "colonies": [
+            {
+                "name": "Primavera",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79150": {
+        "code": "79150",
+        "colonies": [
+            {
+                "name": "Petrolera Lázaro Cárdenas",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Himno Nacional",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79152": {
+        "code": "79152",
+        "colonies": [
+            {
+                "name": "Valle Dorado",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Puerta del Sol",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79153": {
+        "code": "79153",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "Unidad Nacional",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79160": {
+        "code": "79160",
+        "colonies": [
+            {
+                "name": "18 de Marzo",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79161": {
+        "code": "79161",
+        "colonies": [
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79162": {
+        "code": "79162",
+        "colonies": [
+            {
+                "name": "Zona Industrial",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79170": {
+        "code": "79170",
+        "colonies": [
+            {
+                "name": "Tulipanes",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79180": {
+        "code": "79180",
+        "colonies": [
+            {
+                "name": "Vergel",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79182": {
+        "code": "79182",
+        "colonies": [
+            {
+                "name": "Manuel Avila Camacho",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79183": {
+        "code": "79183",
+        "colonies": [
+            {
+                "name": "Campamento SARH",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79190": {
+        "code": "79190",
+        "colonies": [
+            {
+                "name": "Zona Cuartel",
+                "municipality": "Ebano, San Luis Potosí"
+            },
+            {
+                "name": "El Veintiuno",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79200": {
+        "code": "79200",
+        "colonies": [
+            {
+                "name": "Tamuín Centro",
+                "municipality": "Tamuín, San Luis Potosí"
+            }
+        ]
+    },
+    "79202": {
+        "code": "79202",
+        "colonies": [
+            {
+                "name": "Victor Manuel Santos",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "El Campo",
+                "municipality": "Tamuín, San Luis Potosí"
+            }
+        ]
+    },
+    "79203": {
+        "code": "79203",
+        "colonies": [
+            {
+                "name": "Salvador Nava Martínez",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Las Brisas",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "El Mirasol",
+                "municipality": "Tamuín, San Luis Potosí"
+            }
+        ]
+    },
+    "79205": {
+        "code": "79205",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Las Norias",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Hidalgo",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Tamuín, San Luis Potosí"
+            }
+        ]
+    },
+    "79206": {
+        "code": "79206",
+        "colonies": [
+            {
+                "name": "Juárez",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Media Luna",
+                "municipality": "Tamuín, San Luis Potosí"
+            }
+        ]
+    },
+    "79207": {
+        "code": "79207",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Tamuín, San Luis Potosí"
+            }
+        ]
+    },
+    "79208": {
+        "code": "79208",
+        "colonies": [
+            {
+                "name": "Colosio",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Vista Alegre",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Las Gaviotas",
+                "municipality": "Tamuín, San Luis Potosí"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Tamuín, San Luis Potosí"
+            }
+        ]
+    },
+    "79224": {
+        "code": "79224",
+        "colonies": [
+            {
+                "name": "El Porvenir",
+                "municipality": "Tamuín, San Luis Potosí"
+            }
+        ]
+    },
+    "79256": {
+        "code": "79256",
+        "colonies": [
+            {
+                "name": "La Palma",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79273": {
+        "code": "79273",
+        "colonies": [
+            {
+                "name": "Colonia Eligio Quintanilla",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Fraccionamiento las Granjas",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79277": {
+        "code": "79277",
+        "colonies": [
+            {
+                "name": "Troncones y la Corriente",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Juan González",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Luis Donaldo Colosio",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Mano Amiga",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79283": {
+        "code": "79283",
+        "colonies": [
+            {
+                "name": "Colonia Ignacio Zaragoza",
+                "municipality": "Ciudad Valles, San Luis Potosí"
+            }
+        ]
+    },
+    "79292": {
+        "code": "79292",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Ebano, San Luis Potosí"
+            }
+        ]
+    },
+    "79300": {
+        "code": "79300",
+        "colonies": [
+            {
+                "name": "El Naranjo Centro",
+                "municipality": "El Naranjo, San Luis Potosí"
+            }
+        ]
+    },
+    "79303": {
+        "code": "79303",
+        "colonies": [
+            {
+                "name": "Habitacional",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "La Esperanza Norte",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "La Esperanza Sur",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "La Presa",
+                "municipality": "El Naranjo, San Luis Potosí"
+            }
+        ]
+    },
+    "79304": {
+        "code": "79304",
+        "colonies": [
+            {
+                "name": "El Pedregal",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "El Naranjo, San Luis Potosí"
+            }
+        ]
+    },
+    "79305": {
+        "code": "79305",
+        "colonies": [
+            {
+                "name": "La Cruz",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "Arboleda",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "La Encantada",
+                "municipality": "El Naranjo, San Luis Potosí"
+            }
+        ]
+    },
+    "79306": {
+        "code": "79306",
+        "colonies": [
+            {
+                "name": "El Naranjito",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "La Huerta",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "Las Brisas",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "San José",
+                "municipality": "El Naranjo, San Luis Potosí"
+            }
+        ]
+    },
+    "79307": {
+        "code": "79307",
+        "colonies": [
+            {
+                "name": "El Sabinito Plan del Naranjo",
+                "municipality": "El Naranjo, San Luis Potosí"
+            }
+        ]
+    },
+    "79314": {
+        "code": "79314",
+        "colonies": [
+            {
+                "name": "Colonia el Meco",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Salto del Agua",
+                "municipality": "El Naranjo, San Luis Potosí"
+            },
+            {
+                "name": "Las Granjas",
+                "municipality": "El Naranjo, San Luis Potosí"
+            }
+        ]
+    },
+    "79320": {
+        "code": "79320",
+        "colonies": [
+            {
+                "name": "Ciudad del Maíz Centro",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79323": {
+        "code": "79323",
+        "colonies": [
+            {
+                "name": "La Deportiva",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Santo Niño",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Las Lomas",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Las Margaritas",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Jacarandas",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Valle del Maíz",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79324": {
+        "code": "79324",
+        "colonies": [
+            {
+                "name": "La Pista",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Las Alazanas",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79325": {
+        "code": "79325",
+        "colonies": [
+            {
+                "name": "La Alameda",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79326": {
+        "code": "79326",
+        "colonies": [
+            {
+                "name": "San José",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79330": {
+        "code": "79330",
+        "colonies": [
+            {
+                "name": "Colonia Álvaro Obregón",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79333": {
+        "code": "79333",
+        "colonies": [
+            {
+                "name": "Colonia Lagunillas",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79334": {
+        "code": "79334",
+        "colonies": [
+            {
+                "name": "Colonia Carlos Diez Gutiérrez (La Italiana)",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79343": {
+        "code": "79343",
+        "colonies": [
+            {
+                "name": "Colonia la Libertad",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            },
+            {
+                "name": "Colonia la Morita",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79350": {
+        "code": "79350",
+        "colonies": [
+            {
+                "name": "Colonia Agrícola Magdaleno Cedillo",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79354": {
+        "code": "79354",
+        "colonies": [
+            {
+                "name": "Colonia Agrícola Ollitas de las Vacas",
+                "municipality": "Ciudad del Maíz, San Luis Potosí"
+            }
+        ]
+    },
+    "79363": {
+        "code": "79363",
+        "colonies": [
+            {
+                "name": "De Guadalupe",
+                "municipality": "Alaquines, San Luis Potosí"
+            }
+        ]
+    },
+    "79365": {
+        "code": "79365",
+        "colonies": [
+            {
+                "name": "De San José",
+                "municipality": "Alaquines, San Luis Potosí"
+            }
+        ]
+    },
+    "79366": {
+        "code": "79366",
+        "colonies": [
+            {
+                "name": "De la Luz",
+                "municipality": "Alaquines, San Luis Potosí"
+            }
+        ]
+    },
+    "79374": {
+        "code": "79374",
+        "colonies": [
+            {
+                "name": "Colonia Indígena (Pascual Osorio Ortega)",
+                "municipality": "Alaquines, San Luis Potosí"
+            }
+        ]
+    },
+    "79380": {
+        "code": "79380",
+        "colonies": [
+            {
+                "name": "Cárdenas Centro",
+                "municipality": "Cárdenas, San Luis Potosí"
+            }
+        ]
+    },
+    "79382": {
+        "code": "79382",
+        "colonies": [
+            {
+                "name": "Bellavista 2a Sección",
+                "municipality": "Cárdenas, San Luis Potosí"
+            },
+            {
+                "name": "Brownsville",
+                "municipality": "Cárdenas, San Luis Potosí"
+            },
+            {
+                "name": "El Mirador II",
+                "municipality": "Cárdenas, San Luis Potosí"
+            },
+            {
+                "name": "Ferrocarrilera",
+                "municipality": "Cárdenas, San Luis Potosí"
+            }
+        ]
+    },
+    "79384": {
+        "code": "79384",
+        "colonies": [
+            {
+                "name": "INFONAVIT",
+                "municipality": "Cárdenas, San Luis Potosí"
+            },
+            {
+                "name": "Nuevo Venecia",
+                "municipality": "Cárdenas, San Luis Potosí"
+            },
+            {
+                "name": "Sector Corito",
+                "municipality": "Cárdenas, San Luis Potosí"
+            }
+        ]
+    },
+    "79385": {
+        "code": "79385",
+        "colonies": [
+            {
+                "name": "La Atajea",
+                "municipality": "Cárdenas, San Luis Potosí"
+            },
+            {
+                "name": "Astral",
+                "municipality": "Cárdenas, San Luis Potosí"
+            }
+        ]
+    },
+    "79387": {
+        "code": "79387",
+        "colonies": [
+            {
+                "name": "El Mirador",
+                "municipality": "Cárdenas, San Luis Potosí"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Cárdenas, San Luis Potosí"
+            }
+        ]
+    },
+    "79390": {
+        "code": "79390",
+        "colonies": [
+            {
+                "name": "Colonia Agrícola el Naranjo",
+                "municipality": "Cárdenas, San Luis Potosí"
+            }
+        ]
+    },
+    "79397": {
+        "code": "79397",
+        "colonies": [
+            {
+                "name": "Anexo la Atarjea",
+                "municipality": "Cárdenas, San Luis Potosí"
+            }
+        ]
+    },
+    "79440": {
+        "code": "79440",
+        "colonies": [
+            {
+                "name": "Cerritos Centro",
+                "municipality": "Cerritos, San Luis Potosí"
+            }
+        ]
+    },
+    "79442": {
+        "code": "79442",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Cerritos, San Luis Potosí"
+            },
+            {
+                "name": "Nueva Satélite",
+                "municipality": "Cerritos, San Luis Potosí"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Cerritos, San Luis Potosí"
+            }
+        ]
+    },
+    "79443": {
+        "code": "79443",
+        "colonies": [
+            {
+                "name": "Santa Úrsula",
+                "municipality": "Cerritos, San Luis Potosí"
+            }
+        ]
+    },
+    "79444": {
+        "code": "79444",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Cerritos, San Luis Potosí"
+            }
+        ]
+    },
+    "79447": {
+        "code": "79447",
+        "colonies": [
+            {
+                "name": "Aurora",
+                "municipality": "Cerritos, San Luis Potosí"
+            }
+        ]
+    },
+    "79500": {
+        "code": "79500",
+        "colonies": [
+            {
+                "name": "Cahuile",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "Filomeno Mata",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "La Paz",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "Las Granadillas",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "Moderna",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "San Cristóbal",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "Villa de Reyes Centro",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "Cahuila",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "El Salitral",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            }
+        ]
+    },
+    "79506": {
+        "code": "79506",
+        "colonies": [
+            {
+                "name": "El Centenario",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            },
+            {
+                "name": "Las Rusias (Cuesillo)",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            }
+        ]
+    },
+    "79524": {
+        "code": "79524",
+        "colonies": [
+            {
+                "name": "San Lorenzo",
+                "municipality": "Villa de Reyes, San Luis Potosí"
+            }
+        ]
+    },
+    "79540": {
+        "code": "79540",
+        "colonies": [
+            {
+                "name": "Villa de Zaragoza Centro",
+                "municipality": "Zaragoza, San Luis Potosí"
+            }
+        ]
+    },
+    "79543": {
+        "code": "79543",
+        "colonies": [
+            {
+                "name": "El Conguito",
+                "municipality": "Zaragoza, San Luis Potosí"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "Zaragoza, San Luis Potosí"
+            },
+            {
+                "name": "La Barranca",
+                "municipality": "Zaragoza, San Luis Potosí"
+            },
+            {
+                "name": "Jondablito [Bicentenario]",
+                "municipality": "Zaragoza, San Luis Potosí"
+            }
+        ]
+    },
+    "79544": {
+        "code": "79544",
+        "colonies": [
+            {
+                "name": "La Sauceda",
+                "municipality": "Zaragoza, San Luis Potosí"
+            }
+        ]
+    },
+    "79545": {
+        "code": "79545",
+        "colonies": [
+            {
+                "name": "Perpetuo Socorro",
+                "municipality": "Zaragoza, San Luis Potosí"
+            },
+            {
+                "name": "La Calera",
+                "municipality": "Zaragoza, San Luis Potosí"
+            },
+            {
+                "name": "La Lagunita",
+                "municipality": "Zaragoza, San Luis Potosí"
+            }
+        ]
+    },
+    "79557": {
+        "code": "79557",
+        "colonies": [
+            {
+                "name": "Colonia el Pedregal",
+                "municipality": "Zaragoza, San Luis Potosí"
+            },
+            {
+                "name": "Jamay",
+                "municipality": "Zaragoza, San Luis Potosí"
+            }
+        ]
+    },
+    "79560": {
+        "code": "79560",
+        "colonies": [
+            {
+                "name": "Americana",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            },
+            {
+                "name": "Santa María del Río Centro",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            },
+            {
+                "name": "Gustavo Díaz Ordaz",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            },
+            {
+                "name": "Guadalupana",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            },
+            {
+                "name": "Linda Vista",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            },
+            {
+                "name": "María Auxiliadora",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            },
+            {
+                "name": "Las Cruces",
+                "municipality": "Santa María del Río, San Luis Potosí"
+            }
+        ]
+    },
+    "79590": {
+        "code": "79590",
+        "colonies": [
+            {
+                "name": "Tierra Nueva Centro",
+                "municipality": "Tierra Nueva, San Luis Potosí"
+            }
+        ]
+    },
+    "79595": {
+        "code": "79595",
+        "colonies": [
+            {
+                "name": "Paisanos",
+                "municipality": "Tierra Nueva, San Luis Potosí"
+            }
+        ]
+    },
+    "79600": {
+        "code": "79600",
+        "colonies": [
+            {
+                "name": "Colonia María del Rosario (Puente del Carmen)",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Valle Florido",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79604": {
+        "code": "79604",
+        "colonies": [
+            {
+                "name": "Santa Elena",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Colonia la Esperanza Dos",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79610": {
+        "code": "79610",
+        "colonies": [
+            {
+                "name": "Rioverde Centro",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79613": {
+        "code": "79613",
+        "colonies": [
+            {
+                "name": "Gama",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "La Ilusión",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Santa Teresa",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Valle Florido",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Precursores",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Los Frailes",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "San Fancisco de Asis",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79614": {
+        "code": "79614",
+        "colonies": [
+            {
+                "name": "Santa Teresita",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Insurgentes",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79615": {
+        "code": "79615",
+        "colonies": [
+            {
+                "name": "Guadalupana",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Ciudad Nueva",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79616": {
+        "code": "79616",
+        "colonies": [
+            {
+                "name": "Victoria",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Azahares",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79617": {
+        "code": "79617",
+        "colonies": [
+            {
+                "name": "Pedregal de San Marcos",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "La Unión",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "INFONAVIT Ojo de Agua",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Del Valle",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79618": {
+        "code": "79618",
+        "colonies": [
+            {
+                "name": "Los Alonsos",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "El Golfo",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Ferrocarrilero",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79619": {
+        "code": "79619",
+        "colonies": [
+            {
+                "name": "San Antonio",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Los Naranjos",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79620": {
+        "code": "79620",
+        "colonies": [
+            {
+                "name": "La Pasadita",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Isla de San Pablo",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Accion Nacional",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79623": {
+        "code": "79623",
+        "colonies": [
+            {
+                "name": "El Bosque",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79624": {
+        "code": "79624",
+        "colonies": [
+            {
+                "name": "Santa Catarina",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Santa Julia",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Cofradía Grande",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79625": {
+        "code": "79625",
+        "colonies": [
+            {
+                "name": "Santa María de Guadalupe",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "San Marcos",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "La Esperanza II",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "La Cantera",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "La Esperanza 1",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79626": {
+        "code": "79626",
+        "colonies": [
+            {
+                "name": "Jacarandas",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "La Morita",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79640": {
+        "code": "79640",
+        "colonies": [
+            {
+                "name": "Las Grullas",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79644": {
+        "code": "79644",
+        "colonies": [
+            {
+                "name": "Colonia María Asunción del Barrio de los Ángeles",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Redención Nacional",
+                "municipality": "Rioverde, San Luis Potosí"
+            },
+            {
+                "name": "Colonia Independencia",
+                "municipality": "Rioverde, San Luis Potosí"
+            }
+        ]
+    },
+    "79650": {
+        "code": "79650",
+        "colonies": [
+            {
+                "name": "Moras de Frontera",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Ciudad Fernández",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79653": {
+        "code": "79653",
+        "colonies": [
+            {
+                "name": "Cruz del Mezquite",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Puestecitos",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Democracia II",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79654": {
+        "code": "79654",
+        "colonies": [
+            {
+                "name": "Los LLanitos",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Prados de Fertimex I",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Prados de Fertimex II",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Santa María de los LLanitos",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79655": {
+        "code": "79655",
+        "colonies": [
+            {
+                "name": "La Mora",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Los Molinos",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Galeana",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "El Altillo",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Las Fuentes II",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79656": {
+        "code": "79656",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Mezquital del Alto",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79657": {
+        "code": "79657",
+        "colonies": [
+            {
+                "name": "Atletas",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "El Mezquital",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Gama",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Los Álamos",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Democracia I",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Prados de Moctezuma",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79660": {
+        "code": "79660",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79663": {
+        "code": "79663",
+        "colonies": [
+            {
+                "name": "El  Paseo",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79664": {
+        "code": "79664",
+        "colonies": [
+            {
+                "name": "Los Naranjos",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Fracción El Refugio Centro",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79670": {
+        "code": "79670",
+        "colonies": [
+            {
+                "name": "Colonia Camino Real",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Las Pilas",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79673": {
+        "code": "79673",
+        "colonies": [
+            {
+                "name": "San José del Terremoto",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79674": {
+        "code": "79674",
+        "colonies": [
+            {
+                "name": "Mojarras de Arriba",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79675": {
+        "code": "79675",
+        "colonies": [
+            {
+                "name": "La Reformita",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            },
+            {
+                "name": "Solano",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79676": {
+        "code": "79676",
+        "colonies": [
+            {
+                "name": "Colonia Veinte de Noviembre",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79677": {
+        "code": "79677",
+        "colonies": [
+            {
+                "name": "Colonia la Peñita",
+                "municipality": "Ciudad Fernández, San Luis Potosí"
+            }
+        ]
+    },
+    "79680": {
+        "code": "79680",
+        "colonies": [
+            {
+                "name": "San Ciro de Acosta Centro",
+                "municipality": "San Ciro de Acosta, San Luis Potosí"
+            }
+        ]
+    },
+    "79684": {
+        "code": "79684",
+        "colonies": [
+            {
+                "name": "Las Viborillas",
+                "municipality": "San Ciro de Acosta, San Luis Potosí"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "San Ciro de Acosta, San Luis Potosí"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "San Ciro de Acosta, San Luis Potosí"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "San Ciro de Acosta, San Luis Potosí"
+            }
+        ]
+    },
+    "79685": {
+        "code": "79685",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "San Ciro de Acosta, San Luis Potosí"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "San Ciro de Acosta, San Luis Potosí"
+            }
+        ]
+    },
+    "79690": {
+        "code": "79690",
+        "colonies": [
+            {
+                "name": "Colonia Cuauhtémoc",
+                "municipality": "San Ciro de Acosta, San Luis Potosí"
+            }
+        ]
+    },
+    "79710": {
+        "code": "79710",
+        "colonies": [
+            {
+                "name": "Tamasopo Centro",
+                "municipality": "Tamasopo, San Luis Potosí"
+            }
+        ]
+    },
+    "79730": {
+        "code": "79730",
+        "colonies": [
+            {
+                "name": "Obrera",
+                "municipality": "Tamasopo, San Luis Potosí"
+            }
+        ]
+    },
+    "79740": {
+        "code": "79740",
+        "colonies": [
+            {
+                "name": "Rayón",
+                "municipality": "Rayón, San Luis Potosí"
+            }
+        ]
+    },
+    "79760": {
+        "code": "79760",
+        "colonies": [
+            {
+                "name": "El Choy",
+                "municipality": "Aquismón, San Luis Potosí"
+            },
+            {
+                "name": "La Mora",
+                "municipality": "Aquismón, San Luis Potosí"
+            },
+            {
+                "name": "Loma Colorada",
+                "municipality": "Aquismón, San Luis Potosí"
+            },
+            {
+                "name": "Norte",
+                "municipality": "Aquismón, San Luis Potosí"
+            },
+            {
+                "name": "Nueva",
+                "municipality": "Aquismón, San Luis Potosí"
+            }
+        ]
+    },
+    "79773": {
+        "code": "79773",
+        "colonies": [
+            {
+                "name": "Colonia el Mirador",
+                "municipality": "Aquismón, San Luis Potosí"
+            }
+        ]
+    },
+    "79800": {
+        "code": "79800",
+        "colonies": [
+            {
+                "name": "Tancanhuitz Centro",
+                "municipality": "Tancanhuitz, San Luis Potosí"
+            }
+        ]
+    },
+    "79803": {
+        "code": "79803",
+        "colonies": [
+            {
+                "name": "Xolol Bethania",
+                "municipality": "Tancanhuitz, San Luis Potosí"
+            }
+        ]
+    },
+    "79804": {
+        "code": "79804",
+        "colonies": [
+            {
+                "name": "Mexcala",
+                "municipality": "Tancanhuitz, San Luis Potosí"
+            }
+        ]
+    },
+    "79810": {
+        "code": "79810",
+        "colonies": [
+            {
+                "name": "Tanlajás Centro",
+                "municipality": "Tanlajás, San Luis Potosí"
+            }
+        ]
+    },
+    "79814": {
+        "code": "79814",
+        "colonies": [
+            {
+                "name": "Monec",
+                "municipality": "Tanlajás, San Luis Potosí"
+            }
+        ]
+    },
+    "79817": {
+        "code": "79817",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Tanlajás, San Luis Potosí"
+            }
+        ]
+    },
+    "79820": {
+        "code": "79820",
+        "colonies": [
+            {
+                "name": "San Vicente Tancuayalab Centro",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Monte Verde",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "La Granja",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Prof. Leopoldo Zúñiga",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Valle Alto",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Cuayalab",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Alto del Refugio",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Felipe Enríquez",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Altos de San José",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            }
+        ]
+    },
+    "79823": {
+        "code": "79823",
+        "colonies": [
+            {
+                "name": "Flores Magón",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            }
+        ]
+    },
+    "79826": {
+        "code": "79826",
+        "colonies": [
+            {
+                "name": "Nuevo Jomté (Nuevo May)",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            },
+            {
+                "name": "Nuevo Jomté (Tambolón)",
+                "municipality": "San Vicente Tancuayalab, San Luis Potosí"
+            }
+        ]
+    },
+    "79833": {
+        "code": "79833",
+        "colonies": [
+            {
+                "name": "Xolol",
+                "municipality": "San Antonio, San Luis Potosí"
+            },
+            {
+                "name": "Cuéchod",
+                "municipality": "San Antonio, San Luis Potosí"
+            }
+        ]
+    },
+    "79834": {
+        "code": "79834",
+        "colonies": [
+            {
+                "name": "Pa tnel",
+                "municipality": "San Antonio, San Luis Potosí"
+            }
+        ]
+    },
+    "79840": {
+        "code": "79840",
+        "colonies": [
+            {
+                "name": "Tanquián de Escobedo Centro",
+                "municipality": "Tanquián de Escobedo, San Luis Potosí"
+            },
+            {
+                "name": "Terraplén",
+                "municipality": "Tanquián de Escobedo, San Luis Potosí"
+            },
+            {
+                "name": "Alto de Las Flores",
+                "municipality": "Tanquián de Escobedo, San Luis Potosí"
+            },
+            {
+                "name": "La Noria",
+                "municipality": "Tanquián de Escobedo, San Luis Potosí"
+            },
+            {
+                "name": "Unidad",
+                "municipality": "Tanquián de Escobedo, San Luis Potosí"
+            }
+        ]
+    },
+    "79863": {
+        "code": "79863",
+        "colonies": [
+            {
+                "name": "El Sabino",
+                "municipality": "Coxcatlán, San Luis Potosí"
+            }
+        ]
+    },
+    "79864": {
+        "code": "79864",
+        "colonies": [
+            {
+                "name": "Moyotla",
+                "municipality": "Coxcatlán, San Luis Potosí"
+            }
+        ]
+    },
+    "79865": {
+        "code": "79865",
+        "colonies": [
+            {
+                "name": "Suchiaco",
+                "municipality": "Coxcatlán, San Luis Potosí"
+            }
+        ]
+    },
+    "79866": {
+        "code": "79866",
+        "colonies": [
+            {
+                "name": "Tampuchón",
+                "municipality": "Coxcatlán, San Luis Potosí"
+            }
+        ]
+    },
+    "79867": {
+        "code": "79867",
+        "colonies": [
+            {
+                "name": "Mahuajco",
+                "municipality": "Coxcatlán, San Luis Potosí"
+            },
+            {
+                "name": "Ixpatlach",
+                "municipality": "Coxcatlán, San Luis Potosí"
+            }
+        ]
+    },
+    "79878": {
+        "code": "79878",
+        "colonies": [
+            {
+                "name": "Tepotzuapa Primera Sección",
+                "municipality": "Coxcatlán, San Luis Potosí"
+            }
+        ]
+    },
+    "79900": {
+        "code": "79900",
+        "colonies": [
+            {
+                "name": "Jardín",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79901": {
+        "code": "79901",
+        "colonies": [
+            {
+                "name": "El Jobo",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79903": {
+        "code": "79903",
+        "colonies": [
+            {
+                "name": "Cruztitla",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79905": {
+        "code": "79905",
+        "colonies": [
+            {
+                "name": "Cuartillo Nuevo",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79906": {
+        "code": "79906",
+        "colonies": [
+            {
+                "name": "Puerto Encinal",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79908": {
+        "code": "79908",
+        "colonies": [
+            {
+                "name": "Petatillo",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79915": {
+        "code": "79915",
+        "colonies": [
+            {
+                "name": "San Pedro Huitzquilico",
+                "municipality": "Xilitla, San Luis Potosí"
+            },
+            {
+                "name": "El Nacimiento",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79916": {
+        "code": "79916",
+        "colonies": [
+            {
+                "name": "Peña Blanca",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79917": {
+        "code": "79917",
+        "colonies": [
+            {
+                "name": "Chichimixtitla",
+                "municipality": "Xilitla, San Luis Potosí"
+            },
+            {
+                "name": "Las Crucitas",
+                "municipality": "Xilitla, San Luis Potosí"
+            },
+            {
+                "name": "Pitzóatl",
+                "municipality": "Xilitla, San Luis Potosí"
+            },
+            {
+                "name": "Ixtacamel Buenos Aires",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79924": {
+        "code": "79924",
+        "colonies": [
+            {
+                "name": "Zacatipa",
+                "municipality": "Xilitla, San Luis Potosí"
+            },
+            {
+                "name": "El Retén",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79927": {
+        "code": "79927",
+        "colonies": [
+            {
+                "name": "Apetzco",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79928": {
+        "code": "79928",
+        "colonies": [
+            {
+                "name": "Rancho Nuevo",
+                "municipality": "Xilitla, San Luis Potosí"
+            }
+        ]
+    },
+    "79930": {
+        "code": "79930",
+        "colonies": [
+            {
+                "name": "Progreso",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            },
+            {
+                "name": "Jacarandas",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            },
+            {
+                "name": "Santa María Dos",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            },
+            {
+                "name": "Villa de Guadalupe",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            },
+            {
+                "name": "La Realidad",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            },
+            {
+                "name": "Villas de Santa María",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            }
+        ]
+    },
+    "79938": {
+        "code": "79938",
+        "colonies": [
+            {
+                "name": "Cuayo Cerro",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            },
+            {
+                "name": "La Purísima",
+                "municipality": "Axtla de Terrazas, San Luis Potosí"
+            }
+        ]
+    },
+    "79942": {
+        "code": "79942",
+        "colonies": [
+            {
+                "name": "La Mata",
+                "municipality": "Tampacán, San Luis Potosí"
+            }
+        ]
+    },
+    "79943": {
+        "code": "79943",
+        "colonies": [
+            {
+                "name": "Palolco",
+                "municipality": "Tampacán, San Luis Potosí"
+            },
+            {
+                "name": "Xochiayo",
+                "municipality": "Tampacán, San Luis Potosí"
+            }
+        ]
+    },
+    "79944": {
+        "code": "79944",
+        "colonies": [
+            {
+                "name": "La Soledad",
+                "municipality": "Tampacán, San Luis Potosí"
+            }
+        ]
+    },
+    "79946": {
+        "code": "79946",
+        "colonies": [
+            {
+                "name": "Tenextitla Uno",
+                "municipality": "Tampacán, San Luis Potosí"
+            }
+        ]
+    },
+    "79947": {
+        "code": "79947",
+        "colonies": [
+            {
+                "name": "Nuevo Jalpilla",
+                "municipality": "Tampacán, San Luis Potosí"
+            }
+        ]
+    },
+    "79950": {
+        "code": "79950",
+        "colonies": [
+            {
+                "name": "Cuartel I",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Cuartel IV",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "San Martín Chalchicuautla",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Cuartel II",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Cuartel III",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            }
+        ]
+    },
+    "79953": {
+        "code": "79953",
+        "colonies": [
+            {
+                "name": "Tepetlayo",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Apaxtiantla (Apaxtiantlán)",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            }
+        ]
+    },
+    "79957": {
+        "code": "79957",
+        "colonies": [
+            {
+                "name": "Totolteo",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Lalaxo",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Manchoc",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Chachatipa",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Terrerito",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            },
+            {
+                "name": "Chupadero Dos",
+                "municipality": "San Martín Chalchicuautla, San Luis Potosí"
+            }
+        ]
+    },
+    "79960": {
+        "code": "79960",
+        "colonies": [
+            {
+                "name": "Ixtlapalaco",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Roma",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Tamazunchale Centro",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Estrella",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Los Naranjos",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Xew",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Emiliano Zapata Sección I",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Los Tamarindos",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Tencazapa y Netzahualcoyotl",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "La Cañada",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Mirador",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79962": {
+        "code": "79962",
+        "colonies": [
+            {
+                "name": "Palictla",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79964": {
+        "code": "79964",
+        "colonies": [
+            {
+                "name": "Mazatétl",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Tacial",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79967": {
+        "code": "79967",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Xilhuazo",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79970": {
+        "code": "79970",
+        "colonies": [
+            {
+                "name": "Villa Lolita",
+                "municipality": "Matlapa, San Luis Potosí"
+            },
+            {
+                "name": "Matlapa Centro",
+                "municipality": "Matlapa, San Luis Potosí"
+            },
+            {
+                "name": "Los Naranjos",
+                "municipality": "Matlapa, San Luis Potosí"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Matlapa, San Luis Potosí"
+            }
+        ]
+    },
+    "79976": {
+        "code": "79976",
+        "colonies": [
+            {
+                "name": "Rancho Loma Bonita",
+                "municipality": "Matlapa, San Luis Potosí"
+            },
+            {
+                "name": "Apanco",
+                "municipality": "Matlapa, San Luis Potosí"
+            },
+            {
+                "name": "Tamala",
+                "municipality": "Matlapa, San Luis Potosí"
+            }
+        ]
+    },
+    "79977": {
+        "code": "79977",
+        "colonies": [
+            {
+                "name": "La Peñita (La Peña)",
+                "municipality": "Matlapa, San Luis Potosí"
+            },
+            {
+                "name": "Coaquentla",
+                "municipality": "Matlapa, San Luis Potosí"
+            },
+            {
+                "name": "Tlaxco",
+                "municipality": "Matlapa, San Luis Potosí"
+            }
+        ]
+    },
+    "79978": {
+        "code": "79978",
+        "colonies": [
+            {
+                "name": "Matlapa (Doce de Octubre)",
+                "municipality": "Matlapa, San Luis Potosí"
+            }
+        ]
+    },
+    "79980": {
+        "code": "79980",
+        "colonies": [
+            {
+                "name": "La Cruz",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79982": {
+        "code": "79982",
+        "colonies": [
+            {
+                "name": "Temamatla",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Tenexco",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79986": {
+        "code": "79986",
+        "colonies": [
+            {
+                "name": "Tecomate Uno",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79987": {
+        "code": "79987",
+        "colonies": [
+            {
+                "name": "Encino Solo",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79990": {
+        "code": "79990",
+        "colonies": [
+            {
+                "name": "Colonia Nezahualcóyotl",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79994": {
+        "code": "79994",
+        "colonies": [
+            {
+                "name": "Zoquitipa",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79995": {
+        "code": "79995",
+        "colonies": [
+            {
+                "name": "Santa María Picula",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    },
+    "79997": {
+        "code": "79997",
+        "colonies": [
+            {
+                "name": "Pahuayo San Miguel",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            },
+            {
+                "name": "Tetlama",
+                "municipality": "Tamazunchale, San Luis Potosí"
+            }
+        ]
+    }
+}

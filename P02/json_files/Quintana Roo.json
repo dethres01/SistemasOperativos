@@ -1,0 +1,2316 @@
+{
+    "77000": {
+        "code": "77000",
+        "colonies": [
+            {
+                "name": "Chetumal Centro",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77010": {
+        "code": "77010",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Naval",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Isabel Tenorio",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77012": {
+        "code": "77012",
+        "colonies": [
+            {
+                "name": "Venustiano Carranza (Casitas)",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77013": {
+        "code": "77013",
+        "colonies": [
+            {
+                "name": "David G Gutiérrez Ruiz",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77014": {
+        "code": "77014",
+        "colonies": [
+            {
+                "name": "Unidad Antorchista",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77015": {
+        "code": "77015",
+        "colonies": [
+            {
+                "name": "Constituyentes",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77016": {
+        "code": "77016",
+        "colonies": [
+            {
+                "name": "Leona Vicario",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Martínez Ross",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77017": {
+        "code": "77017",
+        "colonies": [
+            {
+                "name": "Ley Federal de Agua",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "SAHOP",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77018": {
+        "code": "77018",
+        "colonies": [
+            {
+                "name": "5 de Abril",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Avancemos Juntos",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77019": {
+        "code": "77019",
+        "colonies": [
+            {
+                "name": "Del Bosque",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77020": {
+        "code": "77020",
+        "colonies": [
+            {
+                "name": "Gonzalo Guerrero",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77024": {
+        "code": "77024",
+        "colonies": [
+            {
+                "name": "Fovissste (II Etapa)",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77025": {
+        "code": "77025",
+        "colonies": [
+            {
+                "name": "Forjadores de Quintana Roo",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77026": {
+        "code": "77026",
+        "colonies": [
+            {
+                "name": "Jardines",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77027": {
+        "code": "77027",
+        "colonies": [
+            {
+                "name": "Miraflores",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77028": {
+        "code": "77028",
+        "colonies": [
+            {
+                "name": "8 de Octubre",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77029": {
+        "code": "77029",
+        "colonies": [
+            {
+                "name": "Lagunitas",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77034": {
+        "code": "77034",
+        "colonies": [
+            {
+                "name": "Framboyanes",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77035": {
+        "code": "77035",
+        "colonies": [
+            {
+                "name": "Italia",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77036": {
+        "code": "77036",
+        "colonies": [
+            {
+                "name": "Josefa Ortiz de Domínguez",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77037": {
+        "code": "77037",
+        "colonies": [
+            {
+                "name": "Aserradero",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Taxistas",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77038": {
+        "code": "77038",
+        "colonies": [
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77039": {
+        "code": "77039",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77040": {
+        "code": "77040",
+        "colonies": [
+            {
+                "name": "Santa Isabel",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77049": {
+        "code": "77049",
+        "colonies": [
+            {
+                "name": "Estatuto Jurídico (FOVISSSTE 5a Etapa)",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77050": {
+        "code": "77050",
+        "colonies": [
+            {
+                "name": "Infonavit Hermanos Flores Magón",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Fovissste (I Etapa)",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77060": {
+        "code": "77060",
+        "colonies": [
+            {
+                "name": "Militar",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77079": {
+        "code": "77079",
+        "colonies": [
+            {
+                "name": "Zona de Granjas",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77082": {
+        "code": "77082",
+        "colonies": [
+            {
+                "name": "Jardines de Payo Obispo",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77083": {
+        "code": "77083",
+        "colonies": [
+            {
+                "name": "Nuevo Progreso",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Tamalcab",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Payo Obispo",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77086": {
+        "code": "77086",
+        "colonies": [
+            {
+                "name": "Andrés Quintana Roo",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Espíritu Santo",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Comité Proterritorio",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Caribe",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Territorio Federal de Quintana Roo",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77090": {
+        "code": "77090",
+        "colonies": [
+            {
+                "name": "Plutarco Elías Calles",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77099": {
+        "code": "77099",
+        "colonies": [
+            {
+                "name": "Primera Legislatura",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77118": {
+        "code": "77118",
+        "colonies": [
+            {
+                "name": "Yalchén",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77200": {
+        "code": "77200",
+        "colonies": [
+            {
+                "name": "Felipe Carrillo Puerto Centro",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77210": {
+        "code": "77210",
+        "colonies": [
+            {
+                "name": "Leona Vicario",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77214": {
+        "code": "77214",
+        "colonies": [
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77215": {
+        "code": "77215",
+        "colonies": [
+            {
+                "name": "Plan de Ayutla",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77216": {
+        "code": "77216",
+        "colonies": [
+            {
+                "name": "Plan de Guadalupe",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77217": {
+        "code": "77217",
+        "colonies": [
+            {
+                "name": "Plan de La Noria",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77220": {
+        "code": "77220",
+        "colonies": [
+            {
+                "name": "Jesús Martínez Ross",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77229": {
+        "code": "77229",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77230": {
+        "code": "77230",
+        "colonies": [
+            {
+                "name": "Cecilio Chi",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77238": {
+        "code": "77238",
+        "colonies": [
+            {
+                "name": "Rafael E Melgar",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77239": {
+        "code": "77239",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77240": {
+        "code": "77240",
+        "colonies": [
+            {
+                "name": "Francisco May",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77249": {
+        "code": "77249",
+        "colonies": [
+            {
+                "name": "Constituyentes",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            },
+            {
+                "name": "María Villanueva Madrid",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77250": {
+        "code": "77250",
+        "colonies": [
+            {
+                "name": "Juan Bautista Vega",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77259": {
+        "code": "77259",
+        "colonies": [
+            {
+                "name": "Javier Rojo Gómez",
+                "municipality": "Felipe Carrillo Puerto, Quintana Roo"
+            }
+        ]
+    },
+    "77300": {
+        "code": "77300",
+        "colonies": [
+            {
+                "name": "Kantunilkin Centro",
+                "municipality": "Lázaro Cárdenas, Quintana Roo"
+            }
+        ]
+    },
+    "77302": {
+        "code": "77302",
+        "colonies": [
+            {
+                "name": "Xaman - Kah",
+                "municipality": "Lázaro Cárdenas, Quintana Roo"
+            }
+        ]
+    },
+    "77303": {
+        "code": "77303",
+        "colonies": [
+            {
+                "name": "Borge Martín",
+                "municipality": "Lázaro Cárdenas, Quintana Roo"
+            }
+        ]
+    },
+    "77304": {
+        "code": "77304",
+        "colonies": [
+            {
+                "name": "Unidad Deportiva",
+                "municipality": "Lázaro Cárdenas, Quintana Roo"
+            }
+        ]
+    },
+    "77305": {
+        "code": "77305",
+        "colonies": [
+            {
+                "name": "Capa",
+                "municipality": "Lázaro Cárdenas, Quintana Roo"
+            }
+        ]
+    },
+    "77306": {
+        "code": "77306",
+        "colonies": [
+            {
+                "name": "Terencio Tah",
+                "municipality": "Lázaro Cárdenas, Quintana Roo"
+            }
+        ]
+    },
+    "77307": {
+        "code": "77307",
+        "colonies": [
+            {
+                "name": "Expo",
+                "municipality": "Lázaro Cárdenas, Quintana Roo"
+            }
+        ]
+    },
+    "77378": {
+        "code": "77378",
+        "colonies": [
+            {
+                "name": "Antorchista",
+                "municipality": "Lázaro Cárdenas, Quintana Roo"
+            }
+        ]
+    },
+    "77400": {
+        "code": "77400",
+        "colonies": [
+            {
+                "name": "El Cañotal",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Isla Mujeres Centro",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "La Gloria",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Miraflores",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Isla Blanca",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Metereológico",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Lolbe",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Salina Grande",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Caridad del Cobre",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Salina Chica",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Ampliación la Gloria",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            }
+        ]
+    },
+    "77402": {
+        "code": "77402",
+        "colonies": [
+            {
+                "name": "Mar Caribe",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Vista Alegre",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            }
+        ]
+    },
+    "77406": {
+        "code": "77406",
+        "colonies": [
+            {
+                "name": "Islote de Carbonera",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            }
+        ]
+    },
+    "77407": {
+        "code": "77407",
+        "colonies": [
+            {
+                "name": "Puerto de Abrigo",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Electricistas",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Caribeña",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            }
+        ]
+    },
+    "77408": {
+        "code": "77408",
+        "colonies": [
+            {
+                "name": "Islote El Yunque",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            }
+        ]
+    },
+    "77409": {
+        "code": "77409",
+        "colonies": [
+            {
+                "name": "Prolongación Aeropuerto",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            }
+        ]
+    },
+    "77410": {
+        "code": "77410",
+        "colonies": [
+            {
+                "name": "La Guadalupana",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Monte Olivo",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 1",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "El Nazareno",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            }
+        ]
+    },
+    "77412": {
+        "code": "77412",
+        "colonies": [
+            {
+                "name": "Nueva Tierra",
+                "municipality": "Isla Mujeres, Quintana Roo"
+            }
+        ]
+    },
+    "77500": {
+        "code": "77500",
+        "colonies": [
+            {
+                "name": "Cancún Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 20 Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 1 Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 2 Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 2a Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 3 Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 4 Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 5 Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 22 Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 23 Centro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 52",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 4 A",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77503": {
+        "code": "77503",
+        "colonies": [
+            {
+                "name": "Supermanzana 6a",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 7",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 9",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 6b",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 6c",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 6d",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 6e",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 6f",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 10",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77504": {
+        "code": "77504",
+        "colonies": [
+            {
+                "name": "Supermanzana 8",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 11",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 12",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 13",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 14",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77505": {
+        "code": "77505",
+        "colonies": [
+            {
+                "name": "Supermanzana 15",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 15a",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 16",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 17",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 18",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 19",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 35",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 36",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 21",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77506": {
+        "code": "77506",
+        "colonies": [
+            {
+                "name": "Supermanzana 43",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 44",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 45",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 46",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 47",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 53",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77507": {
+        "code": "77507",
+        "colonies": [
+            {
+                "name": "Supermanzana 37",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 38",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 39",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 40",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 41",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 42",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77508": {
+        "code": "77508",
+        "colonies": [
+            {
+                "name": "Supermanzana 29",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 31",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 32",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 34",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 33",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77509": {
+        "code": "77509",
+        "colonies": [
+            {
+                "name": "Supermanzana 26",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 24",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 25",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 27",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 30",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 28",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77510": {
+        "code": "77510",
+        "colonies": [
+            {
+                "name": "Supermanzana 66",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 231",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 232",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 233",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 67",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 69",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 70",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 71",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 72",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 240",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 73",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 234",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 235",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 90",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77513": {
+        "code": "77513",
+        "colonies": [
+            {
+                "name": "Supermanzana 63",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 62",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77514": {
+        "code": "77514",
+        "colonies": [
+            {
+                "name": "Supermanzana 60",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 61",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77515": {
+        "code": "77515",
+        "colonies": [
+            {
+                "name": "Supermanzana 58",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 59",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77516": {
+        "code": "77516",
+        "colonies": [
+            {
+                "name": "Supermanzana 245",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Los García",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Sac-Be",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 91",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 92",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 228",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 229",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 230",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 227",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 225",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 226",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Guerrero",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77517": {
+        "code": "77517",
+        "colonies": [
+            {
+                "name": "Supermanzana 93",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 94",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 219",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 220",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 221",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 222",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 223",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77518": {
+        "code": "77518",
+        "colonies": [
+            {
+                "name": "Supermanzana 100",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 218",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 216",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 217",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 253",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77519": {
+        "code": "77519",
+        "colonies": [
+            {
+                "name": "Paraíso",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 206",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 208",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 213",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 101",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 210",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 211",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Petén",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Las Lajas",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 212",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 209",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77520": {
+        "code": "77520",
+        "colonies": [
+            {
+                "name": "Supermanzana 86",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 85",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77524": {
+        "code": "77524",
+        "colonies": [
+            {
+                "name": "Supermanzana 64",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 65",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 68",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Donceles",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77525": {
+        "code": "77525",
+        "colonies": [
+            {
+                "name": "Supermanzana 84",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77526": {
+        "code": "77526",
+        "colonies": [
+            {
+                "name": "Supermanzana 74",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Lombardo Toledano",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77527": {
+        "code": "77527",
+        "colonies": [
+            {
+                "name": "Los Cedros",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "San Martín Caballero",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Nuevo Amanecer",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Nuevo Pedregal",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "San Alfredo",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Los Tucanes (Supermanzana 242)",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 243",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 244",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 75",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 76",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 236",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 238",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 237",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 239",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 89",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 241",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "La Morena",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "3 Hermanos",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77528": {
+        "code": "77528",
+        "colonies": [
+            {
+                "name": "Supermanzana 77",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 78",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77530": {
+        "code": "77530",
+        "colonies": [
+            {
+                "name": "Supermanzana 97",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77533": {
+        "code": "77533",
+        "colonies": [
+            {
+                "name": "Supermanzana 313",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 54",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 49",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 50",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 51",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 502",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 503",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 504",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 505",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 506",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 507",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 508",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 509",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 501",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 500",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Costa del Mar",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Chamuyil",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 57",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 55",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 312",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77534": {
+        "code": "77534",
+        "colonies": [
+            {
+                "name": "Supermanzana 95",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 510",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 511",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 512",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Santa Fe Plus",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 525",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77535": {
+        "code": "77535",
+        "colonies": [
+            {
+                "name": "Supermanzana 327",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 96",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 516",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 526",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 527",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 528",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77536": {
+        "code": "77536",
+        "colonies": [
+            {
+                "name": "Supermanzana 534",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 530",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Nuevo Milenio",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "El Milagro",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "La Libertad",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 99",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 517",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 522",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Villas de Alba",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 529",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 550",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 531",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 318",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 320",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 326",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 319",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "La Amistad",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Fraccionamiento Galaxia Altamar",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Privanza Stellaris",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77537": {
+        "code": "77537",
+        "colonies": [
+            {
+                "name": "Supermanzana 98",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Jardines Cancún",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77538": {
+        "code": "77538",
+        "colonies": [
+            {
+                "name": "Supermanzana 102",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77539": {
+        "code": "77539",
+        "colonies": [
+            {
+                "name": "Supermanzana 107",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 260",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Cuna Maya (Supermanzana 203)",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 103",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 104",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 105",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 106",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 200",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "México",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 117",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77560": {
+        "code": "77560",
+        "colonies": [
+            {
+                "name": "Doctores",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 295",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 296",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 297",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Alfredo V Bonfil",
+                "municipality": "Benito Juárez, Quintana Roo"
+            },
+            {
+                "name": "Supermanzana 299",
+                "municipality": "Benito Juárez, Quintana Roo"
+            }
+        ]
+    },
+    "77580": {
+        "code": "77580",
+        "colonies": [
+            {
+                "name": "Puerto Morelos",
+                "municipality": "Puerto Morelos, Quintana Roo"
+            },
+            {
+                "name": "Joaquín Zetina Gasca",
+                "municipality": "Puerto Morelos, Quintana Roo"
+            }
+        ]
+    },
+    "77590": {
+        "code": "77590",
+        "colonies": [
+            {
+                "name": "Leona Vicario",
+                "municipality": "Puerto Morelos, Quintana Roo"
+            }
+        ]
+    },
+    "77600": {
+        "code": "77600",
+        "colonies": [
+            {
+                "name": "Cozumel Centro",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77613": {
+        "code": "77613",
+        "colonies": [
+            {
+                "name": "Zona Hotelera Norte",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77620": {
+        "code": "77620",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77622": {
+        "code": "77622",
+        "colonies": [
+            {
+                "name": "10 de Abril",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77645": {
+        "code": "77645",
+        "colonies": [
+            {
+                "name": "Chen-tuk",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "Juan Bautista de La Vega",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77660": {
+        "code": "77660",
+        "colonies": [
+            {
+                "name": "Flamingos II",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "Flamingos I",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "Maravilla",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77664": {
+        "code": "77664",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "Andrés Q. Roo",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "Colonos Cuzamil",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77665": {
+        "code": "77665",
+        "colonies": [
+            {
+                "name": "San Miguel 1",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77666": {
+        "code": "77666",
+        "colonies": [
+            {
+                "name": "San Miguel 2",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "San Miguel 3",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77667": {
+        "code": "77667",
+        "colonies": [
+            {
+                "name": "Cuzamil",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "San Gervasio",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "Flores Magón 1 y 2",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "Repobladores de 1848",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "Adolfo L. Mateos",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77670": {
+        "code": "77670",
+        "colonies": [
+            {
+                "name": "Taxistas",
+                "municipality": "Cozumel, Quintana Roo"
+            },
+            {
+                "name": "C T M",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77673": {
+        "code": "77673",
+        "colonies": [
+            {
+                "name": "Huerto Familiar",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77675": {
+        "code": "77675",
+        "colonies": [
+            {
+                "name": "Zona Hotelera Sur",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77676": {
+        "code": "77676",
+        "colonies": [
+            {
+                "name": "Ix-chel",
+                "municipality": "Cozumel, Quintana Roo"
+            }
+        ]
+    },
+    "77710": {
+        "code": "77710",
+        "colonies": [
+            {
+                "name": "Playa del Carmen Centro",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77712": {
+        "code": "77712",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Solidaridad, Quintana Roo"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "Solidaridad, Quintana Roo"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77713": {
+        "code": "77713",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77714": {
+        "code": "77714",
+        "colonies": [
+            {
+                "name": "28 de Julio",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77716": {
+        "code": "77716",
+        "colonies": [
+            {
+                "name": "Forjadores",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77717": {
+        "code": "77717",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77720": {
+        "code": "77720",
+        "colonies": [
+            {
+                "name": "Gonzalo Guerrero",
+                "municipality": "Solidaridad, Quintana Roo"
+            },
+            {
+                "name": "Zazil Ha",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77723": {
+        "code": "77723",
+        "colonies": [
+            {
+                "name": "Cruz de Servicios",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77727": {
+        "code": "77727",
+        "colonies": [
+            {
+                "name": "Nicte-ha",
+                "municipality": "Solidaridad, Quintana Roo"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77728": {
+        "code": "77728",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77740": {
+        "code": "77740",
+        "colonies": [
+            {
+                "name": "Playa del Secreto",
+                "municipality": "Solidaridad, Quintana Roo"
+            }
+        ]
+    },
+    "77760": {
+        "code": "77760",
+        "colonies": [
+            {
+                "name": "Maya Pax",
+                "municipality": "Tulum, Quintana Roo"
+            },
+            {
+                "name": "Tulum Centro",
+                "municipality": "Tulum, Quintana Roo"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Tulum, Quintana Roo"
+            }
+        ]
+    },
+    "77762": {
+        "code": "77762",
+        "colonies": [
+            {
+                "name": "Xul Kaa",
+                "municipality": "Tulum, Quintana Roo"
+            },
+            {
+                "name": "Ya Ax Tulum",
+                "municipality": "Tulum, Quintana Roo"
+            }
+        ]
+    },
+    "77772": {
+        "code": "77772",
+        "colonies": [
+            {
+                "name": "Bahías de Punta Solimán",
+                "municipality": "Tulum, Quintana Roo"
+            },
+            {
+                "name": "Tankah Cuatro",
+                "municipality": "Tulum, Quintana Roo"
+            }
+        ]
+    },
+    "77800": {
+        "code": "77800",
+        "colonies": [
+            {
+                "name": "Pocito",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "México",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "Guadalupana",
+                "municipality": "José María Morelos, Quintana Roo"
+            }
+        ]
+    },
+    "77890": {
+        "code": "77890",
+        "colonies": [
+            {
+                "name": "Javier Rojo Gómez",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "Miraflores",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "José María Morelos",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "Santa Lucia",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "Mayab",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "Dolores",
+                "municipality": "José María Morelos, Quintana Roo"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "José María Morelos, Quintana Roo"
+            }
+        ]
+    },
+    "77914": {
+        "code": "77914",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Bacalar, Quintana Roo"
+            }
+        ]
+    },
+    "77930": {
+        "code": "77930",
+        "colonies": [
+            {
+                "name": "Bacalar Centro",
+                "municipality": "Bacalar, Quintana Roo"
+            }
+        ]
+    },
+    "77933": {
+        "code": "77933",
+        "colonies": [
+            {
+                "name": "Sor Juana Inés de La Cruz",
+                "municipality": "Bacalar, Quintana Roo"
+            },
+            {
+                "name": "Diego Rojas",
+                "municipality": "Bacalar, Quintana Roo"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Bacalar, Quintana Roo"
+            }
+        ]
+    },
+    "77934": {
+        "code": "77934",
+        "colonies": [
+            {
+                "name": "Serapio Flota Mass",
+                "municipality": "Bacalar, Quintana Roo"
+            },
+            {
+                "name": "Gonzalo Guerrero",
+                "municipality": "Bacalar, Quintana Roo"
+            },
+            {
+                "name": "Salinas de Gortari",
+                "municipality": "Bacalar, Quintana Roo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Bacalar, Quintana Roo"
+            }
+        ]
+    },
+    "77935": {
+        "code": "77935",
+        "colonies": [
+            {
+                "name": "Mario Villanueva",
+                "municipality": "Bacalar, Quintana Roo"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Bacalar, Quintana Roo"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Bacalar, Quintana Roo"
+            }
+        ]
+    },
+    "77936": {
+        "code": "77936",
+        "colonies": [
+            {
+                "name": "Aarón Merino",
+                "municipality": "Bacalar, Quintana Roo"
+            }
+        ]
+    },
+    "77937": {
+        "code": "77937",
+        "colonies": [
+            {
+                "name": "Colosio",
+                "municipality": "Bacalar, Quintana Roo"
+            }
+        ]
+    },
+    "77944": {
+        "code": "77944",
+        "colonies": [
+            {
+                "name": "Andrés Quintana Roo",
+                "municipality": "Bacalar, Quintana Roo"
+            }
+        ]
+    },
+    "77954": {
+        "code": "77954",
+        "colonies": [
+            {
+                "name": "Cedro",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "10 de Septiembre",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    },
+    "77960": {
+        "code": "77960",
+        "colonies": [
+            {
+                "name": "Centro Calderitas",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Veracruz",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Yucatán",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Othón P. Blanco, Quintana Roo"
+            }
+        ]
+    }
+}
