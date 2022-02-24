@@ -6,7 +6,6 @@ package cmd
 
 import (
 	"fmt"
-	"io"
 	"log"
 	"os"
 
@@ -35,44 +34,26 @@ var renombrarCmd = &cobra.Command{
 
 //renombrarFichero
 func renombrarFichero(nombreFichero string, nuevoNombre string) {
-	// get the file and copy it to json_files_manipulated
 	// check if original file exists
 	if _, err := os.Stat("json_files/" + nombreFichero + ".json"); os.IsNotExist(err) {
 		log.Fatal("No existe el fichero")
 	}
 	fmt.Println("El fichero " + nombreFichero + ".json existe")
-	// check if new file exists
-	if _, err := os.Stat("json_files_manipulated/" + nuevoNombre + ".json"); os.IsNotExist(err) {
-		fmt.Println("El fichero " + nuevoNombre + ".json no existe")
-		// copy the file
-		copyFile("json_files/"+nombreFichero+".json", "json_files_manipulated/"+nuevoNombre+".json")
-		fmt.Println("Se copio el fichero " + nombreFichero + ".json a " + nuevoNombre + ".json")
+	// check if new file exists in the same directory
+	if _, err := os.Stat("json_files/" + nuevoNombre + ".json"); !os.IsNotExist(err) {
+		log.Fatal("Ya existe un fichero con ese nombre")
 	} else {
-		fmt.Println("El fichero " + nuevoNombre + ".json ya existe")
+		// rename the file
+		err := os.Rename("json_files/"+nombreFichero+".json", "json_files/"+nuevoNombre+".json")
+		if err != nil {
+			log.Fatal(err)
+		}
 	}
+
 }
 
 // COPY FILE
-func copyFile(src string, dest string) {
-	in, err := os.Open(src)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer in.Close()
-	out, err := os.Create(dest)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer out.Close()
-	_, err = io.Copy(out, in)
-	if err != nil {
-		log.Fatal(err)
-	}
-	err = out.Sync()
-	if err != nil {
-		log.Fatal(err)
-	}
-}
+
 func init() {
 	rootCmd.AddCommand(renombrarCmd)
 	renombrarCmd.Flags().StringP("nombre_fichero", "o", "", "Nombre del fichero")     //old name

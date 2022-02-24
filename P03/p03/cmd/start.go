@@ -18,15 +18,11 @@ var startCmd = &cobra.Command{
 	Short: "Inicializa los archivos y directorios para la aplicacion",
 	Long:  `Copia los archivos de la carpeta json_files para poder manipular sin perder la informacion original.`,
 	Run: func(cmd *cobra.Command, args []string) {
+		// one part of me wants to keep data integrity but maybe I'm overthinking it and we don't need it for the moment
 		if _, err := os.Stat("json_files"); os.IsNotExist(err) {
 			log.Fatal("No existe el directorio json_files")
 		}
 		fmt.Println("La carpeta con los archivos json_files existe")
-		// create directory where manipulated files will go
-		if _, err := os.Stat("json_files_manipulated"); os.IsNotExist(err) {
-			os.Mkdir("json_files_manipulated", 0777)
-		}
-		fmt.Println("Se creo o se comprobó la existencia del directorio json_files_manipulated")
 
 	},
 }
