@@ -1,0 +1,1886 @@
+{
+    "23000": {
+        "code": "23000",
+        "colonies": [
+            {
+                "name": "Zona Central",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23010": {
+        "code": "23010",
+        "colonies": [
+            {
+                "name": "Ciudad del Cielo",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Colina del Sol",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Lomas de Palmira",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Agustín Olachea",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23017": {
+        "code": "23017",
+        "colonies": [
+            {
+                "name": "Paseos del Cortes",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23018": {
+        "code": "23018",
+        "colonies": [
+            {
+                "name": "Reforma",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23019": {
+        "code": "23019",
+        "colonies": [
+            {
+                "name": "Policentro Palmira",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Punta Prieta",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23020": {
+        "code": "23020",
+        "colonies": [
+            {
+                "name": "Colina de La Cruz",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Esterito",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Ladrillera",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Guerrero",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23026": {
+        "code": "23026",
+        "colonies": [
+            {
+                "name": "Antonio Navarro Rubio",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Antonio Navarro Rubio",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23029": {
+        "code": "23029",
+        "colonies": [
+            {
+                "name": "Zona Militar",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23030": {
+        "code": "23030",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Lienzo Charro",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "San Pablo Guelatao",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23034": {
+        "code": "23034",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23037": {
+        "code": "23037",
+        "colonies": [
+            {
+                "name": "Jacinto Lopez",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23038": {
+        "code": "23038",
+        "colonies": [
+            {
+                "name": "Loma Obrera",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Los Paredones",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Lázaro Cárdenas",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Villas de Guadalupe",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Laguna Azul",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Marquez de Leon",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Marquez de Leon",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23039": {
+        "code": "23039",
+        "colonies": [
+            {
+                "name": "La Escondida",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23040": {
+        "code": "23040",
+        "colonies": [
+            {
+                "name": "Adolfo Ruiz Cortines",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "La Rinconada",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Los Olivos",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Petrolera",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "ISSSTE",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23050": {
+        "code": "23050",
+        "colonies": [
+            {
+                "name": "Bella Vista",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Benito Juárez Oriente",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Roma",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Rosaura Zapata",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Tecnológico",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Misiones de Loreto",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Cruz de Piedra",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Bella Vista Plus",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23052": {
+        "code": "23052",
+        "colonies": [
+            {
+                "name": "20 de Noviembre",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23055": {
+        "code": "23055",
+        "colonies": [
+            {
+                "name": "Jardines del Sur",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Jardines del Sur",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23056": {
+        "code": "23056",
+        "colonies": [
+            {
+                "name": "Flores Magón",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Popular Indeco",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23060": {
+        "code": "23060",
+        "colonies": [
+            {
+                "name": "California",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Barrio El Manglito",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Inalámbrica",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Su Casa",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23070": {
+        "code": "23070",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Oro Blanco",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Residencial las Garzas",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Indeco",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23075": {
+        "code": "23075",
+        "colonies": [
+            {
+                "name": "Balandra",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "3 de Mayo",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Agustín Arriola",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "3 de Mayo II",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Revolución II",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23076": {
+        "code": "23076",
+        "colonies": [
+            {
+                "name": "Burocrática las Garzas",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Los Cactus",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Reforma",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Civilizadores I",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Civilizadores II",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23077": {
+        "code": "23077",
+        "colonies": [
+            {
+                "name": "17 de Octubre",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23078": {
+        "code": "23078",
+        "colonies": [
+            {
+                "name": "Embotelladores 83",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Unidad Donceles 28",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23079": {
+        "code": "23079",
+        "colonies": [
+            {
+                "name": "Las Garzas",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Rio Blanco",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23080": {
+        "code": "23080",
+        "colonies": [
+            {
+                "name": "8 de Octubre 1a Sección",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Rinconada el Cardonal",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Campestre el Mezquitito",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Los Bledales (La Ceibita)",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "28 de Octubre (Kilómetro 6)",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "1 de Mayo",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Mezquitito",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Santa María",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Agua Escondida",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23083": {
+        "code": "23083",
+        "colonies": [
+            {
+                "name": "Solidaridad Mezquitito",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "San Fernando",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23084": {
+        "code": "23084",
+        "colonies": [
+            {
+                "name": "Ampliación El Progreso",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "El Progreso",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Diana Laura",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "VIVAH El Progreso",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "La Cañada",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "El Palmar II",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23085": {
+        "code": "23085",
+        "colonies": [
+            {
+                "name": "El Calandrio",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "8 de Octubre 2a Sección",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Calandrio",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23086": {
+        "code": "23086",
+        "colonies": [
+            {
+                "name": "Ángel Cesar Mendoza Aramburo",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23088": {
+        "code": "23088",
+        "colonies": [
+            {
+                "name": "Agua Clara",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "El Zacatal",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Ayuntamiento",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23089": {
+        "code": "23089",
+        "colonies": [
+            {
+                "name": "Zona Antiguo Aeropuerto",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "La Pasión C",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Jerico",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "INVI Chametla",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Villas de La Paz",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Villas del Cortes",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23090": {
+        "code": "23090",
+        "colonies": [
+            {
+                "name": "El Conchalito",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Jardines de La Paz",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Inalapa",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "La Esperanza 2",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "La Esperanza 3",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Cactus Harinera",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23094": {
+        "code": "23094",
+        "colonies": [
+            {
+                "name": "Sector La Selva Fidepaz",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23095": {
+        "code": "23095",
+        "colonies": [
+            {
+                "name": "La Sirena",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Sector Santa Rita",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23096": {
+        "code": "23096",
+        "colonies": [
+            {
+                "name": "Guaycura",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Playa de Santa Rita",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23097": {
+        "code": "23097",
+        "colonies": [
+            {
+                "name": "Los Pericues",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Mineros (Perla ROFOMEX)",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23098": {
+        "code": "23098",
+        "colonies": [
+            {
+                "name": "CCC y Perla de La Paz",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Garzas Agrícolas",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Sector Inalapa",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23099": {
+        "code": "23099",
+        "colonies": [
+            {
+                "name": "Las Arboledas",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23205": {
+        "code": "23205",
+        "colonies": [
+            {
+                "name": "El Centenario",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Chametla",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Centenario",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23300": {
+        "code": "23300",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "La Orcadita",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Puesta del Sol",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "San Vicente",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "San Ignacio",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "El Rio",
+                "municipality": "La Paz, Baja California Sur"
+            },
+            {
+                "name": "Brisas del Pacifico",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23390": {
+        "code": "23390",
+        "colonies": [
+            {
+                "name": "Plutarco Elias Calles",
+                "municipality": "La Paz, Baja California Sur"
+            }
+        ]
+    },
+    "23400": {
+        "code": "23400",
+        "colonies": [
+            {
+                "name": "San José del Cabo Centro",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23403": {
+        "code": "23403",
+        "colonies": [
+            {
+                "name": "La Playa",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "La Choya INFONAVIT",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23406": {
+        "code": "23406",
+        "colonies": [
+            {
+                "name": "8 de Octubre",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Primero de Mayo",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "5 de Febrero",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Costa Azul",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Lomas de La Jolla",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Villas de La Joya",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Cerro del Vigía",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Terrazas Costa Azul",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23407": {
+        "code": "23407",
+        "colonies": [
+            {
+                "name": "Rosarito",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Animas Bajas",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Guaymitas",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Rinconada La Huerta",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23420": {
+        "code": "23420",
+        "colonies": [
+            {
+                "name": "Real del Monte",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Santa Anita",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Aeropuerto",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23425": {
+        "code": "23425",
+        "colonies": [
+            {
+                "name": "Santa Catarina",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23426": {
+        "code": "23426",
+        "colonies": [
+            {
+                "name": "La Ballena",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Invi San José Viejo",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Loma Cruz",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23427": {
+        "code": "23427",
+        "colonies": [
+            {
+                "name": "Ampliación Vista Hermosa",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "El Zacatal",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23428": {
+        "code": "23428",
+        "colonies": [
+            {
+                "name": "Santa Rosa",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23434": {
+        "code": "23434",
+        "colonies": [
+            {
+                "name": "Pénjamo",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Veredas",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23435": {
+        "code": "23435",
+        "colonies": [
+            {
+                "name": "Las Veredas",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23436": {
+        "code": "23436",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "San Bernabe",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23437": {
+        "code": "23437",
+        "colonies": [
+            {
+                "name": "San José Viejo",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23440": {
+        "code": "23440",
+        "colonies": [
+            {
+                "name": "Jesús Castro Agundes",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23443": {
+        "code": "23443",
+        "colonies": [
+            {
+                "name": "Mauricio Castro",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Chula Vista",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "El Aguajito",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23444": {
+        "code": "23444",
+        "colonies": [
+            {
+                "name": "Pablo L Martinez",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Lomas de Rosarito",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23445": {
+        "code": "23445",
+        "colonies": [
+            {
+                "name": "Lomas de Guaymitas",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23450": {
+        "code": "23450",
+        "colonies": [
+            {
+                "name": "Cabo San Lucas Centro",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23453": {
+        "code": "23453",
+        "colonies": [
+            {
+                "name": "El Medano",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "La Marina",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Terrasol",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23454": {
+        "code": "23454",
+        "colonies": [
+            {
+                "name": "El Tezal",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23455": {
+        "code": "23455",
+        "colonies": [
+            {
+                "name": "Cabo Bello",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23460": {
+        "code": "23460",
+        "colonies": [
+            {
+                "name": "Zona Ejidal",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Arenal",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Mariano Matamoros",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23462": {
+        "code": "23462",
+        "colonies": [
+            {
+                "name": "Real Unidad",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "El Caribe Bajo",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Mesa Colorada",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Mesa Colorada II",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Mesa Colorada III",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23468": {
+        "code": "23468",
+        "colonies": [
+            {
+                "name": "Mariano Matamoros",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23469": {
+        "code": "23469",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Ampliación Juárez",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23470": {
+        "code": "23470",
+        "colonies": [
+            {
+                "name": "La Cruz",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Ampliación 4 de Marzo",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Ildefonso Green",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Lienzo Charro Centro",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23472": {
+        "code": "23472",
+        "colonies": [
+            {
+                "name": "4 de Marzo",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Lomas del Faro Viejo",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23473": {
+        "code": "23473",
+        "colonies": [
+            {
+                "name": "Cerro de los Venados",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Los Cangrejos",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Gardenias",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23474": {
+        "code": "23474",
+        "colonies": [
+            {
+                "name": "Arcos del Sol",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Jardines del Sol",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23477": {
+        "code": "23477",
+        "colonies": [
+            {
+                "name": "Cabo Fierro",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "El Progreso",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Lomas del Sol",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "El Caribe",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Magisterial Viva",
+                "municipality": "Los Cabos, Baja California Sur"
+            },
+            {
+                "name": "Rosa Delia",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23560": {
+        "code": "23560",
+        "colonies": [
+            {
+                "name": "Las Cuevas",
+                "municipality": "Los Cabos, Baja California Sur"
+            }
+        ]
+    },
+    "23600": {
+        "code": "23600",
+        "colonies": [
+            {
+                "name": "Zona Centro",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "Cerro Catedral",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "INVI Olivos Juan Domínguez Cota",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23620": {
+        "code": "23620",
+        "colonies": [
+            {
+                "name": "Vargas",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "Longoria",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23641": {
+        "code": "23641",
+        "colonies": [
+            {
+                "name": "4 de Marzo",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "Conjunto Urbano del Norte",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "Ampliación 4 de marzo",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23670": {
+        "code": "23670",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23676": {
+        "code": "23676",
+        "colonies": [
+            {
+                "name": "Pioneros II",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "Pioneros",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23677": {
+        "code": "23677",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23678": {
+        "code": "23678",
+        "colonies": [
+            {
+                "name": "San Isidro Labrador",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "Plano Oriente",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23690": {
+        "code": "23690",
+        "colonies": [
+            {
+                "name": "Batequitos",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23695": {
+        "code": "23695",
+        "colonies": [
+            {
+                "name": "Roberto Esperon",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23696": {
+        "code": "23696",
+        "colonies": [
+            {
+                "name": "El Agricultor INDECO",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23697": {
+        "code": "23697",
+        "colonies": [
+            {
+                "name": "Brisas del Valle",
+                "municipality": "Comondú, Baja California Sur"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23700": {
+        "code": "23700",
+        "colonies": [
+            {
+                "name": "Ciudad Insurgentes",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23708": {
+        "code": "23708",
+        "colonies": [
+            {
+                "name": "Rio Mayo",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23710": {
+        "code": "23710",
+        "colonies": [
+            {
+                "name": "Puerto Adolfo López Mateos",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23720": {
+        "code": "23720",
+        "colonies": [
+            {
+                "name": "Villa Hidalgo",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23730": {
+        "code": "23730",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23734": {
+        "code": "23734",
+        "colonies": [
+            {
+                "name": "Teotlan",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23740": {
+        "code": "23740",
+        "colonies": [
+            {
+                "name": "Puerto San Carlos",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23760": {
+        "code": "23760",
+        "colonies": [
+            {
+                "name": "Ley Federal de Aguas No 5",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23766": {
+        "code": "23766",
+        "colonies": [
+            {
+                "name": "Tepentu",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23780": {
+        "code": "23780",
+        "colonies": [
+            {
+                "name": "Ley Federal de Aguas No 4",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23860": {
+        "code": "23860",
+        "colonies": [
+            {
+                "name": "Ley Federal de Aguas No 2",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23870": {
+        "code": "23870",
+        "colonies": [
+            {
+                "name": "Ley Federal de Aguas Número Uno",
+                "municipality": "Comondú, Baja California Sur"
+            }
+        ]
+    },
+    "23880": {
+        "code": "23880",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "Zaragoza",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "El Jaral",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "Miramar",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "Misioneros",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "Exploradores",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "Nuevo Loreto",
+                "municipality": "Loreto, Baja California Sur"
+            }
+        ]
+    },
+    "23897": {
+        "code": "23897",
+        "colonies": [
+            {
+                "name": "San Antonio de La Higuera",
+                "municipality": "Loreto, Baja California Sur"
+            },
+            {
+                "name": "Agua Verde",
+                "municipality": "Loreto, Baja California Sur"
+            }
+        ]
+    },
+    "23898": {
+        "code": "23898",
+        "colonies": [
+            {
+                "name": "San Carlos",
+                "municipality": "Loreto, Baja California Sur"
+            }
+        ]
+    },
+    "23900": {
+        "code": "23900",
+        "colonies": [
+            {
+                "name": "La Paloma",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Heroica Mulegé Centro",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "El Rebaje",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "El Ranchito",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "La Calera",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Punta de Agua",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Cananea",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Ranchería",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Loma Azul",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "El Cacheno",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Benavides",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Tinajitas",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    },
+    "23920": {
+        "code": "23920",
+        "colonies": [
+            {
+                "name": "Mesa Francia",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "La Villita",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Ranchería",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Unidad Deportiva",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "CADEPO",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Reforma",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Centro",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Mesa México",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Hidalgo",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Nueva Santa Rosalía",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Costa Azul",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Canastilla",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    },
+    "23924": {
+        "code": "23924",
+        "colonies": [
+            {
+                "name": "San Lino",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    },
+    "23930": {
+        "code": "23930",
+        "colonies": [
+            {
+                "name": "El Rincón",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "La Correa",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Rastro",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "San Ignacio Centro",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Guamúchil",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    },
+    "23938": {
+        "code": "23938",
+        "colonies": [
+            {
+                "name": "Nueva Oaxaca",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Leonel Cota Montaño",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Villa Alberto Alvarado Aramburo",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Triky",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Elizabeth",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    },
+    "23940": {
+        "code": "23940",
+        "colonies": [
+            {
+                "name": "Fundo Legal",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Guerrero Negro Centro",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Profesor Marcelo Rubio",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Estado 30",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    },
+    "23944": {
+        "code": "23944",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    },
+    "23949": {
+        "code": "23949",
+        "colonies": [
+            {
+                "name": "Francisco J Mújica",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    },
+    "23950": {
+        "code": "23950",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Lomas de Guadalupe",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "1 de Septiembre",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Pescadores",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Marina Nacional",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Álvaro Obregón",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "José María Morelos",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "La Purísima",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Auditorio",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Márque de León",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Angeles Mendoza",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Mulegé, Baja California Sur"
+            },
+            {
+                "name": "Bahía Tortugas",
+                "municipality": "Mulegé, Baja California Sur"
+            }
+        ]
+    }
+}

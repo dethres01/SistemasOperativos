@@ -1,0 +1,3226 @@
+{
+    "63000": {
+        "code": "63000",
+        "colonies": [
+            {
+                "name": "Tepic Centro",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63010": {
+        "code": "63010",
+        "colonies": [
+            {
+                "name": "Amado Nervo",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Sacristán",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63018": {
+        "code": "63018",
+        "colonies": [
+            {
+                "name": "El Punto",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63019": {
+        "code": "63019",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Loma Hermosa",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63020": {
+        "code": "63020",
+        "colonies": [
+            {
+                "name": "Santa Teresita",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Unidad Deportiva Santa Teresita",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63021": {
+        "code": "63021",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63022": {
+        "code": "63022",
+        "colonies": [
+            {
+                "name": "INDECO",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63023": {
+        "code": "63023",
+        "colonies": [
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63030": {
+        "code": "63030",
+        "colonies": [
+            {
+                "name": "Cuitlahuac",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Chapultepec",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "San José",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63035": {
+        "code": "63035",
+        "colonies": [
+            {
+                "name": "Jardines del Valle",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Valle Verde de Matatipac",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Valle de La Cruz",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Valle de Zaragoza",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ampliación El Paraíso",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Nuevo Progreso",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63037": {
+        "code": "63037",
+        "colonies": [
+            {
+                "name": "Los Viveros",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Valle Verde Conalep",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ingeniero Agrónomo",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63038": {
+        "code": "63038",
+        "colonies": [
+            {
+                "name": "El Paraíso",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Emilio M. González",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Las Conchas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Reforma",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63039": {
+        "code": "63039",
+        "colonies": [
+            {
+                "name": "Puerta de La Laguna",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Aztlán El Verde",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63040": {
+        "code": "63040",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63050": {
+        "code": "63050",
+        "colonies": [
+            {
+                "name": "El Parían",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Miguel Ángel Paredes",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Mololoa",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63058": {
+        "code": "63058",
+        "colonies": [
+            {
+                "name": "Rivas Allende",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Sandino",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63059": {
+        "code": "63059",
+        "colonies": [
+            {
+                "name": "Lomas de Cortez",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Lomas de La Laguna",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Villas de Matatipac",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Limón",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "San Juanito",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63060": {
+        "code": "63060",
+        "colonies": [
+            {
+                "name": "El Rodeo",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63061": {
+        "code": "63061",
+        "colonies": [
+            {
+                "name": "Lomas Altas",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63062": {
+        "code": "63062",
+        "colonies": [
+            {
+                "name": "El Palomar",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Lomas Bonitas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Rinconada Residencial",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63066": {
+        "code": "63066",
+        "colonies": [
+            {
+                "name": "Lomas del Valle",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Lomas del Valle Ampliación",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63067": {
+        "code": "63067",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63068": {
+        "code": "63068",
+        "colonies": [
+            {
+                "name": "Luis Echeverría A.",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "América Manríquez",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63069": {
+        "code": "63069",
+        "colonies": [
+            {
+                "name": "Primero de Mayo",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Unidad Obrera",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ampliación Unidad Obrera",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63070": {
+        "code": "63070",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63080": {
+        "code": "63080",
+        "colonies": [
+            {
+                "name": "Heriberto Casas",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63081": {
+        "code": "63081",
+        "colonies": [
+            {
+                "name": "Acayapan",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63082": {
+        "code": "63082",
+        "colonies": [
+            {
+                "name": "El Faisán",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Naranjal",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63083": {
+        "code": "63083",
+        "colonies": [
+            {
+                "name": "Ruinas de Jauja",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ampliación Santa Teresita",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63084": {
+        "code": "63084",
+        "colonies": [
+            {
+                "name": "Ingeniero Aguayo",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63088": {
+        "code": "63088",
+        "colonies": [
+            {
+                "name": "Santa Fe",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63089": {
+        "code": "63089",
+        "colonies": [
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63100": {
+        "code": "63100",
+        "colonies": [
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63110": {
+        "code": "63110",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63114": {
+        "code": "63114",
+        "colonies": [
+            {
+                "name": "Nuevas Delicias",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Colinas del Nayar",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Solidaridad Primavera",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ecologistas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Dieciséis de Septiembre",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63120": {
+        "code": "63120",
+        "colonies": [
+            {
+                "name": "Obrera CTM",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Villa San Ángel",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63128": {
+        "code": "63128",
+        "colonies": [
+            {
+                "name": "Lomas de San Juan",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63129": {
+        "code": "63129",
+        "colonies": [
+            {
+                "name": "Jagüey",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Cora",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Rey Nayar",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63130": {
+        "code": "63130",
+        "colonies": [
+            {
+                "name": "San Juan",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63135": {
+        "code": "63135",
+        "colonies": [
+            {
+                "name": "El Tecolote",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63136": {
+        "code": "63136",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63138": {
+        "code": "63138",
+        "colonies": [
+            {
+                "name": "Rincón de San Juan",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63150": {
+        "code": "63150",
+        "colonies": [
+            {
+                "name": "Menchaca",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63156": {
+        "code": "63156",
+        "colonies": [
+            {
+                "name": "Burócrata Federal",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63158": {
+        "code": "63158",
+        "colonies": [
+            {
+                "name": "Caja de Agua",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63159": {
+        "code": "63159",
+        "colonies": [
+            {
+                "name": "San Antonio",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63160": {
+        "code": "63160",
+        "colonies": [
+            {
+                "name": "Electricistas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63163": {
+        "code": "63163",
+        "colonies": [
+            {
+                "name": "Corralón",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63164": {
+        "code": "63164",
+        "colonies": [
+            {
+                "name": "El Pedregal",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Nueva Alemania",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Pedregal de San Juan",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63166": {
+        "code": "63166",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63167": {
+        "code": "63167",
+        "colonies": [
+            {
+                "name": "Peñita",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Labores de Godínez",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63170": {
+        "code": "63170",
+        "colonies": [
+            {
+                "name": "12 de Diciembre",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Dr. Lucas Vallarta",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ferrocarrilero 2a Secc.",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Los Llanitos",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Lagos  de Aztlán",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "México",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63172": {
+        "code": "63172",
+        "colonies": [
+            {
+                "name": "Nuevo Amanecer",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63173": {
+        "code": "63173",
+        "colonies": [
+            {
+                "name": "Ciudad Industrial",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Jazmines",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Jesús García",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Nayarabastos",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Antonio Echevarría Domínguez",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Rubí",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Justino Ávila Arce",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Del Sol",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63174": {
+        "code": "63174",
+        "colonies": [
+            {
+                "name": "Prieto Crispín",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "4 Milpas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Flores Magón",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Genaro Vázquez",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Venceremos",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Zitacua",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63175": {
+        "code": "63175",
+        "colonies": [
+            {
+                "name": "Benito Juárez Oriente",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Comerciantes",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Dr. Cuesta Barrios",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "2 de Agosto",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Gobernadores",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Oriental",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Valle del Country",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63176": {
+        "code": "63176",
+        "colonies": [
+            {
+                "name": "Gustavo Díaz Ordaz",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63177": {
+        "code": "63177",
+        "colonies": [
+            {
+                "name": "Juventud",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "18 de Agosto",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Capomo",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ferrocarrilero 1a Secc.",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Heriberto Jara",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ampliación Tierra y Libertad",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Los Colomos",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Lirios",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Villa las Rosas",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63178": {
+        "code": "63178",
+        "colonies": [
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63179": {
+        "code": "63179",
+        "colonies": [
+            {
+                "name": "Gilberto Flores Muñoz",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63180": {
+        "code": "63180",
+        "colonies": [
+            {
+                "name": "Burócrata Estatal",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Moctezuma",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Valle de Nayarit",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Bethel",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63183": {
+        "code": "63183",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63184": {
+        "code": "63184",
+        "colonies": [
+            {
+                "name": "Gardenias",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Miravalles",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63185": {
+        "code": "63185",
+        "colonies": [
+            {
+                "name": "Félix Peña",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Los Fresnos Poniente",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63186": {
+        "code": "63186",
+        "colonies": [
+            {
+                "name": "Predio San Martín",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63190": {
+        "code": "63190",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Juan Escutia",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Los Fresnos Oriente",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "15 de Mayo",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63193": {
+        "code": "63193",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63194": {
+        "code": "63194",
+        "colonies": [
+            {
+                "name": "El Puerto",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Ladrilleras",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Nuevas Palomas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Puente de San Cayetano",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Armadillo",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63195": {
+        "code": "63195",
+        "colonies": [
+            {
+                "name": "Conasupo",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Extamex",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Valle de Matatipac",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Severiano Ocegueda",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Las Islas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Las Palomas",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63196": {
+        "code": "63196",
+        "colonies": [
+            {
+                "name": "Caminera",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Nueva Aviación",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Periodistas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "26 de Septiembre",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Guayabo",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63197": {
+        "code": "63197",
+        "colonies": [
+            {
+                "name": "5 de Febrero",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Hermosa Provincia",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Los Sauces",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Tabacos Aztecas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63199": {
+        "code": "63199",
+        "colonies": [
+            {
+                "name": "José María Martínez (El Molino)",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63200": {
+        "code": "63200",
+        "colonies": [
+            {
+                "name": "Tuxpan Centro",
+                "municipality": "Tuxpan, Nayarit"
+            }
+        ]
+    },
+    "63202": {
+        "code": "63202",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Talpita",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Antonio R. Laureles",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "El Beis",
+                "municipality": "Tuxpan, Nayarit"
+            }
+        ]
+    },
+    "63203": {
+        "code": "63203",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Tuxpan, Nayarit"
+            }
+        ]
+    },
+    "63205": {
+        "code": "63205",
+        "colonies": [
+            {
+                "name": "Guadalupe Peña",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Colosio",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Juan Escutia",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Tuxpan, Nayarit"
+            }
+        ]
+    },
+    "63207": {
+        "code": "63207",
+        "colonies": [
+            {
+                "name": "Ángel Flores",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Tuxpan, Nayarit"
+            },
+            {
+                "name": "Ismael Verdín",
+                "municipality": "Tuxpan, Nayarit"
+            }
+        ]
+    },
+    "63225": {
+        "code": "63225",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tuxpan, Nayarit"
+            }
+        ]
+    },
+    "63227": {
+        "code": "63227",
+        "colonies": [
+            {
+                "name": "Cantarranas",
+                "municipality": "Tuxpan, Nayarit"
+            }
+        ]
+    },
+    "63300": {
+        "code": "63300",
+        "colonies": [
+            {
+                "name": "Cerro Chico",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Santiago Ixcuintla Centro",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63310": {
+        "code": "63310",
+        "colonies": [
+            {
+                "name": "Amado Nervo",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63311": {
+        "code": "63311",
+        "colonies": [
+            {
+                "name": "El Mirador",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Ramón López Velarde",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63312": {
+        "code": "63312",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63313": {
+        "code": "63313",
+        "colonies": [
+            {
+                "name": "CTM",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63320": {
+        "code": "63320",
+        "colonies": [
+            {
+                "name": "Obrera",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63321": {
+        "code": "63321",
+        "colonies": [
+            {
+                "name": "Flores Magón",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63330": {
+        "code": "63330",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Los Hornos",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "19 de Septiembre",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63340": {
+        "code": "63340",
+        "colonies": [
+            {
+                "name": "Nuevo México",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63341": {
+        "code": "63341",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Primero de Enero",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63350": {
+        "code": "63350",
+        "colonies": [
+            {
+                "name": "Juárez",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63351": {
+        "code": "63351",
+        "colonies": [
+            {
+                "name": "12 de Octubre",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63352": {
+        "code": "63352",
+        "colonies": [
+            {
+                "name": "Luís Donaldo Colosio",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63360": {
+        "code": "63360",
+        "colonies": [
+            {
+                "name": "Cerro Grande",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63380": {
+        "code": "63380",
+        "colonies": [
+            {
+                "name": "Campo 7",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63409": {
+        "code": "63409",
+        "colonies": [
+            {
+                "name": "La Guacamaya",
+                "municipality": "Acaponeta, Nayarit"
+            }
+        ]
+    },
+    "63420": {
+        "code": "63420",
+        "colonies": [
+            {
+                "name": "Piedra Ancha",
+                "municipality": "Acaponeta, Nayarit"
+            }
+        ]
+    },
+    "63430": {
+        "code": "63430",
+        "colonies": [
+            {
+                "name": "Acaponeta Centro",
+                "municipality": "Acaponeta, Nayarit"
+            }
+        ]
+    },
+    "63434": {
+        "code": "63434",
+        "colonies": [
+            {
+                "name": "El Camichin",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Jardín",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Antonio Chumacero",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Acaponeta, Nayarit"
+            }
+        ]
+    },
+    "63435": {
+        "code": "63435",
+        "colonies": [
+            {
+                "name": "Vicente Lombardo Toledano",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "INVINAY Porfirio Vázquez Cosío",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "El Molino",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Nueva Galaxia",
+                "municipality": "Acaponeta, Nayarit"
+            }
+        ]
+    },
+    "63436": {
+        "code": "63436",
+        "colonies": [
+            {
+                "name": "Las Colonias",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Del Carmen",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Estadio",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Mazatlancito",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "La Capilla",
+                "municipality": "Acaponeta, Nayarit"
+            }
+        ]
+    },
+    "63437": {
+        "code": "63437",
+        "colonies": [
+            {
+                "name": "Loma Atravesada",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Las Mojoneras",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Juan Escutia",
+                "municipality": "Acaponeta, Nayarit"
+            }
+        ]
+    },
+    "63438": {
+        "code": "63438",
+        "colonies": [
+            {
+                "name": "Cerro de la Cruz",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Cerro de la Glorieta",
+                "municipality": "Acaponeta, Nayarit"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Acaponeta, Nayarit"
+            }
+        ]
+    },
+    "63440": {
+        "code": "63440",
+        "colonies": [
+            {
+                "name": "El Arrayán",
+                "municipality": "Tecuala, Nayarit"
+            }
+        ]
+    },
+    "63446": {
+        "code": "63446",
+        "colonies": [
+            {
+                "name": "El Pato",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "El Pozole",
+                "municipality": "Tecuala, Nayarit"
+            }
+        ]
+    },
+    "63450": {
+        "code": "63450",
+        "colonies": [
+            {
+                "name": "Mancillas",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Tecuala Centro",
+                "municipality": "Tecuala, Nayarit"
+            }
+        ]
+    },
+    "63453": {
+        "code": "63453",
+        "colonies": [
+            {
+                "name": "Del Río",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "El Tacote",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Las Brisas",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "Tecuala, Nayarit"
+            }
+        ]
+    },
+    "63454": {
+        "code": "63454",
+        "colonies": [
+            {
+                "name": "Juan Escutia",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Tecuala, Nayarit"
+            }
+        ]
+    },
+    "63455": {
+        "code": "63455",
+        "colonies": [
+            {
+                "name": "Chino",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "El Tinaco",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "La Bomba",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Los Camichines",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Patria Nueva",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Prolongación Galeana",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Amado Nervo",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "CNOP PRI",
+                "municipality": "Tecuala, Nayarit"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Tecuala, Nayarit"
+            }
+        ]
+    },
+    "63458": {
+        "code": "63458",
+        "colonies": [
+            {
+                "name": "Huajuquilla",
+                "municipality": "Tecuala, Nayarit"
+            }
+        ]
+    },
+    "63500": {
+        "code": "63500",
+        "colonies": [
+            {
+                "name": "Hebrón",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Francisco I. Madero (Puga) Centro",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Francisco Velázquez",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Campo",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "18 de Marzo",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Chorro",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Caja de Agua",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Nueva Valey",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Las Parejas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Las Cruces",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Cerro",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63504": {
+        "code": "63504",
+        "colonies": [
+            {
+                "name": "Seis de Enero",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63510": {
+        "code": "63510",
+        "colonies": [
+            {
+                "name": "Catorce de Marzo",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63511": {
+        "code": "63511",
+        "colonies": [
+            {
+                "name": "Novillero",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Las Joyas",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "La Guadalupana",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Diamante",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "El Verde",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "Volcanes",
+                "municipality": "Tepic, Nayarit"
+            },
+            {
+                "name": "La Corregidora",
+                "municipality": "Tepic, Nayarit"
+            }
+        ]
+    },
+    "63550": {
+        "code": "63550",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Leyes de Reforma",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Las Colonias",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "José Martínez Escobedo",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Amado Nervo",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Villa Hidalgo Centro",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Villa de Guadalupe",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Solorceño",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Talpita",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Crispín Duran Z",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Roma",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "San José",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "La Nayarita",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63553": {
+        "code": "63553",
+        "colonies": [
+            {
+                "name": "18 de Septiembre",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63555": {
+        "code": "63555",
+        "colonies": [
+            {
+                "name": "Marcos Cárdenas",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Olímpica",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Talpita",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "La Presa Centro",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63558": {
+        "code": "63558",
+        "colonies": [
+            {
+                "name": "Vado del Cora",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63565": {
+        "code": "63565",
+        "colonies": [
+            {
+                "name": "El Estero",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "4 de Octubre",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "San Miguel Número Dos (El Quemado)",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Los Pérez",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            },
+            {
+                "name": "Aztlán de las Garzas",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63573": {
+        "code": "63573",
+        "colonies": [
+            {
+                "name": "Playa el Sesteo",
+                "municipality": "Santiago Ixcuintla, Nayarit"
+            }
+        ]
+    },
+    "63580": {
+        "code": "63580",
+        "colonies": [
+            {
+                "name": "La Yesca",
+                "municipality": "La Yesca, Nayarit"
+            }
+        ]
+    },
+    "63596": {
+        "code": "63596",
+        "colonies": [
+            {
+                "name": "22 de Enero",
+                "municipality": "La Yesca, Nayarit"
+            }
+        ]
+    },
+    "63620": {
+        "code": "63620",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Ruíz, Nayarit"
+            }
+        ]
+    },
+    "63622": {
+        "code": "63622",
+        "colonies": [
+            {
+                "name": "Rey Nayar",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "El Panteón",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "La Redonda",
+                "municipality": "Ruíz, Nayarit"
+            }
+        ]
+    },
+    "63623": {
+        "code": "63623",
+        "colonies": [
+            {
+                "name": "Talpita",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "El Capomal",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "Emilio M. González",
+                "municipality": "Ruíz, Nayarit"
+            }
+        ]
+    },
+    "63625": {
+        "code": "63625",
+        "colonies": [
+            {
+                "name": "Tijuanita",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Ruíz, Nayarit"
+            }
+        ]
+    },
+    "63626": {
+        "code": "63626",
+        "colonies": [
+            {
+                "name": "Tiro al Blanco",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "Cerro de la Cruz",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "Unidad Deportiva",
+                "municipality": "Ruíz, Nayarit"
+            }
+        ]
+    },
+    "63627": {
+        "code": "63627",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Ruíz, Nayarit"
+            }
+        ]
+    },
+    "63628": {
+        "code": "63628",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "Ruíz, Nayarit"
+            },
+            {
+                "name": "Achota",
+                "municipality": "Ruíz, Nayarit"
+            }
+        ]
+    },
+    "63630": {
+        "code": "63630",
+        "colonies": [
+            {
+                "name": "Agua Caliente",
+                "municipality": "Rosamorada, Nayarit"
+            },
+            {
+                "name": "Las Lajitas",
+                "municipality": "Rosamorada, Nayarit"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "Rosamorada, Nayarit"
+            },
+            {
+                "name": "Insurgentes",
+                "municipality": "Rosamorada, Nayarit"
+            }
+        ]
+    },
+    "63645": {
+        "code": "63645",
+        "colonies": [
+            {
+                "name": "20 noviembre",
+                "municipality": "Rosamorada, Nayarit"
+            },
+            {
+                "name": "San Vicente Centro",
+                "municipality": "Rosamorada, Nayarit"
+            },
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Rosamorada, Nayarit"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Rosamorada, Nayarit"
+            },
+            {
+                "name": "Obrera CTM",
+                "municipality": "Rosamorada, Nayarit"
+            },
+            {
+                "name": "Teodoro Estrada",
+                "municipality": "Rosamorada, Nayarit"
+            }
+        ]
+    },
+    "63700": {
+        "code": "63700",
+        "colonies": [
+            {
+                "name": "Compostela Centro",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63702": {
+        "code": "63702",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Guadalupana",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Lomas de San Cristóbal",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Lomas Bonita",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63703": {
+        "code": "63703",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Aviación",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63704": {
+        "code": "63704",
+        "colonies": [
+            {
+                "name": "Librado Rivera",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63705": {
+        "code": "63705",
+        "colonies": [
+            {
+                "name": "El Molino",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Estadios",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Floresta",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Subestación",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Las Ordeñas",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Los Sauces",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63710": {
+        "code": "63710",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "La Concepción",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "De la Cruz",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63715": {
+        "code": "63715",
+        "colonies": [
+            {
+                "name": "Las Varas Centro",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Celso Hernández",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Nueva Galicia",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Nueva Era",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "San José",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63720": {
+        "code": "63720",
+        "colonies": [
+            {
+                "name": "La Peñita de Jaltemba Centro",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Paraíso",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Playa Hermosa",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Cedros",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Pescadores",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Arroyo Zarco",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Miramar",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "El Campesino",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Cerro de La Cruz",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Isla del Verano",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "El Girasol",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Paraíso Escondido",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Las Cabras",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "La Islita",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "Garzas Rosas",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63724": {
+        "code": "63724",
+        "colonies": [
+            {
+                "name": "La Colmena",
+                "municipality": "Compostela, Nayarit"
+            },
+            {
+                "name": "El Betel",
+                "municipality": "Compostela, Nayarit"
+            }
+        ]
+    },
+    "63729": {
+        "code": "63729",
+        "colonies": [
+            {
+                "name": "Lo de Marcos",
+                "municipality": "Bahía de Banderas, Nayarit"
+            }
+        ]
+    },
+    "63730": {
+        "code": "63730",
+        "colonies": [
+            {
+                "name": "Las Hachas",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "San Juan de Abajo",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Valle de Banderas",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Santa Rosa Tapachula",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Ramón Larios",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Tabacalera",
+                "municipality": "Bahía de Banderas, Nayarit"
+            }
+        ]
+    },
+    "63732": {
+        "code": "63732",
+        "colonies": [
+            {
+                "name": "Brisas",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Bucerías Centro",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Dorada",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Playas del Pacífico",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Vista Bahía",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Francisco Javier Ovando",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Paraíso del Indio",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "La Unidad",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "La Primavera",
+                "municipality": "Bahía de Banderas, Nayarit"
+            }
+        ]
+    },
+    "63734": {
+        "code": "63734",
+        "colonies": [
+            {
+                "name": "Cruz de Huanacaxtle",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "José Chávez",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Nueva Era",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Monte Calvario",
+                "municipality": "Bahía de Banderas, Nayarit"
+            }
+        ]
+    },
+    "63735": {
+        "code": "63735",
+        "colonies": [
+            {
+                "name": "Deportiva",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "La Lomita",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "13 de Septiembre",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Mezcalitos",
+                "municipality": "Bahía de Banderas, Nayarit"
+            }
+        ]
+    },
+    "63737": {
+        "code": "63737",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "La Primavera",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Jardines El Porvenir",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Del Rastro",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "El Manglar",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "La Nueva Aurora",
+                "municipality": "Bahía de Banderas, Nayarit"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Bahía de Banderas, Nayarit"
+            }
+        ]
+    },
+    "63738": {
+        "code": "63738",
+        "colonies": [
+            {
+                "name": "Concepción de Valle",
+                "municipality": "Bahía de Banderas, Nayarit"
+            }
+        ]
+    },
+    "63740": {
+        "code": "63740",
+        "colonies": [
+            {
+                "name": "San Blas Centro",
+                "municipality": "San Blas, Nayarit"
+            }
+        ]
+    },
+    "63742": {
+        "code": "63742",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "Fray Junipero Serra",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "Gilberto Flores M.",
+                "municipality": "San Blas, Nayarit"
+            }
+        ]
+    },
+    "63743": {
+        "code": "63743",
+        "colonies": [
+            {
+                "name": "El Conchal",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "José María Mercado",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "La Vaca y La Higuera",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "Emilio M González",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "La Playa del Borrego",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "H. Batallón",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "San Blas, Nayarit"
+            }
+        ]
+    },
+    "63744": {
+        "code": "63744",
+        "colonies": [
+            {
+                "name": "La Playita",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "El Guayabal",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "10 de Mayo",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "Barrio Chino",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "Gómez Reyes",
+                "municipality": "San Blas, Nayarit"
+            },
+            {
+                "name": "Zona Portuaria",
+                "municipality": "San Blas, Nayarit"
+            }
+        ]
+    },
+    "63758": {
+        "code": "63758",
+        "colonies": [
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "San Blas, Nayarit"
+            }
+        ]
+    },
+    "63765": {
+        "code": "63765",
+        "colonies": [
+            {
+                "name": "El Tepeyac (Cofradía)",
+                "municipality": "San Blas, Nayarit"
+            }
+        ]
+    },
+    "63780": {
+        "code": "63780",
+        "colonies": [
+            {
+                "name": "Xalisco Centro",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63782": {
+        "code": "63782",
+        "colonies": [
+            {
+                "name": "Salvador Sánchez Vázquez",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Nuevo Progreso",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Huertas de Matatipal",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Ampliación Nuevo Progreso",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Lomas del Nayar",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Las Águilas",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63783": {
+        "code": "63783",
+        "colonies": [
+            {
+                "name": "José Santos Godínez",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "1ro. de Mayo",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "SUTSEM Landereñas",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63784": {
+        "code": "63784",
+        "colonies": [
+            {
+                "name": "Ramos Millán",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Jardines de Matatipac",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "25 de Abril",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Landereñas",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63785": {
+        "code": "63785",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Navarreño",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63786": {
+        "code": "63786",
+        "colonies": [
+            {
+                "name": "Fernando Carrillo",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "24 de Febrero",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63787": {
+        "code": "63787",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Las Rosas",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Colinas de San Juan",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Nuevo México",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Villas de Guadalupe",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Lomas Verdes",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Ampliación Xalisco",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "El Indio",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Las Isabeles",
+                "municipality": "Xalisco, Nayarit"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63792": {
+        "code": "63792",
+        "colonies": [
+            {
+                "name": "Valles del Nayar",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63794": {
+        "code": "63794",
+        "colonies": [
+            {
+                "name": "Aquiles Serdán",
+                "municipality": "Xalisco, Nayarit"
+            }
+        ]
+    },
+    "63800": {
+        "code": "63800",
+        "colonies": [
+            {
+                "name": "San Pedro Lagunillas Centro",
+                "municipality": "San Pedro Lagunillas, Nayarit"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "San Pedro Lagunillas, Nayarit"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "San Pedro Lagunillas, Nayarit"
+            }
+        ]
+    },
+    "63830": {
+        "code": "63830",
+        "colonies": [
+            {
+                "name": "Buenavista",
+                "municipality": "Santa María del Oro, Nayarit"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Santa María del Oro, Nayarit"
+            }
+        ]
+    },
+    "63843": {
+        "code": "63843",
+        "colonies": [
+            {
+                "name": "Moderna",
+                "municipality": "Santa María del Oro, Nayarit"
+            }
+        ]
+    },
+    "63870": {
+        "code": "63870",
+        "colonies": [
+            {
+                "name": "El Ahualamo",
+                "municipality": "Santa María del Oro, Nayarit"
+            }
+        ]
+    },
+    "63880": {
+        "code": "63880",
+        "colonies": [
+            {
+                "name": "San Juan de Dios",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "San Pedro",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "San Andrés",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "El Naranjo",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Severiano López",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Jala, Nayarit"
+            }
+        ]
+    },
+    "63883": {
+        "code": "63883",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Jardines del Llano",
+                "municipality": "Jala, Nayarit"
+            }
+        ]
+    },
+    "63885": {
+        "code": "63885",
+        "colonies": [
+            {
+                "name": "Los Ramírez",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "San Miguel de Buenavista",
+                "municipality": "Jala, Nayarit"
+            }
+        ]
+    },
+    "63890": {
+        "code": "63890",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Jala Centro",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Juan Escutia",
+                "municipality": "Jala, Nayarit"
+            }
+        ]
+    },
+    "63893": {
+        "code": "63893",
+        "colonies": [
+            {
+                "name": "Jardines del Valle",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Epifanio Gómez Magañez",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Jala, Nayarit"
+            }
+        ]
+    },
+    "63894": {
+        "code": "63894",
+        "colonies": [
+            {
+                "name": "Lucio Cabañas",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "Merced Ibarra",
+                "municipality": "Jala, Nayarit"
+            }
+        ]
+    },
+    "63895": {
+        "code": "63895",
+        "colonies": [
+            {
+                "name": "La Natividad",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "La Quinta",
+                "municipality": "Jala, Nayarit"
+            },
+            {
+                "name": "El Tucán",
+                "municipality": "Jala, Nayarit"
+            }
+        ]
+    },
+    "63910": {
+        "code": "63910",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Ahuacatlán, Nayarit"
+            }
+        ]
+    },
+    "63920": {
+        "code": "63920",
+        "colonies": [
+            {
+                "name": "Ahuacatlán Centro",
+                "municipality": "Ahuacatlán, Nayarit"
+            }
+        ]
+    },
+    "63923": {
+        "code": "63923",
+        "colonies": [
+            {
+                "name": "La Otra Banda",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Ahuacatlán, Nayarit"
+            }
+        ]
+    },
+    "63925": {
+        "code": "63925",
+        "colonies": [
+            {
+                "name": "La Presa",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "Las Huertas",
+                "municipality": "Ahuacatlán, Nayarit"
+            }
+        ]
+    },
+    "63927": {
+        "code": "63927",
+        "colonies": [
+            {
+                "name": "El Salto",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "El Chiquiliqui",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "Villas del Carmen",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "Prisciliano Sanchez",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "Demetrio Vallejo",
+                "municipality": "Ahuacatlán, Nayarit"
+            }
+        ]
+    },
+    "63928": {
+        "code": "63928",
+        "colonies": [
+            {
+                "name": "Emillio M González",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "8 de Mayo",
+                "municipality": "Ahuacatlán, Nayarit"
+            },
+            {
+                "name": "El Llano",
+                "municipality": "Ahuacatlán, Nayarit"
+            }
+        ]
+    },
+    "63950": {
+        "code": "63950",
+        "colonies": [
+            {
+                "name": "Ixtlán del Río Centro",
+                "municipality": "Ixtlán del Río, Nayarit"
+            }
+        ]
+    },
+    "63953": {
+        "code": "63953",
+        "colonies": [
+            {
+                "name": "La Huerta",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Las Arboledas",
+                "municipality": "Ixtlán del Río, Nayarit"
+            }
+        ]
+    },
+    "63954": {
+        "code": "63954",
+        "colonies": [
+            {
+                "name": "Esteban Baca Calderón",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Juárez",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Juan Zamora",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "10 de Mayo",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "López Portillo",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Cristo Rey",
+                "municipality": "Ixtlán del Río, Nayarit"
+            }
+        ]
+    },
+    "63955": {
+        "code": "63955",
+        "colonies": [
+            {
+                "name": "Emilio M. González",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Carmen Romano",
+                "municipality": "Ixtlán del Río, Nayarit"
+            }
+        ]
+    },
+    "63956": {
+        "code": "63956",
+        "colonies": [
+            {
+                "name": "Las 7 Esquinas",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Barrio Nuevo",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Los Leones",
+                "municipality": "Ixtlán del Río, Nayarit"
+            }
+        ]
+    },
+    "63957": {
+        "code": "63957",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Amado Nervo",
+                "municipality": "Ixtlán del Río, Nayarit"
+            }
+        ]
+    },
+    "63958": {
+        "code": "63958",
+        "colonies": [
+            {
+                "name": "Moderna",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "El Pinar",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Fátima",
+                "municipality": "Ixtlán del Río, Nayarit"
+            }
+        ]
+    },
+    "63959": {
+        "code": "63959",
+        "colonies": [
+            {
+                "name": "Everardo Peña Navarro",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Santo Santiago",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Eulogio Parra",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Ernesto Che Guevara",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Juan Escutia",
+                "municipality": "Ixtlán del Río, Nayarit"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Ixtlán del Río, Nayarit"
+            }
+        ]
+    },
+    "63960": {
+        "code": "63960",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Amatlán de Cañas, Nayarit"
+            },
+            {
+                "name": "Ruben Martín Atalay",
+                "municipality": "Amatlán de Cañas, Nayarit"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "Amatlán de Cañas, Nayarit"
+            }
+        ]
+    },
+    "63963": {
+        "code": "63963",
+        "colonies": [
+            {
+                "name": "La Otra Banda",
+                "municipality": "Amatlán de Cañas, Nayarit"
+            },
+            {
+                "name": "Colinas del Nayar",
+                "municipality": "Amatlán de Cañas, Nayarit"
+            }
+        ]
+    }
+}

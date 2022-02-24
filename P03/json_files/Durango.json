@@ -1,0 +1,4725 @@
+{
+    "34000": {
+        "code": "34000",
+        "colonies": [
+            {
+                "name": "Victoria de Durango Centro",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Dionisio Gallardo",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Luis Gómez Zepeda",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34010": {
+        "code": "34010",
+        "colonies": [
+            {
+                "name": "Héctor Mayagoitia Domínguez",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "José López Portillo",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Morga",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Valentín Gómez Farias",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34014": {
+        "code": "34014",
+        "colonies": [
+            {
+                "name": "Las Palmas",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Juan Salazar",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Palma Alta",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Paseo de la Pradera",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34015": {
+        "code": "34015",
+        "colonies": [
+            {
+                "name": "Ampliación Héctor Mayagoitia Domínguez",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Ladera del Pedregal",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34016": {
+        "code": "34016",
+        "colonies": [
+            {
+                "name": "El Prado",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Morelos Norte",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Amalia Solórzano",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Cesar Guillermo Meraz",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34017": {
+        "code": "34017",
+        "colonies": [
+            {
+                "name": "PRI",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Ampliación PRI",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Luz y Esperanza",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34018": {
+        "code": "34018",
+        "colonies": [
+            {
+                "name": "Ángel Tejada Espino",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34019": {
+        "code": "34019",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34020": {
+        "code": "34020",
+        "colonies": [
+            {
+                "name": "Benjamín Méndez",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Rosas del Tepeyac",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Cuadra del Ferrocarril",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Cerro de Guadalupe",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34024": {
+        "code": "34024",
+        "colonies": [
+            {
+                "name": "Planta de Impregnación (Ferrocarrilera)",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34027": {
+        "code": "34027",
+        "colonies": [
+            {
+                "name": "Recuerdos del Pasado",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Unidad Guadalupe",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34028": {
+        "code": "34028",
+        "colonies": [
+            {
+                "name": "Sergio Méndez Arceo",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34029": {
+        "code": "34029",
+        "colonies": [
+            {
+                "name": "Cerro del Mercado",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Ampliación Rosas del Tepeyac",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34030": {
+        "code": "34030",
+        "colonies": [
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "San Martín de Porres",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "El Ciprés (Cerro del Mercado)",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34039": {
+        "code": "34039",
+        "colonies": [
+            {
+                "name": "Las Encinas",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "La Rielera",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Alejandra",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Vallesol",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Terrenos del Ferrocarril",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34040": {
+        "code": "34040",
+        "colonies": [
+            {
+                "name": "Villa de Guadalupe",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34043": {
+        "code": "34043",
+        "colonies": [
+            {
+                "name": "Las Cumbres",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34045": {
+        "code": "34045",
+        "colonies": [
+            {
+                "name": "Antonio Ramirez",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Alcaldes",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Gobernadores",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Las Margaritas",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34046": {
+        "code": "34046",
+        "colonies": [
+            {
+                "name": "Miguel de La Madrid Hurtado",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34047": {
+        "code": "34047",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34048": {
+        "code": "34048",
+        "colonies": [
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34049": {
+        "code": "34049",
+        "colonies": [
+            {
+                "name": "La Virgen",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34050": {
+        "code": "34050",
+        "colonies": [
+            {
+                "name": "Maderera",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Santa María",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34060": {
+        "code": "34060",
+        "colonies": [
+            {
+                "name": "Fátima",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34070": {
+        "code": "34070",
+        "colonies": [
+            {
+                "name": "Silvestre Dorador",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34076": {
+        "code": "34076",
+        "colonies": [
+            {
+                "name": "Los Ángeles",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34077": {
+        "code": "34077",
+        "colonies": [
+            {
+                "name": "Predio Canoas",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34080": {
+        "code": "34080",
+        "colonies": [
+            {
+                "name": "Esperanza",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Nueva Vizcaya",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Real del Prado",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34090": {
+        "code": "34090",
+        "colonies": [
+            {
+                "name": "Ciénega",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34103": {
+        "code": "34103",
+        "colonies": [
+            {
+                "name": "Ampliación Tapias",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "F.O.S. La Virgen",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Campestre Los Pinos",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34105": {
+        "code": "34105",
+        "colonies": [
+            {
+                "name": "El Saltito",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "La Esmeralda",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "General Lázaro Cárdenas (Garabitos Nuevo)",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34106": {
+        "code": "34106",
+        "colonies": [
+            {
+                "name": "15 de Mayo (Tapias)",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34108": {
+        "code": "34108",
+        "colonies": [
+            {
+                "name": "Ampliación El Saltito",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Lomas del Sahuatoba",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34110": {
+        "code": "34110",
+        "colonies": [
+            {
+                "name": "Empleado Municipal",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34119": {
+        "code": "34119",
+        "colonies": [
+            {
+                "name": "Predio la Loza",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34120": {
+        "code": "34120",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Gustavo Díaz Ordaz",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Valle del Sur",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34123": {
+        "code": "34123",
+        "colonies": [
+            {
+                "name": "9 de Julio",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34124": {
+        "code": "34124",
+        "colonies": [
+            {
+                "name": "Arco Iris",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "El Soliceño",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Miguel González Avelar",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Nuevo Amanecer",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "12 de Diciembre",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34125": {
+        "code": "34125",
+        "colonies": [
+            {
+                "name": "1° de Mayo",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34127": {
+        "code": "34127",
+        "colonies": [
+            {
+                "name": "CNOP",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34128": {
+        "code": "34128",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Manuel Buendía",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34130": {
+        "code": "34130",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Insurgentes",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34135": {
+        "code": "34135",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34136": {
+        "code": "34136",
+        "colonies": [
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34137": {
+        "code": "34137",
+        "colonies": [
+            {
+                "name": "Picachos",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Veteranos de La Revolución",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34139": {
+        "code": "34139",
+        "colonies": [
+            {
+                "name": "Cazarco",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Estrella",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34140": {
+        "code": "34140",
+        "colonies": [
+            {
+                "name": "Anahuac",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "División del Norte",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Lucio Cabañas",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34143": {
+        "code": "34143",
+        "colonies": [
+            {
+                "name": "Ampliación Tlatelolco",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "San José",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Tlatelolco",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Valle Municipal",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34144": {
+        "code": "34144",
+        "colonies": [
+            {
+                "name": "La Joya",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Durango Nuevo 1",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Durango Nuevo II",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "El Brillante",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Villas Doradas",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Villa Antigua",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Bosques del Nayar",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Bello Amanecer",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "23 de Marzo",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Rinconada San Antonio",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Buena Vista",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Ampliación Nuevo Milenio",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "La Estrella",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "El Lucero",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Jardines del Nayar",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Pedregal de La Nueva España",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34145": {
+        "code": "34145",
+        "colonies": [
+            {
+                "name": "Asentamientos Humanos",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34146": {
+        "code": "34146",
+        "colonies": [
+            {
+                "name": "Los Álamos",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34147": {
+        "code": "34147",
+        "colonies": [
+            {
+                "name": "Arroyo Seco",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Fundo Legal Arroyo Seco",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Las Gardenias",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Manuel Gómez Morin",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Las Calandrias",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "La Moderna",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Los Tulipanes I",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Gaviotas II",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "El Durazno",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34150": {
+        "code": "34150",
+        "colonies": [
+            {
+                "name": "IV Centenario",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Juan de La Barrera",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34160": {
+        "code": "34160",
+        "colonies": [
+            {
+                "name": "Azcapotzalco",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34162": {
+        "code": "34162",
+        "colonies": [
+            {
+                "name": "Solidaridad",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34163": {
+        "code": "34163",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34164": {
+        "code": "34164",
+        "colonies": [
+            {
+                "name": "Luz del Carmen",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Alianza por Durango",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34165": {
+        "code": "34165",
+        "colonies": [
+            {
+                "name": "Los Sauces",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Universal",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34166": {
+        "code": "34166",
+        "colonies": [
+            {
+                "name": "Valle del Guadiana",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34167": {
+        "code": "34167",
+        "colonies": [
+            {
+                "name": "Victoria de Durango",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Jardines de Cancún",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Isabel Almanza",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Don Francisco",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "El Alacrán",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Edmundo Ravelo Duarte",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34168": {
+        "code": "34168",
+        "colonies": [
+            {
+                "name": "El Paraíso",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Ampliación Las Rosas",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34169": {
+        "code": "34169",
+        "colonies": [
+            {
+                "name": "Genaro Vázquez",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Miramar",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34170": {
+        "code": "34170",
+        "colonies": [
+            {
+                "name": "El Refugio",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Jalisco",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34175": {
+        "code": "34175",
+        "colonies": [
+            {
+                "name": "José Martí",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34186": {
+        "code": "34186",
+        "colonies": [
+            {
+                "name": "Valle Alegre",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Villa Jardín",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Diana Laura R de Colosio",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Villas Alpinas",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Mireles",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Claveles II",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Claveles 1 (Ampliación Luis Donaldo Colosio)",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Villas Doradas II",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34187": {
+        "code": "34187",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34188": {
+        "code": "34188",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Dolores del Río",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Juan Lira Bracho",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Las Auroras",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Jesús María",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34190": {
+        "code": "34190",
+        "colonies": [
+            {
+                "name": "Azteca",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34193": {
+        "code": "34193",
+        "colonies": [
+            {
+                "name": "Potrero los Abonos",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34194": {
+        "code": "34194",
+        "colonies": [
+            {
+                "name": "Las Flores Sur",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "México",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Valle Verde Sur",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "San Vicente",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Justicia Social",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Valle de México",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Girasoles",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Promotores Sociales",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34195": {
+        "code": "34195",
+        "colonies": [
+            {
+                "name": "Benigno Montoya",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34196": {
+        "code": "34196",
+        "colonies": [
+            {
+                "name": "8 de Septiembre",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34197": {
+        "code": "34197",
+        "colonies": [
+            {
+                "name": "Morelos Sur",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Praderas del Sur",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Ampliación Morelos Sur",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34198": {
+        "code": "34198",
+        "colonies": [
+            {
+                "name": "Los Betabeles",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34205": {
+        "code": "34205",
+        "colonies": [
+            {
+                "name": "Carlos Luna",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34206": {
+        "code": "34206",
+        "colonies": [
+            {
+                "name": "José Ángel Leal",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34208": {
+        "code": "34208",
+        "colonies": [
+            {
+                "name": "San Juan",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34210": {
+        "code": "34210",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Francisco Zarco",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34214": {
+        "code": "34214",
+        "colonies": [
+            {
+                "name": "Armando del Castillo Franco",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34215": {
+        "code": "34215",
+        "colonies": [
+            {
+                "name": "Rincón del Lobo",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Las Huertas",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "San Ignacio de Loyola",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34216": {
+        "code": "34216",
+        "colonies": [
+            {
+                "name": "Fray Diego de La Cadena",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34217": {
+        "code": "34217",
+        "colonies": [
+            {
+                "name": "La Ponderosa",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "El Ciprés",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Predio el Tule",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Juan Escutia",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Chulas Fronteras",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Massie",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34218": {
+        "code": "34218",
+        "colonies": [
+            {
+                "name": "Arturo Gamiz",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34219": {
+        "code": "34219",
+        "colonies": [
+            {
+                "name": "José Revueltas",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34224": {
+        "code": "34224",
+        "colonies": [
+            {
+                "name": "Une",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34226": {
+        "code": "34226",
+        "colonies": [
+            {
+                "name": "Democracia Sindical",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34230": {
+        "code": "34230",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Máximo Gamiz Fernández",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34234": {
+        "code": "34234",
+        "colonies": [
+            {
+                "name": "Octavio Paz",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Valle Florido",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34236": {
+        "code": "34236",
+        "colonies": [
+            {
+                "name": "Ampliación 20 de Noviembre",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "20 de Noviembre Fundo Legal",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Los Agaves",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Rinconada las Flores",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34240": {
+        "code": "34240",
+        "colonies": [
+            {
+                "name": "Del Maestro",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Santa Fe",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34250": {
+        "code": "34250",
+        "colonies": [
+            {
+                "name": "Luis Echeverría Alvarez",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34260": {
+        "code": "34260",
+        "colonies": [
+            {
+                "name": "Porfirio Díaz",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34270": {
+        "code": "34270",
+        "colonies": [
+            {
+                "name": "Guillermina",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Hipódromo",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Olga Margarita",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Heberto Castillo",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34279": {
+        "code": "34279",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34280": {
+        "code": "34280",
+        "colonies": [
+            {
+                "name": "J Guadalupe Rodriguez",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34284": {
+        "code": "34284",
+        "colonies": [
+            {
+                "name": "Valle Verde Oriente",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Pedro Ávila Nevárez",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34287": {
+        "code": "34287",
+        "colonies": [
+            {
+                "name": "Cielo Azul",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Solares Veinte de Noviembre",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Liberación Social",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34289": {
+        "code": "34289",
+        "colonies": [
+            {
+                "name": "Industrial Ladrillera",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34298": {
+        "code": "34298",
+        "colonies": [
+            {
+                "name": "Patria Libre",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Rinconada los Álamos",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34305": {
+        "code": "34305",
+        "colonies": [
+            {
+                "name": "Cerrada Calera",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Calera",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34306": {
+        "code": "34306",
+        "colonies": [
+            {
+                "name": "La Campana",
+                "municipality": "Durango, Durango"
+            },
+            {
+                "name": "Las Minitas",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34315": {
+        "code": "34315",
+        "colonies": [
+            {
+                "name": "Metates",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34320": {
+        "code": "34320",
+        "colonies": [
+            {
+                "name": "General Felipe Ángeles",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34340": {
+        "code": "34340",
+        "colonies": [
+            {
+                "name": "El Durazno",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34345": {
+        "code": "34345",
+        "colonies": [
+            {
+                "name": "Navacoyán",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34350": {
+        "code": "34350",
+        "colonies": [
+            {
+                "name": "Navíos",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34380": {
+        "code": "34380",
+        "colonies": [
+            {
+                "name": "Metates (Tenchontle)",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34397": {
+        "code": "34397",
+        "colonies": [
+            {
+                "name": "José María Morelos",
+                "municipality": "Durango, Durango"
+            }
+        ]
+    },
+    "34410": {
+        "code": "34410",
+        "colonies": [
+            {
+                "name": "Nuevo Ideal Centro",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34413": {
+        "code": "34413",
+        "colonies": [
+            {
+                "name": "Las Ladrilleras",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34414": {
+        "code": "34414",
+        "colonies": [
+            {
+                "name": "Libertad",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Felipe Pescador",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Revolucionaria",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Profesor Rafael Ramírez",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34415": {
+        "code": "34415",
+        "colonies": [
+            {
+                "name": "Corredor Industrial, Comercial y de Servicios",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34416": {
+        "code": "34416",
+        "colonies": [
+            {
+                "name": "La Magdalena",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34417": {
+        "code": "34417",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34423": {
+        "code": "34423",
+        "colonies": [
+            {
+                "name": "Campo Alto",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Lugar de Rosas (El Toboso)",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Campo Hermoso",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Sitio Nuevo",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Bajío Verde",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Campo de Gracia",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Campo de Verano",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Campo Limpio",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Campo Pradera Hermosa",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Hogar de Flores",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "La Purísima",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Nueva York",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Nuevo Campo Alto",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Nuevo Lugar de Rosas",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Nuevo Sitio Nuevo",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Patio de Flores",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Valle de Rosas",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34424": {
+        "code": "34424",
+        "colonies": [
+            {
+                "name": "Patio de Rosas (Campo 20)",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Corona del Valle (San Juan Nuevo)",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Nueva Tierra Limpia (San Isidro)",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Nuevo Patio de Flores",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Sitio Alto (Las Pomas)",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34425": {
+        "code": "34425",
+        "colonies": [
+            {
+                "name": "Tierra Limpia",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Campo de Flores",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Campo de Rosas",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Jardín de Flores",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Nueva Instalación",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Valle de Flores (Cantarranas)",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34427": {
+        "code": "34427",
+        "colonies": [
+            {
+                "name": "Llano Hermoso",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Valle Hermoso (Campo Grey)",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34430": {
+        "code": "34430",
+        "colonies": [
+            {
+                "name": "Hamburgo",
+                "municipality": "Nuevo Ideal, Durango"
+            },
+            {
+                "name": "Nueva Esperanza (Cuernavaca)",
+                "municipality": "Nuevo Ideal, Durango"
+            }
+        ]
+    },
+    "34450": {
+        "code": "34450",
+        "colonies": [
+            {
+                "name": "Canatlán Centro",
+                "municipality": "Canatlán, Durango"
+            }
+        ]
+    },
+    "34453": {
+        "code": "34453",
+        "colonies": [
+            {
+                "name": "Roma",
+                "municipality": "Canatlán, Durango"
+            },
+            {
+                "name": "Plutarco Elías Calles",
+                "municipality": "Canatlán, Durango"
+            },
+            {
+                "name": "Ayuntamiento",
+                "municipality": "Canatlán, Durango"
+            },
+            {
+                "name": "Los Perales",
+                "municipality": "Canatlán, Durango"
+            },
+            {
+                "name": "Paso Real",
+                "municipality": "Canatlán, Durango"
+            }
+        ]
+    },
+    "34454": {
+        "code": "34454",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Canatlán, Durango"
+            }
+        ]
+    },
+    "34455": {
+        "code": "34455",
+        "colonies": [
+            {
+                "name": "11 de Julio",
+                "municipality": "Canatlán, Durango"
+            },
+            {
+                "name": "Valenzuela",
+                "municipality": "Canatlán, Durango"
+            }
+        ]
+    },
+    "34456": {
+        "code": "34456",
+        "colonies": [
+            {
+                "name": "Progresista",
+                "municipality": "Canatlán, Durango"
+            },
+            {
+                "name": "San Diego",
+                "municipality": "Canatlán, Durango"
+            }
+        ]
+    },
+    "34457": {
+        "code": "34457",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Canatlán, Durango"
+            }
+        ]
+    },
+    "34470": {
+        "code": "34470",
+        "colonies": [
+            {
+                "name": "Anastasio Batres",
+                "municipality": "Coneto de Comonfort, Durango"
+            }
+        ]
+    },
+    "34480": {
+        "code": "34480",
+        "colonies": [
+            {
+                "name": "San Juan del Río del Centauro del Norte Centro",
+                "municipality": "San Juan del Río, Durango"
+            }
+        ]
+    },
+    "34482": {
+        "code": "34482",
+        "colonies": [
+            {
+                "name": "Cañada Segunda",
+                "municipality": "San Juan del Río, Durango"
+            },
+            {
+                "name": "La Haciendita",
+                "municipality": "San Juan del Río, Durango"
+            },
+            {
+                "name": "San Rafael del Salto",
+                "municipality": "San Juan del Río, Durango"
+            },
+            {
+                "name": "La Cañada (Cañada Primera)",
+                "municipality": "San Juan del Río, Durango"
+            },
+            {
+                "name": "La Cañadita",
+                "municipality": "San Juan del Río, Durango"
+            }
+        ]
+    },
+    "34483": {
+        "code": "34483",
+        "colonies": [
+            {
+                "name": "Puerto del Aire",
+                "municipality": "San Juan del Río, Durango"
+            },
+            {
+                "name": "La Pila",
+                "municipality": "San Juan del Río, Durango"
+            }
+        ]
+    },
+    "34484": {
+        "code": "34484",
+        "colonies": [
+            {
+                "name": "Americana",
+                "municipality": "San Juan del Río, Durango"
+            }
+        ]
+    },
+    "34485": {
+        "code": "34485",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "San Juan del Río, Durango"
+            },
+            {
+                "name": "Chapultepec",
+                "municipality": "San Juan del Río, Durango"
+            },
+            {
+                "name": "La Quinta",
+                "municipality": "San Juan del Río, Durango"
+            },
+            {
+                "name": "Las Peñas",
+                "municipality": "San Juan del Río, Durango"
+            }
+        ]
+    },
+    "34486": {
+        "code": "34486",
+        "colonies": [
+            {
+                "name": "Colonia Benito Juárez",
+                "municipality": "San Juan del Río, Durango"
+            }
+        ]
+    },
+    "34605": {
+        "code": "34605",
+        "colonies": [
+            {
+                "name": "San Julián",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34613": {
+        "code": "34613",
+        "colonies": [
+            {
+                "name": "Santa Rita del Pachón (Santa Rita)",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34627": {
+        "code": "34627",
+        "colonies": [
+            {
+                "name": "Vascogil",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34630": {
+        "code": "34630",
+        "colonies": [
+            {
+                "name": "Santiago Papasquiaro Centro",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34634": {
+        "code": "34634",
+        "colonies": [
+            {
+                "name": "Santa Mónica",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Colinas de Santiago",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "10 de Abril",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Altavista",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34635": {
+        "code": "34635",
+        "colonies": [
+            {
+                "name": "Altamira",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Lomas de la Cruz",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Lomas de San Juan",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Campestre",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34636": {
+        "code": "34636",
+        "colonies": [
+            {
+                "name": "Hermanos Revueltas",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "La Haciendita",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Los Nogales",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34637": {
+        "code": "34637",
+        "colonies": [
+            {
+                "name": "Esperanza",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Silvestre Revueltas",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "La Esmeralda",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34638": {
+        "code": "34638",
+        "colonies": [
+            {
+                "name": "El Terrero",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Las Margaritas",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Jardines del Valle",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Maderas",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34639": {
+        "code": "34639",
+        "colonies": [
+            {
+                "name": "Las Vegas",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "PRI",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "San Diego Tenzaens",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Heberto Castillo",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34640": {
+        "code": "34640",
+        "colonies": [
+            {
+                "name": "La Sierra",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Lomas del Tepeyac",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34644": {
+        "code": "34644",
+        "colonies": [
+            {
+                "name": "Turbina",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34645": {
+        "code": "34645",
+        "colonies": [
+            {
+                "name": "El Progreso",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "La Estrella",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Real de Santiago",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34646": {
+        "code": "34646",
+        "colonies": [
+            {
+                "name": "CNOP",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Arroyo del Tagarete",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "La Noria",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34647": {
+        "code": "34647",
+        "colonies": [
+            {
+                "name": "España",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "El Milagro",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Real Campestre",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34648": {
+        "code": "34648",
+        "colonies": [
+            {
+                "name": "Mineral de Santiago",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34649": {
+        "code": "34649",
+        "colonies": [
+            {
+                "name": "El Pueblo",
+                "municipality": "Santiago Papasquiaro, Durango"
+            },
+            {
+                "name": "Quinta Magisterial",
+                "municipality": "Santiago Papasquiaro, Durango"
+            }
+        ]
+    },
+    "34690": {
+        "code": "34690",
+        "colonies": [
+            {
+                "name": "Tayoltita Centro",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Tapacoya",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Americana",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Duranguito",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "El Arenal",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "El Hospital",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "El Pitayo",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "El Reventón",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "El Toril",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "El Tunel",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "La Curva",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "La Juárez",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "La Plazuela",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Los Fresnos",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Nuevo Zocabon",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Piaxtla",
+                "municipality": "San Dimas, Durango"
+            },
+            {
+                "name": "Servicoy",
+                "municipality": "San Dimas, Durango"
+            }
+        ]
+    },
+    "34700": {
+        "code": "34700",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria Centro",
+                "municipality": "Guadalupe Victoria, Durango"
+            }
+        ]
+    },
+    "34703": {
+        "code": "34703",
+        "colonies": [
+            {
+                "name": "Isidro de Flores",
+                "municipality": "Guadalupe Victoria, Durango"
+            },
+            {
+                "name": "La Noria",
+                "municipality": "Guadalupe Victoria, Durango"
+            },
+            {
+                "name": "Loma Verde",
+                "municipality": "Guadalupe Victoria, Durango"
+            }
+        ]
+    },
+    "34704": {
+        "code": "34704",
+        "colonies": [
+            {
+                "name": "INFONAVIT",
+                "municipality": "Guadalupe Victoria, Durango"
+            },
+            {
+                "name": "Las Culecas",
+                "municipality": "Guadalupe Victoria, Durango"
+            },
+            {
+                "name": "Mi Ranchito",
+                "municipality": "Guadalupe Victoria, Durango"
+            }
+        ]
+    },
+    "34705": {
+        "code": "34705",
+        "colonies": [
+            {
+                "name": "La Estación",
+                "municipality": "Guadalupe Victoria, Durango"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Guadalupe Victoria, Durango"
+            },
+            {
+                "name": "Villas del Sur",
+                "municipality": "Guadalupe Victoria, Durango"
+            }
+        ]
+    },
+    "34706": {
+        "code": "34706",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Guadalupe Victoria, Durango"
+            }
+        ]
+    },
+    "34707": {
+        "code": "34707",
+        "colonies": [
+            {
+                "name": "El Hormiguero",
+                "municipality": "Guadalupe Victoria, Durango"
+            },
+            {
+                "name": "El Alacrán",
+                "municipality": "Guadalupe Victoria, Durango"
+            }
+        ]
+    },
+    "34755": {
+        "code": "34755",
+        "colonies": [
+            {
+                "name": "San Pedro de los Encinos",
+                "municipality": "Peñón Blanco, Durango"
+            }
+        ]
+    },
+    "34760": {
+        "code": "34760",
+        "colonies": [
+            {
+                "name": "Peñón Blanco Centro",
+                "municipality": "Peñón Blanco, Durango"
+            }
+        ]
+    },
+    "34763": {
+        "code": "34763",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Peñón Blanco, Durango"
+            }
+        ]
+    },
+    "34764": {
+        "code": "34764",
+        "colonies": [
+            {
+                "name": "12 de Diciembre",
+                "municipality": "Peñón Blanco, Durango"
+            },
+            {
+                "name": "De la Cruz",
+                "municipality": "Peñón Blanco, Durango"
+            }
+        ]
+    },
+    "34765": {
+        "code": "34765",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Peñón Blanco, Durango"
+            },
+            {
+                "name": "Altavista",
+                "municipality": "Peñón Blanco, Durango"
+            },
+            {
+                "name": "La Luz del Día",
+                "municipality": "Peñón Blanco, Durango"
+            }
+        ]
+    },
+    "34766": {
+        "code": "34766",
+        "colonies": [
+            {
+                "name": "El Refugio",
+                "municipality": "Peñón Blanco, Durango"
+            }
+        ]
+    },
+    "34767": {
+        "code": "34767",
+        "colonies": [
+            {
+                "name": "El Espejo",
+                "municipality": "Peñón Blanco, Durango"
+            }
+        ]
+    },
+    "34768": {
+        "code": "34768",
+        "colonies": [
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Peñón Blanco, Durango"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Peñón Blanco, Durango"
+            }
+        ]
+    },
+    "34780": {
+        "code": "34780",
+        "colonies": [
+            {
+                "name": "Francisco I Madero Centro",
+                "municipality": "Pánuco de Coronado, Durango"
+            }
+        ]
+    },
+    "34782": {
+        "code": "34782",
+        "colonies": [
+            {
+                "name": "División del Norte",
+                "municipality": "Pánuco de Coronado, Durango"
+            }
+        ]
+    },
+    "34783": {
+        "code": "34783",
+        "colonies": [
+            {
+                "name": "Miguel Meza",
+                "municipality": "Pánuco de Coronado, Durango"
+            }
+        ]
+    },
+    "34785": {
+        "code": "34785",
+        "colonies": [
+            {
+                "name": "Azteca",
+                "municipality": "Pánuco de Coronado, Durango"
+            },
+            {
+                "name": "Las Culecas",
+                "municipality": "Pánuco de Coronado, Durango"
+            }
+        ]
+    },
+    "34787": {
+        "code": "34787",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Pánuco de Coronado, Durango"
+            }
+        ]
+    },
+    "34788": {
+        "code": "34788",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Pánuco de Coronado, Durango"
+            }
+        ]
+    },
+    "34810": {
+        "code": "34810",
+        "colonies": [
+            {
+                "name": "Colonia División",
+                "municipality": "Poanas, Durango"
+            }
+        ]
+    },
+    "34840": {
+        "code": "34840",
+        "colonies": [
+            {
+                "name": "Nombre de Dios Centro",
+                "municipality": "Nombre de Dios, Durango"
+            }
+        ]
+    },
+    "34842": {
+        "code": "34842",
+        "colonies": [
+            {
+                "name": "Esperanza",
+                "municipality": "Nombre de Dios, Durango"
+            }
+        ]
+    },
+    "34843": {
+        "code": "34843",
+        "colonies": [
+            {
+                "name": "El Santuario",
+                "municipality": "Nombre de Dios, Durango"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Nombre de Dios, Durango"
+            }
+        ]
+    },
+    "34844": {
+        "code": "34844",
+        "colonies": [
+            {
+                "name": "Gilberto Reyes Campa",
+                "municipality": "Nombre de Dios, Durango"
+            },
+            {
+                "name": "El Renacimiento",
+                "municipality": "Nombre de Dios, Durango"
+            }
+        ]
+    },
+    "34845": {
+        "code": "34845",
+        "colonies": [
+            {
+                "name": "Breceda",
+                "municipality": "Nombre de Dios, Durango"
+            }
+        ]
+    },
+    "34846": {
+        "code": "34846",
+        "colonies": [
+            {
+                "name": "El Pueblo",
+                "municipality": "Nombre de Dios, Durango"
+            }
+        ]
+    },
+    "34847": {
+        "code": "34847",
+        "colonies": [
+            {
+                "name": "Santa Mónica",
+                "municipality": "Nombre de Dios, Durango"
+            }
+        ]
+    },
+    "34848": {
+        "code": "34848",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Nombre de Dios, Durango"
+            }
+        ]
+    },
+    "34890": {
+        "code": "34890",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero Centro",
+                "municipality": "Vicente Guerrero, Durango"
+            }
+        ]
+    },
+    "34892": {
+        "code": "34892",
+        "colonies": [
+            {
+                "name": "Revolución",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Vicente Guerrero, Durango"
+            }
+        ]
+    },
+    "34893": {
+        "code": "34893",
+        "colonies": [
+            {
+                "name": "CNOP",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "Olga Margarita Salinas de Gortari",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "Nueva España",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "Justicia Social",
+                "municipality": "Vicente Guerrero, Durango"
+            }
+        ]
+    },
+    "34894": {
+        "code": "34894",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "José Guadalupe Rodríguez",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "Felipe Angeles",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Vicente Guerrero, Durango"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Vicente Guerrero, Durango"
+            }
+        ]
+    },
+    "34895": {
+        "code": "34895",
+        "colonies": [
+            {
+                "name": "Héroe de Nacozari",
+                "municipality": "Vicente Guerrero, Durango"
+            }
+        ]
+    },
+    "34900": {
+        "code": "34900",
+        "colonies": [
+            {
+                "name": "Súchil Centro",
+                "municipality": "Súchil, Durango"
+            }
+        ]
+    },
+    "34903": {
+        "code": "34903",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Súchil, Durango"
+            },
+            {
+                "name": "Los Lavaderos",
+                "municipality": "Súchil, Durango"
+            }
+        ]
+    },
+    "34904": {
+        "code": "34904",
+        "colonies": [
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Súchil, Durango"
+            }
+        ]
+    },
+    "34905": {
+        "code": "34905",
+        "colonies": [
+            {
+                "name": "La Tijera",
+                "municipality": "Súchil, Durango"
+            }
+        ]
+    },
+    "34906": {
+        "code": "34906",
+        "colonies": [
+            {
+                "name": "El Mezquite",
+                "municipality": "Súchil, Durango"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Súchil, Durango"
+            }
+        ]
+    },
+    "34907": {
+        "code": "34907",
+        "colonies": [
+            {
+                "name": "El Pilancon",
+                "municipality": "Súchil, Durango"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Súchil, Durango"
+            }
+        ]
+    },
+    "34940": {
+        "code": "34940",
+        "colonies": [
+            {
+                "name": "El Salto Centro",
+                "municipality": "Pueblo Nuevo, Durango"
+            }
+        ]
+    },
+    "34942": {
+        "code": "34942",
+        "colonies": [
+            {
+                "name": "Jardines",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Aztecas",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Puente Negro",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Forestal",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Insurgentes",
+                "municipality": "Pueblo Nuevo, Durango"
+            }
+        ]
+    },
+    "34945": {
+        "code": "34945",
+        "colonies": [
+            {
+                "name": "El Brillante",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Chapultepec",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Ayuntamiento",
+                "municipality": "Pueblo Nuevo, Durango"
+            }
+        ]
+    },
+    "34946": {
+        "code": "34946",
+        "colonies": [
+            {
+                "name": "Militar",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Plutarco Elías Calles",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Alvaro Obregón",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Pueblo Nuevo, Durango"
+            }
+        ]
+    },
+    "34947": {
+        "code": "34947",
+        "colonies": [
+            {
+                "name": "Maderera",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "José María Morelos",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Aterrizaje",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "La Victoria",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Pueblo Nuevo, Durango"
+            }
+        ]
+    },
+    "34948": {
+        "code": "34948",
+        "colonies": [
+            {
+                "name": "Americana",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Pueblo Nuevo, Durango"
+            }
+        ]
+    },
+    "34955": {
+        "code": "34955",
+        "colonies": [
+            {
+                "name": "Deportiva",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Estadio",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "La Amistad",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Pueblo Nuevo, Durango"
+            },
+            {
+                "name": "Rinconcito",
+                "municipality": "Pueblo Nuevo, Durango"
+            }
+        ]
+    },
+    "35000": {
+        "code": "35000",
+        "colonies": [
+            {
+                "name": "Gómez Palacio Centro",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35010": {
+        "code": "35010",
+        "colonies": [
+            {
+                "name": "Felipe Carrillo Puerto",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35015": {
+        "code": "35015",
+        "colonies": [
+            {
+                "name": "7 de Noviembre",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Ejido Nuevo Castillo",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Miguel de La Madrid Hurtado",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Jabonoso",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Rincón San Antonio",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Villas San Antonio",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "San Ángel",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35016": {
+        "code": "35016",
+        "colonies": [
+            {
+                "name": "Leticia Herrera",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "María Inés Mata de Rendón",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Octaviano Rendón",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35017": {
+        "code": "35017",
+        "colonies": [
+            {
+                "name": "Mezquital",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35019": {
+        "code": "35019",
+        "colonies": [
+            {
+                "name": "Abraham Rosales",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "División del Norte",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35020": {
+        "code": "35020",
+        "colonies": [
+            {
+                "name": "Los Álamos",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Rosales",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35023": {
+        "code": "35023",
+        "colonies": [
+            {
+                "name": "Villas el Refugio",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35024": {
+        "code": "35024",
+        "colonies": [
+            {
+                "name": "Ejido Casa Blanca",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Casa Blanca",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35025": {
+        "code": "35025",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio Murrieta",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Nogales",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Nuevo Gómez",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35026": {
+        "code": "35026",
+        "colonies": [
+            {
+                "name": "José López Portillo",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35027": {
+        "code": "35027",
+        "colonies": [
+            {
+                "name": "Carlos A Herrera",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Doroteo Arango",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Los Viñedos",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Nuevo los Álamos",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Valle Azul",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35029": {
+        "code": "35029",
+        "colonies": [
+            {
+                "name": "El Refugio",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Nuevo Refugio",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35030": {
+        "code": "35030",
+        "colonies": [
+            {
+                "name": "Brittingham",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Francisco González de La Vega",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Jacinto Canek",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35039": {
+        "code": "35039",
+        "colonies": [
+            {
+                "name": "Brittingham II",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "El Amigo",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35040": {
+        "code": "35040",
+        "colonies": [
+            {
+                "name": "5 de Mayo",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Rubén Jaramillo",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35043": {
+        "code": "35043",
+        "colonies": [
+            {
+                "name": "Hortensias",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35044": {
+        "code": "35044",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Santa Rosalía",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35045": {
+        "code": "35045",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35046": {
+        "code": "35046",
+        "colonies": [
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Roberto Fierro",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35047": {
+        "code": "35047",
+        "colonies": [
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35048": {
+        "code": "35048",
+        "colonies": [
+            {
+                "name": "Del Bosque",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35049": {
+        "code": "35049",
+        "colonies": [
+            {
+                "name": "Ejido Emiliano Zapata",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "La Noria",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Expo Gómez Palacio",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "José Rebollo Acosta",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Pánfilo Natera",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Parque Hundido",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "14 de Noviembre",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Hijos de Campesinos",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Nicolás Fernández",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Otilio Montaño",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35050": {
+        "code": "35050",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Francisco Zarco",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "María Luisa Prado de Mayagoitia",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35054": {
+        "code": "35054",
+        "colonies": [
+            {
+                "name": "Villa del Mar",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35055": {
+        "code": "35055",
+        "colonies": [
+            {
+                "name": "15 de Diciembre",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35058": {
+        "code": "35058",
+        "colonies": [
+            {
+                "name": "Ampliación Bellavista",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35059": {
+        "code": "35059",
+        "colonies": [
+            {
+                "name": "Cerro de la Pila",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Rafael Castellanos",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35060": {
+        "code": "35060",
+        "colonies": [
+            {
+                "name": "Deportiva",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Héctor Mayagoitia Domínguez",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Sacramento",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35064": {
+        "code": "35064",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35065": {
+        "code": "35065",
+        "colonies": [
+            {
+                "name": "21 de Marzo",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35066": {
+        "code": "35066",
+        "colonies": [
+            {
+                "name": "Armando del Castillo Franco",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35067": {
+        "code": "35067",
+        "colonies": [
+            {
+                "name": "Jerusalén",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35068": {
+        "code": "35068",
+        "colonies": [
+            {
+                "name": "El FOCEP",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35069": {
+        "code": "35069",
+        "colonies": [
+            {
+                "name": "La Central",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Ampliación Sacramento",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Central",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35073": {
+        "code": "35073",
+        "colonies": [
+            {
+                "name": "Cerro Lindo",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35076": {
+        "code": "35076",
+        "colonies": [
+            {
+                "name": "Pequeña Propiedad la Encantada",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35078": {
+        "code": "35078",
+        "colonies": [
+            {
+                "name": "Estación General Banda",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35079": {
+        "code": "35079",
+        "colonies": [
+            {
+                "name": "Ex-Ejido Cuba",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35080": {
+        "code": "35080",
+        "colonies": [
+            {
+                "name": "El Campestre",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Valle Campestre",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35090": {
+        "code": "35090",
+        "colonies": [
+            {
+                "name": "El Consuelo",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Las Rosas",
+                "municipality": "Gómez Palacio, Durango"
+            },
+            {
+                "name": "Flores Magón",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35099": {
+        "code": "35099",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35100": {
+        "code": "35100",
+        "colonies": [
+            {
+                "name": "Puente de la Torreña",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35106": {
+        "code": "35106",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo (El Siete)",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35112": {
+        "code": "35112",
+        "colonies": [
+            {
+                "name": "Nuevo Barro",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35120": {
+        "code": "35120",
+        "colonies": [
+            {
+                "name": "Colonia Agrícola la Popular",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35130": {
+        "code": "35130",
+        "colonies": [
+            {
+                "name": "La Popular",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35133": {
+        "code": "35133",
+        "colonies": [
+            {
+                "name": "Pastor Rouaix",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35137": {
+        "code": "35137",
+        "colonies": [
+            {
+                "name": "Seis de Julio (Nuevo Noé)",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35146": {
+        "code": "35146",
+        "colonies": [
+            {
+                "name": "Colonia Establera San Francisco",
+                "municipality": "Gómez Palacio, Durango"
+            }
+        ]
+    },
+    "35150": {
+        "code": "35150",
+        "colonies": [
+            {
+                "name": "Lomas Verdes",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Lerdo Centro",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35153": {
+        "code": "35153",
+        "colonies": [
+            {
+                "name": "Francisco Villa Sur",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Las Brisas",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Las Brisas del Sur",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Tiro Al Blanco",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Victoria Popular",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35154": {
+        "code": "35154",
+        "colonies": [
+            {
+                "name": "Cerro de La Cruz",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Fco. Villa Norte",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35155": {
+        "code": "35155",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35156": {
+        "code": "35156",
+        "colonies": [
+            {
+                "name": "Atenco",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "San Fernando",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "18 de Julio",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Prudencia Jáuregui",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "San Juanito",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35157": {
+        "code": "35157",
+        "colonies": [
+            {
+                "name": "Club de Leones (La Lomita)",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Del Valle",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Jardín",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "José Revueltas",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Lucio Cabañas",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Mártires del 68",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Montebello",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Simón Zamora",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Rincón del Periférico",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Villa Paraíso",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35158": {
+        "code": "35158",
+        "colonies": [
+            {
+                "name": "Constituyentes",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Del Parque",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "El Cambio",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "El Edén",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Mayagoitia",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Nueva Jerusalén",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "La Reina",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Los Laureles",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Los Sauces",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Nueva Rosita",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Valle del Sol",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Rosales II",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35159": {
+        "code": "35159",
+        "colonies": [
+            {
+                "name": "Los Ángeles",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Nogales",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Placido Domingo",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Filiberto García M",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "El Amparo",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Residencial Jardines",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35160": {
+        "code": "35160",
+        "colonies": [
+            {
+                "name": "Lagos del Campestre",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Luis Longoria",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Villa de las Flores",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35163": {
+        "code": "35163",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Villa de Guadalupe",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "El Huarache (El Guarache)",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "El Polvorín",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "La Carpa",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "La Ermita",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "La Ferrocarrilera",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "La Rinconada",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35164": {
+        "code": "35164",
+        "colonies": [
+            {
+                "name": "La Rueda",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Ampliación Las Flores",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Rosales",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Sacramento",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Samaniego",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Unidos Venceremos",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35165": {
+        "code": "35165",
+        "colonies": [
+            {
+                "name": "Roberto Fierro",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35166": {
+        "code": "35166",
+        "colonies": [
+            {
+                "name": "Armando del Castillo Franco",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35167": {
+        "code": "35167",
+        "colonies": [
+            {
+                "name": "Fco. Sarabia",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35168": {
+        "code": "35168",
+        "colonies": [
+            {
+                "name": "5 de Mayo",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Hijos de Ejidatarios",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Jardines de Lerdo",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "San José",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "U H SARH",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Villa Jardín",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35169": {
+        "code": "35169",
+        "colonies": [
+            {
+                "name": "Cesar G. Meraz",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "1 de Mayo",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Genaro Vázquez",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35171": {
+        "code": "35171",
+        "colonies": [
+            {
+                "name": "Juan José Rojas",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35174": {
+        "code": "35174",
+        "colonies": [
+            {
+                "name": "Vicente Nava (La Gomita)",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35181": {
+        "code": "35181",
+        "colonies": [
+            {
+                "name": "Centauro del Norte",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35183": {
+        "code": "35183",
+        "colonies": [
+            {
+                "name": "Puente de la Torreña (El Capricho)",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "La Goleta",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Fortuna de Rancho Güero",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35185": {
+        "code": "35185",
+        "colonies": [
+            {
+                "name": "El Sacrificio",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35188": {
+        "code": "35188",
+        "colonies": [
+            {
+                "name": "La Laguneta",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Lerdo, Durango"
+            },
+            {
+                "name": "Las Palomas",
+                "municipality": "Lerdo, Durango"
+            }
+        ]
+    },
+    "35226": {
+        "code": "35226",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata (El Derrame)",
+                "municipality": "Mapimí, Durango"
+            }
+        ]
+    },
+    "35250": {
+        "code": "35250",
+        "colonies": [
+            {
+                "name": "Tlahualilo de Zaragoza Centro",
+                "municipality": "Tlahualilo, Durango"
+            }
+        ]
+    },
+    "35253": {
+        "code": "35253",
+        "colonies": [
+            {
+                "name": "Nueva Zaragoza",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "1o. de Mayo",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "J. Agustín Castro",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Las Margaritas",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "López Faudoa",
+                "municipality": "Tlahualilo, Durango"
+            }
+        ]
+    },
+    "35254": {
+        "code": "35254",
+        "colonies": [
+            {
+                "name": "4 de Noviembre",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Canuto Favela",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Tlahualilo, Durango"
+            }
+        ]
+    },
+    "35255": {
+        "code": "35255",
+        "colonies": [
+            {
+                "name": "Balcones",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Campana",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "El Arenal",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "El Palomar",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Loma Verde",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Pamplona",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Rosas",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Valencia",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Amapolas",
+                "municipality": "Tlahualilo, Durango"
+            }
+        ]
+    },
+    "35256": {
+        "code": "35256",
+        "colonies": [
+            {
+                "name": "Carolina",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Ceceda",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Oquendo",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Londres",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Córdoba",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Barcelona",
+                "municipality": "Tlahualilo, Durango"
+            }
+        ]
+    },
+    "35257": {
+        "code": "35257",
+        "colonies": [
+            {
+                "name": "Jesús García",
+                "municipality": "Tlahualilo, Durango"
+            },
+            {
+                "name": "Zaragoza",
+                "municipality": "Tlahualilo, Durango"
+            }
+        ]
+    },
+    "35310": {
+        "code": "35310",
+        "colonies": [
+            {
+                "name": "San Fermín",
+                "municipality": "Hidalgo, Durango"
+            }
+        ]
+    },
+    "35325": {
+        "code": "35325",
+        "colonies": [
+            {
+                "name": "San Juan Bautista (Los Metates)",
+                "municipality": "Hidalgo, Durango"
+            }
+        ]
+    },
+    "35350": {
+        "code": "35350",
+        "colonies": [
+            {
+                "name": "Villa Ocampo Centro",
+                "municipality": "Ocampo, Durango"
+            }
+        ]
+    },
+    "35355": {
+        "code": "35355",
+        "colonies": [
+            {
+                "name": "Las Palapas",
+                "municipality": "Ocampo, Durango"
+            }
+        ]
+    },
+    "35356": {
+        "code": "35356",
+        "colonies": [
+            {
+                "name": "Alameda",
+                "municipality": "Ocampo, Durango"
+            }
+        ]
+    },
+    "35385": {
+        "code": "35385",
+        "colonies": [
+            {
+                "name": "La Haciendita del Espíritu Santo",
+                "municipality": "Ocampo, Durango"
+            }
+        ]
+    },
+    "35474": {
+        "code": "35474",
+        "colonies": [
+            {
+                "name": "Providencia",
+                "municipality": "San Bernardo, Durango"
+            }
+        ]
+    },
+    "35683": {
+        "code": "35683",
+        "colonies": [
+            {
+                "name": "La Parrita",
+                "municipality": "El Oro, Durango"
+            },
+            {
+                "name": "Jesús María",
+                "municipality": "El Oro, Durango"
+            }
+        ]
+    },
+    "35690": {
+        "code": "35690",
+        "colonies": [
+            {
+                "name": "Santa María del Oro Centro",
+                "municipality": "El Oro, Durango"
+            }
+        ]
+    },
+    "35693": {
+        "code": "35693",
+        "colonies": [
+            {
+                "name": "San Rafael",
+                "municipality": "El Oro, Durango"
+            }
+        ]
+    },
+    "35694": {
+        "code": "35694",
+        "colonies": [
+            {
+                "name": "Cerro de La Merced",
+                "municipality": "El Oro, Durango"
+            }
+        ]
+    },
+    "35695": {
+        "code": "35695",
+        "colonies": [
+            {
+                "name": "Alamito",
+                "municipality": "El Oro, Durango"
+            },
+            {
+                "name": "FENOC",
+                "municipality": "El Oro, Durango"
+            }
+        ]
+    },
+    "35697": {
+        "code": "35697",
+        "colonies": [
+            {
+                "name": "Villa Jardín",
+                "municipality": "El Oro, Durango"
+            },
+            {
+                "name": "Bosques de la Sierra",
+                "municipality": "El Oro, Durango"
+            },
+            {
+                "name": "El Dorado",
+                "municipality": "El Oro, Durango"
+            },
+            {
+                "name": "Puerto Pinto",
+                "municipality": "El Oro, Durango"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "El Oro, Durango"
+            },
+            {
+                "name": "La Ermita",
+                "municipality": "El Oro, Durango"
+            }
+        ]
+    },
+    "35700": {
+        "code": "35700",
+        "colonies": [
+            {
+                "name": "Nazas Centro",
+                "municipality": "Nazas, Durango"
+            }
+        ]
+    },
+    "35703": {
+        "code": "35703",
+        "colonies": [
+            {
+                "name": "De Abajo",
+                "municipality": "Nazas, Durango"
+            }
+        ]
+    },
+    "35704": {
+        "code": "35704",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "Aeropuerto",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "Lomas Verdes",
+                "municipality": "Nazas, Durango"
+            }
+        ]
+    },
+    "35705": {
+        "code": "35705",
+        "colonies": [
+            {
+                "name": "Carlos Salinas de Gortari",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "El Tigre",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "Cerro de la Cruz",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "Valle Verde",
+                "municipality": "Nazas, Durango"
+            }
+        ]
+    },
+    "35706": {
+        "code": "35706",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "I",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "II",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Nazas, Durango"
+            }
+        ]
+    },
+    "35707": {
+        "code": "35707",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "José María Morelos",
+                "municipality": "Nazas, Durango"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Nazas, Durango"
+            }
+        ]
+    },
+    "35760": {
+        "code": "35760",
+        "colonies": [
+            {
+                "name": "Rodeo Centro",
+                "municipality": "Rodeo, Durango"
+            },
+            {
+                "name": "ETA",
+                "municipality": "Rodeo, Durango"
+            },
+            {
+                "name": "Chonteco",
+                "municipality": "Rodeo, Durango"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Rodeo, Durango"
+            },
+            {
+                "name": "Rodrigo Medrano",
+                "municipality": "Rodeo, Durango"
+            },
+            {
+                "name": "Nueva Italia",
+                "municipality": "Rodeo, Durango"
+            },
+            {
+                "name": "ETA 2",
+                "municipality": "Rodeo, Durango"
+            },
+            {
+                "name": "C.B.T.A",
+                "municipality": "Rodeo, Durango"
+            },
+            {
+                "name": "2 de Agosto",
+                "municipality": "Rodeo, Durango"
+            }
+        ]
+    },
+    "35800": {
+        "code": "35800",
+        "colonies": [
+            {
+                "name": "Cuencamé de Ceniceros Centro",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35803": {
+        "code": "35803",
+        "colonies": [
+            {
+                "name": "Juan Pablo II",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "El Pasajito",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Ponteduro",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Cruz Roja",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35804": {
+        "code": "35804",
+        "colonies": [
+            {
+                "name": "El Panteón",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Gral. Vicente Orozco",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "La Deportiva",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35805": {
+        "code": "35805",
+        "colonies": [
+            {
+                "name": "La Plazuela",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Pirules",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35806": {
+        "code": "35806",
+        "colonies": [
+            {
+                "name": "Barriales",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Magistral",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35807": {
+        "code": "35807",
+        "colonies": [
+            {
+                "name": "El Arenal",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Alamedas",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Educación Especial",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "La Lomita",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Las Lomas",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Esperanza",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35810": {
+        "code": "35810",
+        "colonies": [
+            {
+                "name": "Velardeña Centro",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35813": {
+        "code": "35813",
+        "colonies": [
+            {
+                "name": "El Ranchito",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Las Cuadras",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35814": {
+        "code": "35814",
+        "colonies": [
+            {
+                "name": "La Perla",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Las Playas",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35840": {
+        "code": "35840",
+        "colonies": [
+            {
+                "name": "Estación Progreso",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35847": {
+        "code": "35847",
+        "colonies": [
+            {
+                "name": "Colonia Chapala",
+                "municipality": "Cuencamé, Durango"
+            },
+            {
+                "name": "Colonia San Carlos (La Esparceña)",
+                "municipality": "Cuencamé, Durango"
+            }
+        ]
+    },
+    "35880": {
+        "code": "35880",
+        "colonies": [
+            {
+                "name": "Santa Clara Centro",
+                "municipality": "Santa Clara, Durango"
+            }
+        ]
+    },
+    "35883": {
+        "code": "35883",
+        "colonies": [
+            {
+                "name": "Las Poanas",
+                "municipality": "Santa Clara, Durango"
+            },
+            {
+                "name": "Las Playas",
+                "municipality": "Santa Clara, Durango"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Santa Clara, Durango"
+            }
+        ]
+    },
+    "35884": {
+        "code": "35884",
+        "colonies": [
+            {
+                "name": "El Junco",
+                "municipality": "Santa Clara, Durango"
+            },
+            {
+                "name": "El Rancho",
+                "municipality": "Santa Clara, Durango"
+            }
+        ]
+    },
+    "35885": {
+        "code": "35885",
+        "colonies": [
+            {
+                "name": "El Rosario",
+                "municipality": "Santa Clara, Durango"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Santa Clara, Durango"
+            }
+        ]
+    }
+}

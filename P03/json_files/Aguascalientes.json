@@ -1,0 +1,1800 @@
+{
+    "20000": {
+        "code": "20000",
+        "colonies": [
+            {
+                "name": "Aguascalientes Centro",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20010": {
+        "code": "20010",
+        "colonies": [
+            {
+                "name": "Olivares Santana",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20018": {
+        "code": "20018",
+        "colonies": [
+            {
+                "name": "Línea de Fuego",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20020": {
+        "code": "20020",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20030": {
+        "code": "20030",
+        "colonies": [
+            {
+                "name": "Gremial",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20040": {
+        "code": "20040",
+        "colonies": [
+            {
+                "name": "Altavista",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Curtidores",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Miravalle",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20050": {
+        "code": "20050",
+        "colonies": [
+            {
+                "name": "Del Carmen",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "La Fe",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "México",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "San Pablo",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20059": {
+        "code": "20059",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Heliodoro Garcia",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20070": {
+        "code": "20070",
+        "colonies": [
+            {
+                "name": "San Marcos",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20110": {
+        "code": "20110",
+        "colonies": [
+            {
+                "name": "Talamantes Ponce",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20116": {
+        "code": "20116",
+        "colonies": [
+            {
+                "name": "Trojes de Alonso",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20130": {
+        "code": "20130",
+        "colonies": [
+            {
+                "name": "Fátima",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Primo Verdad",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "San José del Arenal",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Unidad Ganadera",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20140": {
+        "code": "20140",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20150": {
+        "code": "20150",
+        "colonies": [
+            {
+                "name": "Buenavista",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Macias Arellano",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Lomas del Cobano",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20157": {
+        "code": "20157",
+        "colonies": [
+            {
+                "name": "La Higuerilla",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20160": {
+        "code": "20160",
+        "colonies": [
+            {
+                "name": "Francisco Guel Jimenez",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20164": {
+        "code": "20164",
+        "colonies": [
+            {
+                "name": "Santa Anita 4a Sección",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20170": {
+        "code": "20170",
+        "colonies": [
+            {
+                "name": "Zona Militar",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20172": {
+        "code": "20172",
+        "colonies": [
+            {
+                "name": "Cumbres III",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20174": {
+        "code": "20174",
+        "colonies": [
+            {
+                "name": "Los Pericos",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20175": {
+        "code": "20175",
+        "colonies": [
+            {
+                "name": "J Refugio Esparza Reyes",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20179": {
+        "code": "20179",
+        "colonies": [
+            {
+                "name": "Progreso",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20180": {
+        "code": "20180",
+        "colonies": [
+            {
+                "name": "Del Trabajo",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Ferronales",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Lomas de Santa Anita",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20190": {
+        "code": "20190",
+        "colonies": [
+            {
+                "name": "Héroes",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20196": {
+        "code": "20196",
+        "colonies": [
+            {
+                "name": "El Rocío",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20198": {
+        "code": "20198",
+        "colonies": [
+            {
+                "name": "Ex Hacienda Ojocaliente",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20199": {
+        "code": "20199",
+        "colonies": [
+            {
+                "name": "El Riego",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20200": {
+        "code": "20200",
+        "colonies": [
+            {
+                "name": "Veteranos de la Revolución",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20205": {
+        "code": "20205",
+        "colonies": [
+            {
+                "name": "Nueva España",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20206": {
+        "code": "20206",
+        "colonies": [
+            {
+                "name": "La Barranquilla",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Barandales de San José",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20210": {
+        "code": "20210",
+        "colonies": [
+            {
+                "name": "La Barranca de Guadalupe",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Pirules INFONAVIT",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20218": {
+        "code": "20218",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "San Martin de La Cantera",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20219": {
+        "code": "20219",
+        "colonies": [
+            {
+                "name": "El Edén",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20220": {
+        "code": "20220",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20230": {
+        "code": "20230",
+        "colonies": [
+            {
+                "name": "Obraje",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20234": {
+        "code": "20234",
+        "colonies": [
+            {
+                "name": "Agricultura",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20236": {
+        "code": "20236",
+        "colonies": [
+            {
+                "name": "Jardines de Santa Elena",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20238": {
+        "code": "20238",
+        "colonies": [
+            {
+                "name": "Santa Elena 2a Sección",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20240": {
+        "code": "20240",
+        "colonies": [
+            {
+                "name": "El Laurel",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "El Llanito",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20250": {
+        "code": "20250",
+        "colonies": [
+            {
+                "name": "La Huerta",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "San Luis",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20260": {
+        "code": "20260",
+        "colonies": [
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Sidusa",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20263": {
+        "code": "20263",
+        "colonies": [
+            {
+                "name": "Ojo de Agua de Palmitas",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20266": {
+        "code": "20266",
+        "colonies": [
+            {
+                "name": "La Cruz",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Misión de Santa Fe",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20267": {
+        "code": "20267",
+        "colonies": [
+            {
+                "name": "Jardines de La Convención",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20269": {
+        "code": "20269",
+        "colonies": [
+            {
+                "name": "Jardines de La Luz",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20270": {
+        "code": "20270",
+        "colonies": [
+            {
+                "name": "Jardines de La Asunción",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Las Canoas",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20276": {
+        "code": "20276",
+        "colonies": [
+            {
+                "name": "Jardines de las Bugambilias",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20280": {
+        "code": "20280",
+        "colonies": [
+            {
+                "name": "Jardines del Sur",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Martinez Dominguez",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "San Francisco del Arenal",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "San Pedro",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20286": {
+        "code": "20286",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20298": {
+        "code": "20298",
+        "colonies": [
+            {
+                "name": "Villas de Ajedrez",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Lomas de Nueva York",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20299": {
+        "code": "20299",
+        "colonies": [
+            {
+                "name": "Mujeres Ilustres",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20300": {
+        "code": "20300",
+        "colonies": [
+            {
+                "name": "Panamericano",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "San Francisco de los Romos Centro",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            }
+        ]
+    },
+    "20303": {
+        "code": "20303",
+        "colonies": [
+            {
+                "name": "El Tirón (El Progreso)",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "Los Cedros",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "San José Buenavista",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            }
+        ]
+    },
+    "20304": {
+        "code": "20304",
+        "colonies": [
+            {
+                "name": "Fracción de la Trinidad II",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "La Escondida (El Salero)",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "San José del Barranco",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "28 de Abril",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            }
+        ]
+    },
+    "20305": {
+        "code": "20305",
+        "colonies": [
+            {
+                "name": "El Barranco",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "El Gigante",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "La Providencia",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "La Trinidad",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "La Unión",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "Las Carmelitas",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "Sociedad Plan de los Sabinos",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "San Ángel",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "San Pedro Victoria de Arriba",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            },
+            {
+                "name": "Santa Anita",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            }
+        ]
+    },
+    "20310": {
+        "code": "20310",
+        "colonies": [
+            {
+                "name": "Coyotes",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Viñedos San Felipe",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20320": {
+        "code": "20320",
+        "colonies": [
+            {
+                "name": "Estación Cañada Honda",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20326": {
+        "code": "20326",
+        "colonies": [
+            {
+                "name": "Valle de San Ignacio (El Filso)",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "La Perla",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "San Ignacio II",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "San Ignacio III",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20328": {
+        "code": "20328",
+        "colonies": [
+            {
+                "name": "Pocitos",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20330": {
+        "code": "20330",
+        "colonies": [
+            {
+                "name": "Palo Alto Centro",
+                "municipality": "El Llano, Aguascalientes"
+            }
+        ]
+    },
+    "20333": {
+        "code": "20333",
+        "colonies": [
+            {
+                "name": "El Barreno (Ampliación San Francisco)",
+                "municipality": "El Llano, Aguascalientes"
+            }
+        ]
+    },
+    "20339": {
+        "code": "20339",
+        "colonies": [
+            {
+                "name": "Santa Elena",
+                "municipality": "El Llano, Aguascalientes"
+            }
+        ]
+    },
+    "20340": {
+        "code": "20340",
+        "colonies": [
+            {
+                "name": "Peñuelas (El Cienegal)",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20347": {
+        "code": "20347",
+        "colonies": [
+            {
+                "name": "El Turicate",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20350": {
+        "code": "20350",
+        "colonies": [
+            {
+                "name": "Macario J Gómez",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            }
+        ]
+    },
+    "20358": {
+        "code": "20358",
+        "colonies": [
+            {
+                "name": "Ex-Viñedos Guadalupe",
+                "municipality": "San Francisco de los Romo, Aguascalientes"
+            }
+        ]
+    },
+    "20367": {
+        "code": "20367",
+        "colonies": [
+            {
+                "name": "2 de Octubre",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Che Guevara",
+                "municipality": "Aguascalientes, Aguascalientes"
+            },
+            {
+                "name": "Tanque el Trigo",
+                "municipality": "Aguascalientes, Aguascalientes"
+            }
+        ]
+    },
+    "20400": {
+        "code": "20400",
+        "colonies": [
+            {
+                "name": "Rincón de Romos Centro",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20403": {
+        "code": "20403",
+        "colonies": [
+            {
+                "name": "Santa Elena",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Desarrollo Especial La Pedrera",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Subdivisión La Piedrera",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20405": {
+        "code": "20405",
+        "colonies": [
+            {
+                "name": "El Chaveño",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20406": {
+        "code": "20406",
+        "colonies": [
+            {
+                "name": "Rinconada Alameda",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Cerro del Gato",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20410": {
+        "code": "20410",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Santa Anita",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20414": {
+        "code": "20414",
+        "colonies": [
+            {
+                "name": "Desarrollo Especial",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20415": {
+        "code": "20415",
+        "colonies": [
+            {
+                "name": "San José",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20416": {
+        "code": "20416",
+        "colonies": [
+            {
+                "name": "Presidentes de México",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20420": {
+        "code": "20420",
+        "colonies": [
+            {
+                "name": "Pablo Escaleras",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20423": {
+        "code": "20423",
+        "colonies": [
+            {
+                "name": "San Judas Tadeo (Santa Fe)",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20427": {
+        "code": "20427",
+        "colonies": [
+            {
+                "name": "El Valle de las Delicias",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Los Morales",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20434": {
+        "code": "20434",
+        "colonies": [
+            {
+                "name": "18 de Marzo",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20435": {
+        "code": "20435",
+        "colonies": [
+            {
+                "name": "El Salitrillo",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20436": {
+        "code": "20436",
+        "colonies": [
+            {
+                "name": "El Milagro",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20437": {
+        "code": "20437",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Héctor Hugo Olivares",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            },
+            {
+                "name": "Pabellón de Hidalgo Centro",
+                "municipality": "Rincón de Romos, Aguascalientes"
+            }
+        ]
+    },
+    "20460": {
+        "code": "20460",
+        "colonies": [
+            {
+                "name": "Cosío Centro",
+                "municipality": "Cosío, Aguascalientes"
+            }
+        ]
+    },
+    "20468": {
+        "code": "20468",
+        "colonies": [
+            {
+                "name": "Santa Cruz",
+                "municipality": "Cosío, Aguascalientes"
+            }
+        ]
+    },
+    "20469": {
+        "code": "20469",
+        "colonies": [
+            {
+                "name": "Mexiquito",
+                "municipality": "Cosío, Aguascalientes"
+            },
+            {
+                "name": "Coplamar",
+                "municipality": "Cosío, Aguascalientes"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Cosío, Aguascalientes"
+            }
+        ]
+    },
+    "20472": {
+        "code": "20472",
+        "colonies": [
+            {
+                "name": "El Durazno",
+                "municipality": "Cosío, Aguascalientes"
+            }
+        ]
+    },
+    "20478": {
+        "code": "20478",
+        "colonies": [
+            {
+                "name": "Guadalupito",
+                "municipality": "Cosío, Aguascalientes"
+            }
+        ]
+    },
+    "20504": {
+        "code": "20504",
+        "colonies": [
+            {
+                "name": "Santa Elena de la Cruz (Capadero)",
+                "municipality": "San José de Gracia, Aguascalientes"
+            }
+        ]
+    },
+    "20600": {
+        "code": "20600",
+        "colonies": [
+            {
+                "name": "Tepezalá Centro",
+                "municipality": "Tepezalá, Aguascalientes"
+            }
+        ]
+    },
+    "20603": {
+        "code": "20603",
+        "colonies": [
+            {
+                "name": "San Rafael",
+                "municipality": "Tepezalá, Aguascalientes"
+            }
+        ]
+    },
+    "20604": {
+        "code": "20604",
+        "colonies": [
+            {
+                "name": "Felipe González González",
+                "municipality": "Tepezalá, Aguascalientes"
+            }
+        ]
+    },
+    "20607": {
+        "code": "20607",
+        "colonies": [
+            {
+                "name": "Luis Ortega Douglas",
+                "municipality": "Tepezalá, Aguascalientes"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Tepezalá, Aguascalientes"
+            }
+        ]
+    },
+    "20614": {
+        "code": "20614",
+        "colonies": [
+            {
+                "name": "Ampliación los Hornos (el Lagunazo)",
+                "municipality": "Tepezalá, Aguascalientes"
+            }
+        ]
+    },
+    "20664": {
+        "code": "20664",
+        "colonies": [
+            {
+                "name": "Nueva",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20665": {
+        "code": "20665",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20670": {
+        "code": "20670",
+        "colonies": [
+            {
+                "name": "Pabellón de Arteaga Centro",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20673": {
+        "code": "20673",
+        "colonies": [
+            {
+                "name": "Barrio Industrial",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20674": {
+        "code": "20674",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            },
+            {
+                "name": "Villas de Pabellón",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20676": {
+        "code": "20676",
+        "colonies": [
+            {
+                "name": "5 de Mayo",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20677": {
+        "code": "20677",
+        "colonies": [
+            {
+                "name": "Plutarco Elías Calles",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            },
+            {
+                "name": "Progreso Sur",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20678": {
+        "code": "20678",
+        "colonies": [
+            {
+                "name": "Progreso Norte",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            },
+            {
+                "name": "Subdivisión Villa de Guadalupe",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20683": {
+        "code": "20683",
+        "colonies": [
+            {
+                "name": "El Mezquite",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20684": {
+        "code": "20684",
+        "colonies": [
+            {
+                "name": "Ojo Zarco",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            },
+            {
+                "name": "El Rayo",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20686": {
+        "code": "20686",
+        "colonies": [
+            {
+                "name": "Gámez Orozco (Puerta de Carboneras)",
+                "municipality": "Pabellón de Arteaga, Aguascalientes"
+            }
+        ]
+    },
+    "20700": {
+        "code": "20700",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Asientos, Aguascalientes"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Asientos, Aguascalientes"
+            },
+            {
+                "name": "Agua Nueva",
+                "municipality": "Asientos, Aguascalientes"
+            },
+            {
+                "name": "Álamos",
+                "municipality": "Asientos, Aguascalientes"
+            },
+            {
+                "name": "La Sierra",
+                "municipality": "Asientos, Aguascalientes"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Asientos, Aguascalientes"
+            },
+            {
+                "name": "Villa Juárez Centro",
+                "municipality": "Asientos, Aguascalientes"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Asientos, Aguascalientes"
+            },
+            {
+                "name": "El Rascón",
+                "municipality": "Asientos, Aguascalientes"
+            }
+        ]
+    },
+    "20710": {
+        "code": "20710",
+        "colonies": [
+            {
+                "name": "Asientos Centro",
+                "municipality": "Asientos, Aguascalientes"
+            }
+        ]
+    },
+    "20715": {
+        "code": "20715",
+        "colonies": [
+            {
+                "name": "INFONAVIT",
+                "municipality": "Asientos, Aguascalientes"
+            }
+        ]
+    },
+    "20724": {
+        "code": "20724",
+        "colonies": [
+            {
+                "name": "Gómez Portugal",
+                "municipality": "Asientos, Aguascalientes"
+            }
+        ]
+    },
+    "20734": {
+        "code": "20734",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Asientos, Aguascalientes"
+            }
+        ]
+    },
+    "20739": {
+        "code": "20739",
+        "colonies": [
+            {
+                "name": "San Pedro",
+                "municipality": "Asientos, Aguascalientes"
+            }
+        ]
+    },
+    "20770": {
+        "code": "20770",
+        "colonies": [
+            {
+                "name": "Emancipación (Borunda)",
+                "municipality": "Asientos, Aguascalientes"
+            }
+        ]
+    },
+    "20800": {
+        "code": "20800",
+        "colonies": [
+            {
+                "name": "Calvillo Centro",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20802": {
+        "code": "20802",
+        "colonies": [
+            {
+                "name": "López Mateos",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "El Guayabo",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Sección Benito Juárez",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Sección Cerritos",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Sección Loma de Fundadores",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20803": {
+        "code": "20803",
+        "colonies": [
+            {
+                "name": "Lomas de Huejúcar",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "San Nicolás",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20804": {
+        "code": "20804",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Liberal",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Rincón de Baltazares",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Valle de Santiago",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Arroyo de Los Caballos",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Del Carmen",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20805": {
+        "code": "20805",
+        "colonies": [
+            {
+                "name": "Cerrito Alto",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Valle de Huejúcar",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Los Angeles",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20820": {
+        "code": "20820",
+        "colonies": [
+            {
+                "name": "Jardines de San Isidro (Colonia Limón)",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20834": {
+        "code": "20834",
+        "colonies": [
+            {
+                "name": "Potrero de los López",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Las Huertas",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "La Pila",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "La Alberca",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "La Españita",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Los Baños",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Los Esparza",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "La Placita",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "La Casa Grande",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Azoteyita",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Ojocaliente",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "La Fortuna",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Calvillo, Aguascalientes"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20850": {
+        "code": "20850",
+        "colonies": [
+            {
+                "name": "Pozo de los Artistas",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20854": {
+        "code": "20854",
+        "colonies": [
+            {
+                "name": "El Taray",
+                "municipality": "Calvillo, Aguascalientes"
+            }
+        ]
+    },
+    "20900": {
+        "code": "20900",
+        "colonies": [
+            {
+                "name": "Corral de Barrancos",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Maravillas",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20901": {
+        "code": "20901",
+        "colonies": [
+            {
+                "name": "El Maguey",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Las Jaulas",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "La Loma de Valladolid",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20904": {
+        "code": "20904",
+        "colonies": [
+            {
+                "name": "El Barreno",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20905": {
+        "code": "20905",
+        "colonies": [
+            {
+                "name": "Miravalle",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Paso Blanco",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "La Lomita de Paso Blanco (Las Canoas)",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20907": {
+        "code": "20907",
+        "colonies": [
+            {
+                "name": "Paseos de Aguascalientes",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20908": {
+        "code": "20908",
+        "colonies": [
+            {
+                "name": "Tepetates",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20909": {
+        "code": "20909",
+        "colonies": [
+            {
+                "name": "Saturnino Herran",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Los Vázquez",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20910": {
+        "code": "20910",
+        "colonies": [
+            {
+                "name": "San Antonio de los Horcones",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Brownsville",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20913": {
+        "code": "20913",
+        "colonies": [
+            {
+                "name": "Villas de Guadalupe (La Malobra)",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "El Cenizo",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20920": {
+        "code": "20920",
+        "colonies": [
+            {
+                "name": "Jesús María Centro",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20922": {
+        "code": "20922",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "La Escalera",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20923": {
+        "code": "20923",
+        "colonies": [
+            {
+                "name": "Flores Magón",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "La Cardona",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Los Arroyitos",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "San Miguelito",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20924": {
+        "code": "20924",
+        "colonies": [
+            {
+                "name": "Cielo Claro",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Jacarandas",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20925": {
+        "code": "20925",
+        "colonies": [
+            {
+                "name": "Lomas de Jesús María",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Vistas del Sáuz",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20926": {
+        "code": "20926",
+        "colonies": [
+            {
+                "name": "Las Palmas",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Chicahuales",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Lomas del Valle",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Martínez Andrade",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20927": {
+        "code": "20927",
+        "colonies": [
+            {
+                "name": "La Cañada",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Ampliación La Cañada",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Ojos de Agua",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20928": {
+        "code": "20928",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "El Torito",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "El Chaveño",
+                "municipality": "Jesús María, Aguascalientes"
+            },
+            {
+                "name": "Solar de Jonacatique",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20933": {
+        "code": "20933",
+        "colonies": [
+            {
+                "name": "Unión de Ladrilleros",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20983": {
+        "code": "20983",
+        "colonies": [
+            {
+                "name": "El Llano",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20984": {
+        "code": "20984",
+        "colonies": [
+            {
+                "name": "Providencia",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20994": {
+        "code": "20994",
+        "colonies": [
+            {
+                "name": "Villas de Montegrande",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    },
+    "20996": {
+        "code": "20996",
+        "colonies": [
+            {
+                "name": "La Primavera",
+                "municipality": "Jesús María, Aguascalientes"
+            }
+        ]
+    }
+}

@@ -1,0 +1,5275 @@
+{
+    "62000": {
+        "code": "62000",
+        "colonies": [
+            {
+                "name": "Cuernavaca Centro",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62010": {
+        "code": "62010",
+        "colonies": [
+            {
+                "name": "Altavista",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62017": {
+        "code": "62017",
+        "colonies": [
+            {
+                "name": "Margarita Maza de Juárez",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62018": {
+        "code": "62018",
+        "colonies": [
+            {
+                "name": "Altavista Barrancas",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62019": {
+        "code": "62019",
+        "colonies": [
+            {
+                "name": "Loma Hermosa",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Plan de Ayala Barrancas",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Provinciana",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Tepeyehualco",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62020": {
+        "code": "62020",
+        "colonies": [
+            {
+                "name": "José López Portillo",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Sacatierra",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "San Antón",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Ampliación Sacatierra",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62028": {
+        "code": "62028",
+        "colonies": [
+            {
+                "name": "Loma de los Amates (Loma de la Lagunilla)",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Nueva Santa María",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62029": {
+        "code": "62029",
+        "colonies": [
+            {
+                "name": "Chulavista",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62030": {
+        "code": "62030",
+        "colonies": [
+            {
+                "name": "Club de Golf",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62037": {
+        "code": "62037",
+        "colonies": [
+            {
+                "name": "Jardines del Edén",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Benito Juárez (Lagunilla)",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "La Unión",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62038": {
+        "code": "62038",
+        "colonies": [
+            {
+                "name": "Lagunillas Barrancas",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62039": {
+        "code": "62039",
+        "colonies": [
+            {
+                "name": "Lagunilla del Salto",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62040": {
+        "code": "62040",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62050": {
+        "code": "62050",
+        "colonies": [
+            {
+                "name": "Benito Juárez (Centro)",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62057": {
+        "code": "62057",
+        "colonies": [
+            {
+                "name": "Pilares",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62059": {
+        "code": "62059",
+        "colonies": [
+            {
+                "name": "Bondies",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62060": {
+        "code": "62060",
+        "colonies": [
+            {
+                "name": "Quintana Roo",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62070": {
+        "code": "62070",
+        "colonies": [
+            {
+                "name": "Chipitlán",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Mina Cinco",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62076": {
+        "code": "62076",
+        "colonies": [
+            {
+                "name": "El Polvorín",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Adolfo López Mateos (Polvorín)",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62080": {
+        "code": "62080",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62083": {
+        "code": "62083",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas 1ra. Ampliación",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Lázaro Cárdenas 2da. Ampliación",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62084": {
+        "code": "62084",
+        "colonies": [
+            {
+                "name": "La Parota",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62103": {
+        "code": "62103",
+        "colonies": [
+            {
+                "name": "Santa Elena de La Cruz",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62115": {
+        "code": "62115",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "La Caminera",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Ocotera",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62116": {
+        "code": "62116",
+        "colonies": [
+            {
+                "name": "Tepuente",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Mirador Universidad",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62117": {
+        "code": "62117",
+        "colonies": [
+            {
+                "name": "Provincias de Jerusalén",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62123": {
+        "code": "62123",
+        "colonies": [
+            {
+                "name": "Ocotitla",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62130": {
+        "code": "62130",
+        "colonies": [
+            {
+                "name": "Buenavista",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Jardines de Ahuatlán",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Terrazas Ahuatlán",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62137": {
+        "code": "62137",
+        "colonies": [
+            {
+                "name": "La Mojonera",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Lienzo El Charro",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62139": {
+        "code": "62139",
+        "colonies": [
+            {
+                "name": "Loma Linda",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62140": {
+        "code": "62140",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62143": {
+        "code": "62143",
+        "colonies": [
+            {
+                "name": "Zona Militar",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62145": {
+        "code": "62145",
+        "colonies": [
+            {
+                "name": "Lomas de La Selva Norte",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62150": {
+        "code": "62150",
+        "colonies": [
+            {
+                "name": "Del Bosque",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62156": {
+        "code": "62156",
+        "colonies": [
+            {
+                "name": "Lomas de Tetela",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62157": {
+        "code": "62157",
+        "colonies": [
+            {
+                "name": "Lomas de Zompantle",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62159": {
+        "code": "62159",
+        "colonies": [
+            {
+                "name": "Adolfo Ruiz Cortines",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62160": {
+        "code": "62160",
+        "colonies": [
+            {
+                "name": "La Cañada",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62163": {
+        "code": "62163",
+        "colonies": [
+            {
+                "name": "La Tranca",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62164": {
+        "code": "62164",
+        "colonies": [
+            {
+                "name": "Tzompantle Norte",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62165": {
+        "code": "62165",
+        "colonies": [
+            {
+                "name": "Tonintana",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62170": {
+        "code": "62170",
+        "colonies": [
+            {
+                "name": "Jiquilpan",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "La Pradera",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Tlaltenango",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62175": {
+        "code": "62175",
+        "colonies": [
+            {
+                "name": "Lomas de La Pradera",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62179": {
+        "code": "62179",
+        "colonies": [
+            {
+                "name": "San Jerónimo",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62180": {
+        "code": "62180",
+        "colonies": [
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Minas de Atzingo",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "El Tecolote",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62190": {
+        "code": "62190",
+        "colonies": [
+            {
+                "name": "La Carolina",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62193": {
+        "code": "62193",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62200": {
+        "code": "62200",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62203": {
+        "code": "62203",
+        "colonies": [
+            {
+                "name": "El Ocote",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Salvador Elizarragaz",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Tehuiztitlán",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62210": {
+        "code": "62210",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62214": {
+        "code": "62214",
+        "colonies": [
+            {
+                "name": "Benito Juárez (Chamilpa)",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Ampliación Chamilpa",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62215": {
+        "code": "62215",
+        "colonies": [
+            {
+                "name": "Blanca Universidad",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Río Balsas",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Universidad",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62217": {
+        "code": "62217",
+        "colonies": [
+            {
+                "name": "Lomas de Chamilpa 2a Secc.",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62218": {
+        "code": "62218",
+        "colonies": [
+            {
+                "name": "Lomas de Chamilpa",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62226": {
+        "code": "62226",
+        "colonies": [
+            {
+                "name": "Texcaltepec",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62227": {
+        "code": "62227",
+        "colonies": [
+            {
+                "name": "Ampliación Ocotepec",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62228": {
+        "code": "62228",
+        "colonies": [
+            {
+                "name": "Ampliación Emiliano Zapata",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62229": {
+        "code": "62229",
+        "colonies": [
+            {
+                "name": "Nogales",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62230": {
+        "code": "62230",
+        "colonies": [
+            {
+                "name": "San Cristóbal",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62233": {
+        "code": "62233",
+        "colonies": [
+            {
+                "name": "Tlaltepexco",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "La Paloma",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62239": {
+        "code": "62239",
+        "colonies": [
+            {
+                "name": "Prados de Cuernavaca",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62240": {
+        "code": "62240",
+        "colonies": [
+            {
+                "name": "Lomas de Cortes",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Rincón del Valle",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62243": {
+        "code": "62243",
+        "colonies": [
+            {
+                "name": "El Veladero",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "San Salvador",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62245": {
+        "code": "62245",
+        "colonies": [
+            {
+                "name": "Recursos Hidráulicos",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62249": {
+        "code": "62249",
+        "colonies": [
+            {
+                "name": "Tecomulco",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Ixtacpan (Zigapan)",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62250": {
+        "code": "62250",
+        "colonies": [
+            {
+                "name": "Del Empleado",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Tezontepec",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62253": {
+        "code": "62253",
+        "colonies": [
+            {
+                "name": "Lomas de La Selva Oriente",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Pilancón",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62260": {
+        "code": "62260",
+        "colonies": [
+            {
+                "name": "Reforma",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62270": {
+        "code": "62270",
+        "colonies": [
+            {
+                "name": "Lomas de La Selva",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Miraval",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Lomas de Miraval",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62280": {
+        "code": "62280",
+        "colonies": [
+            {
+                "name": "Gualupita",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62285": {
+        "code": "62285",
+        "colonies": [
+            {
+                "name": "Patios de la Estación",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62290": {
+        "code": "62290",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62294": {
+        "code": "62294",
+        "colonies": [
+            {
+                "name": "Ahuehuetitla",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Tlalquiltompan",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Federación",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62295": {
+        "code": "62295",
+        "colonies": [
+            {
+                "name": "Extensión Vista Hermosa",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62296": {
+        "code": "62296",
+        "colonies": [
+            {
+                "name": "Extensión Delicias",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62303": {
+        "code": "62303",
+        "colonies": [
+            {
+                "name": "Lomas de La Herradura",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62304": {
+        "code": "62304",
+        "colonies": [
+            {
+                "name": "Gloria Almada de Bejarano",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "San Isidro Loma Bonita",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62305": {
+        "code": "62305",
+        "colonies": [
+            {
+                "name": "Los Ramos",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Tepepan",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62306": {
+        "code": "62306",
+        "colonies": [
+            {
+                "name": "Villa Santiago",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Rodolfo López de Nava (Los Naranjos)",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Cruz de la Curva",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62309": {
+        "code": "62309",
+        "colonies": [
+            {
+                "name": "Paraje Alarcón",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62320": {
+        "code": "62320",
+        "colonies": [
+            {
+                "name": "Antonio Barona Centro",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62323": {
+        "code": "62323",
+        "colonies": [
+            {
+                "name": "Tierra Colorada",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "México Lindo",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Papayos",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62324": {
+        "code": "62324",
+        "colonies": [
+            {
+                "name": "El Universo",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Lomas de Ahuatepec",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Cerritos de García",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Unidad Deportiva",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Ampliación la Cañada",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62325": {
+        "code": "62325",
+        "colonies": [
+            {
+                "name": "Rancho Alegre",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "El Copalito",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Lomas Verdes de Ahuatepec",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Bosques de la Florida",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62326": {
+        "code": "62326",
+        "colonies": [
+            {
+                "name": "Paraíso Montessori",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Cerritos",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Paraíso",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "San Antonio del Jagüey",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Jardines de Zoquipa",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Tlaltecuáhuitl",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Los Guayabos",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62328": {
+        "code": "62328",
+        "colonies": [
+            {
+                "name": "Antonio Barona 3a Secc.",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62329": {
+        "code": "62329",
+        "colonies": [
+            {
+                "name": "Antonio Barona 1a Secc.",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Antonio Barona 2a Secc.",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62330": {
+        "code": "62330",
+        "colonies": [
+            {
+                "name": "Delicias",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62334": {
+        "code": "62334",
+        "colonies": [
+            {
+                "name": "Amate Redondo",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62340": {
+        "code": "62340",
+        "colonies": [
+            {
+                "name": "Lomas de Cortes Oriente",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Bosques de Cuernavaca",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62343": {
+        "code": "62343",
+        "colonies": [
+            {
+                "name": "El Mascareño",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62350": {
+        "code": "62350",
+        "colonies": [
+            {
+                "name": "Los Volcanes",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Lomas del Mirador",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Teopanzolco",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62360": {
+        "code": "62360",
+        "colonies": [
+            {
+                "name": "Jardines de Cuernavaca",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62370": {
+        "code": "62370",
+        "colonies": [
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62384": {
+        "code": "62384",
+        "colonies": [
+            {
+                "name": "Mártires de Río Blanco",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62385": {
+        "code": "62385",
+        "colonies": [
+            {
+                "name": "Ramón Hernandez Navarro",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62387": {
+        "code": "62387",
+        "colonies": [
+            {
+                "name": "Santa Martha Ahuatepec",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Milpillas",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Ampliación Santa Martha",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62388": {
+        "code": "62388",
+        "colonies": [
+            {
+                "name": "Los Tulipanes",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62390": {
+        "code": "62390",
+        "colonies": [
+            {
+                "name": "Revolución",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62398": {
+        "code": "62398",
+        "colonies": [
+            {
+                "name": "Ciudad Chapultepec",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62400": {
+        "code": "62400",
+        "colonies": [
+            {
+                "name": "El Vergel",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62409": {
+        "code": "62409",
+        "colonies": [
+            {
+                "name": "Santa Veracruz",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62410": {
+        "code": "62410",
+        "colonies": [
+            {
+                "name": "Amatitlán",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62420": {
+        "code": "62420",
+        "colonies": [
+            {
+                "name": "Jacarandas",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Quintas Martha",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62430": {
+        "code": "62430",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62433": {
+        "code": "62433",
+        "colonies": [
+            {
+                "name": "Bosques de Chapultepec",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62440": {
+        "code": "62440",
+        "colonies": [
+            {
+                "name": "Poblado Acapatzingo",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62446": {
+        "code": "62446",
+        "colonies": [
+            {
+                "name": "San Miguel Acapantzingo",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62448": {
+        "code": "62448",
+        "colonies": [
+            {
+                "name": "Cantarranas",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62450": {
+        "code": "62450",
+        "colonies": [
+            {
+                "name": "Las Quintas",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Chapultepec",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Manantiales",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62460": {
+        "code": "62460",
+        "colonies": [
+            {
+                "name": "Las Granjas",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Satélite",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Vicente Estrada Cajigal",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Ampliación Satélite",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62466": {
+        "code": "62466",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62470": {
+        "code": "62470",
+        "colonies": [
+            {
+                "name": "Del Lago",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Las Águilas",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62480": {
+        "code": "62480",
+        "colonies": [
+            {
+                "name": "Ampliación Chapultepec",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62490": {
+        "code": "62490",
+        "colonies": [
+            {
+                "name": "Palmira Tinguindin",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62493": {
+        "code": "62493",
+        "colonies": [
+            {
+                "name": "Internado Palmira",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62494": {
+        "code": "62494",
+        "colonies": [
+            {
+                "name": "El Salado",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62507": {
+        "code": "62507",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas del Río",
+                "municipality": "Cuernavaca, Morelos"
+            },
+            {
+                "name": "Ampliación Lázaro Cárdenas del Río",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62508": {
+        "code": "62508",
+        "colonies": [
+            {
+                "name": "Buenavista del Monte",
+                "municipality": "Cuernavaca, Morelos"
+            }
+        ]
+    },
+    "62520": {
+        "code": "62520",
+        "colonies": [
+            {
+                "name": "Xilotepec",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Tepoztlán Centro",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "El Tesoro",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Los Ocotes",
+                "municipality": "Tepoztlán, Morelos"
+            }
+        ]
+    },
+    "62524": {
+        "code": "62524",
+        "colonies": [
+            {
+                "name": "Del Carmen",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Achichipico",
+                "municipality": "Tepoztlán, Morelos"
+            }
+        ]
+    },
+    "62525": {
+        "code": "62525",
+        "colonies": [
+            {
+                "name": "Tecmilco",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Chichco (Chisco)",
+                "municipality": "Tepoztlán, Morelos"
+            }
+        ]
+    },
+    "62526": {
+        "code": "62526",
+        "colonies": [
+            {
+                "name": "Tehuixcorral (Colonia San Martín Caballero)",
+                "municipality": "Tepoztlán, Morelos"
+            }
+        ]
+    },
+    "62527": {
+        "code": "62527",
+        "colonies": [
+            {
+                "name": "Huachinantitla",
+                "municipality": "Tepoztlán, Morelos"
+            }
+        ]
+    },
+    "62528": {
+        "code": "62528",
+        "colonies": [
+            {
+                "name": "Ángel Bocanegra (Adolfo López Mateos)",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tepoztlán, Morelos"
+            }
+        ]
+    },
+    "62529": {
+        "code": "62529",
+        "colonies": [
+            {
+                "name": "Acolapan",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Loma Esmeralda",
+                "municipality": "Tepoztlán, Morelos"
+            },
+            {
+                "name": "Tetecolala",
+                "municipality": "Tepoztlán, Morelos"
+            }
+        ]
+    },
+    "62530": {
+        "code": "62530",
+        "colonies": [
+            {
+                "name": "Centro Tlalnepantla",
+                "municipality": "Tlalnepantla, Morelos"
+            }
+        ]
+    },
+    "62534": {
+        "code": "62534",
+        "colonies": [
+            {
+                "name": "El Pedregal",
+                "municipality": "Tlalnepantla, Morelos"
+            }
+        ]
+    },
+    "62540": {
+        "code": "62540",
+        "colonies": [
+            {
+                "name": "San Miguel",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "San Diego",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Exaltación",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "El Plan",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "San Lorenzo",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Altica",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Santana",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Santiago",
+                "municipality": "Tlayacapan, Morelos"
+            }
+        ]
+    },
+    "62543": {
+        "code": "62543",
+        "colonies": [
+            {
+                "name": "Tres de Mayo",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "La Mixtepec",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Tlayacapan, Morelos"
+            }
+        ]
+    },
+    "62544": {
+        "code": "62544",
+        "colonies": [
+            {
+                "name": "Pedregal Tlalli",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Las Calandrias",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Camino Real los Reyes",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Joyas del Astillero",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Texalo (La Cerámica)",
+                "municipality": "Tlayacapan, Morelos"
+            }
+        ]
+    },
+    "62545": {
+        "code": "62545",
+        "colonies": [
+            {
+                "name": "Puente Pantitlán",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "El Partidor",
+                "municipality": "Tlayacapan, Morelos"
+            }
+        ]
+    },
+    "62546": {
+        "code": "62546",
+        "colonies": [
+            {
+                "name": "Las Vivianas",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "El Ahuehuete",
+                "municipality": "Tlayacapan, Morelos"
+            }
+        ]
+    },
+    "62547": {
+        "code": "62547",
+        "colonies": [
+            {
+                "name": "Los Ciruelos",
+                "municipality": "Tlayacapan, Morelos"
+            },
+            {
+                "name": "Cruz Blanca",
+                "municipality": "Tlayacapan, Morelos"
+            }
+        ]
+    },
+    "62550": {
+        "code": "62550",
+        "colonies": [
+            {
+                "name": "Centro Jiutepec",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62553": {
+        "code": "62553",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Tlahuapan",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Moctezuma",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62554": {
+        "code": "62554",
+        "colonies": [
+            {
+                "name": "Lomas de Tlahuapan",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Rancho Paraíso",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "La Alameda",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Fuentes de Oriente",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62555": {
+        "code": "62555",
+        "colonies": [
+            {
+                "name": "Maravillas",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Calera Oriente",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "El Naranjo",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Esmeralda",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "El Campanario",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62556": {
+        "code": "62556",
+        "colonies": [
+            {
+                "name": "Calera Chica",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "28 de Agosto",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Ampliación 28 de Agosto",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Calera Poniente",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Ampliación Joyas de Agua",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Joya del Agua",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Villa Santiago",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "La Laja",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "La Huizachera",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62560": {
+        "code": "62560",
+        "colonies": [
+            {
+                "name": "Atlacomulco",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62563": {
+        "code": "62563",
+        "colonies": [
+            {
+                "name": "Los Pinos Jiutepec",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62564": {
+        "code": "62564",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "El Castillo",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "La Nopalera",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62566": {
+        "code": "62566",
+        "colonies": [
+            {
+                "name": "Lomas de Jiutepec",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62570": {
+        "code": "62570",
+        "colonies": [
+            {
+                "name": "Pedregal de Tejalpa",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Oriental",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Tejalpa",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Ampliación Tejalpa",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Ampliación Vicente Guerrero",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Atenatitlán",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Cuauhtémoc Cárdenas",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Los Pinos Tejalpa",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "El Capiri",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62573": {
+        "code": "62573",
+        "colonies": [
+            {
+                "name": "Apatlaco",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "San Lucas",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Hacienda de las Flores",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "San Francisco Texcalpa",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Campo Morado",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Cuauchiles",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Ampliación El Paraíso",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62574": {
+        "code": "62574",
+        "colonies": [
+            {
+                "name": "Progreso",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "José López Portillo",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "San José",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "La Mesa",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Lomas del Texcal",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62575": {
+        "code": "62575",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Alfredo V Bonfil",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Cerro de la Corona",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Lomas de Chapultepec",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62576": {
+        "code": "62576",
+        "colonies": [
+            {
+                "name": "Ampliación Chapultepec",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Jardín Juárez",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "San Francisco del Rincón",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62577": {
+        "code": "62577",
+        "colonies": [
+            {
+                "name": "Otilio Montaño",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Ampliación Otilio Montaño",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "El Porvenir",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Tarianes",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Ampliación Bugambilias",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "Puente Blanco",
+                "municipality": "Jiutepec, Morelos"
+            },
+            {
+                "name": "El Edén",
+                "municipality": "Jiutepec, Morelos"
+            }
+        ]
+    },
+    "62580": {
+        "code": "62580",
+        "colonies": [
+            {
+                "name": "Temixco Centro",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62583": {
+        "code": "62583",
+        "colonies": [
+            {
+                "name": "Lomas de Guadalupe",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Alta Palmira",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Las Ánimas",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Los Presidentes",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62585": {
+        "code": "62585",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Campo Sotelo",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62586": {
+        "code": "62586",
+        "colonies": [
+            {
+                "name": "Acatlipa Centro",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Las Rosas",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Río Escondido",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Lomas de Acatlipa",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "La Rivera",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "La Islita",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Ampliación Adolfo López Mateos",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Real Santa Cruz",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62587": {
+        "code": "62587",
+        "colonies": [
+            {
+                "name": "10 de Abril",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Casa Blanca",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "El Estribo",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Campamento Medrano",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "La Nopalera",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62588": {
+        "code": "62588",
+        "colonies": [
+            {
+                "name": "Pueblo Viejo",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Lauro Ortega",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "El Deshuesadero",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Lomas del Ajonjolinar",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62590": {
+        "code": "62590",
+        "colonies": [
+            {
+                "name": "Aeropuerto",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Laureles",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Santa Mónica",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62593": {
+        "code": "62593",
+        "colonies": [
+            {
+                "name": "Benito Juárez (La Monera)",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62595": {
+        "code": "62595",
+        "colonies": [
+            {
+                "name": "Santa Úrsula",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "Eterna Primavera",
+                "municipality": "Temixco, Morelos"
+            },
+            {
+                "name": "La Parota",
+                "municipality": "Temixco, Morelos"
+            }
+        ]
+    },
+    "62600": {
+        "code": "62600",
+        "colonies": [
+            {
+                "name": "Álvaro Obregón",
+                "municipality": "Miacatlán, Morelos"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Miacatlán, Morelos"
+            },
+            {
+                "name": "La Campesina (Colonia los Tulipanes)",
+                "municipality": "Miacatlán, Morelos"
+            }
+        ]
+    },
+    "62605": {
+        "code": "62605",
+        "colonies": [
+            {
+                "name": "La Toma",
+                "municipality": "Miacatlán, Morelos"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Miacatlán, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Miacatlán, Morelos"
+            },
+            {
+                "name": "Los Linares",
+                "municipality": "Miacatlán, Morelos"
+            }
+        ]
+    },
+    "62606": {
+        "code": "62606",
+        "colonies": [
+            {
+                "name": "El Muelle",
+                "municipality": "Coatetelco, Morelos"
+            },
+            {
+                "name": "General Pedro Saavedra",
+                "municipality": "Coatetelco, Morelos"
+            },
+            {
+                "name": "3 de Mayo",
+                "municipality": "Coatetelco, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Coatetelco, Morelos"
+            },
+            {
+                "name": "Narvarte",
+                "municipality": "Coatetelco, Morelos"
+            }
+        ]
+    },
+    "62607": {
+        "code": "62607",
+        "colonies": [
+            {
+                "name": "La Lima (El Trapiche de Luna)",
+                "municipality": "Miacatlán, Morelos"
+            },
+            {
+                "name": "Atzompa",
+                "municipality": "Miacatlán, Morelos"
+            },
+            {
+                "name": "La Trilla",
+                "municipality": "Miacatlán, Morelos"
+            }
+        ]
+    },
+    "62613": {
+        "code": "62613",
+        "colonies": [
+            {
+                "name": "Buenavista de Aldama",
+                "municipality": "Coatlán del Río, Morelos"
+            },
+            {
+                "name": "San José",
+                "municipality": "Coatlán del Río, Morelos"
+            }
+        ]
+    },
+    "62614": {
+        "code": "62614",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Coatlán del Río, Morelos"
+            }
+        ]
+    },
+    "62615": {
+        "code": "62615",
+        "colonies": [
+            {
+                "name": "El Vado",
+                "municipality": "Coatlán del Río, Morelos"
+            }
+        ]
+    },
+    "62616": {
+        "code": "62616",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Coatlán del Río, Morelos"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Coatlán del Río, Morelos"
+            },
+            {
+                "name": "El Amate",
+                "municipality": "Coatlán del Río, Morelos"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Coatlán del Río, Morelos"
+            },
+            {
+                "name": "El Canelillo",
+                "municipality": "Coatlán del Río, Morelos"
+            },
+            {
+                "name": "Puente el Arenal (La Joya)",
+                "municipality": "Coatlán del Río, Morelos"
+            }
+        ]
+    },
+    "62623": {
+        "code": "62623",
+        "colonies": [
+            {
+                "name": "El Cerrito (Cerrito de las Cruces)",
+                "municipality": "Tetecala, Morelos"
+            }
+        ]
+    },
+    "62624": {
+        "code": "62624",
+        "colonies": [
+            {
+                "name": "Sonora",
+                "municipality": "Tetecala, Morelos"
+            },
+            {
+                "name": "El Charco",
+                "municipality": "Tetecala, Morelos"
+            }
+        ]
+    },
+    "62625": {
+        "code": "62625",
+        "colonies": [
+            {
+                "name": "Francisco Sarabia",
+                "municipality": "Tetecala, Morelos"
+            },
+            {
+                "name": "El Aguacate",
+                "municipality": "Tetecala, Morelos"
+            },
+            {
+                "name": "El Calicanto",
+                "municipality": "Tetecala, Morelos"
+            },
+            {
+                "name": "Mariano Matamoros",
+                "municipality": "Tetecala, Morelos"
+            }
+        ]
+    },
+    "62626": {
+        "code": "62626",
+        "colonies": [
+            {
+                "name": "El Móvil",
+                "municipality": "Tetecala, Morelos"
+            }
+        ]
+    },
+    "62630": {
+        "code": "62630",
+        "colonies": [
+            {
+                "name": "Centro Mazatepec",
+                "municipality": "Mazatepec, Morelos"
+            }
+        ]
+    },
+    "62633": {
+        "code": "62633",
+        "colonies": [
+            {
+                "name": "Puentes de Fierro",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "El Florido",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "Valle Verde",
+                "municipality": "Mazatepec, Morelos"
+            }
+        ]
+    },
+    "62634": {
+        "code": "62634",
+        "colonies": [
+            {
+                "name": "Justo Sierra",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Mazatepec, Morelos"
+            }
+        ]
+    },
+    "62635": {
+        "code": "62635",
+        "colonies": [
+            {
+                "name": "La Vuelta",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "Carmelo Rivera",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "Ojos de Agua de Cuahuchichinola",
+                "municipality": "Mazatepec, Morelos"
+            }
+        ]
+    },
+    "62636": {
+        "code": "62636",
+        "colonies": [
+            {
+                "name": "Santa Cruz Vista Alegre",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "Lomas del Calvario",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "La Melena",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "Las Huertas",
+                "municipality": "Mazatepec, Morelos"
+            },
+            {
+                "name": "La Trilla",
+                "municipality": "Mazatepec, Morelos"
+            }
+        ]
+    },
+    "62643": {
+        "code": "62643",
+        "colonies": [
+            {
+                "name": "Progreso",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Barreal",
+                "municipality": "Amacuzac, Morelos"
+            }
+        ]
+    },
+    "62644": {
+        "code": "62644",
+        "colonies": [
+            {
+                "name": "El Balceadero",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Bungalows",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "La Glorieta",
+                "municipality": "Amacuzac, Morelos"
+            }
+        ]
+    },
+    "62645": {
+        "code": "62645",
+        "colonies": [
+            {
+                "name": "Xoapa",
+                "municipality": "Amacuzac, Morelos"
+            }
+        ]
+    },
+    "62646": {
+        "code": "62646",
+        "colonies": [
+            {
+                "name": "Ocampo",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Tula",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Amacuzac, Morelos"
+            }
+        ]
+    },
+    "62653": {
+        "code": "62653",
+        "colonies": [
+            {
+                "name": "El Rosal (El Alacrán)",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Oriental",
+                "municipality": "Amacuzac, Morelos"
+            }
+        ]
+    },
+    "62654": {
+        "code": "62654",
+        "colonies": [
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "El Campamento",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Villa Verde",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Amacuzac, Morelos"
+            }
+        ]
+    },
+    "62655": {
+        "code": "62655",
+        "colonies": [
+            {
+                "name": "La Calera",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Los Limones",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Amacuzac, Morelos"
+            },
+            {
+                "name": "La Playa",
+                "municipality": "Amacuzac, Morelos"
+            }
+        ]
+    },
+    "62660": {
+        "code": "62660",
+        "colonies": [
+            {
+                "name": "Puente de Ixtla Centro",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62662": {
+        "code": "62662",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Ampliación Guadalupe Victoria",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62663": {
+        "code": "62663",
+        "colonies": [
+            {
+                "name": "Tranca del Coco",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Jardines de La Herradura",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "10 de Mayo",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Gobernadores",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Ampliación Jardines de la Herradura",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Ampliación Benito Juárez",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62664": {
+        "code": "62664",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62665": {
+        "code": "62665",
+        "colonies": [
+            {
+                "name": "Los Arcos",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "San Mateo",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Norte",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "24 de Febrero",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Valle Bonito (Los Arcos Caídos)",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "El Naranjo",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "El Salado",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62666": {
+        "code": "62666",
+        "colonies": [
+            {
+                "name": "Kilómetro 107 (Loma Larga)",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62670": {
+        "code": "62670",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Las Alas",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Miguel de la Madrid",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Aeródromo",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62680": {
+        "code": "62680",
+        "colonies": [
+            {
+                "name": "Los Guajes",
+                "municipality": "Xoxocotla, Morelos"
+            },
+            {
+                "name": "Techichilco",
+                "municipality": "Xoxocotla, Morelos"
+            },
+            {
+                "name": "Campo Anenehuilco",
+                "municipality": "Xoxocotla, Morelos"
+            }
+        ]
+    },
+    "62684": {
+        "code": "62684",
+        "colonies": [
+            {
+                "name": "Hermosa",
+                "municipality": "Xoxocotla, Morelos"
+            }
+        ]
+    },
+    "62685": {
+        "code": "62685",
+        "colonies": [
+            {
+                "name": "Apozonalco",
+                "municipality": "Xoxocotla, Morelos"
+            }
+        ]
+    },
+    "62686": {
+        "code": "62686",
+        "colonies": [
+            {
+                "name": "Las Flores (la Xochitl)",
+                "municipality": "Xoxocotla, Morelos"
+            }
+        ]
+    },
+    "62687": {
+        "code": "62687",
+        "colonies": [
+            {
+                "name": "Tecomulco",
+                "municipality": "Xoxocotla, Morelos"
+            }
+        ]
+    },
+    "62693": {
+        "code": "62693",
+        "colonies": [
+            {
+                "name": "San Pedro",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Los Papayos",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62694": {
+        "code": "62694",
+        "colonies": [
+            {
+                "name": "Piedra Blanca",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62696": {
+        "code": "62696",
+        "colonies": [
+            {
+                "name": "Las Albóndigas",
+                "municipality": "Puente de Ixtla, Morelos"
+            },
+            {
+                "name": "Los Tanques",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62697": {
+        "code": "62697",
+        "colonies": [
+            {
+                "name": "Loma Florida",
+                "municipality": "Puente de Ixtla, Morelos"
+            }
+        ]
+    },
+    "62700": {
+        "code": "62700",
+        "colonies": [
+            {
+                "name": "Puente Blanco",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62704": {
+        "code": "62704",
+        "colonies": [
+            {
+                "name": "Ampliación Cruz Verde",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Cruz Verde",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62713": {
+        "code": "62713",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "La Joya Escondida",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Zona Sur Anenecuilco",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62714": {
+        "code": "62714",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Nuevo México ( Los Apaches )",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "La Doncella",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Mirador",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "La Joya",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Las Arboledas",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Rafael Merino (San Antonio)",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Reforma",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Campo la Escopeta",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62717": {
+        "code": "62717",
+        "colonies": [
+            {
+                "name": "El Chivatero",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "General Emiliano Zapata (El Chivatero)",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62718": {
+        "code": "62718",
+        "colonies": [
+            {
+                "name": "Segunda Ampliación Moyotepec",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62720": {
+        "code": "62720",
+        "colonies": [
+            {
+                "name": "El Sifón de la Cuera",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62723": {
+        "code": "62723",
+        "colonies": [
+            {
+                "name": "La Cucaracha",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Las Joyas",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62724": {
+        "code": "62724",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Valle de Morelos",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62725": {
+        "code": "62725",
+        "colonies": [
+            {
+                "name": "Abelardo L. Rodríguez",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "La Libertad",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Las Lumbreras",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Constancio Farfán (La Pascuala)",
+                "municipality": "Ayala, Morelos"
+            },
+            {
+                "name": "Ampliación Tenextepango",
+                "municipality": "Ayala, Morelos"
+            }
+        ]
+    },
+    "62730": {
+        "code": "62730",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Yautepec, Morelos"
+            }
+        ]
+    },
+    "62732": {
+        "code": "62732",
+        "colonies": [
+            {
+                "name": "Felipe Neri",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Jacarandas",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Vicente Estrada Cajigal",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Ignacio Manuel Altamirano",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "13 de Septiembre",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Lomas del Potrero",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Apanquetzalco",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Tabachines",
+                "municipality": "Yautepec, Morelos"
+            }
+        ]
+    },
+    "62733": {
+        "code": "62733",
+        "colonies": [
+            {
+                "name": "Atlihuayan",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "El Rocío",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "24 de Febrero",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Luis Echeverría",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Alfredo Bonfil",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Otilio Montaño",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Paraíso",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Huizachera",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Paracas",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "San Juanito",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Lomas del Real",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Jovito Serrano",
+                "municipality": "Yautepec, Morelos"
+            }
+        ]
+    },
+    "62735": {
+        "code": "62735",
+        "colonies": [
+            {
+                "name": "La Joya",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Ampliación Tetillas",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Álvaro Leonel",
+                "municipality": "Yautepec, Morelos"
+            }
+        ]
+    },
+    "62736": {
+        "code": "62736",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Tehuixtlera",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Alejandra",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Lucio Moreno",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Ampliación Vicente Guerrero",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "El Partidor",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "La Coaxiolotera",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "El Potrero",
+                "municipality": "Yautepec, Morelos"
+            }
+        ]
+    },
+    "62737": {
+        "code": "62737",
+        "colonies": [
+            {
+                "name": "10 de Abril",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "La Nopalera",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "El Caracol (Campo Chiquito)",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Lázaro Cárdenas (El Empalme)",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "El Zarco",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Francisco I. Madero (La Nopalera)",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Santa Lucía (Ampliación Itzamatitlán)",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "El Michate",
+                "municipality": "Yautepec, Morelos"
+            }
+        ]
+    },
+    "62738": {
+        "code": "62738",
+        "colonies": [
+            {
+                "name": "José Ortiz (San Martín)",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Oaxtepec Centro",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "El Capulín",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Ampliación el Capulín",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata (Palo Mocho)",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Corral Grande",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Los Ojos de Ahuilican",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Ejidal Tezoquipa",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Curva Melón Zacate",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata (Casahuates)",
+                "municipality": "Yautepec, Morelos"
+            }
+        ]
+    },
+    "62739": {
+        "code": "62739",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo (Los Cuartos)",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Diego Ruiz",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "El Caudillo del Sur",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Campo Joya de las Víboras",
+                "municipality": "Yautepec, Morelos"
+            },
+            {
+                "name": "Valle Encantado",
+                "municipality": "Yautepec, Morelos"
+            }
+        ]
+    },
+    "62740": {
+        "code": "62740",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62742": {
+        "code": "62742",
+        "colonies": [
+            {
+                "name": "Gabriel Tepepa",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Pablo Torres Burgos",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación Gabriel Tepepa",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62743": {
+        "code": "62743",
+        "colonies": [
+            {
+                "name": "Hermenegildo Galeana",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "5 de Febrero",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Niño Artillero",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación Plan de Ayala",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Iztaccihuatl",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Los Amates",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "La Pedregosa",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "La Biznaga",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación Hermenegildo Galeana",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Paraíso",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Trincheras",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación Biznaga Uno",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Campo Nuevo",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación 5 de Febrero",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62744": {
+        "code": "62744",
+        "colonies": [
+            {
+                "name": "10 de Abril",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Héroe de Nacozari",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación Emiliano Zapata",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Martínez Peña (Los Dos Puentes)",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62746": {
+        "code": "62746",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Otilio Montaño",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "La Cerrillera",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación Tepeyac",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Tepeyac",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Agua Blanca",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62747": {
+        "code": "62747",
+        "colonies": [
+            {
+                "name": "Santa Cruz",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Cuautlixco",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Estrella",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "7 de Noviembre",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Los Cerritos",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación Santa Cruz",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Los Amates",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62748": {
+        "code": "62748",
+        "colonies": [
+            {
+                "name": "Año de Juárez",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Empleado Postal",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Casasano",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Eusebio Jauregui",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Benito Quezada",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación las Tazas",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "La Ciénega",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Antigua del Bosque",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62754": {
+        "code": "62754",
+        "colonies": [
+            {
+                "name": "Empleado Municipal",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62755": {
+        "code": "62755",
+        "colonies": [
+            {
+                "name": "Puxtla",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Ampliación 10 de Abril",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "La Angostura",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Jicamán (Colonia el Mirador)",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "3 de Mayo",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "La Esperanza-El Hospital",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Rancho Gómez",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "El Sifón",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62756": {
+        "code": "62756",
+        "colonies": [
+            {
+                "name": "Ampliación Narciso Mendoza",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Polvorín",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Peña Flores (Palo Verde)",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Narciso Mendoza",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "19 de Febrero de 1812",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62757": {
+        "code": "62757",
+        "colonies": [
+            {
+                "name": "2 de Mayo",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Santa Bárbara",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Las Cruces",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "12 de Diciembre",
+                "municipality": "Cuautla, Morelos"
+            },
+            {
+                "name": "Tierra Larga",
+                "municipality": "Cuautla, Morelos"
+            }
+        ]
+    },
+    "62760": {
+        "code": "62760",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata Centro",
+                "municipality": "Emiliano Zapata, Morelos"
+            }
+        ]
+    },
+    "62763": {
+        "code": "62763",
+        "colonies": [
+            {
+                "name": "Lomas de Trujillo",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Lomas del Copal",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "San José de las Cumbres",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Loma Sur",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "28 de Agosto",
+                "municipality": "Emiliano Zapata, Morelos"
+            }
+        ]
+    },
+    "62764": {
+        "code": "62764",
+        "colonies": [
+            {
+                "name": "14 de Febrero",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "El Capiri",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Calera Chica",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "El Guante",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "24 de Abril",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Gerardo Pérez",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Rancho San Pedro",
+                "municipality": "Emiliano Zapata, Morelos"
+            }
+        ]
+    },
+    "62765": {
+        "code": "62765",
+        "colonies": [
+            {
+                "name": "Prohogar",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "El Capulín",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Guadalupe de las Arenas",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Ampliación Prohogar",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Palo Escrito (Colonia Benito Juárez)",
+                "municipality": "Emiliano Zapata, Morelos"
+            }
+        ]
+    },
+    "62766": {
+        "code": "62766",
+        "colonies": [
+            {
+                "name": "Estación",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "El Amate",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "El Vigilante",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Campo Nuevo",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Modesto Rangel",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "1ra Sección Villa Morelos",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Villa Morelos",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "El Tomatal",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Ampliación el Órgano",
+                "municipality": "Emiliano Zapata, Morelos"
+            }
+        ]
+    },
+    "62767": {
+        "code": "62767",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Jardines de Tezoyuca",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "La Mina",
+                "municipality": "Emiliano Zapata, Morelos"
+            },
+            {
+                "name": "Amatitlán",
+                "municipality": "Emiliano Zapata, Morelos"
+            }
+        ]
+    },
+    "62770": {
+        "code": "62770",
+        "colonies": [
+            {
+                "name": "Carlos Pacheco",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            }
+        ]
+    },
+    "62772": {
+        "code": "62772",
+        "colonies": [
+            {
+                "name": "Santa Rosa Treinta",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "10 de Mayo (La Matanza)",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Echeverría",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "El Cajoncito",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            }
+        ]
+    },
+    "62773": {
+        "code": "62773",
+        "colonies": [
+            {
+                "name": "Huepalo",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "El Jagüey",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Ampliación Benito Juárez",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "El Tecolote",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Ampliación El Tecolote",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "La Curva",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Pedregal",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            }
+        ]
+    },
+    "62774": {
+        "code": "62774",
+        "colonies": [
+            {
+                "name": "Palo Prieto (Chipitongo)",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "La Piedra Rodada",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            }
+        ]
+    },
+    "62775": {
+        "code": "62775",
+        "colonies": [
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "El Topil",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Los Presidentes",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            }
+        ]
+    },
+    "62776": {
+        "code": "62776",
+        "colonies": [
+            {
+                "name": "Ampliación El Mirador (Ampliación Bomba)",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "San Miguel 30",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            }
+        ]
+    },
+    "62777": {
+        "code": "62777",
+        "colonies": [
+            {
+                "name": "Casa Blanca",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "El Pochote",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "La Mina",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            }
+        ]
+    },
+    "62778": {
+        "code": "62778",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "El Conquistador",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "El Texcal",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Francisco Javier Mina",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "El Marimon",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Tecoloapan (Aguas Vivas)",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "Los Cajetes",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            },
+            {
+                "name": "La Cima",
+                "municipality": "Tlaltizapán de Zapata, Morelos"
+            }
+        ]
+    },
+    "62780": {
+        "code": "62780",
+        "colonies": [
+            {
+                "name": "Zacatepec de Hidalgo Centro",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Miguel Alemán",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Plutarco Elías Calles",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Zacatepec, Morelos"
+            }
+        ]
+    },
+    "62785": {
+        "code": "62785",
+        "colonies": [
+            {
+                "name": "Campo de la Presa",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Galeana Centro",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Valle Sol",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "Mártires del 10 de Abril",
+                "municipality": "Zacatepec, Morelos"
+            },
+            {
+                "name": "San Antonio Chiverías",
+                "municipality": "Zacatepec, Morelos"
+            }
+        ]
+    },
+    "62790": {
+        "code": "62790",
+        "colonies": [
+            {
+                "name": "El Crucero de Atlacholoaya",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Campo San Rafael",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "La Guamuchilera",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Real del Puente",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Xochitepec Centro",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "La Calera",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "San Miguel La Unión",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "San Pedro de los Pinos",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Morelos 1ra Sección",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Morelos 2da Sección",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Morelos 3ra Sección",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Obrera Popular",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Nueva Morelos",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Ampliación Miguel Hidalgo",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "3 de Mayo",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Jardines de Xochitepec",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Campo Canela",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Las Rosas",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Lomas del Manantial",
+                "municipality": "Xochitepec, Morelos"
+            }
+        ]
+    },
+    "62793": {
+        "code": "62793",
+        "colonies": [
+            {
+                "name": "Cazahuatera",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Xochitepec, Morelos"
+            }
+        ]
+    },
+    "62794": {
+        "code": "62794",
+        "colonies": [
+            {
+                "name": "La Pintora",
+                "municipality": "Xochitepec, Morelos"
+            }
+        ]
+    },
+    "62797": {
+        "code": "62797",
+        "colonies": [
+            {
+                "name": "Coaxcomac",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Humberto Gutiérrez Corona",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Xochitepec, Morelos"
+            },
+            {
+                "name": "Ampliación 3 de Mayo",
+                "municipality": "Xochitepec, Morelos"
+            }
+        ]
+    },
+    "62800": {
+        "code": "62800",
+        "colonies": [
+            {
+                "name": "Xochicalco",
+                "municipality": "Tetela del Volcán, Morelos"
+            }
+        ]
+    },
+    "62804": {
+        "code": "62804",
+        "colonies": [
+            {
+                "name": "El Encinal",
+                "municipality": "Tetela del Volcán, Morelos"
+            },
+            {
+                "name": "Lomas Lindas",
+                "municipality": "Tetela del Volcán, Morelos"
+            }
+        ]
+    },
+    "62813": {
+        "code": "62813",
+        "colonies": [
+            {
+                "name": "Olivar",
+                "municipality": "Hueyapan, Morelos"
+            }
+        ]
+    },
+    "62823": {
+        "code": "62823",
+        "colonies": [
+            {
+                "name": "Los Reyes",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Zahuatlán",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Achichipico",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Aquiles Serdán",
+                "municipality": "Yecapixtla, Morelos"
+            }
+        ]
+    },
+    "62824": {
+        "code": "62824",
+        "colonies": [
+            {
+                "name": "Paraíso las Flores",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Agua Zarca",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Los Amates",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "El Izote",
+                "municipality": "Yecapixtla, Morelos"
+            }
+        ]
+    },
+    "62826": {
+        "code": "62826",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Noche Buena",
+                "municipality": "Yecapixtla, Morelos"
+            }
+        ]
+    },
+    "62827": {
+        "code": "62827",
+        "colonies": [
+            {
+                "name": "Girasoles (Campo el Guaje)",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "San Marcos",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Mexquemeca",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Paraíso Escondido",
+                "municipality": "Yecapixtla, Morelos"
+            }
+        ]
+    },
+    "62828": {
+        "code": "62828",
+        "colonies": [
+            {
+                "name": "Pazulco",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Tlamomulco",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Yecapixteca",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Yecapixtla, Morelos"
+            },
+            {
+                "name": "Marino Galicia",
+                "municipality": "Yecapixtla, Morelos"
+            }
+        ]
+    },
+    "62835": {
+        "code": "62835",
+        "colonies": [
+            {
+                "name": "La Joya",
+                "municipality": "Totolapan, Morelos"
+            }
+        ]
+    },
+    "62843": {
+        "code": "62843",
+        "colonies": [
+            {
+                "name": "Ampliación San Antonio",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Atlatlahucan, Morelos"
+            }
+        ]
+    },
+    "62844": {
+        "code": "62844",
+        "colonies": [
+            {
+                "name": "La Guadalupana",
+                "municipality": "Atlatlahucan, Morelos"
+            }
+        ]
+    },
+    "62845": {
+        "code": "62845",
+        "colonies": [
+            {
+                "name": "El Astillero",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "Pozo Mancera",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "Rancho Santa Cruz",
+                "municipality": "Atlatlahucan, Morelos"
+            }
+        ]
+    },
+    "62846": {
+        "code": "62846",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "Kilómetro 88",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "Puntas de Malpaís (Malpaís)",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "El Salto",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "Los Cerritos",
+                "municipality": "Atlatlahucan, Morelos"
+            },
+            {
+                "name": "El Jaral",
+                "municipality": "Atlatlahucan, Morelos"
+            }
+        ]
+    },
+    "62847": {
+        "code": "62847",
+        "colonies": [
+            {
+                "name": "San Juan Texcalpan",
+                "municipality": "Atlatlahucan, Morelos"
+            }
+        ]
+    },
+    "62854": {
+        "code": "62854",
+        "colonies": [
+            {
+                "name": "5 de Mayo",
+                "municipality": "Ocuituco, Morelos"
+            }
+        ]
+    },
+    "62855": {
+        "code": "62855",
+        "colonies": [
+            {
+                "name": "La Ixtla",
+                "municipality": "Ocuituco, Morelos"
+            }
+        ]
+    },
+    "62857": {
+        "code": "62857",
+        "colonies": [
+            {
+                "name": "Santa Mónica",
+                "municipality": "Ocuituco, Morelos"
+            },
+            {
+                "name": "La Ponderosa",
+                "municipality": "Ocuituco, Morelos"
+            },
+            {
+                "name": "Colinas del Sol",
+                "municipality": "Ocuituco, Morelos"
+            },
+            {
+                "name": "Santa Elena de la Cruz",
+                "municipality": "Ocuituco, Morelos"
+            },
+            {
+                "name": "Tlacuatzingo",
+                "municipality": "Ocuituco, Morelos"
+            },
+            {
+                "name": "Cerrito Colorado",
+                "municipality": "Ocuituco, Morelos"
+            }
+        ]
+    },
+    "62887": {
+        "code": "62887",
+        "colonies": [
+            {
+                "name": "El Puente Nuevo",
+                "municipality": "Temoac, Morelos"
+            }
+        ]
+    },
+    "62890": {
+        "code": "62890",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Zacualpan de Amilpas, Morelos"
+            },
+            {
+                "name": "Las Presas",
+                "municipality": "Zacualpan de Amilpas, Morelos"
+            }
+        ]
+    },
+    "62893": {
+        "code": "62893",
+        "colonies": [
+            {
+                "name": "Barranca Amatzinac",
+                "municipality": "Zacualpan de Amilpas, Morelos"
+            },
+            {
+                "name": "Curiel",
+                "municipality": "Zacualpan de Amilpas, Morelos"
+            }
+        ]
+    },
+    "62895": {
+        "code": "62895",
+        "colonies": [
+            {
+                "name": "La Compuerta",
+                "municipality": "Zacualpan de Amilpas, Morelos"
+            }
+        ]
+    },
+    "62897": {
+        "code": "62897",
+        "colonies": [
+            {
+                "name": "La Presa (El Cerro de la Era)",
+                "municipality": "Zacualpan de Amilpas, Morelos"
+            }
+        ]
+    },
+    "62900": {
+        "code": "62900",
+        "colonies": [
+            {
+                "name": "Jojutla Centro",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "El Pochote",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "El Zapatito",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "El Jagüey",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Panchimalco",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62905": {
+        "code": "62905",
+        "colonies": [
+            {
+                "name": "Álamos (La Frontera)",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Nexpa",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62906": {
+        "code": "62906",
+        "colonies": [
+            {
+                "name": "Ampliación Lázaro Cárdenas (El Molino)",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62907": {
+        "code": "62907",
+        "colonies": [
+            {
+                "name": "Santa María",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Ricardo Soto",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62908": {
+        "code": "62908",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Ampliación Santa María",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62909": {
+        "code": "62909",
+        "colonies": [
+            {
+                "name": "Constitución del 57",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Jicarero",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Nicolás Bravo",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Ampliación Nicolás Bravo",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Los Pilares",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62913": {
+        "code": "62913",
+        "colonies": [
+            {
+                "name": "Loma Bonita (arenales)",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62914": {
+        "code": "62914",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Azuchilera",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "La Mesa de los Indios",
+                "municipality": "Jojutla, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62916": {
+        "code": "62916",
+        "colonies": [
+            {
+                "name": "Las Brasileras",
+                "municipality": "Jojutla, Morelos"
+            }
+        ]
+    },
+    "62920": {
+        "code": "62920",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Tepalcingo, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Tepalcingo, Morelos"
+            }
+        ]
+    },
+    "62923": {
+        "code": "62923",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Tepalcingo, Morelos"
+            },
+            {
+                "name": "Cruz de Jaramalla ( Lauro Ortega )",
+                "municipality": "Tepalcingo, Morelos"
+            }
+        ]
+    },
+    "62925": {
+        "code": "62925",
+        "colonies": [
+            {
+                "name": "Los Tulipanes",
+                "municipality": "Tepalcingo, Morelos"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Tepalcingo, Morelos"
+            },
+            {
+                "name": "La Vía",
+                "municipality": "Tepalcingo, Morelos"
+            }
+        ]
+    },
+    "62926": {
+        "code": "62926",
+        "colonies": [
+            {
+                "name": "La Junta",
+                "municipality": "Tepalcingo, Morelos"
+            },
+            {
+                "name": "Las Joyas",
+                "municipality": "Tepalcingo, Morelos"
+            },
+            {
+                "name": "El Pozo",
+                "municipality": "Tepalcingo, Morelos"
+            }
+        ]
+    },
+    "62933": {
+        "code": "62933",
+        "colonies": [
+            {
+                "name": "López de Nava",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            },
+            {
+                "name": "La Capilla",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            }
+        ]
+    },
+    "62934": {
+        "code": "62934",
+        "colonies": [
+            {
+                "name": "Leandro Valle",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            }
+        ]
+    },
+    "62935": {
+        "code": "62935",
+        "colonies": [
+            {
+                "name": "Ex-Hacienda Montefalco",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            },
+            {
+                "name": "El Carrizal",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            }
+        ]
+    },
+    "62936": {
+        "code": "62936",
+        "colonies": [
+            {
+                "name": "La Divina Providencia",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            },
+            {
+                "name": "La Yesera",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            },
+            {
+                "name": "El Puente Angosto",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            },
+            {
+                "name": "Las Bugambilias",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            },
+            {
+                "name": "La Casa de Piedra",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            }
+        ]
+    },
+    "62937": {
+        "code": "62937",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            },
+            {
+                "name": "Juárez",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            }
+        ]
+    },
+    "62943": {
+        "code": "62943",
+        "colonies": [
+            {
+                "name": "El Puente Colorado",
+                "municipality": "Jonacatepec de Leandro Valle, Morelos"
+            }
+        ]
+    },
+    "62950": {
+        "code": "62950",
+        "colonies": [
+            {
+                "name": "La Luz",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Otilio Montaño",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62952": {
+        "code": "62952",
+        "colonies": [
+            {
+                "name": "Industrial",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62953": {
+        "code": "62953",
+        "colonies": [
+            {
+                "name": "Del Carmen",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Las Ardillas",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62954": {
+        "code": "62954",
+        "colonies": [
+            {
+                "name": "Florida",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Biznaga",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Centenario",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62955": {
+        "code": "62955",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Los Tres Reyes",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "El C.B.T.A.",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Carrillo Olea (La Primavera)",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Rubén Carrillo",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "La Estación",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62956": {
+        "code": "62956",
+        "colonies": [
+            {
+                "name": "El Papagayo",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Los Laureles",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Juan Ortega Sánchez",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62957": {
+        "code": "62957",
+        "colonies": [
+            {
+                "name": "Campo la Laguna",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Las Palmas (La Poza del Pajarito)",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62962": {
+        "code": "62962",
+        "colonies": [
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "La Toma",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62963": {
+        "code": "62963",
+        "colonies": [
+            {
+                "name": "Campo la Zacatera",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "Coayuca de Morelos",
+                "municipality": "Axochiapan, Morelos"
+            },
+            {
+                "name": "La Huerta (La Bomba Dos)",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62966": {
+        "code": "62966",
+        "colonies": [
+            {
+                "name": "2000",
+                "municipality": "Axochiapan, Morelos"
+            }
+        ]
+    },
+    "62970": {
+        "code": "62970",
+        "colonies": [
+            {
+                "name": "Manuel Alarcón",
+                "municipality": "Jantetelco, Morelos"
+            }
+        ]
+    },
+    "62972": {
+        "code": "62972",
+        "colonies": [
+            {
+                "name": "Gabriel Tepepa",
+                "municipality": "Jantetelco, Morelos"
+            }
+        ]
+    },
+    "62973": {
+        "code": "62973",
+        "colonies": [
+            {
+                "name": "Serafín Marcial Bonilla",
+                "municipality": "Jantetelco, Morelos"
+            }
+        ]
+    },
+    "62974": {
+        "code": "62974",
+        "colonies": [
+            {
+                "name": "Mariano Matamoros",
+                "municipality": "Jantetelco, Morelos"
+            },
+            {
+                "name": "Cuatro Caminos",
+                "municipality": "Jantetelco, Morelos"
+            },
+            {
+                "name": "Nuevo Xochimilco",
+                "municipality": "Jantetelco, Morelos"
+            },
+            {
+                "name": "Santa Lucía",
+                "municipality": "Jantetelco, Morelos"
+            }
+        ]
+    },
+    "62975": {
+        "code": "62975",
+        "colonies": [
+            {
+                "name": "Los Bordos",
+                "municipality": "Jantetelco, Morelos"
+            },
+            {
+                "name": "La Y",
+                "municipality": "Jantetelco, Morelos"
+            },
+            {
+                "name": "La Renta",
+                "municipality": "Jantetelco, Morelos"
+            }
+        ]
+    },
+    "62978": {
+        "code": "62978",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata (La Granja)",
+                "municipality": "Jantetelco, Morelos"
+            }
+        ]
+    },
+    "62980": {
+        "code": "62980",
+        "colonies": [
+            {
+                "name": "Vista Alegre",
+                "municipality": "Tlaquiltenango, Morelos"
+            },
+            {
+                "name": "Gabriel Tepepa",
+                "municipality": "Tlaquiltenango, Morelos"
+            },
+            {
+                "name": "Los Presidentes",
+                "municipality": "Tlaquiltenango, Morelos"
+            },
+            {
+                "name": "Alfredo V. Bonfil (Chacampalco)",
+                "municipality": "Tlaquiltenango, Morelos"
+            },
+            {
+                "name": "Cantora",
+                "municipality": "Tlaquiltenango, Morelos"
+            },
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Tlaquiltenango, Morelos"
+            }
+        ]
+    },
+    "62983": {
+        "code": "62983",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Tlaquiltenango, Morelos"
+            },
+            {
+                "name": "3 de Mayo (El Tepiolol)",
+                "municipality": "Tlaquiltenango, Morelos"
+            }
+        ]
+    },
+    "62984": {
+        "code": "62984",
+        "colonies": [
+            {
+                "name": "Celerino Manzanares",
+                "municipality": "Tlaquiltenango, Morelos"
+            }
+        ]
+    },
+    "62985": {
+        "code": "62985",
+        "colonies": [
+            {
+                "name": "Las Carpas",
+                "municipality": "Tlaquiltenango, Morelos"
+            }
+        ]
+    },
+    "62995": {
+        "code": "62995",
+        "colonies": [
+            {
+                "name": "La Bomba",
+                "municipality": "Tlaquiltenango, Morelos"
+            }
+        ]
+    }
+}

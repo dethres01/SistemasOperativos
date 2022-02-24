@@ -1,0 +1,1628 @@
+{
+    "24000": {
+        "code": "24000",
+        "colonies": [
+            {
+                "name": "San Francisco de Campeche Centro",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24020": {
+        "code": "24020",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Bellavista",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "San Joaquín",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Camino Real",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "San Caralampio",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Dzarbay",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24023": {
+        "code": "24023",
+        "colonies": [
+            {
+                "name": "Ernesto Zedillo",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Nachi Cocom",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Quinta Hermosa",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24026": {
+        "code": "24026",
+        "colonies": [
+            {
+                "name": "Granjas",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "San José el Alto",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Divino Niño",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Minas",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Cumbres",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Josefa Ortiz de Domínguez",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Mirador",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Elvia María Pérez de González",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Diana Laura",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24030": {
+        "code": "24030",
+        "colonies": [
+            {
+                "name": "Miramar",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24035": {
+        "code": "24035",
+        "colonies": [
+            {
+                "name": "San Arturo",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Cerro de La Eminencia",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Invasión San Arturo",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24036": {
+        "code": "24036",
+        "colonies": [
+            {
+                "name": "Electricistas",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24037": {
+        "code": "24037",
+        "colonies": [
+            {
+                "name": "Ciudad Militar",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24038": {
+        "code": "24038",
+        "colonies": [
+            {
+                "name": "Kanisté",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24039": {
+        "code": "24039",
+        "colonies": [
+            {
+                "name": "Buenavista",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24044": {
+        "code": "24044",
+        "colonies": [
+            {
+                "name": "Montecristo",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Lazareto",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24050": {
+        "code": "24050",
+        "colonies": [
+            {
+                "name": "La Paz",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24060": {
+        "code": "24060",
+        "colonies": [
+            {
+                "name": "El Polvorín",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Polvorín",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Jardines",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Tomas Aznar",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Sector Las Flores",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Lomas del Polvorín",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Leovigildo Gómez",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Unidad y Esperanza",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Lomas Delicias",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Lomas",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24070": {
+        "code": "24070",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Cuatro Caminos",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Huanal",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Cuatro Caminos",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Héroe de Nacozari",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24075": {
+        "code": "24075",
+        "colonies": [
+            {
+                "name": "El Carmelo",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24080": {
+        "code": "24080",
+        "colonies": [
+            {
+                "name": "Esperanza",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Esperanza",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Pablo Garcia",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Revolución",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Invasión Esperanza",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24083": {
+        "code": "24083",
+        "colonies": [
+            {
+                "name": "Fátima",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24084": {
+        "code": "24084",
+        "colonies": [
+            {
+                "name": "Nuevo San Antonio Ebulá",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24085": {
+        "code": "24085",
+        "colonies": [
+            {
+                "name": "Invasión Esperanza",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24086": {
+        "code": "24086",
+        "colonies": [
+            {
+                "name": "Villa Flora",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24087": {
+        "code": "24087",
+        "colonies": [
+            {
+                "name": "Hacienda San Antonio",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24088": {
+        "code": "24088",
+        "colonies": [
+            {
+                "name": "Fénix",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24089": {
+        "code": "24089",
+        "colonies": [
+            {
+                "name": "Peña",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24090": {
+        "code": "24090",
+        "colonies": [
+            {
+                "name": "Ampliación San Rafael",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Samulá",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Nueva Era",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24094": {
+        "code": "24094",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Miguel Hidalgo",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Ignacio Zaragoza",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación Samulá",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24095": {
+        "code": "24095",
+        "colonies": [
+            {
+                "name": "Sascalum",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Multunchac",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24096": {
+        "code": "24096",
+        "colonies": [
+            {
+                "name": "Tepeyac",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24098": {
+        "code": "24098",
+        "colonies": [
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24099": {
+        "code": "24099",
+        "colonies": [
+            {
+                "name": "San Antonio",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Ampliación San Antonio",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24100": {
+        "code": "24100",
+        "colonies": [
+            {
+                "name": "Ciudad del Carmen Centro",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24110": {
+        "code": "24110",
+        "colonies": [
+            {
+                "name": "Caleta",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Héctor Pérez Martínez",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Fátima",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "1 de Mayo (Playón)",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "San Agustin del Palmar",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24114": {
+        "code": "24114",
+        "colonies": [
+            {
+                "name": "Justo Sierra",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24115": {
+        "code": "24115",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Miami",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Playa Norte",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24116": {
+        "code": "24116",
+        "colonies": [
+            {
+                "name": "San Carlos",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Boquerón del Palmar",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24117": {
+        "code": "24117",
+        "colonies": [
+            {
+                "name": "Obrera",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24118": {
+        "code": "24118",
+        "colonies": [
+            {
+                "name": "San Nicolás",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24119": {
+        "code": "24119",
+        "colonies": [
+            {
+                "name": "Aeropuerto",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24120": {
+        "code": "24120",
+        "colonies": [
+            {
+                "name": "Electricistas",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Santa Margarita",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24129": {
+        "code": "24129",
+        "colonies": [
+            {
+                "name": "Puerto Pesquero",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24130": {
+        "code": "24130",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24139": {
+        "code": "24139",
+        "colonies": [
+            {
+                "name": "Guanal",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Puntilla",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24140": {
+        "code": "24140",
+        "colonies": [
+            {
+                "name": "Pallas",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24150": {
+        "code": "24150",
+        "colonies": [
+            {
+                "name": "Belisario Domínguez",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "La Rivera",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24154": {
+        "code": "24154",
+        "colonies": [
+            {
+                "name": "Compositores",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Maderas",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24155": {
+        "code": "24155",
+        "colonies": [
+            {
+                "name": "Renovación I",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Renovación II",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "23 de Julio",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Plutarco Elías Calles",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Solidaridad Urbana",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Volcanes",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Renovación III",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Isla de Tris",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24157": {
+        "code": "24157",
+        "colonies": [
+            {
+                "name": "San Joaquín",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "José Ortiz Ávila",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24160": {
+        "code": "24160",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24169": {
+        "code": "24169",
+        "colonies": [
+            {
+                "name": "Asa Poniente",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24170": {
+        "code": "24170",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Tila",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24178": {
+        "code": "24178",
+        "colonies": [
+            {
+                "name": "Tecolutla",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24179": {
+        "code": "24179",
+        "colonies": [
+            {
+                "name": "Petrolera",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24180": {
+        "code": "24180",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Benito Juárez 2",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Limonar",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Tacubaya",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24185": {
+        "code": "24185",
+        "colonies": [
+            {
+                "name": "Estrella",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24186": {
+        "code": "24186",
+        "colonies": [
+            {
+                "name": "Miguel de La Madrid",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24187": {
+        "code": "24187",
+        "colonies": [
+            {
+                "name": "Manigua",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24188": {
+        "code": "24188",
+        "colonies": [
+            {
+                "name": "Caracol",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24189": {
+        "code": "24189",
+        "colonies": [
+            {
+                "name": "Salitral",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24190": {
+        "code": "24190",
+        "colonies": [
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24195": {
+        "code": "24195",
+        "colonies": [
+            {
+                "name": "Pedro Sainz de Baranda",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Las Pilas",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24197": {
+        "code": "24197",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Malibrán",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Santa Rosalía",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24198": {
+        "code": "24198",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24200": {
+        "code": "24200",
+        "colonies": [
+            {
+                "name": "Palizada Centro",
+                "municipality": "Palizada, Campeche"
+            },
+            {
+                "name": "Aviación",
+                "municipality": "Palizada, Campeche"
+            }
+        ]
+    },
+    "24300": {
+        "code": "24300",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Nueva Emiliano Zapata",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Nueva",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Juan Pablo Cetina",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Sabancuy Centro",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Banco de Piedra",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Pénjamo",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Jabal",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24327": {
+        "code": "24327",
+        "colonies": [
+            {
+                "name": "Reubicación",
+                "municipality": "Carmen, Campeche"
+            },
+            {
+                "name": "Isla Aguada Centro",
+                "municipality": "Carmen, Campeche"
+            }
+        ]
+    },
+    "24330": {
+        "code": "24330",
+        "colonies": [
+            {
+                "name": "Coahuilita",
+                "municipality": "Candelaria, Campeche"
+            },
+            {
+                "name": "Candelaria Centro",
+                "municipality": "Candelaria, Campeche"
+            },
+            {
+                "name": "Acalan",
+                "municipality": "Candelaria, Campeche"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Candelaria, Campeche"
+            },
+            {
+                "name": "Guanajuato",
+                "municipality": "Candelaria, Campeche"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Candelaria, Campeche"
+            },
+            {
+                "name": "Alejandría",
+                "municipality": "Candelaria, Campeche"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Candelaria, Campeche"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Candelaria, Campeche"
+            }
+        ]
+    },
+    "24350": {
+        "code": "24350",
+        "colonies": [
+            {
+                "name": "Escárcega Centro",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Fátima",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Sal Si Puedes II",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Sal Si Puedes I",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Jesús García",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Concordia",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "10 de Mayo",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Flores Magón",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Fertimex",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Esperanza",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Unidad Esfuerzo y Trabajo II",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "Unidad Esfuerzo y Trabajo I",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "I. Zaragoza",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "C. Salinas de Gortari",
+                "municipality": "Escárcega, Campeche"
+            },
+            {
+                "name": "La Jeringa",
+                "municipality": "Escárcega, Campeche"
+            }
+        ]
+    },
+    "24400": {
+        "code": "24400",
+        "colonies": [
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Champotón Centro",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Cristóbal Colon",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Pozo del Chenpek",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Las Brisas",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Pozo del Monte",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "San Patricio",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Tajonal",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Venustiano Carranza",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Arenal",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Arrocera",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Aserradero",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Avenida",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Cañaveral",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Cardenal",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Carolinas",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Centenario",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Cocal",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Concepción Duran",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Flamboyan",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "ISSSTE",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "La Playa",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "La Santa",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Las Mercedes",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Las Palomas",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Laureles",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Malecón",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Manguitos",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Nueva Jerusalén",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Paraíso",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Pedregal",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Puente Viejo",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Ulises Sansores",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Huanal",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Camaroncito",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Microondas",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Mirador",
+                "municipality": "Champotón, Campeche"
+            }
+        ]
+    },
+    "24443": {
+        "code": "24443",
+        "colonies": [
+            {
+                "name": "Kukulkán",
+                "municipality": "Champotón, Campeche"
+            },
+            {
+                "name": "Nuevo Paraíso [Módulo]",
+                "municipality": "Champotón, Campeche"
+            }
+        ]
+    },
+    "24460": {
+        "code": "24460",
+        "colonies": [
+            {
+                "name": "Seybaplaya Centro",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Fátima",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Carmelita",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Hornos",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Tizimín",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Santa Clara",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "La Jimba",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Cristo Rey",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Frutales",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "El Sombrerón",
+                "municipality": "Seybaplaya, Campeche"
+            }
+        ]
+    },
+    "24462": {
+        "code": "24462",
+        "colonies": [
+            {
+                "name": "Nuevo Amanecer",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Villa Madero",
+                "municipality": "Seybaplaya, Campeche"
+            },
+            {
+                "name": "Haltunchén",
+                "municipality": "Seybaplaya, Campeche"
+            }
+        ]
+    },
+    "24500": {
+        "code": "24500",
+        "colonies": [
+            {
+                "name": "Lerma Centro",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Chiapaneca",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Tepeyac",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Las Brisas",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Tres Cruces",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Marañon",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Becan",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Satélite",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Huayita",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "Kila",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "La Guadalupana",
+                "municipality": "Campeche, Campeche"
+            },
+            {
+                "name": "San Bartolo",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24570": {
+        "code": "24570",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Campeche, Campeche"
+            }
+        ]
+    },
+    "24600": {
+        "code": "24600",
+        "colonies": [
+            {
+                "name": "Hopelchen Centro",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "El Tamarindo",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "Campo de Aviación",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "Norte",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "San Román",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "San Luis",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Hopelchén, Campeche"
+            },
+            {
+                "name": "Dolores Lanz",
+                "municipality": "Hopelchén, Campeche"
+            }
+        ]
+    },
+    "24640": {
+        "code": "24640",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Calakmul, Campeche"
+            },
+            {
+                "name": "10 de Mayo",
+                "municipality": "Calakmul, Campeche"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Calakmul, Campeche"
+            },
+            {
+                "name": "Jardines",
+                "municipality": "Calakmul, Campeche"
+            },
+            {
+                "name": "Aviación",
+                "municipality": "Calakmul, Campeche"
+            },
+            {
+                "name": "Fundadores",
+                "municipality": "Calakmul, Campeche"
+            }
+        ]
+    },
+    "24700": {
+        "code": "24700",
+        "colonies": [
+            {
+                "name": "Tenabo Centro",
+                "municipality": "Tenabo, Campeche"
+            }
+        ]
+    },
+    "24800": {
+        "code": "24800",
+        "colonies": [
+            {
+                "name": "Centro Hecelchakán",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Hecelchakán, Campeche"
+            }
+        ]
+    },
+    "24810": {
+        "code": "24810",
+        "colonies": [
+            {
+                "name": "Centro Pomuch",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "Colonia Nueva",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "La Soledad",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "San Diego",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "San Jerónimo",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "San Pedro",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "Santa Cristina",
+                "municipality": "Hecelchakán, Campeche"
+            },
+            {
+                "name": "Villa Lucrecia",
+                "municipality": "Hecelchakán, Campeche"
+            }
+        ]
+    },
+    "24900": {
+        "code": "24900",
+        "colonies": [
+            {
+                "name": "Calkini Centro",
+                "municipality": "Calkiní, Campeche"
+            }
+        ]
+    },
+    "24902": {
+        "code": "24902",
+        "colonies": [
+            {
+                "name": "Fátima",
+                "municipality": "Calkiní, Campeche"
+            }
+        ]
+    },
+    "24910": {
+        "code": "24910",
+        "colonies": [
+            {
+                "name": "El Gato Negro",
+                "municipality": "Calkiní, Campeche"
+            },
+            {
+                "name": "San Román",
+                "municipality": "Calkiní, Campeche"
+            }
+        ]
+    },
+    "24919": {
+        "code": "24919",
+        "colonies": [
+            {
+                "name": "Isla Arena",
+                "municipality": "Calkiní, Campeche"
+            }
+        ]
+    },
+    "24920": {
+        "code": "24920",
+        "colonies": [
+            {
+                "name": "Solidaridad",
+                "municipality": "Calkiní, Campeche"
+            },
+            {
+                "name": "San Feliciano",
+                "municipality": "Calkiní, Campeche"
+            }
+        ]
+    }
+}

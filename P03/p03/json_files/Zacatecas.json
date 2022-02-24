@@ -1,0 +1,3901 @@
+{
+    "98000": {
+        "code": "98000",
+        "colonies": [
+            {
+                "name": "Zacatecas Centro",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98010": {
+        "code": "98010",
+        "colonies": [
+            {
+                "name": "Ramón López Velarde",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98017": {
+        "code": "98017",
+        "colonies": [
+            {
+                "name": "Margaritas",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Los Filarmónicos",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98018": {
+        "code": "98018",
+        "colonies": [
+            {
+                "name": "Garcia Salinas",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98020": {
+        "code": "98020",
+        "colonies": [
+            {
+                "name": "Gustavo Diaz Ordaz 1a Secc",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Gustavo Diaz Ordaz 2a Secc",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Gustavo Diaz Ordaz 3a Secc",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98023": {
+        "code": "98023",
+        "colonies": [
+            {
+                "name": "Bracho (Lomas de Bracho)",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98024": {
+        "code": "98024",
+        "colonies": [
+            {
+                "name": "De Olivos",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "La Pinta",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Las Mercedes",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98040": {
+        "code": "98040",
+        "colonies": [
+            {
+                "name": "Bancomer",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98045": {
+        "code": "98045",
+        "colonies": [
+            {
+                "name": "Caminera",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98046": {
+        "code": "98046",
+        "colonies": [
+            {
+                "name": "Frente Popular",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98050": {
+        "code": "98050",
+        "colonies": [
+            {
+                "name": "Lomas Del Capulín",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Minera",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Sierra de Alica",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Úrsulo A. García",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98053": {
+        "code": "98053",
+        "colonies": [
+            {
+                "name": "CNOP",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Fernando Pamanes Escobedo",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Lomas de La Pimienta",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98054": {
+        "code": "98054",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo 1ra. Sección",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "España",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98056": {
+        "code": "98056",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98057": {
+        "code": "98057",
+        "colonies": [
+            {
+                "name": "Zacatlán",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Mecánicos",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "San Gabriel",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Mecánicos 2a Secc",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "La Toma de Zacatecas",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "América",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Héroes de Chapultepec",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98060": {
+        "code": "98060",
+        "colonies": [
+            {
+                "name": "Agrónomo",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Marianita",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98064": {
+        "code": "98064",
+        "colonies": [
+            {
+                "name": "Ex Hacienda Bernardez",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98065": {
+        "code": "98065",
+        "colonies": [
+            {
+                "name": "Militar",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98066": {
+        "code": "98066",
+        "colonies": [
+            {
+                "name": "Progreso",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Agrónoma II (Agronómica)",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98067": {
+        "code": "98067",
+        "colonies": [
+            {
+                "name": "Lomas de San Francisco",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98068": {
+        "code": "98068",
+        "colonies": [
+            {
+                "name": "Hidráulica",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Colonial Zacatecas",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Universitaria",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98070": {
+        "code": "98070",
+        "colonies": [
+            {
+                "name": "Buenavista",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Francisco E Garcia",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Pánfilo Natera",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98077": {
+        "code": "98077",
+        "colonies": [
+            {
+                "name": "21 de Julio",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Las Cumbres",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98078": {
+        "code": "98078",
+        "colonies": [
+            {
+                "name": "Ayuntamiento",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98080": {
+        "code": "98080",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98085": {
+        "code": "98085",
+        "colonies": [
+            {
+                "name": "Peñas de la Virgen",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Ojo de Agua de Meléndez (Ojo de Agua)",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Lomas de Cristo",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "El Diamante",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "El Jaralillo",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Suave Patria",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98087": {
+        "code": "98087",
+        "colonies": [
+            {
+                "name": "J. Jesús González Ortega",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Magisterial Jardines del Sol",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Nueva Generación",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Filósofos",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "El Orito",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Insurgentes",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Constelaciones",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Colinas del Sol",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Estrella de Oro",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Camino Real",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Huerta Vieja",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Europa",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Las Huertas",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "El Chaveño",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Korea I",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Korea II",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98090": {
+        "code": "98090",
+        "colonies": [
+            {
+                "name": "Alma Obrera",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Conquistadores",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98099": {
+        "code": "98099",
+        "colonies": [
+            {
+                "name": "Tecnológica",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Carlos Hinojosa Petit",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Gonzalo García García",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98160": {
+        "code": "98160",
+        "colonies": [
+            {
+                "name": "Italia",
+                "municipality": "Zacatecas, Zacatecas"
+            },
+            {
+                "name": "Las Boquillas",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98163": {
+        "code": "98163",
+        "colonies": [
+            {
+                "name": "Picones",
+                "municipality": "Zacatecas, Zacatecas"
+            }
+        ]
+    },
+    "98200": {
+        "code": "98200",
+        "colonies": [
+            {
+                "name": "Concepción del Oro",
+                "municipality": "Concepción del Oro, Zacatecas"
+            },
+            {
+                "name": "El Gracero",
+                "municipality": "Concepción del Oro, Zacatecas"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Concepción del Oro, Zacatecas"
+            },
+            {
+                "name": "Bella Vista",
+                "municipality": "Concepción del Oro, Zacatecas"
+            },
+            {
+                "name": "Estrella",
+                "municipality": "Concepción del Oro, Zacatecas"
+            },
+            {
+                "name": "Chihuahua",
+                "municipality": "Concepción del Oro, Zacatecas"
+            },
+            {
+                "name": "Cabrestante",
+                "municipality": "Concepción del Oro, Zacatecas"
+            },
+            {
+                "name": "Las Lajas",
+                "municipality": "Concepción del Oro, Zacatecas"
+            },
+            {
+                "name": "El Cruce",
+                "municipality": "Concepción del Oro, Zacatecas"
+            }
+        ]
+    },
+    "98204": {
+        "code": "98204",
+        "colonies": [
+            {
+                "name": "FOVISSSTE",
+                "municipality": "Concepción del Oro, Zacatecas"
+            }
+        ]
+    },
+    "98300": {
+        "code": "98300",
+        "colonies": [
+            {
+                "name": "Juan Aldama Centro",
+                "municipality": "Juan Aldama, Zacatecas"
+            },
+            {
+                "name": "Almoloya",
+                "municipality": "Juan Aldama, Zacatecas"
+            }
+        ]
+    },
+    "98303": {
+        "code": "98303",
+        "colonies": [
+            {
+                "name": "Oriente",
+                "municipality": "Juan Aldama, Zacatecas"
+            },
+            {
+                "name": "Las Auroras",
+                "municipality": "Juan Aldama, Zacatecas"
+            },
+            {
+                "name": "Nuevo Amanecer",
+                "municipality": "Juan Aldama, Zacatecas"
+            },
+            {
+                "name": "Bosques Del Pedregal",
+                "municipality": "Juan Aldama, Zacatecas"
+            }
+        ]
+    },
+    "98304": {
+        "code": "98304",
+        "colonies": [
+            {
+                "name": "Brisas del Río",
+                "municipality": "Juan Aldama, Zacatecas"
+            },
+            {
+                "name": "7 de Marzo",
+                "municipality": "Juan Aldama, Zacatecas"
+            }
+        ]
+    },
+    "98306": {
+        "code": "98306",
+        "colonies": [
+            {
+                "name": "Centauro del Norte",
+                "municipality": "Juan Aldama, Zacatecas"
+            },
+            {
+                "name": "San Juan del Mezquital",
+                "municipality": "Juan Aldama, Zacatecas"
+            }
+        ]
+    },
+    "98307": {
+        "code": "98307",
+        "colonies": [
+            {
+                "name": "La Rosetilla",
+                "municipality": "Juan Aldama, Zacatecas"
+            },
+            {
+                "name": "El Mezquite",
+                "municipality": "Juan Aldama, Zacatecas"
+            },
+            {
+                "name": "Villa Arechiga",
+                "municipality": "Juan Aldama, Zacatecas"
+            }
+        ]
+    },
+    "98330": {
+        "code": "98330",
+        "colonies": [
+            {
+                "name": "Betania",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "Las Minas",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "San Francisco de Ibarra",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "Santa Fe",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "De la Liebre",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "Jardines de la Nueva España",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "Chapulines",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "Miguel Auza Centro",
+                "municipality": "Miguel Auza, Zacatecas"
+            },
+            {
+                "name": "Los Conos",
+                "municipality": "Miguel Auza, Zacatecas"
+            }
+        ]
+    },
+    "98336": {
+        "code": "98336",
+        "colonies": [
+            {
+                "name": "Miguel Alemán",
+                "municipality": "Miguel Auza, Zacatecas"
+            }
+        ]
+    },
+    "98350": {
+        "code": "98350",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "General Francisco R. Murguía, Zacatecas"
+            }
+        ]
+    },
+    "98400": {
+        "code": "98400",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Los Condes",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Ignacio López Rayón (Los Delgado)",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Los Márquez",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Cienega y Mancillas",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Ignacio Allende",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "La Luz",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Las Palomas",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Bajo de Moya",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98401": {
+        "code": "98401",
+        "colonies": [
+            {
+                "name": "Alfonso Medina (El Capricho)",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98410": {
+        "code": "98410",
+        "colonies": [
+            {
+                "name": "Progreso de Alfonso Medina (Progreso)",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98420": {
+        "code": "98420",
+        "colonies": [
+            {
+                "name": "Río Grande Centro",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98422": {
+        "code": "98422",
+        "colonies": [
+            {
+                "name": "Los Sauces",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Tepeyac",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98423": {
+        "code": "98423",
+        "colonies": [
+            {
+                "name": "San Joaquín",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Llaneros",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Halcones",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98424": {
+        "code": "98424",
+        "colonies": [
+            {
+                "name": "Sol de Oriente",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "El Bajío",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Jardines del Río",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "CTM",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "El Mezquital",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Potrero Loma Prieta",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98425": {
+        "code": "98425",
+        "colonies": [
+            {
+                "name": "Del Norte",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "La Cuesta",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98426": {
+        "code": "98426",
+        "colonies": [
+            {
+                "name": "San Lorenzo",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Lomas del Sol",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98429": {
+        "code": "98429",
+        "colonies": [
+            {
+                "name": "La Estrella",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "La Trinidad",
+                "municipality": "Río Grande, Zacatecas"
+            },
+            {
+                "name": "Cantarranas",
+                "municipality": "Río Grande, Zacatecas"
+            }
+        ]
+    },
+    "98430": {
+        "code": "98430",
+        "colonies": [
+            {
+                "name": "Villa de Cos Centro",
+                "municipality": "Villa de Cos, Zacatecas"
+            }
+        ]
+    },
+    "98435": {
+        "code": "98435",
+        "colonies": [
+            {
+                "name": "Cuba Libre",
+                "municipality": "Villa de Cos, Zacatecas"
+            },
+            {
+                "name": "Las Haciendas",
+                "municipality": "Villa de Cos, Zacatecas"
+            }
+        ]
+    },
+    "98436": {
+        "code": "98436",
+        "colonies": [
+            {
+                "name": "México",
+                "municipality": "Villa de Cos, Zacatecas"
+            },
+            {
+                "name": "Del PRI",
+                "municipality": "Villa de Cos, Zacatecas"
+            }
+        ]
+    },
+    "98471": {
+        "code": "98471",
+        "colonies": [
+            {
+                "name": "El Celo",
+                "municipality": "Villa de Cos, Zacatecas"
+            }
+        ]
+    },
+    "98500": {
+        "code": "98500",
+        "colonies": [
+            {
+                "name": "Calera de Víctor Rosales Centro",
+                "municipality": "Calera, Zacatecas"
+            }
+        ]
+    },
+    "98502": {
+        "code": "98502",
+        "colonies": [
+            {
+                "name": "Ricardo Monreal Ávila",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "El Huizache",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Lomas de Calera",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Año de Juárez",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Lauro G. Caloca",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Santa Lucía",
+                "municipality": "Calera, Zacatecas"
+            }
+        ]
+    },
+    "98504": {
+        "code": "98504",
+        "colonies": [
+            {
+                "name": "La Moderna",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "La Ladrillera",
+                "municipality": "Calera, Zacatecas"
+            }
+        ]
+    },
+    "98505": {
+        "code": "98505",
+        "colonies": [
+            {
+                "name": "Fuentes del Sol",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Elías García",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Estación Víctor Rosales",
+                "municipality": "Calera, Zacatecas"
+            }
+        ]
+    },
+    "98507": {
+        "code": "98507",
+        "colonies": [
+            {
+                "name": "Hermanas Hernández",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Popular las Fuentes",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "La Escuelita",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Calera, Zacatecas"
+            }
+        ]
+    },
+    "98508": {
+        "code": "98508",
+        "colonies": [
+            {
+                "name": "El Tambo",
+                "municipality": "Calera, Zacatecas"
+            },
+            {
+                "name": "Las Kilihuas",
+                "municipality": "Calera, Zacatecas"
+            }
+        ]
+    },
+    "98516": {
+        "code": "98516",
+        "colonies": [
+            {
+                "name": "El Tanque",
+                "municipality": "Calera, Zacatecas"
+            }
+        ]
+    },
+    "98540": {
+        "code": "98540",
+        "colonies": [
+            {
+                "name": "Del Pueblito",
+                "municipality": "Pánuco, Zacatecas"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Pánuco, Zacatecas"
+            },
+            {
+                "name": "Sierra de Álica",
+                "municipality": "Pánuco, Zacatecas"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Pánuco, Zacatecas"
+            },
+            {
+                "name": "Minera",
+                "municipality": "Pánuco, Zacatecas"
+            },
+            {
+                "name": "Pánuco Centro",
+                "municipality": "Pánuco, Zacatecas"
+            }
+        ]
+    },
+    "98560": {
+        "code": "98560",
+        "colonies": [
+            {
+                "name": "Agua Azul",
+                "municipality": "General Enrique Estrada, Zacatecas"
+            }
+        ]
+    },
+    "98600": {
+        "code": "98600",
+        "colonies": [
+            {
+                "name": "Guadalupe Centro",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98604": {
+        "code": "98604",
+        "colonies": [
+            {
+                "name": "La Ladrillera",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98605": {
+        "code": "98605",
+        "colonies": [
+            {
+                "name": "El Rosal",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "La Campesina",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Solidaridad (José Ives Limantour)",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Arcoiris",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Los Frailes",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Ampliación Campesina",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "San José (Ampliación Lo de Vega)",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "El Montecito",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "División del Norte",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Doroteo Arango",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98606": {
+        "code": "98606",
+        "colonies": [
+            {
+                "name": "Villas de Nápoles",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "La Palma",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98607": {
+        "code": "98607",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Los Angeles",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Barrio de Los Moros",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Justo Sierra",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "La Providencia",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Las Quintas",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98610": {
+        "code": "98610",
+        "colonies": [
+            {
+                "name": "Los Prados",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98612": {
+        "code": "98612",
+        "colonies": [
+            {
+                "name": "Arte Mexicano",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Valle del Conde",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Real del Conde",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Valles II",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "La Condesa",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "FOVISSSTE",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "El Universo",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Villas Mariana",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Antorcha Campesina",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98613": {
+        "code": "98613",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Villas de Don Fernando",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Valles I",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Camino Real",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Popular San Francisco",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Villas del Monasterio",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Las Joyas",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98614": {
+        "code": "98614",
+        "colonies": [
+            {
+                "name": "La Victoria",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Primero de Mayo",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98615": {
+        "code": "98615",
+        "colonies": [
+            {
+                "name": "Jesús Pérez Cuevas",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Sección P.P.S. (Polígono la Fé)",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Guadalupe Colonial",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Lomas del Valle",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "África",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Toma de Zacatecas",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "SUTSEMOP",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Ampliación Minas",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "La Fe",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98616": {
+        "code": "98616",
+        "colonies": [
+            {
+                "name": "La Cantera",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98617": {
+        "code": "98617",
+        "colonies": [
+            {
+                "name": "El Dorado",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Militar",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Villa Colonial",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98619": {
+        "code": "98619",
+        "colonies": [
+            {
+                "name": "Camilo Torres",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Ex Hacienda de Bernardez",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Gavilanes",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Villa de las Flores",
+                "municipality": "Guadalupe, Zacatecas"
+            },
+            {
+                "name": "Cañada del Sol",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98630": {
+        "code": "98630",
+        "colonies": [
+            {
+                "name": "El Maguey",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98640": {
+        "code": "98640",
+        "colonies": [
+            {
+                "name": "La Cantera",
+                "municipality": "Trancoso, Zacatecas"
+            }
+        ]
+    },
+    "98650": {
+        "code": "98650",
+        "colonies": [
+            {
+                "name": "El Bordito",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98659": {
+        "code": "98659",
+        "colonies": [
+            {
+                "name": "Laguna de Arriba",
+                "municipality": "Guadalupe, Zacatecas"
+            }
+        ]
+    },
+    "98660": {
+        "code": "98660",
+        "colonies": [
+            {
+                "name": "Los Arteaga",
+                "municipality": "Genaro Codina, Zacatecas"
+            },
+            {
+                "name": "Los Guerrero",
+                "municipality": "Genaro Codina, Zacatecas"
+            },
+            {
+                "name": "Los Hernández",
+                "municipality": "Genaro Codina, Zacatecas"
+            },
+            {
+                "name": "Los Llanitos",
+                "municipality": "Genaro Codina, Zacatecas"
+            },
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Genaro Codina, Zacatecas"
+            }
+        ]
+    },
+    "98667": {
+        "code": "98667",
+        "colonies": [
+            {
+                "name": "El Refugio",
+                "municipality": "Genaro Codina, Zacatecas"
+            }
+        ]
+    },
+    "98684": {
+        "code": "98684",
+        "colonies": [
+            {
+                "name": "Río Verde",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98690": {
+        "code": "98690",
+        "colonies": [
+            {
+                "name": "Ciudad Cuauhtémoc Centro",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98692": {
+        "code": "98692",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            },
+            {
+                "name": "Lázaro Cárdenas 2a Sección",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98693": {
+        "code": "98693",
+        "colonies": [
+            {
+                "name": "Potrerillos",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            },
+            {
+                "name": "Asencion Torres",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98694": {
+        "code": "98694",
+        "colonies": [
+            {
+                "name": "La Rinconada",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            },
+            {
+                "name": "Castorena",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98695": {
+        "code": "98695",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98696": {
+        "code": "98696",
+        "colonies": [
+            {
+                "name": "La Piedad",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            },
+            {
+                "name": "Independiente",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            },
+            {
+                "name": "Las Torres",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98697": {
+        "code": "98697",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98698": {
+        "code": "98698",
+        "colonies": [
+            {
+                "name": "Las Gallinas",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            },
+            {
+                "name": "La Gavia",
+                "municipality": "Cuauhtémoc, Zacatecas"
+            }
+        ]
+    },
+    "98710": {
+        "code": "98710",
+        "colonies": [
+            {
+                "name": "Ojocaliente Centro",
+                "municipality": "Ojocaliente, Zacatecas"
+            }
+        ]
+    },
+    "98712": {
+        "code": "98712",
+        "colonies": [
+            {
+                "name": "Indeco",
+                "municipality": "Ojocaliente, Zacatecas"
+            },
+            {
+                "name": "Real de Sacramento",
+                "municipality": "Ojocaliente, Zacatecas"
+            }
+        ]
+    },
+    "98713": {
+        "code": "98713",
+        "colonies": [
+            {
+                "name": "Renacimiento",
+                "municipality": "Ojocaliente, Zacatecas"
+            },
+            {
+                "name": "Veteranos de La Revolución",
+                "municipality": "Ojocaliente, Zacatecas"
+            }
+        ]
+    },
+    "98714": {
+        "code": "98714",
+        "colonies": [
+            {
+                "name": "Parga",
+                "municipality": "Ojocaliente, Zacatecas"
+            }
+        ]
+    },
+    "98715": {
+        "code": "98715",
+        "colonies": [
+            {
+                "name": "Felipe Herrera Villalobos",
+                "municipality": "Ojocaliente, Zacatecas"
+            },
+            {
+                "name": "Campesina",
+                "municipality": "Ojocaliente, Zacatecas"
+            },
+            {
+                "name": "Martel",
+                "municipality": "Ojocaliente, Zacatecas"
+            },
+            {
+                "name": "Real Bastidas",
+                "municipality": "Ojocaliente, Zacatecas"
+            },
+            {
+                "name": "Luis Reyes",
+                "municipality": "Ojocaliente, Zacatecas"
+            }
+        ]
+    },
+    "98716": {
+        "code": "98716",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Ojocaliente, Zacatecas"
+            }
+        ]
+    },
+    "98718": {
+        "code": "98718",
+        "colonies": [
+            {
+                "name": "Fernando Pamanes Escobedo",
+                "municipality": "Ojocaliente, Zacatecas"
+            }
+        ]
+    },
+    "98730": {
+        "code": "98730",
+        "colonies": [
+            {
+                "name": "Gral. Pánfilo Natera Centro",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "Presidentes",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "Santa Fe",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "San Juan Bautista",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "Piedra Azul",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "Las Animas",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            },
+            {
+                "name": "Barrio Alto",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            }
+        ]
+    },
+    "98750": {
+        "code": "98750",
+        "colonies": [
+            {
+                "name": "Pamanes",
+                "municipality": "General Pánfilo Natera, Zacatecas"
+            }
+        ]
+    },
+    "98770": {
+        "code": "98770",
+        "colonies": [
+            {
+                "name": "Luis Moya Centro",
+                "municipality": "Luis Moya, Zacatecas"
+            }
+        ]
+    },
+    "98772": {
+        "code": "98772",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Luis Moya, Zacatecas"
+            },
+            {
+                "name": "De las Flores",
+                "municipality": "Luis Moya, Zacatecas"
+            }
+        ]
+    },
+    "98775": {
+        "code": "98775",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Luis Moya, Zacatecas"
+            }
+        ]
+    },
+    "98776": {
+        "code": "98776",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Luis Moya, Zacatecas"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Luis Moya, Zacatecas"
+            }
+        ]
+    },
+    "98780": {
+        "code": "98780",
+        "colonies": [
+            {
+                "name": "Hidalgo",
+                "municipality": "Luis Moya, Zacatecas"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Luis Moya, Zacatecas"
+            }
+        ]
+    },
+    "98815": {
+        "code": "98815",
+        "colonies": [
+            {
+                "name": "Hidalgo (El Tecolote)",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98818": {
+        "code": "98818",
+        "colonies": [
+            {
+                "name": "Norias de San Miguel",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98830": {
+        "code": "98830",
+        "colonies": [
+            {
+                "name": "Loreto Centro",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98832": {
+        "code": "98832",
+        "colonies": [
+            {
+                "name": "Los Ángeles",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Acevedo",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "La Esperanza I",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "El Mezquite",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "La Huerta",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "La Esperanza II",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98833": {
+        "code": "98833",
+        "colonies": [
+            {
+                "name": "San Genaro",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "San Marcos I",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "San Marcos II",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98834": {
+        "code": "98834",
+        "colonies": [
+            {
+                "name": "La Martinica II",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Minera",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "La Martinica I",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Torres",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98835": {
+        "code": "98835",
+        "colonies": [
+            {
+                "name": "Reforma",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Vega",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98836": {
+        "code": "98836",
+        "colonies": [
+            {
+                "name": "Llanos de San Miguel",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98837": {
+        "code": "98837",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Esmeralda",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "San Manuel",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98838": {
+        "code": "98838",
+        "colonies": [
+            {
+                "name": "Los Pirules",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Herrada",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98839": {
+        "code": "98839",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "La Victoria",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Escobedo",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Arenas",
+                "municipality": "Loreto, Zacatecas"
+            },
+            {
+                "name": "Los Puentes",
+                "municipality": "Loreto, Zacatecas"
+            }
+        ]
+    },
+    "98860": {
+        "code": "98860",
+        "colonies": [
+            {
+                "name": "Diez de Noviembre (El Campamento)",
+                "municipality": "Villa González Ortega, Zacatecas"
+            }
+        ]
+    },
+    "98887": {
+        "code": "98887",
+        "colonies": [
+            {
+                "name": "Madero",
+                "municipality": "Noria de Ángeles, Zacatecas"
+            }
+        ]
+    },
+    "98890": {
+        "code": "98890",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Noria de Ángeles, Zacatecas"
+            }
+        ]
+    },
+    "98900": {
+        "code": "98900",
+        "colonies": [
+            {
+                "name": "El Arenal",
+                "municipality": "Villa García, Zacatecas"
+            },
+            {
+                "name": "Villa Garcia Centro",
+                "municipality": "Villa García, Zacatecas"
+            },
+            {
+                "name": "Villa Flores",
+                "municipality": "Villa García, Zacatecas"
+            }
+        ]
+    },
+    "98920": {
+        "code": "98920",
+        "colonies": [
+            {
+                "name": "Las Tinajas",
+                "municipality": "Pinos, Zacatecas"
+            },
+            {
+                "name": "La Cuadrilla",
+                "municipality": "Pinos, Zacatecas"
+            },
+            {
+                "name": "Centro",
+                "municipality": "Pinos, Zacatecas"
+            },
+            {
+                "name": "H. Ayuntamiento",
+                "municipality": "Pinos, Zacatecas"
+            },
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Pinos, Zacatecas"
+            },
+            {
+                "name": "Bachilleres",
+                "municipality": "Pinos, Zacatecas"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Pinos, Zacatecas"
+            },
+            {
+                "name": "Sierra de Pinos",
+                "municipality": "Pinos, Zacatecas"
+            }
+        ]
+    },
+    "98974": {
+        "code": "98974",
+        "colonies": [
+            {
+                "name": "Los Encinitos",
+                "municipality": "Pinos, Zacatecas"
+            }
+        ]
+    },
+    "98986": {
+        "code": "98986",
+        "colonies": [
+            {
+                "name": "José María Morelos",
+                "municipality": "Villa Hidalgo, Zacatecas"
+            }
+        ]
+    },
+    "98990": {
+        "code": "98990",
+        "colonies": [
+            {
+                "name": "Villa Hidalgo Centro",
+                "municipality": "Villa Hidalgo, Zacatecas"
+            }
+        ]
+    },
+    "98994": {
+        "code": "98994",
+        "colonies": [
+            {
+                "name": "Francisco E. García",
+                "municipality": "Villa Hidalgo, Zacatecas"
+            }
+        ]
+    },
+    "98995": {
+        "code": "98995",
+        "colonies": [
+            {
+                "name": "Nueva",
+                "municipality": "Villa Hidalgo, Zacatecas"
+            }
+        ]
+    },
+    "99000": {
+        "code": "99000",
+        "colonies": [
+            {
+                "name": "Beleña",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Fresnillo Centro",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99010": {
+        "code": "99010",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Napoleón Gómez Sada",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99011": {
+        "code": "99011",
+        "colonies": [
+            {
+                "name": "Lomas de Plateros",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99013": {
+        "code": "99013",
+        "colonies": [
+            {
+                "name": "México",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Sector Popular",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Plutarco Elias Calles",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99014": {
+        "code": "99014",
+        "colonies": [
+            {
+                "name": "Panamericana",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Europa",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Alianza Ciudadana",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Patria y Libertad",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Ampliación Azteca",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Petroleos Mexicanos",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99020": {
+        "code": "99020",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "El Fresno",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Tecnológica",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99030": {
+        "code": "99030",
+        "colonies": [
+            {
+                "name": "El Parque",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99033": {
+        "code": "99033",
+        "colonies": [
+            {
+                "name": "Ejidal 3",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99034": {
+        "code": "99034",
+        "colonies": [
+            {
+                "name": "Progreso",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Bajío de Fresnillo",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Los Artesanos",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Lienzo Charro",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "La Joya",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99036": {
+        "code": "99036",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99039": {
+        "code": "99039",
+        "colonies": [
+            {
+                "name": "Universidad",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99040": {
+        "code": "99040",
+        "colonies": [
+            {
+                "name": "Jose Maria Vázquez",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Lasalle",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Del Policía",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Periodistas",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99050": {
+        "code": "99050",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Obrera Norte",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Jesús Gonzalez Ortega",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99054": {
+        "code": "99054",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Huertas de Abajo",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Ecología",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99055": {
+        "code": "99055",
+        "colonies": [
+            {
+                "name": "Satélite",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Juan Antonio Casas Torres",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Del Sol",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99056": {
+        "code": "99056",
+        "colonies": [
+            {
+                "name": "Felipe Monreal",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Arboledas",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Felipe Angeles",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99060": {
+        "code": "99060",
+        "colonies": [
+            {
+                "name": "Lagunilla",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99070": {
+        "code": "99070",
+        "colonies": [
+            {
+                "name": "Barrio Alto",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "El Olivar Manuel M. Ponce",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99080": {
+        "code": "99080",
+        "colonies": [
+            {
+                "name": "Ricardo Monreal Ávila",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Esparza",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Lomas de La Fortuna",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Fortuna",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "FOVISSSTE Lic. Roque Estrada",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Real de Minas",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "La Paz",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99084": {
+        "code": "99084",
+        "colonies": [
+            {
+                "name": "Ejidal 4",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Del Valle",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Los Sotoles",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99089": {
+        "code": "99089",
+        "colonies": [
+            {
+                "name": "Minera",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99090": {
+        "code": "99090",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Electricistas",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Maravillas",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99094": {
+        "code": "99094",
+        "colonies": [
+            {
+                "name": "Mesoamerica",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Polvaderas",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Impresionistas",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Muralista",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Magisterio Unido",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99099": {
+        "code": "99099",
+        "colonies": [
+            {
+                "name": "Venustiano Carranza",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99100": {
+        "code": "99100",
+        "colonies": [
+            {
+                "name": "Sombrerete Centro",
+                "municipality": "Sombrerete, Zacatecas"
+            }
+        ]
+    },
+    "99102": {
+        "code": "99102",
+        "colonies": [
+            {
+                "name": "De los Músicos",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "La Urbaleja",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "La Purísima",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "López Mateos",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Ampliación López Mateos",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Loma La Colorada",
+                "municipality": "Sombrerete, Zacatecas"
+            }
+        ]
+    },
+    "99103": {
+        "code": "99103",
+        "colonies": [
+            {
+                "name": "La Huerta",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Real Bastida",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "El Artezón",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "El Chahuita",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "San Pedro",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "El Chepinque",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Las Escobillas",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "El Cerrito de Guadalupe",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "División del Norte",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "La Cueva",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Santo Domingo",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Del Oro",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "La Caridad",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Huerta de los Santos Niños",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Sombrerete, Zacatecas"
+            }
+        ]
+    },
+    "99104": {
+        "code": "99104",
+        "colonies": [
+            {
+                "name": "De la Candelaria",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Las Playas",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "El Consuelo",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Lomas del Consuelo",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "La Pila",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "La Santiaga",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "INFONAVIT",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "FOVISSSTE",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "El Peñasco",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "La Blanca",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "El Ranchito",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "La Palmilla",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "Huertas Grandes",
+                "municipality": "Sombrerete, Zacatecas"
+            }
+        ]
+    },
+    "99110": {
+        "code": "99110",
+        "colonies": [
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Sombrerete, Zacatecas"
+            },
+            {
+                "name": "González Ortega",
+                "municipality": "Sombrerete, Zacatecas"
+            }
+        ]
+    },
+    "99119": {
+        "code": "99119",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc (Santa Catarina)",
+                "municipality": "Sombrerete, Zacatecas"
+            }
+        ]
+    },
+    "99130": {
+        "code": "99130",
+        "colonies": [
+            {
+                "name": "Las Haciendas",
+                "municipality": "Sain Alto, Zacatecas"
+            },
+            {
+                "name": "La Cruz Verde",
+                "municipality": "Sain Alto, Zacatecas"
+            },
+            {
+                "name": "Las Pilas",
+                "municipality": "Sain Alto, Zacatecas"
+            },
+            {
+                "name": "Nuevo",
+                "municipality": "Sain Alto, Zacatecas"
+            },
+            {
+                "name": "San Antonio del Álamo",
+                "municipality": "Sain Alto, Zacatecas"
+            }
+        ]
+    },
+    "99150": {
+        "code": "99150",
+        "colonies": [
+            {
+                "name": "El Pardillo Tercero",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "El Pardillo Segundo",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Purísima del Maguey",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99154": {
+        "code": "99154",
+        "colonies": [
+            {
+                "name": "Santa Anita",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99189": {
+        "code": "99189",
+        "colonies": [
+            {
+                "name": "Erendirilla",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "Esparza",
+                "municipality": "Fresnillo, Zacatecas"
+            },
+            {
+                "name": "San José de Lourdes",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99190": {
+        "code": "99190",
+        "colonies": [
+            {
+                "name": "Agrícola Guanajuato",
+                "municipality": "Fresnillo, Zacatecas"
+            }
+        ]
+    },
+    "99201": {
+        "code": "99201",
+        "colonies": [
+            {
+                "name": "San José del Vergel",
+                "municipality": "Valparaíso, Zacatecas"
+            }
+        ]
+    },
+    "99250": {
+        "code": "99250",
+        "colonies": [
+            {
+                "name": "Valparaíso Centro",
+                "municipality": "Valparaíso, Zacatecas"
+            }
+        ]
+    },
+    "99252": {
+        "code": "99252",
+        "colonies": [
+            {
+                "name": "Del Edén",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "La Viña",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Las Rosas",
+                "municipality": "Valparaíso, Zacatecas"
+            }
+        ]
+    },
+    "99253": {
+        "code": "99253",
+        "colonies": [
+            {
+                "name": "Agua Fría",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Simón Bolívar",
+                "municipality": "Valparaíso, Zacatecas"
+            }
+        ]
+    },
+    "99254": {
+        "code": "99254",
+        "colonies": [
+            {
+                "name": "Los Guerreros",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "De los Barrios",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "El Lago",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Lomas del Valle",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "La Mesita",
+                "municipality": "Valparaíso, Zacatecas"
+            }
+        ]
+    },
+    "99257": {
+        "code": "99257",
+        "colonies": [
+            {
+                "name": "Los Arcos",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "López Velarde",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "México",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Santa Rita",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Valparaíso, Zacatecas"
+            }
+        ]
+    },
+    "99258": {
+        "code": "99258",
+        "colonies": [
+            {
+                "name": "Cumbres del Valle",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Valparaíso, Zacatecas"
+            }
+        ]
+    },
+    "99259": {
+        "code": "99259",
+        "colonies": [
+            {
+                "name": "Lomas del Paraíso",
+                "municipality": "Valparaíso, Zacatecas"
+            },
+            {
+                "name": "Atotonilco",
+                "municipality": "Valparaíso, Zacatecas"
+            }
+        ]
+    },
+    "99260": {
+        "code": "99260",
+        "colonies": [
+            {
+                "name": "Alameda",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Altamira",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Peñitas",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Las Huertas",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Jalisco",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Fatima",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "El Rebote",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Concordia",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Cardenillo",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Colorada",
+                "municipality": "Chalchihuites, Zacatecas"
+            },
+            {
+                "name": "Chalchihuites",
+                "municipality": "Chalchihuites, Zacatecas"
+            }
+        ]
+    },
+    "99280": {
+        "code": "99280",
+        "colonies": [
+            {
+                "name": "Tlalcotzahuatl",
+                "municipality": "Jiménez del Teul, Zacatecas"
+            }
+        ]
+    },
+    "99300": {
+        "code": "99300",
+        "colonies": [
+            {
+                "name": "Jerez Centro",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Barrio Nuevo",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99310": {
+        "code": "99310",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99311": {
+        "code": "99311",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99312": {
+        "code": "99312",
+        "colonies": [
+            {
+                "name": "CTM",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99313": {
+        "code": "99313",
+        "colonies": [
+            {
+                "name": "El Durazno",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Organización Campesina",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99315": {
+        "code": "99315",
+        "colonies": [
+            {
+                "name": "Las Palmas",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99316": {
+        "code": "99316",
+        "colonies": [
+            {
+                "name": "Patria Nueva",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Infonavit El Molino Plan Maestro",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Matías Ramos",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Ciénega",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99320": {
+        "code": "99320",
+        "colonies": [
+            {
+                "name": "Las Huertas",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Zaragoza",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99322": {
+        "code": "99322",
+        "colonies": [
+            {
+                "name": "Candelario Huizar",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Magisterial II",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99323": {
+        "code": "99323",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99330": {
+        "code": "99330",
+        "colonies": [
+            {
+                "name": "San Pedro",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99340": {
+        "code": "99340",
+        "colonies": [
+            {
+                "name": "Lagunita",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Nueva Reforma",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Los Sauces",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Constituyentes",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99343": {
+        "code": "99343",
+        "colonies": [
+            {
+                "name": "Artesanos",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99344": {
+        "code": "99344",
+        "colonies": [
+            {
+                "name": "Balvanero",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99350": {
+        "code": "99350",
+        "colonies": [
+            {
+                "name": "Chulavista",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Loma Dorada",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Unión Santa Cruz",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99352": {
+        "code": "99352",
+        "colonies": [
+            {
+                "name": "Concepción",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Montecillo",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99353": {
+        "code": "99353",
+        "colonies": [
+            {
+                "name": "Granjas El Molino",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99360": {
+        "code": "99360",
+        "colonies": [
+            {
+                "name": "Justo Sierra",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99363": {
+        "code": "99363",
+        "colonies": [
+            {
+                "name": "Hidráulica",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99370": {
+        "code": "99370",
+        "colonies": [
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99380": {
+        "code": "99380",
+        "colonies": [
+            {
+                "name": "Las Artes",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Modelo",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Mercaderes",
+                "municipality": "Jerez, Zacatecas"
+            },
+            {
+                "name": "Fuenzanto",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99390": {
+        "code": "99390",
+        "colonies": [
+            {
+                "name": "Álamos",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99392": {
+        "code": "99392",
+        "colonies": [
+            {
+                "name": "CNOP",
+                "municipality": "Jerez, Zacatecas"
+            }
+        ]
+    },
+    "99400": {
+        "code": "99400",
+        "colonies": [
+            {
+                "name": "La Palma",
+                "municipality": "Monte Escobedo, Zacatecas"
+            },
+            {
+                "name": "Las Huertas",
+                "municipality": "Monte Escobedo, Zacatecas"
+            },
+            {
+                "name": "La Esmeralda",
+                "municipality": "Monte Escobedo, Zacatecas"
+            },
+            {
+                "name": "El Dorado",
+                "municipality": "Monte Escobedo, Zacatecas"
+            },
+            {
+                "name": "Monte Escobedo Centro",
+                "municipality": "Monte Escobedo, Zacatecas"
+            },
+            {
+                "name": "Las Mesitas",
+                "municipality": "Monte Escobedo, Zacatecas"
+            },
+            {
+                "name": "La Loma (Manuel M. Ponce)",
+                "municipality": "Monte Escobedo, Zacatecas"
+            }
+        ]
+    },
+    "99510": {
+        "code": "99510",
+        "colonies": [
+            {
+                "name": "De la Cruz",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99520": {
+        "code": "99520",
+        "colonies": [
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99540": {
+        "code": "99540",
+        "colonies": [
+            {
+                "name": "Villanueva Centro",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99542": {
+        "code": "99542",
+        "colonies": [
+            {
+                "name": "Santa Cruz",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Panames Escobedo",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Gutiérrez del Águila",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Beisbolera",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99544": {
+        "code": "99544",
+        "colonies": [
+            {
+                "name": "Colosio",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99545": {
+        "code": "99545",
+        "colonies": [
+            {
+                "name": "Flores del Pedregal",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Sierra Nevada",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99546": {
+        "code": "99546",
+        "colonies": [
+            {
+                "name": "Frente Popular",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Arroyo del Tigre",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Loma de Tlalpan",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99547": {
+        "code": "99547",
+        "colonies": [
+            {
+                "name": "Nueva",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99559": {
+        "code": "99559",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos (Majadas)",
+                "municipality": "Villanueva, Zacatecas"
+            },
+            {
+                "name": "Gustavo Díaz Ordaz (Tortugas)",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99560": {
+        "code": "99560",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "Villanueva, Zacatecas"
+            }
+        ]
+    },
+    "99570": {
+        "code": "99570",
+        "colonies": [
+            {
+                "name": "Las Cumbres",
+                "municipality": "Tepetongo, Zacatecas"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Tepetongo, Zacatecas"
+            },
+            {
+                "name": "América",
+                "municipality": "Tepetongo, Zacatecas"
+            },
+            {
+                "name": "Chihuahua",
+                "municipality": "Tepetongo, Zacatecas"
+            }
+        ]
+    },
+    "99600": {
+        "code": "99600",
+        "colonies": [
+            {
+                "name": "Jalpa Centro",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "El Rosario",
+                "municipality": "Jalpa, Zacatecas"
+            }
+        ]
+    },
+    "99602": {
+        "code": "99602",
+        "colonies": [
+            {
+                "name": "Mesa del Santo",
+                "municipality": "Jalpa, Zacatecas"
+            }
+        ]
+    },
+    "99603": {
+        "code": "99603",
+        "colonies": [
+            {
+                "name": "Juárez",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Parque La Mezquitera",
+                "municipality": "Jalpa, Zacatecas"
+            }
+        ]
+    },
+    "99605": {
+        "code": "99605",
+        "colonies": [
+            {
+                "name": "SARH",
+                "municipality": "Jalpa, Zacatecas"
+            }
+        ]
+    },
+    "99606": {
+        "code": "99606",
+        "colonies": [
+            {
+                "name": "Del Carmen",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Hidalgo",
+                "municipality": "Jalpa, Zacatecas"
+            }
+        ]
+    },
+    "99607": {
+        "code": "99607",
+        "colonies": [
+            {
+                "name": "Arroyo Blanco",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Caxcán",
+                "municipality": "Jalpa, Zacatecas"
+            }
+        ]
+    },
+    "99608": {
+        "code": "99608",
+        "colonies": [
+            {
+                "name": "FOVISSSTE",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Loma Arroyo Blanco",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Jalpa, Zacatecas"
+            }
+        ]
+    },
+    "99609": {
+        "code": "99609",
+        "colonies": [
+            {
+                "name": "Jardines de San José",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Lomas de Chapultepec",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Toma de Zacatecas",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Loma de San Antonio",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "SARH",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Jalpa, Zacatecas"
+            },
+            {
+                "name": "Guerrero",
+                "municipality": "Jalpa, Zacatecas"
+            }
+        ]
+    },
+    "99630": {
+        "code": "99630",
+        "colonies": [
+            {
+                "name": "Arboledas",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Lomas de Solidaridad",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "La Capilla",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Monasterios",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Del Parque",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Tabasco Centro",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "El Refugio",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Secundaria",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Barrio San Nicolás",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Linda Vista",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Balconcitos",
+                "municipality": "Tabasco, Zacatecas"
+            },
+            {
+                "name": "Barrio San Jose",
+                "municipality": "Tabasco, Zacatecas"
+            }
+        ]
+    },
+    "99670": {
+        "code": "99670",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "Huanusco, Zacatecas"
+            }
+        ]
+    },
+    "99700": {
+        "code": "99700",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Tlaltenango de Sánchez Román, Zacatecas"
+            },
+            {
+                "name": "San Felipe",
+                "municipality": "Tlaltenango de Sánchez Román, Zacatecas"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Tlaltenango de Sánchez Román, Zacatecas"
+            },
+            {
+                "name": "Veracruz",
+                "municipality": "Tlaltenango de Sánchez Román, Zacatecas"
+            },
+            {
+                "name": "San José",
+                "municipality": "Tlaltenango de Sánchez Román, Zacatecas"
+            },
+            {
+                "name": "El Obispo",
+                "municipality": "Tlaltenango de Sánchez Román, Zacatecas"
+            },
+            {
+                "name": "La Corona",
+                "municipality": "Tlaltenango de Sánchez Román, Zacatecas"
+            },
+            {
+                "name": "Tlaltenango de Sanchez Román",
+                "municipality": "Tlaltenango de Sánchez Román, Zacatecas"
+            }
+        ]
+    },
+    "99720": {
+        "code": "99720",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Momax, Zacatecas"
+            }
+        ]
+    },
+    "99730": {
+        "code": "99730",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Atolinga, Zacatecas"
+            }
+        ]
+    },
+    "99750": {
+        "code": "99750",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Tepechitlán, Zacatecas"
+            }
+        ]
+    },
+    "99753": {
+        "code": "99753",
+        "colonies": [
+            {
+                "name": "Las Pilas",
+                "municipality": "Tepechitlán, Zacatecas"
+            }
+        ]
+    },
+    "99780": {
+        "code": "99780",
+        "colonies": [
+            {
+                "name": "El Durazno",
+                "municipality": "Benito Juárez, Zacatecas"
+            },
+            {
+                "name": "Los Mirasoles",
+                "municipality": "Benito Juárez, Zacatecas"
+            }
+        ]
+    },
+    "99800": {
+        "code": "99800",
+        "colonies": [
+            {
+                "name": "La Esperanza",
+                "municipality": "Teúl de González Ortega, Zacatecas"
+            },
+            {
+                "name": "El Agave",
+                "municipality": "Teúl de González Ortega, Zacatecas"
+            },
+            {
+                "name": "Vallarta",
+                "municipality": "Teúl de González Ortega, Zacatecas"
+            }
+        ]
+    },
+    "99820": {
+        "code": "99820",
+        "colonies": [
+            {
+                "name": "El Santuario",
+                "municipality": "Santa María de la Paz, Zacatecas"
+            },
+            {
+                "name": "Nueva Santa María",
+                "municipality": "Santa María de la Paz, Zacatecas"
+            }
+        ]
+    },
+    "99900": {
+        "code": "99900",
+        "colonies": [
+            {
+                "name": "Nochistlan Centro",
+                "municipality": "Nochistlán de Mejía, Zacatecas"
+            }
+        ]
+    },
+    "99905": {
+        "code": "99905",
+        "colonies": [
+            {
+                "name": "Lomas del Refugio",
+                "municipality": "Nochistlán de Mejía, Zacatecas"
+            },
+            {
+                "name": "Arroyos Cuates",
+                "municipality": "Nochistlán de Mejía, Zacatecas"
+            },
+            {
+                "name": "San Miguel Oriente",
+                "municipality": "Nochistlán de Mejía, Zacatecas"
+            }
+        ]
+    },
+    "99906": {
+        "code": "99906",
+        "colonies": [
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Nochistlán de Mejía, Zacatecas"
+            }
+        ]
+    },
+    "99908": {
+        "code": "99908",
+        "colonies": [
+            {
+                "name": "Quita los Sauces",
+                "municipality": "Nochistlán de Mejía, Zacatecas"
+            }
+        ]
+    },
+    "99909": {
+        "code": "99909",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "Nochistlán de Mejía, Zacatecas"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Nochistlán de Mejía, Zacatecas"
+            }
+        ]
+    },
+    "99940": {
+        "code": "99940",
+        "colonies": [
+            {
+                "name": "Rancho Nuevo",
+                "municipality": "Apozol, Zacatecas"
+            },
+            {
+                "name": "Ojo de Agua",
+                "municipality": "Apozol, Zacatecas"
+            }
+        ]
+    },
+    "99960": {
+        "code": "99960",
+        "colonies": [
+            {
+                "name": "La Quinta",
+                "municipality": "Juchipila, Zacatecas"
+            }
+        ]
+    },
+    "99964": {
+        "code": "99964",
+        "colonies": [
+            {
+                "name": "Popular del Sol",
+                "municipality": "Juchipila, Zacatecas"
+            }
+        ]
+    },
+    "99980": {
+        "code": "99980",
+        "colonies": [
+            {
+                "name": "El Convento",
+                "municipality": "Moyahua de Estrada, Zacatecas"
+            },
+            {
+                "name": "Moyahua Centro",
+                "municipality": "Moyahua de Estrada, Zacatecas"
+            }
+        ]
+    },
+    "99987": {
+        "code": "99987",
+        "colonies": [
+            {
+                "name": "El Parador",
+                "municipality": "Moyahua de Estrada, Zacatecas"
+            }
+        ]
+    }
+}

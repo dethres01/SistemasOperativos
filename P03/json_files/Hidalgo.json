@@ -1,0 +1,6992 @@
+{
+    "42000": {
+        "code": "42000",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42004": {
+        "code": "42004",
+        "colonies": [
+            {
+                "name": "La Granada",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42010": {
+        "code": "42010",
+        "colonies": [
+            {
+                "name": "San Juan Pachuca",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42014": {
+        "code": "42014",
+        "colonies": [
+            {
+                "name": "Nueva Estrella",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42018": {
+        "code": "42018",
+        "colonies": [
+            {
+                "name": "Julián Carrillo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42020": {
+        "code": "42020",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "José López Portillo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Real de Medinas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42027": {
+        "code": "42027",
+        "colonies": [
+            {
+                "name": "Antonio del Castillo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Del Castillo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42029": {
+        "code": "42029",
+        "colonies": [
+            {
+                "name": "Unión Popular",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42030": {
+        "code": "42030",
+        "colonies": [
+            {
+                "name": "Ricardo Flores Magón",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Javier Rojo Gómez",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Venustiano Carranza",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42032": {
+        "code": "42032",
+        "colonies": [
+            {
+                "name": "Parque de Poblamiento",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42033": {
+        "code": "42033",
+        "colonies": [
+            {
+                "name": "Los Cedros",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42034": {
+        "code": "42034",
+        "colonies": [
+            {
+                "name": "Aquiles Serdán",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42035": {
+        "code": "42035",
+        "colonies": [
+            {
+                "name": "Plutarco Elías Calles",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42036": {
+        "code": "42036",
+        "colonies": [
+            {
+                "name": "Nuevo Hidalgo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42039": {
+        "code": "42039",
+        "colonies": [
+            {
+                "name": "Sierra Bonita",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "San Bartolo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Cristina Rosas Illescas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "La Condesa",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Palestina",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Mártires 18 de Agosto",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Unión Antorchista",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Mariano Otero",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Miguel Ramos Arizpe",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "15 de Septiembre",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Renacimiento",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "El Diamante",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "La Marquesa",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Europa",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Venecia",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Santo Domingo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Luz del Carmen Ocon",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Ampliación Mártires del 18 de Agosto",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Jorge Obispo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42040": {
+        "code": "42040",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42050": {
+        "code": "42050",
+        "colonies": [
+            {
+                "name": "Ex-Hacienda de Guadalupe",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Jardín Colón",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Las Lajas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "El Mosco",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Parque Hidalgo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42055": {
+        "code": "42055",
+        "colonies": [
+            {
+                "name": "Anáhuac",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42056": {
+        "code": "42056",
+        "colonies": [
+            {
+                "name": "Cruz de los Ciegos",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42057": {
+        "code": "42057",
+        "colonies": [
+            {
+                "name": "Patoni",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "San Clemente",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42060": {
+        "code": "42060",
+        "colonies": [
+            {
+                "name": "Maestranza",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Periodistas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Arconada",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42064": {
+        "code": "42064",
+        "colonies": [
+            {
+                "name": "Colonial",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Cuesco",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Misiones de Cuesco",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "La Moraleja",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42070": {
+        "code": "42070",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Pirules",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Rincón del Real",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "San Antonio Buenos Aires",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Jorge Rojo Lugo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Nueva Francisco I Madero",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Río de la Soledad",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42075": {
+        "code": "42075",
+        "colonies": [
+            {
+                "name": "Calabazas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Canutillo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Rinconada de Santiago",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42078": {
+        "code": "42078",
+        "colonies": [
+            {
+                "name": "Ciudad de los Niños",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Boulevares de San Francisco",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "La Hacienda",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Santiago Jaltepec",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42079": {
+        "code": "42079",
+        "colonies": [
+            {
+                "name": "Guadalupe 1a. Secc",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Guadalupe 2a. Secc",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42080": {
+        "code": "42080",
+        "colonies": [
+            {
+                "name": "Media Luna",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Santa Julia",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Ampliación Santa Julia",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42082": {
+        "code": "42082",
+        "colonies": [
+            {
+                "name": "Carlos Rovirosa",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42083": {
+        "code": "42083",
+        "colonies": [
+            {
+                "name": "Venta Prieta",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Juan C. Doria",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Colonias",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "San Antonio el Desmonte",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Privadas San Antonio",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Geovillas de Nuevo Hidalgo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "La Palma",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Ampliación San Antonio",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42084": {
+        "code": "42084",
+        "colonies": [
+            {
+                "name": "El Tezontle",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "San Cayetano el Bordo",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "San Pedro Nopancalco",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Santo Tomás",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Santa Cruz Nopancalco",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42088": {
+        "code": "42088",
+        "colonies": [
+            {
+                "name": "Piracantos",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Valles de Pachuca",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "El Palmar",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Valle del Palmar 2da. Sección",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Jardines de Colosio",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42090": {
+        "code": "42090",
+        "colonies": [
+            {
+                "name": "Céspedes Reforma",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Cubitos",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Doctores",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "C.F.E.",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Real de Minas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42092": {
+        "code": "42092",
+        "colonies": [
+            {
+                "name": "Industrial la Paz",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42094": {
+        "code": "42094",
+        "colonies": [
+            {
+                "name": "Cerro de Cubitos",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Las Palmitas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Lomas Residencial Pachuca",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42095": {
+        "code": "42095",
+        "colonies": [
+            {
+                "name": "La Raza",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42097": {
+        "code": "42097",
+        "colonies": [
+            {
+                "name": "Cerro de las Ánimas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Tiro Tula",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42098": {
+        "code": "42098",
+        "colonies": [
+            {
+                "name": "Terrazas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42110": {
+        "code": "42110",
+        "colonies": [
+            {
+                "name": "Santiago Tlapacoya Centro",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42115": {
+        "code": "42115",
+        "colonies": [
+            {
+                "name": "El Huixmí",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42117": {
+        "code": "42117",
+        "colonies": [
+            {
+                "name": "Las Campanitas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Coronas",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42119": {
+        "code": "42119",
+        "colonies": [
+            {
+                "name": "Caminera",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            },
+            {
+                "name": "Santa Matílde",
+                "municipality": "Pachuca de Soto, Hidalgo"
+            }
+        ]
+    },
+    "42120": {
+        "code": "42120",
+        "colonies": [
+            {
+                "name": "Mineral del Chico Centro",
+                "municipality": "Mineral del Chico, Hidalgo"
+            }
+        ]
+    },
+    "42130": {
+        "code": "42130",
+        "colonies": [
+            {
+                "name": "Mineral del Monte Centro",
+                "municipality": "Mineral del Monte, Hidalgo"
+            }
+        ]
+    },
+    "42150": {
+        "code": "42150",
+        "colonies": [
+            {
+                "name": "Ajacuba Centro",
+                "municipality": "Ajacuba, Hidalgo"
+            }
+        ]
+    },
+    "42151": {
+        "code": "42151",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Ajacuba, Hidalgo"
+            }
+        ]
+    },
+    "42153": {
+        "code": "42153",
+        "colonies": [
+            {
+                "name": "El Satélite (Hidalgo)",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Los Gallineros",
+                "municipality": "Ajacuba, Hidalgo"
+            }
+        ]
+    },
+    "42154": {
+        "code": "42154",
+        "colonies": [
+            {
+                "name": "Arboledas",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "La Palma",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "La Presa",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Santa Jacoba",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Santa Teresa (Las Campanitas)",
+                "municipality": "Ajacuba, Hidalgo"
+            }
+        ]
+    },
+    "42156": {
+        "code": "42156",
+        "colonies": [
+            {
+                "name": "Palma 1ra. Sección",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Palma 2da. Sección",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Rincón Norte 1ra. Sección",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Rincón Norte 2da. Sección",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Rincón Sur 1ra. Sección",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Rincón Sur 2da. Sección",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Santa Cruz Norte Centro",
+                "municipality": "Ajacuba, Hidalgo"
+            },
+            {
+                "name": "Santa Cruz Sur",
+                "municipality": "Ajacuba, Hidalgo"
+            }
+        ]
+    },
+    "42157": {
+        "code": "42157",
+        "colonies": [
+            {
+                "name": "Santo Niño",
+                "municipality": "Ajacuba, Hidalgo"
+            }
+        ]
+    },
+    "42160": {
+        "code": "42160",
+        "colonies": [
+            {
+                "name": "José María Pino Suárez",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            }
+        ]
+    },
+    "42162": {
+        "code": "42162",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            }
+        ]
+    },
+    "42163": {
+        "code": "42163",
+        "colonies": [
+            {
+                "name": "El Botho",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            },
+            {
+                "name": "El Huizache",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            },
+            {
+                "name": "La Nopalera",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            },
+            {
+                "name": "La Providencia",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            },
+            {
+                "name": "Palos Blancos",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            },
+            {
+                "name": "Santa María",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            },
+            {
+                "name": "Tecamatl",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            }
+        ]
+    },
+    "42175": {
+        "code": "42175",
+        "colonies": [
+            {
+                "name": "Nueva Tlaxiaca",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            }
+        ]
+    },
+    "42177": {
+        "code": "42177",
+        "colonies": [
+            {
+                "name": "Oriental de Zapata",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            },
+            {
+                "name": "Guadalupe los Manantiales",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            }
+        ]
+    },
+    "42178": {
+        "code": "42178",
+        "colonies": [
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            }
+        ]
+    },
+    "42179": {
+        "code": "42179",
+        "colonies": [
+            {
+                "name": "El Chamizal",
+                "municipality": "San Agustín Tlaxiaca, Hidalgo"
+            }
+        ]
+    },
+    "42180": {
+        "code": "42180",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            }
+        ]
+    },
+    "42182": {
+        "code": "42182",
+        "colonies": [
+            {
+                "name": "El Huizachal",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Manuel Ávila Camacho",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Militar",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Río de la Soledad",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "CEUNI",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Guadalupe Minerva",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            }
+        ]
+    },
+    "42184": {
+        "code": "42184",
+        "colonies": [
+            {
+                "name": "Unión Chacón",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "11 de Julio 2a Sección",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Real de Oriente",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Abundio Martínez",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "11 de Julio 1a Sección",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "El Portezuelo",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Privada del Álamo",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Álamo Rustico",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Segunda Sección del Portezuelo",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            }
+        ]
+    },
+    "42185": {
+        "code": "42185",
+        "colonies": [
+            {
+                "name": "El Venado",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Privada Quinta Bonita",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Forjadores de Pachuca",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            }
+        ]
+    },
+    "42186": {
+        "code": "42186",
+        "colonies": [
+            {
+                "name": "SAHOP Chacón",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "PRI Chacón",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "El Saucillo",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "San Cristóbal Chacón",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Las Palomas",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Industrial la Paz",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Loma Bonita (Palma Mocha)",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Lomas del Chacón",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Ejido Ampliación el Saucillo",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Las Águilas",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "La Noria",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            },
+            {
+                "name": "Los Gemelos",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            }
+        ]
+    },
+    "42187": {
+        "code": "42187",
+        "colonies": [
+            {
+                "name": "La Pila",
+                "municipality": "Mineral de la Reforma, Hidalgo"
+            }
+        ]
+    },
+    "42190": {
+        "code": "42190",
+        "colonies": [
+            {
+                "name": "Zapotlán de Juárez Centro",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Nueva Santa María",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Las Moneras",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "La Presita",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42191": {
+        "code": "42191",
+        "colonies": [
+            {
+                "name": "Los Jorges",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "La Cañada",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "El Herradero",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42192": {
+        "code": "42192",
+        "colonies": [
+            {
+                "name": "Revolución Mexicana",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Cerrito",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42194": {
+        "code": "42194",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Zapotlán de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42200": {
+        "code": "42200",
+        "colonies": [
+            {
+                "name": "Jacala Centro",
+                "municipality": "Jacala de Ledezma, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Jacala de Ledezma, Hidalgo"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Jacala de Ledezma, Hidalgo"
+            },
+            {
+                "name": "El Sabino",
+                "municipality": "Jacala de Ledezma, Hidalgo"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Jacala de Ledezma, Hidalgo"
+            },
+            {
+                "name": "El Aguaje",
+                "municipality": "Jacala de Ledezma, Hidalgo"
+            }
+        ]
+    },
+    "42203": {
+        "code": "42203",
+        "colonies": [
+            {
+                "name": "Guayabos",
+                "municipality": "Jacala de Ledezma, Hidalgo"
+            }
+        ]
+    },
+    "42220": {
+        "code": "42220",
+        "colonies": [
+            {
+                "name": "Cuartel Escamilla",
+                "municipality": "Pisaflores, Hidalgo"
+            },
+            {
+                "name": "Abasolo",
+                "municipality": "Pisaflores, Hidalgo"
+            }
+        ]
+    },
+    "42285": {
+        "code": "42285",
+        "colonies": [
+            {
+                "name": "Nuevo Porvenir",
+                "municipality": "Chapulhuacán, Hidalgo"
+            }
+        ]
+    },
+    "42300": {
+        "code": "42300",
+        "colonies": [
+            {
+                "name": "Ixmiquilpan Centro",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Jesús",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42302": {
+        "code": "42302",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "El Carrizal",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Joaquín Baranda",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Los Nogales",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "San Nicolás",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "El Carmen",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Nueva Cerritos",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Santa Alicia",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Cuatro Milpas",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42303": {
+        "code": "42303",
+        "colonies": [
+            {
+                "name": "El Calvario",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Los Aguacates",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42304": {
+        "code": "42304",
+        "colonies": [
+            {
+                "name": "El Bondho",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42305": {
+        "code": "42305",
+        "colonies": [
+            {
+                "name": "El Oro",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Media Luna",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "San Javier",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Santa Ana",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Lucero",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "La Loma del Oro",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42310": {
+        "code": "42310",
+        "colonies": [
+            {
+                "name": "Samayoa",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42313": {
+        "code": "42313",
+        "colonies": [
+            {
+                "name": "Los Cruces",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Lázaro Cárdenas (El Internado)",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42320": {
+        "code": "42320",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42323": {
+        "code": "42323",
+        "colonies": [
+            {
+                "name": "Cantinela",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Humedades",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42325": {
+        "code": "42325",
+        "colonies": [
+            {
+                "name": "Botenguedho",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "La Libertad",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "El Mirador Capula",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "General Felipe Ángeles",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            },
+            {
+                "name": "Del Valle Remedios",
+                "municipality": "Ixmiquilpan, Hidalgo"
+            }
+        ]
+    },
+    "42330": {
+        "code": "42330",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42332": {
+        "code": "42332",
+        "colonies": [
+            {
+                "name": "Llano Norte",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "Minera",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42333": {
+        "code": "42333",
+        "colonies": [
+            {
+                "name": "Campo Aéreo",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42334": {
+        "code": "42334",
+        "colonies": [
+            {
+                "name": "El Sabino",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "Tierras Coloradas",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42335": {
+        "code": "42335",
+        "colonies": [
+            {
+                "name": "Cerrito Romero",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "Libramiento",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42336": {
+        "code": "42336",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "El Muhi II",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "Las Limas",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "Unidad Deportiva",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "La Sabina",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42337": {
+        "code": "42337",
+        "colonies": [
+            {
+                "name": "El Calvario",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "La Alberca",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "FAS",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "Nueva Reforma",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42338": {
+        "code": "42338",
+        "colonies": [
+            {
+                "name": "La Nueva Reforma",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42339": {
+        "code": "42339",
+        "colonies": [
+            {
+                "name": "5o. Batallón de Infanteria",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42344": {
+        "code": "42344",
+        "colonies": [
+            {
+                "name": "El Tule",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "El Muhí",
+                "municipality": "Zimapán, Hidalgo"
+            },
+            {
+                "name": "Xindhó Guadalupe",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42356": {
+        "code": "42356",
+        "colonies": [
+            {
+                "name": "El Saucillo",
+                "municipality": "Zimapán, Hidalgo"
+            }
+        ]
+    },
+    "42370": {
+        "code": "42370",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Cardonal, Hidalgo"
+            }
+        ]
+    },
+    "42379": {
+        "code": "42379",
+        "colonies": [
+            {
+                "name": "Pozuelos",
+                "municipality": "Cardonal, Hidalgo"
+            }
+        ]
+    },
+    "42380": {
+        "code": "42380",
+        "colonies": [
+            {
+                "name": "Bomi el Palmar",
+                "municipality": "Tasquillo, Hidalgo"
+            },
+            {
+                "name": "Tasquillo Centro",
+                "municipality": "Tasquillo, Hidalgo"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Tasquillo, Hidalgo"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Tasquillo, Hidalgo"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Tasquillo, Hidalgo"
+            },
+            {
+                "name": "Nuevo Porvenir",
+                "municipality": "Tasquillo, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Tasquillo, Hidalgo"
+            }
+        ]
+    },
+    "42383": {
+        "code": "42383",
+        "colonies": [
+            {
+                "name": "La Vega",
+                "municipality": "Tasquillo, Hidalgo"
+            }
+        ]
+    },
+    "42386": {
+        "code": "42386",
+        "colonies": [
+            {
+                "name": "Arbolado",
+                "municipality": "Tasquillo, Hidalgo"
+            },
+            {
+                "name": "Candelaria",
+                "municipality": "Tasquillo, Hidalgo"
+            },
+            {
+                "name": "Nuevo Arenal",
+                "municipality": "Tasquillo, Hidalgo"
+            }
+        ]
+    },
+    "42390": {
+        "code": "42390",
+        "colonies": [
+            {
+                "name": "Alfajayucan Centro",
+                "municipality": "Alfajayucan, Hidalgo"
+            }
+        ]
+    },
+    "42392": {
+        "code": "42392",
+        "colonies": [
+            {
+                "name": "Cuarta Manzana Toxtha",
+                "municipality": "Alfajayucan, Hidalgo"
+            }
+        ]
+    },
+    "42400": {
+        "code": "42400",
+        "colonies": [
+            {
+                "name": "Huichapan Centro",
+                "municipality": "Huichapan, Hidalgo"
+            }
+        ]
+    },
+    "42403": {
+        "code": "42403",
+        "colonies": [
+            {
+                "name": "Abundio Martínez",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "San Mateo",
+                "municipality": "Huichapan, Hidalgo"
+            }
+        ]
+    },
+    "42404": {
+        "code": "42404",
+        "colonies": [
+            {
+                "name": "El Calvario",
+                "municipality": "Huichapan, Hidalgo"
+            }
+        ]
+    },
+    "42405": {
+        "code": "42405",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "La Campana",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Rojo Gómez",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Santa Bárbara",
+                "municipality": "Huichapan, Hidalgo"
+            }
+        ]
+    },
+    "42412": {
+        "code": "42412",
+        "colonies": [
+            {
+                "name": "Guadalupe el Astillero",
+                "municipality": "Huichapan, Hidalgo"
+            }
+        ]
+    },
+    "42416": {
+        "code": "42416",
+        "colonies": [
+            {
+                "name": "San José Atlán",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "El Carmen",
+                "municipality": "Huichapan, Hidalgo"
+            }
+        ]
+    },
+    "42420": {
+        "code": "42420",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Dopresa",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "El Plan",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "La Mora",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "La Peña",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "La Venta",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Las Crucitas",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Los Pirules",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Manhy",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Mintza",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Oriental",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Palo Alto",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "Ponthiu",
+                "municipality": "Huichapan, Hidalgo"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Huichapan, Hidalgo"
+            }
+        ]
+    },
+    "42440": {
+        "code": "42440",
+        "colonies": [
+            {
+                "name": "Hidalgo Centro",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Hidalgo Sur",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Morelos Centro",
+                "municipality": "Tecozautla, Hidalgo"
+            }
+        ]
+    },
+    "42443": {
+        "code": "42443",
+        "colonies": [
+            {
+                "name": "Morelos 6ta. Manzana",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Hidalgo Sur 6ta. Manzana",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Hidalgo Norte 6ta. Manzana",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Los Carrizos",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "La Divina Providencia",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Los Moros",
+                "municipality": "Tecozautla, Hidalgo"
+            }
+        ]
+    },
+    "42444": {
+        "code": "42444",
+        "colonies": [
+            {
+                "name": "Las Cruces",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Santiago Apostol",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "La Metralla",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Tecozautla, Hidalgo"
+            },
+            {
+                "name": "Las Bóvedas",
+                "municipality": "Tecozautla, Hidalgo"
+            }
+        ]
+    },
+    "42447": {
+        "code": "42447",
+        "colonies": [
+            {
+                "name": "La Joya",
+                "municipality": "Tecozautla, Hidalgo"
+            }
+        ]
+    },
+    "42466": {
+        "code": "42466",
+        "colonies": [
+            {
+                "name": "La Otra Banda",
+                "municipality": "Tecozautla, Hidalgo"
+            }
+        ]
+    },
+    "42470": {
+        "code": "42470",
+        "colonies": [
+            {
+                "name": "Nopala Centro",
+                "municipality": "Nopala de Villagrán, Hidalgo"
+            }
+        ]
+    },
+    "42500": {
+        "code": "42500",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42503": {
+        "code": "42503",
+        "colonies": [
+            {
+                "name": "La Floresta",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Rojo Gómez",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42504": {
+        "code": "42504",
+        "colonies": [
+            {
+                "name": "Chapultepec",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Los Frailes",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Estación",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42505": {
+        "code": "42505",
+        "colonies": [
+            {
+                "name": "Centro Sur",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Pozo Grande",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Casa Blanca",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42506": {
+        "code": "42506",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42510": {
+        "code": "42510",
+        "colonies": [
+            {
+                "name": "Olivos",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42512": {
+        "code": "42512",
+        "colonies": [
+            {
+                "name": "Cañada Chica Aviación",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42523": {
+        "code": "42523",
+        "colonies": [
+            {
+                "name": "Dos Cerritos",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42524": {
+        "code": "42524",
+        "colonies": [
+            {
+                "name": "Fundición Alta",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Fundición Baja",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42601": {
+        "code": "42601",
+        "colonies": [
+            {
+                "name": "Manzana 1",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Manzana 4",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Manzana 3",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Manzana 2",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42603": {
+        "code": "42603",
+        "colonies": [
+            {
+                "name": "Eulalio Ángeles Martínez",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Boxaxni",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Dajiedhi",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42613": {
+        "code": "42613",
+        "colonies": [
+            {
+                "name": "El Boxtha",
+                "municipality": "Actopan, Hidalgo"
+            },
+            {
+                "name": "Segunda Manzana Chicavasco (El Pozo)",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42616": {
+        "code": "42616",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Actopan, Hidalgo"
+            }
+        ]
+    },
+    "42620": {
+        "code": "42620",
+        "colonies": [
+            {
+                "name": "Santiago de Anaya Centro",
+                "municipality": "Santiago de Anaya, Hidalgo"
+            }
+        ]
+    },
+    "42622": {
+        "code": "42622",
+        "colonies": [
+            {
+                "name": "Xitzo",
+                "municipality": "Santiago de Anaya, Hidalgo"
+            }
+        ]
+    },
+    "42623": {
+        "code": "42623",
+        "colonies": [
+            {
+                "name": "González Ortega",
+                "municipality": "Santiago de Anaya, Hidalgo"
+            }
+        ]
+    },
+    "42624": {
+        "code": "42624",
+        "colonies": [
+            {
+                "name": "Sección Norte",
+                "municipality": "Santiago de Anaya, Hidalgo"
+            }
+        ]
+    },
+    "42625": {
+        "code": "42625",
+        "colonies": [
+            {
+                "name": "Sección Sur",
+                "municipality": "Santiago de Anaya, Hidalgo"
+            }
+        ]
+    },
+    "42640": {
+        "code": "42640",
+        "colonies": [
+            {
+                "name": "El Mirador",
+                "municipality": "San Salvador, Hidalgo"
+            },
+            {
+                "name": "Nhitzi",
+                "municipality": "San Salvador, Hidalgo"
+            }
+        ]
+    },
+    "42643": {
+        "code": "42643",
+        "colonies": [
+            {
+                "name": "La Flor",
+                "municipality": "San Salvador, Hidalgo"
+            }
+        ]
+    },
+    "42644": {
+        "code": "42644",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "San Salvador, Hidalgo"
+            }
+        ]
+    },
+    "42646": {
+        "code": "42646",
+        "colonies": [
+            {
+                "name": "Santa María",
+                "municipality": "San Salvador, Hidalgo"
+            }
+        ]
+    },
+    "42651": {
+        "code": "42651",
+        "colonies": [
+            {
+                "name": "El Colorado",
+                "municipality": "San Salvador, Hidalgo"
+            }
+        ]
+    },
+    "42653": {
+        "code": "42653",
+        "colonies": [
+            {
+                "name": "Casa Blanca",
+                "municipality": "San Salvador, Hidalgo"
+            },
+            {
+                "name": "Leandro Valle",
+                "municipality": "San Salvador, Hidalgo"
+            },
+            {
+                "name": "Pacheco Leandro Valle",
+                "municipality": "San Salvador, Hidalgo"
+            }
+        ]
+    },
+    "42654": {
+        "code": "42654",
+        "colonies": [
+            {
+                "name": "El Fresno",
+                "municipality": "San Salvador, Hidalgo"
+            },
+            {
+                "name": "El Tablón",
+                "municipality": "San Salvador, Hidalgo"
+            },
+            {
+                "name": "Rincón Santa María",
+                "municipality": "San Salvador, Hidalgo"
+            }
+        ]
+    },
+    "42656": {
+        "code": "42656",
+        "colonies": [
+            {
+                "name": "El Gómez",
+                "municipality": "San Salvador, Hidalgo"
+            }
+        ]
+    },
+    "42660": {
+        "code": "42660",
+        "colonies": [
+            {
+                "name": "El Rosario",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Tepatepec Centro",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "La Comunidad",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "1ra. Demarcación",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "2da. Demarcación",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "3ra. Demarcación",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Cuarta Demarcación (Barrio los Violines)",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Los Chavarria",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Los Hernández",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Los Violines",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Magisterio",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            }
+        ]
+    },
+    "42664": {
+        "code": "42664",
+        "colonies": [
+            {
+                "name": "Arambó",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            }
+        ]
+    },
+    "42667": {
+        "code": "42667",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata (Colonia los Morales)",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            }
+        ]
+    },
+    "42670": {
+        "code": "42670",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas (Colonia el Mexe)",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "El Horno",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Los Filtros",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            }
+        ]
+    },
+    "42671": {
+        "code": "42671",
+        "colonies": [
+            {
+                "name": "San Juan Tepa",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "La Campana",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Los Tigres",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            }
+        ]
+    },
+    "42672": {
+        "code": "42672",
+        "colonies": [
+            {
+                "name": "Pensadores",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "El Nazareth",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "El Mezquite",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Centro",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "El Moro",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "El Arbolito",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "El Calero",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "La Palma",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Los Amigos",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Los Científicos",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Los Villa",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            },
+            {
+                "name": "Puente de Alvarado",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            }
+        ]
+    },
+    "42673": {
+        "code": "42673",
+        "colonies": [
+            {
+                "name": "El Veinte",
+                "municipality": "Francisco I. Madero, Hidalgo"
+            }
+        ]
+    },
+    "42680": {
+        "code": "42680",
+        "colonies": [
+            {
+                "name": "El Arenal Centro",
+                "municipality": "El Arenal, Hidalgo"
+            }
+        ]
+    },
+    "42682": {
+        "code": "42682",
+        "colonies": [
+            {
+                "name": "Veinte de Noviembre",
+                "municipality": "El Arenal, Hidalgo"
+            }
+        ]
+    },
+    "42683": {
+        "code": "42683",
+        "colonies": [
+            {
+                "name": "El Frutilán",
+                "municipality": "El Arenal, Hidalgo"
+            },
+            {
+                "name": "El Ojua",
+                "municipality": "El Arenal, Hidalgo"
+            },
+            {
+                "name": "La Colorada",
+                "municipality": "El Arenal, Hidalgo"
+            }
+        ]
+    },
+    "42684": {
+        "code": "42684",
+        "colonies": [
+            {
+                "name": "Capilla",
+                "municipality": "El Arenal, Hidalgo"
+            },
+            {
+                "name": "Casahuayan",
+                "municipality": "El Arenal, Hidalgo"
+            },
+            {
+                "name": "Los Frailes",
+                "municipality": "El Arenal, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "El Arenal, Hidalgo"
+            }
+        ]
+    },
+    "42685": {
+        "code": "42685",
+        "colonies": [
+            {
+                "name": "La Manzana Uno",
+                "municipality": "El Arenal, Hidalgo"
+            }
+        ]
+    },
+    "42700": {
+        "code": "42700",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            },
+            {
+                "name": "La Peña",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            },
+            {
+                "name": "La Vega",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            },
+            {
+                "name": "El Bondho",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            },
+            {
+                "name": "3 de Mayo",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            },
+            {
+                "name": "Los Tigres",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42710": {
+        "code": "42710",
+        "colonies": [
+            {
+                "name": "Veracruz",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42724": {
+        "code": "42724",
+        "colonies": [
+            {
+                "name": "Morelos (El Nueve)",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42725": {
+        "code": "42725",
+        "colonies": [
+            {
+                "name": "Palmillas",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42728": {
+        "code": "42728",
+        "colonies": [
+            {
+                "name": "Teñhe",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Mixquiahuala de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "42730": {
+        "code": "42730",
+        "colonies": [
+            {
+                "name": "Progreso de Obregón Centro",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            },
+            {
+                "name": "Zenthé",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            },
+            {
+                "name": "El Bondho",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            },
+            {
+                "name": "La Herradura",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            }
+        ]
+    },
+    "42733": {
+        "code": "42733",
+        "colonies": [
+            {
+                "name": "La Cruz",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            },
+            {
+                "name": "Cerrito Colorado",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            }
+        ]
+    },
+    "42746": {
+        "code": "42746",
+        "colonies": [
+            {
+                "name": "Los Manantiales",
+                "municipality": "Progreso de Obregón, Hidalgo"
+            }
+        ]
+    },
+    "42750": {
+        "code": "42750",
+        "colonies": [
+            {
+                "name": "Chilcuautla Centro",
+                "municipality": "Chilcuautla, Hidalgo"
+            },
+            {
+                "name": "Álamos Dontzhi",
+                "municipality": "Chilcuautla, Hidalgo"
+            },
+            {
+                "name": "El Xithey",
+                "municipality": "Chilcuautla, Hidalgo"
+            },
+            {
+                "name": "El Zapote",
+                "municipality": "Chilcuautla, Hidalgo"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Chilcuautla, Hidalgo"
+            },
+            {
+                "name": "Pedregalito",
+                "municipality": "Chilcuautla, Hidalgo"
+            }
+        ]
+    },
+    "42752": {
+        "code": "42752",
+        "colonies": [
+            {
+                "name": "El Tandhe",
+                "municipality": "Chilcuautla, Hidalgo"
+            }
+        ]
+    },
+    "42755": {
+        "code": "42755",
+        "colonies": [
+            {
+                "name": "Cerro Colorado",
+                "municipality": "Chilcuautla, Hidalgo"
+            },
+            {
+                "name": "Llano Primero",
+                "municipality": "Chilcuautla, Hidalgo"
+            }
+        ]
+    },
+    "42760": {
+        "code": "42760",
+        "colonies": [
+            {
+                "name": "Tezontepec de Aldama Centro",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "San Isidro Presas",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            }
+        ]
+    },
+    "42763": {
+        "code": "42763",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "Mangas",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "Panuaya",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "La Barranca",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "Nuevo Panuaya",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "San Isidro el Tanque",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            }
+        ]
+    },
+    "42764": {
+        "code": "42764",
+        "colonies": [
+            {
+                "name": "El Tinaco",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            }
+        ]
+    },
+    "42768": {
+        "code": "42768",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "Presas",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "5 de Febrero",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            }
+        ]
+    },
+    "42773": {
+        "code": "42773",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            },
+            {
+                "name": "Binola",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            }
+        ]
+    },
+    "42776": {
+        "code": "42776",
+        "colonies": [
+            {
+                "name": "El Chamizal",
+                "municipality": "Tezontepec de Aldama, Hidalgo"
+            }
+        ]
+    },
+    "42780": {
+        "code": "42780",
+        "colonies": [
+            {
+                "name": "Tlahuelilpan Centro",
+                "municipality": "Tlahuelilpan, Hidalgo"
+            }
+        ]
+    },
+    "42783": {
+        "code": "42783",
+        "colonies": [
+            {
+                "name": "Miravalle",
+                "municipality": "Tlahuelilpan, Hidalgo"
+            }
+        ]
+    },
+    "42784": {
+        "code": "42784",
+        "colonies": [
+            {
+                "name": "San Primitivo",
+                "municipality": "Tlahuelilpan, Hidalgo"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Tlahuelilpan, Hidalgo"
+            }
+        ]
+    },
+    "42785": {
+        "code": "42785",
+        "colonies": [
+            {
+                "name": "La Ranchería",
+                "municipality": "Tlahuelilpan, Hidalgo"
+            },
+            {
+                "name": "El Salitre",
+                "municipality": "Tlahuelilpan, Hidalgo"
+            }
+        ]
+    },
+    "42790": {
+        "code": "42790",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Tlahuelilpan, Hidalgo"
+            }
+        ]
+    },
+    "42793": {
+        "code": "42793",
+        "colonies": [
+            {
+                "name": "Cerro de la Cruz",
+                "municipality": "Tlahuelilpan, Hidalgo"
+            }
+        ]
+    },
+    "42800": {
+        "code": "42800",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42803": {
+        "code": "42803",
+        "colonies": [
+            {
+                "name": "El Cielito",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "San Lorenzo",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Llano 1a Sección",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Iturbe",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Tultengo",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Llano 2a Sección",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Mastrantos",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Del Llano",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "La Huerta",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42804": {
+        "code": "42804",
+        "colonies": [
+            {
+                "name": "Jalpa",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Los Fresnos",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42805": {
+        "code": "42805",
+        "colonies": [
+            {
+                "name": "San José",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42806": {
+        "code": "42806",
+        "colonies": [
+            {
+                "name": "Alvarado",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42807": {
+        "code": "42807",
+        "colonies": [
+            {
+                "name": "El Huerto",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Las Manzanitas",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42808": {
+        "code": "42808",
+        "colonies": [
+            {
+                "name": "16 de Enero 2da. Ampliación (El Tesoro)",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Salitre",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Villas del Salitre",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42809": {
+        "code": "42809",
+        "colonies": [
+            {
+                "name": "La Malinche",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42813": {
+        "code": "42813",
+        "colonies": [
+            {
+                "name": "Santa María Michimaltongo",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42814": {
+        "code": "42814",
+        "colonies": [
+            {
+                "name": "Tenjay",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Crestón",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42815": {
+        "code": "42815",
+        "colonies": [
+            {
+                "name": "Xonthe",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42816": {
+        "code": "42816",
+        "colonies": [
+            {
+                "name": "La Mezquitera",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42820": {
+        "code": "42820",
+        "colonies": [
+            {
+                "name": "El Vindhó",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Xiteje de Zapata",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42826": {
+        "code": "42826",
+        "colonies": [
+            {
+                "name": "Teocalco",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42827": {
+        "code": "42827",
+        "colonies": [
+            {
+                "name": "San Francisco Bojay",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Julián Villagrán",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42830": {
+        "code": "42830",
+        "colonies": [
+            {
+                "name": "El Canal",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "La Joya",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42832": {
+        "code": "42832",
+        "colonies": [
+            {
+                "name": "Bomintzha Centro",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42833": {
+        "code": "42833",
+        "colonies": [
+            {
+                "name": "La Vuelta del Río",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Montecillo",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Tolteca",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Los Muelles",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Empleados Tolteca",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Plan",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42834": {
+        "code": "42834",
+        "colonies": [
+            {
+                "name": "El Rayo",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Satélite",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Salto",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Netzahualcoyotl",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42835": {
+        "code": "42835",
+        "colonies": [
+            {
+                "name": "La Mezquitera",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42836": {
+        "code": "42836",
+        "colonies": [
+            {
+                "name": "El Saabi",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Sesenta y Uno",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Nueva Santa María",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Sesenta y Dos",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42837": {
+        "code": "42837",
+        "colonies": [
+            {
+                "name": "Jardines de San Miguel",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Recinto (Ejido Pueblo Nuevo)",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42838": {
+        "code": "42838",
+        "colonies": [
+            {
+                "name": "La Amistad",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Cerrito del Tepeyac",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Tercera Manzana",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42840": {
+        "code": "42840",
+        "colonies": [
+            {
+                "name": "Ciudad Cooperativa Cruz Azul Centro",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42842": {
+        "code": "42842",
+        "colonies": [
+            {
+                "name": "San Miguel Vindhó",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42843": {
+        "code": "42843",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "La Romera",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Los Naranjos",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42845": {
+        "code": "42845",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42846": {
+        "code": "42846",
+        "colonies": [
+            {
+                "name": "Monte Alegre",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Cruz Azul",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "La Pila",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42847": {
+        "code": "42847",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo 2a Sección",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "10 de Diciembre",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "El Chamizal",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42848": {
+        "code": "42848",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Dengui",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42849": {
+        "code": "42849",
+        "colonies": [
+            {
+                "name": "Santa María Ilucan",
+                "municipality": "Tula de Allende, Hidalgo"
+            },
+            {
+                "name": "Las Nueces",
+                "municipality": "Tula de Allende, Hidalgo"
+            }
+        ]
+    },
+    "42852": {
+        "code": "42852",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Tianguistengo (La Romera)",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Tianguistengo",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "42853": {
+        "code": "42853",
+        "colonies": [
+            {
+                "name": "San Mateo",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Lomas de la Cantera",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "San Mateo Segunda Sección",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "42854": {
+        "code": "42854",
+        "colonies": [
+            {
+                "name": "Taxhido",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Tinajas",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "El Edén",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "San Juan Otlaxpa",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "El Carmen",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Praderas",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "42855": {
+        "code": "42855",
+        "colonies": [
+            {
+                "name": "Tlaxinacalpan",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Noxtongo",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Caltengo",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Caracol",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "42875": {
+        "code": "42875",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            },
+            {
+                "name": "Presa Escondida 2a. Sección Hacienda la Nopalera",
+                "municipality": "Tepeji del Río de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "42900": {
+        "code": "42900",
+        "colonies": [
+            {
+                "name": "Chapantongo Centro",
+                "municipality": "Chapantongo, Hidalgo"
+            },
+            {
+                "name": "Puerto Vallarta",
+                "municipality": "Chapantongo, Hidalgo"
+            },
+            {
+                "name": "Piedra Grande",
+                "municipality": "Chapantongo, Hidalgo"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Chapantongo, Hidalgo"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Chapantongo, Hidalgo"
+            }
+        ]
+    },
+    "42902": {
+        "code": "42902",
+        "colonies": [
+            {
+                "name": "El Saucito",
+                "municipality": "Chapantongo, Hidalgo"
+            }
+        ]
+    },
+    "42905": {
+        "code": "42905",
+        "colonies": [
+            {
+                "name": "El Huizachal (San Isidro)",
+                "municipality": "Chapantongo, Hidalgo"
+            }
+        ]
+    },
+    "42912": {
+        "code": "42912",
+        "colonies": [
+            {
+                "name": "Nueva Santa Lucía",
+                "municipality": "Chapantongo, Hidalgo"
+            },
+            {
+                "name": "Félix Olvera",
+                "municipality": "Chapantongo, Hidalgo"
+            }
+        ]
+    },
+    "42920": {
+        "code": "42920",
+        "colonies": [
+            {
+                "name": "Tercera Manzana",
+                "municipality": "Tepetitlán, Hidalgo"
+            },
+            {
+                "name": "Tepetitlán Centro",
+                "municipality": "Tepetitlán, Hidalgo"
+            }
+        ]
+    },
+    "42923": {
+        "code": "42923",
+        "colonies": [
+            {
+                "name": "Ampliación (Segunda Manzana)",
+                "municipality": "Tepetitlán, Hidalgo"
+            }
+        ]
+    },
+    "42924": {
+        "code": "42924",
+        "colonies": [
+            {
+                "name": "San Mateo la Curva",
+                "municipality": "Tepetitlán, Hidalgo"
+            }
+        ]
+    },
+    "42934": {
+        "code": "42934",
+        "colonies": [
+            {
+                "name": "Xithi Primera Sección",
+                "municipality": "Tepetitlán, Hidalgo"
+            }
+        ]
+    },
+    "42940": {
+        "code": "42940",
+        "colonies": [
+            {
+                "name": "Tetepango Centro",
+                "municipality": "Tetepango, Hidalgo"
+            }
+        ]
+    },
+    "42943": {
+        "code": "42943",
+        "colonies": [
+            {
+                "name": "La Hormiga",
+                "municipality": "Tetepango, Hidalgo"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Tetepango, Hidalgo"
+            },
+            {
+                "name": "Nueva",
+                "municipality": "Tetepango, Hidalgo"
+            },
+            {
+                "name": "Espíritu Santo",
+                "municipality": "Tetepango, Hidalgo"
+            }
+        ]
+    },
+    "42944": {
+        "code": "42944",
+        "colonies": [
+            {
+                "name": "El Xitri",
+                "municipality": "Tetepango, Hidalgo"
+            },
+            {
+                "name": "Rojo Gómez",
+                "municipality": "Tetepango, Hidalgo"
+            },
+            {
+                "name": "Nicolás Bravo",
+                "municipality": "Tetepango, Hidalgo"
+            }
+        ]
+    },
+    "42950": {
+        "code": "42950",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42952": {
+        "code": "42952",
+        "colonies": [
+            {
+                "name": "La Vega",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "Educación",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "Villa Jardín",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "Valle San Pedro",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "Carrizos",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "Tlaxcoapan",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42953": {
+        "code": "42953",
+        "colonies": [
+            {
+                "name": "Lomas de Tlaxcoapan",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42954": {
+        "code": "42954",
+        "colonies": [
+            {
+                "name": "Ciudadela",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "El Panteón",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42955": {
+        "code": "42955",
+        "colonies": [
+            {
+                "name": "Anáhuac",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42956": {
+        "code": "42956",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42957": {
+        "code": "42957",
+        "colonies": [
+            {
+                "name": "Popular",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            },
+            {
+                "name": "La Patricia",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42960": {
+        "code": "42960",
+        "colonies": [
+            {
+                "name": "Campestre",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42963": {
+        "code": "42963",
+        "colonies": [
+            {
+                "name": "La Cruz",
+                "municipality": "Tlaxcoapan, Hidalgo"
+            }
+        ]
+    },
+    "42970": {
+        "code": "42970",
+        "colonies": [
+            {
+                "name": "San José Bajay",
+                "municipality": "Atitalaquia, Hidalgo"
+            },
+            {
+                "name": "Atitalaquia Centro",
+                "municipality": "Atitalaquia, Hidalgo"
+            },
+            {
+                "name": "Dendho",
+                "municipality": "Atitalaquia, Hidalgo"
+            },
+            {
+                "name": "18 de Marzo",
+                "municipality": "Atitalaquia, Hidalgo"
+            },
+            {
+                "name": "Los Atlantes",
+                "municipality": "Atitalaquia, Hidalgo"
+            },
+            {
+                "name": "Loma del Barrio del Cardonal",
+                "municipality": "Atitalaquia, Hidalgo"
+            },
+            {
+                "name": "15 de Enero 1a. Sección",
+                "municipality": "Atitalaquia, Hidalgo"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Atitalaquia, Hidalgo"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Atitalaquia, Hidalgo"
+            }
+        ]
+    },
+    "42980": {
+        "code": "42980",
+        "colonies": [
+            {
+                "name": "Atotonilco de Tula Centro",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            }
+        ]
+    },
+    "42982": {
+        "code": "42982",
+        "colonies": [
+            {
+                "name": "Loma Bonita 2da. Sección",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            },
+            {
+                "name": "10 de Mayo",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            }
+        ]
+    },
+    "42985": {
+        "code": "42985",
+        "colonies": [
+            {
+                "name": "Boxfi",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            },
+            {
+                "name": "Tolteca",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            },
+            {
+                "name": "La Joya",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            },
+            {
+                "name": "Los Compadres",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            }
+        ]
+    },
+    "42990": {
+        "code": "42990",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            }
+        ]
+    },
+    "42994": {
+        "code": "42994",
+        "colonies": [
+            {
+                "name": "Santa Cruz del Tezontle",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            }
+        ]
+    },
+    "42995": {
+        "code": "42995",
+        "colonies": [
+            {
+                "name": "Praderas del Potrero",
+                "municipality": "Atotonilco de Tula, Hidalgo"
+            }
+        ]
+    },
+    "43000": {
+        "code": "43000",
+        "colonies": [
+            {
+                "name": "Bella Airosa",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Asociación Civil",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Aviación Civil",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Cerecedo Estrada",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Colalambre",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Cruz Verde",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Flavio Crespo",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "FOVISSSTE",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Jacarandas",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Jericó",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Juárez",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "La Lomita",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Rojo Lugo",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Marcelo Vite",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Olímpica",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "1ro. de Mayo",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Santa Elena",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Santa Fe",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Santa Irene",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Tahuizan",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Nueva Tenochtitlán",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Valle del Encinal",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Villa de Guadalupe",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Huejutla de Reyes Centro",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "San José",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Electricistas",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Carlos Fayad",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Unidad Militar",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Nuevo México",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Carlos Salinas de Gortari",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Del Carmen",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Los Prados",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Tepeyac",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Las Chacas",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "El Seminario",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Horacio Camargo",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Capitán Antonio Reyes",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Los Frailes",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Bernabé Cruz Flores",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "La Providencia",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Rojo Gómez",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Los Cantares",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Parque de Poblamiento Solidaridad",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Tecomal",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Guerrero",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Universo",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Adolfo Lugo Verdusco",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Zona Militar 84 Batallón",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Dos Caminos",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "La Garita",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Paraíso de las Huastecas",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "El Moreno",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Lomas Verdes",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Anáhuac",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Comaltepec",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Servidor Agrario",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Murillo Karam",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Doctores",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Lomas de Chapultepec",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "La Güera",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Tepoxtequito Santa Mónica",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Corral Blanco (Todos por Hidalgo)",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Tepoxteco",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            }
+        ]
+    },
+    "43001": {
+        "code": "43001",
+        "colonies": [
+            {
+                "name": "Chililico",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            }
+        ]
+    },
+    "43003": {
+        "code": "43003",
+        "colonies": [
+            {
+                "name": "Niños Héroes",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            }
+        ]
+    },
+    "43005": {
+        "code": "43005",
+        "colonies": [
+            {
+                "name": "Coco Chico",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            }
+        ]
+    },
+    "43010": {
+        "code": "43010",
+        "colonies": [
+            {
+                "name": "Florida",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Cuatexapa",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            }
+        ]
+    },
+    "43014": {
+        "code": "43014",
+        "colonies": [
+            {
+                "name": "Huitzquilititla",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "La Curva Tlaltzintla",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            },
+            {
+                "name": "Zapotitla",
+                "municipality": "Huejutla de Reyes, Hidalgo"
+            }
+        ]
+    },
+    "43020": {
+        "code": "43020",
+        "colonies": [
+            {
+                "name": "San Felipe Orizatlán Centro",
+                "municipality": "San Felipe Orizatlán, Hidalgo"
+            }
+        ]
+    },
+    "43021": {
+        "code": "43021",
+        "colonies": [
+            {
+                "name": "Ahuatitla Centro",
+                "municipality": "San Felipe Orizatlán, Hidalgo"
+            }
+        ]
+    },
+    "43024": {
+        "code": "43024",
+        "colonies": [
+            {
+                "name": "Zacayahual",
+                "municipality": "San Felipe Orizatlán, Hidalgo"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "San Felipe Orizatlán, Hidalgo"
+            }
+        ]
+    },
+    "43029": {
+        "code": "43029",
+        "colonies": [
+            {
+                "name": "El Pedregal",
+                "municipality": "San Felipe Orizatlán, Hidalgo"
+            }
+        ]
+    },
+    "43036": {
+        "code": "43036",
+        "colonies": [
+            {
+                "name": "Taxiscoatitla",
+                "municipality": "San Felipe Orizatlán, Hidalgo"
+            }
+        ]
+    },
+    "43040": {
+        "code": "43040",
+        "colonies": [
+            {
+                "name": "Jaltocán Centro",
+                "municipality": "Jaltocán, Hidalgo"
+            },
+            {
+                "name": "Tlalnepantla",
+                "municipality": "Jaltocán, Hidalgo"
+            },
+            {
+                "name": "Mirador",
+                "municipality": "Jaltocán, Hidalgo"
+            },
+            {
+                "name": "Toltitla",
+                "municipality": "Jaltocán, Hidalgo"
+            },
+            {
+                "name": "El Palmar",
+                "municipality": "Jaltocán, Hidalgo"
+            },
+            {
+                "name": "Chalahuitzintla",
+                "municipality": "Jaltocán, Hidalgo"
+            },
+            {
+                "name": "El Rosario",
+                "municipality": "Jaltocán, Hidalgo"
+            },
+            {
+                "name": "Pahuatitla",
+                "municipality": "Jaltocán, Hidalgo"
+            }
+        ]
+    },
+    "43050": {
+        "code": "43050",
+        "colonies": [
+            {
+                "name": "Huautla Centro",
+                "municipality": "Huautla, Hidalgo"
+            },
+            {
+                "name": "Del Salto",
+                "municipality": "Huautla, Hidalgo"
+            }
+        ]
+    },
+    "43055": {
+        "code": "43055",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Huautla, Hidalgo"
+            }
+        ]
+    },
+    "43060": {
+        "code": "43060",
+        "colonies": [
+            {
+                "name": "Deportiva",
+                "municipality": "Atlapexco, Hidalgo"
+            },
+            {
+                "name": "Subestación",
+                "municipality": "Atlapexco, Hidalgo"
+            }
+        ]
+    },
+    "43063": {
+        "code": "43063",
+        "colonies": [
+            {
+                "name": "Achiquihuixtla",
+                "municipality": "Atlapexco, Hidalgo"
+            }
+        ]
+    },
+    "43065": {
+        "code": "43065",
+        "colonies": [
+            {
+                "name": "10 de Mayo",
+                "municipality": "Atlapexco, Hidalgo"
+            }
+        ]
+    },
+    "43070": {
+        "code": "43070",
+        "colonies": [
+            {
+                "name": "Huazalingo Centro",
+                "municipality": "Huazalingo, Hidalgo"
+            },
+            {
+                "name": "Arriba",
+                "municipality": "Huazalingo, Hidalgo"
+            },
+            {
+                "name": "Allende",
+                "municipality": "Huazalingo, Hidalgo"
+            },
+            {
+                "name": "Panteón",
+                "municipality": "Huazalingo, Hidalgo"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Huazalingo, Hidalgo"
+            },
+            {
+                "name": "Abajo",
+                "municipality": "Huazalingo, Hidalgo"
+            },
+            {
+                "name": "Guillermo Rossell",
+                "municipality": "Huazalingo, Hidalgo"
+            },
+            {
+                "name": "El Pichol",
+                "municipality": "Huazalingo, Hidalgo"
+            },
+            {
+                "name": "San José",
+                "municipality": "Huazalingo, Hidalgo"
+            }
+        ]
+    },
+    "43080": {
+        "code": "43080",
+        "colonies": [
+            {
+                "name": "Yahualica Centro",
+                "municipality": "Yahualica, Hidalgo"
+            }
+        ]
+    },
+    "43087": {
+        "code": "43087",
+        "colonies": [
+            {
+                "name": "Acalamatitla",
+                "municipality": "Yahualica, Hidalgo"
+            }
+        ]
+    },
+    "43090": {
+        "code": "43090",
+        "colonies": [
+            {
+                "name": "Xochiatipan Centro",
+                "municipality": "Xochiatipan, Hidalgo"
+            }
+        ]
+    },
+    "43100": {
+        "code": "43100",
+        "colonies": [
+            {
+                "name": "Molango Centro",
+                "municipality": "Molango de Escamilla, Hidalgo"
+            }
+        ]
+    },
+    "43101": {
+        "code": "43101",
+        "colonies": [
+            {
+                "name": "Piedras Negras",
+                "municipality": "Molango de Escamilla, Hidalgo"
+            }
+        ]
+    },
+    "43120": {
+        "code": "43120",
+        "colonies": [
+            {
+                "name": "Tepehuacán de Guerrero Centro",
+                "municipality": "Tepehuacán de Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43123": {
+        "code": "43123",
+        "colonies": [
+            {
+                "name": "Guadalupe (Otongo)",
+                "municipality": "Tepehuacán de Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43140": {
+        "code": "43140",
+        "colonies": [
+            {
+                "name": "Lolotla Centro",
+                "municipality": "Lolotla, Hidalgo"
+            }
+        ]
+    },
+    "43150": {
+        "code": "43150",
+        "colonies": [
+            {
+                "name": "Tlanchinol Centro",
+                "municipality": "Tlanchinol, Hidalgo"
+            }
+        ]
+    },
+    "43170": {
+        "code": "43170",
+        "colonies": [
+            {
+                "name": "La Reforma",
+                "municipality": "Tlahuiltepa, Hidalgo"
+            }
+        ]
+    },
+    "43190": {
+        "code": "43190",
+        "colonies": [
+            {
+                "name": "Juárez Hidalgo Centro",
+                "municipality": "Juárez Hidalgo, Hidalgo"
+            }
+        ]
+    },
+    "43200": {
+        "code": "43200",
+        "colonies": [
+            {
+                "name": "Chililiapa",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            },
+            {
+                "name": "Zacualtipán Centro",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            }
+        ]
+    },
+    "43202": {
+        "code": "43202",
+        "colonies": [
+            {
+                "name": "López Mateos",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            }
+        ]
+    },
+    "43204": {
+        "code": "43204",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            }
+        ]
+    },
+    "43205": {
+        "code": "43205",
+        "colonies": [
+            {
+                "name": "Cacala",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            }
+        ]
+    },
+    "43206": {
+        "code": "43206",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            }
+        ]
+    },
+    "43219": {
+        "code": "43219",
+        "colonies": [
+            {
+                "name": "La Flor del Campo",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            }
+        ]
+    },
+    "43222": {
+        "code": "43222",
+        "colonies": [
+            {
+                "name": "El Reparo",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            }
+        ]
+    },
+    "43223": {
+        "code": "43223",
+        "colonies": [
+            {
+                "name": "15 de Septiembre el Pantano",
+                "municipality": "Zacualtipán de Ángeles, Hidalgo"
+            }
+        ]
+    },
+    "43230": {
+        "code": "43230",
+        "colonies": [
+            {
+                "name": "Calnali Centro",
+                "municipality": "Calnali, Hidalgo"
+            }
+        ]
+    },
+    "43250": {
+        "code": "43250",
+        "colonies": [
+            {
+                "name": "Xochicoatlán Centro",
+                "municipality": "Xochicoatlán, Hidalgo"
+            }
+        ]
+    },
+    "43300": {
+        "code": "43300",
+        "colonies": [
+            {
+                "name": "Atotonilco el Grande Centro",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            }
+        ]
+    },
+    "43304": {
+        "code": "43304",
+        "colonies": [
+            {
+                "name": "La Palma",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "La Galera",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "Las Hortalizas",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "El Tinacal",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            }
+        ]
+    },
+    "43305": {
+        "code": "43305",
+        "colonies": [
+            {
+                "name": "Central Campesina Independiente",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "Las Baranquitas",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "Las Manzanas",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "La Bodega",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            }
+        ]
+    },
+    "43306": {
+        "code": "43306",
+        "colonies": [
+            {
+                "name": "San Rafael",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "Los Nogales",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "Chichipilco",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            }
+        ]
+    },
+    "43311": {
+        "code": "43311",
+        "colonies": [
+            {
+                "name": "El Sabino",
+                "municipality": "Atotonilco el Grande, Hidalgo"
+            }
+        ]
+    },
+    "43330": {
+        "code": "43330",
+        "colonies": [
+            {
+                "name": "Eloxochitlán Centro",
+                "municipality": "Eloxochitlán, Hidalgo"
+            }
+        ]
+    },
+    "43350": {
+        "code": "43350",
+        "colonies": [
+            {
+                "name": "Metztitlán Centro",
+                "municipality": "Metztitlán, Hidalgo"
+            }
+        ]
+    },
+    "43383": {
+        "code": "43383",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "San Agustín Metzquititlán, Hidalgo"
+            }
+        ]
+    },
+    "43400": {
+        "code": "43400",
+        "colonies": [
+            {
+                "name": "Metepec Centro",
+                "municipality": "Metepec, Hidalgo"
+            },
+            {
+                "name": "Nuevo Metepec",
+                "municipality": "Metepec, Hidalgo"
+            },
+            {
+                "name": "La Loma Metepec",
+                "municipality": "Metepec, Hidalgo"
+            }
+        ]
+    },
+    "43412": {
+        "code": "43412",
+        "colonies": [
+            {
+                "name": "Nueva Ex-hacienda de apulco",
+                "municipality": "Metepec, Hidalgo"
+            }
+        ]
+    },
+    "43420": {
+        "code": "43420",
+        "colonies": [
+            {
+                "name": "Huehuetla Centro",
+                "municipality": "Huehuetla, Hidalgo"
+            }
+        ]
+    },
+    "43422": {
+        "code": "43422",
+        "colonies": [
+            {
+                "name": "El Plan del Recreo",
+                "municipality": "Huehuetla, Hidalgo"
+            }
+        ]
+    },
+    "43423": {
+        "code": "43423",
+        "colonies": [
+            {
+                "name": "Nueva",
+                "municipality": "Huehuetla, Hidalgo"
+            },
+            {
+                "name": "3 de Mayo",
+                "municipality": "Huehuetla, Hidalgo"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Huehuetla, Hidalgo"
+            },
+            {
+                "name": "Arroyo Negro",
+                "municipality": "Huehuetla, Hidalgo"
+            }
+        ]
+    },
+    "43440": {
+        "code": "43440",
+        "colonies": [
+            {
+                "name": "La Magdalena",
+                "municipality": "San Bartolo Tutotepec, Hidalgo"
+            },
+            {
+                "name": "La Cumbre de la Campana",
+                "municipality": "San Bartolo Tutotepec, Hidalgo"
+            },
+            {
+                "name": "La Laguna",
+                "municipality": "San Bartolo Tutotepec, Hidalgo"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "San Bartolo Tutotepec, Hidalgo"
+            },
+            {
+                "name": "Totoapan",
+                "municipality": "San Bartolo Tutotepec, Hidalgo"
+            },
+            {
+                "name": "La Esmeralda",
+                "municipality": "San Bartolo Tutotepec, Hidalgo"
+            },
+            {
+                "name": "Los Reyes",
+                "municipality": "San Bartolo Tutotepec, Hidalgo"
+            },
+            {
+                "name": "Valle Verde",
+                "municipality": "San Bartolo Tutotepec, Hidalgo"
+            }
+        ]
+    },
+    "43463": {
+        "code": "43463",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Agua Blanca de Iturbide, Hidalgo"
+            },
+            {
+                "name": "El Vergel",
+                "municipality": "Agua Blanca de Iturbide, Hidalgo"
+            },
+            {
+                "name": "El Capulín",
+                "municipality": "Agua Blanca de Iturbide, Hidalgo"
+            }
+        ]
+    },
+    "43464": {
+        "code": "43464",
+        "colonies": [
+            {
+                "name": "El Trébol",
+                "municipality": "Agua Blanca de Iturbide, Hidalgo"
+            }
+        ]
+    },
+    "43468": {
+        "code": "43468",
+        "colonies": [
+            {
+                "name": "Calabazas Segunda Sección",
+                "municipality": "Agua Blanca de Iturbide, Hidalgo"
+            }
+        ]
+    },
+    "43469": {
+        "code": "43469",
+        "colonies": [
+            {
+                "name": "El Vivero (El Pujido)",
+                "municipality": "Agua Blanca de Iturbide, Hidalgo"
+            }
+        ]
+    },
+    "43480": {
+        "code": "43480",
+        "colonies": [
+            {
+                "name": "Villa Tenango de Doria Centro",
+                "municipality": "Tenango de Doria, Hidalgo"
+            }
+        ]
+    },
+    "43484": {
+        "code": "43484",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Tenango de Doria, Hidalgo"
+            },
+            {
+                "name": "El Dameni",
+                "municipality": "Tenango de Doria, Hidalgo"
+            }
+        ]
+    },
+    "43485": {
+        "code": "43485",
+        "colonies": [
+            {
+                "name": "El Porvenir",
+                "municipality": "Tenango de Doria, Hidalgo"
+            },
+            {
+                "name": "San José",
+                "municipality": "Tenango de Doria, Hidalgo"
+            }
+        ]
+    },
+    "43502": {
+        "code": "43502",
+        "colonies": [
+            {
+                "name": "El Tizal",
+                "municipality": "Huasca de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "43503": {
+        "code": "43503",
+        "colonies": [
+            {
+                "name": "Huasca de Ocampo Centro",
+                "municipality": "Huasca de Ocampo, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Huasca de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "43508": {
+        "code": "43508",
+        "colonies": [
+            {
+                "name": "El Jilotillo",
+                "municipality": "Huasca de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "43517": {
+        "code": "43517",
+        "colonies": [
+            {
+                "name": "Cruz Blanca",
+                "municipality": "Huasca de Ocampo, Hidalgo"
+            },
+            {
+                "name": "La Palma",
+                "municipality": "Huasca de Ocampo, Hidalgo"
+            }
+        ]
+    },
+    "43540": {
+        "code": "43540",
+        "colonies": [
+            {
+                "name": "Acatlán Centro",
+                "municipality": "Acatlán, Hidalgo"
+            }
+        ]
+    },
+    "43543": {
+        "code": "43543",
+        "colonies": [
+            {
+                "name": "28 de Mayo (Santa Rosa)",
+                "municipality": "Acatlán, Hidalgo"
+            }
+        ]
+    },
+    "43553": {
+        "code": "43553",
+        "colonies": [
+            {
+                "name": "Agustín Olvera",
+                "municipality": "Acatlán, Hidalgo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Acatlán, Hidalgo"
+            },
+            {
+                "name": "Chauténco",
+                "municipality": "Acatlán, Hidalgo"
+            }
+        ]
+    },
+    "43558": {
+        "code": "43558",
+        "colonies": [
+            {
+                "name": "Echeverría",
+                "municipality": "Acatlán, Hidalgo"
+            },
+            {
+                "name": "Ernesto Zedillo",
+                "municipality": "Acatlán, Hidalgo"
+            }
+        ]
+    },
+    "43574": {
+        "code": "43574",
+        "colonies": [
+            {
+                "name": "El Mirador (La Coyotera)",
+                "municipality": "Omitlán de Juárez, Hidalgo"
+            }
+        ]
+    },
+    "43580": {
+        "code": "43580",
+        "colonies": [
+            {
+                "name": "Epazoyucan Centro",
+                "municipality": "Epazoyucan, Hidalgo"
+            }
+        ]
+    },
+    "43583": {
+        "code": "43583",
+        "colonies": [
+            {
+                "name": "Las Palmas",
+                "municipality": "Epazoyucan, Hidalgo"
+            },
+            {
+                "name": "Picacho",
+                "municipality": "Epazoyucan, Hidalgo"
+            },
+            {
+                "name": "Arriba",
+                "municipality": "Epazoyucan, Hidalgo"
+            },
+            {
+                "name": "Álvaro Obregón",
+                "municipality": "Epazoyucan, Hidalgo"
+            }
+        ]
+    },
+    "43584": {
+        "code": "43584",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Epazoyucan, Hidalgo"
+            },
+            {
+                "name": "Abajo",
+                "municipality": "Epazoyucan, Hidalgo"
+            },
+            {
+                "name": "Las Garitas",
+                "municipality": "Epazoyucan, Hidalgo"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Epazoyucan, Hidalgo"
+            }
+        ]
+    },
+    "43586": {
+        "code": "43586",
+        "colonies": [
+            {
+                "name": "La Paloma",
+                "municipality": "Epazoyucan, Hidalgo"
+            }
+        ]
+    },
+    "43590": {
+        "code": "43590",
+        "colonies": [
+            {
+                "name": "La Trinidad",
+                "municipality": "Epazoyucan, Hidalgo"
+            }
+        ]
+    },
+    "43592": {
+        "code": "43592",
+        "colonies": [
+            {
+                "name": "Deportiva",
+                "municipality": "Epazoyucan, Hidalgo"
+            }
+        ]
+    },
+    "43600": {
+        "code": "43600",
+        "colonies": [
+            {
+                "name": "Tulancingo Centro",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43610": {
+        "code": "43610",
+        "colonies": [
+            {
+                "name": "Nueva Morelos",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43612": {
+        "code": "43612",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Real de Minas",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Nuevo Tulancingo",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43615": {
+        "code": "43615",
+        "colonies": [
+            {
+                "name": "Hidalgo Unido",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Lomas de Progreso",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Cañada",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Central",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Villas de la Cañada",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43623": {
+        "code": "43623",
+        "colonies": [
+            {
+                "name": "San Nicolás el Chico",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Unidad Deportiva",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43624": {
+        "code": "43624",
+        "colonies": [
+            {
+                "name": "Los Álamos INFONAVIT",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Alamoxtitla",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43625": {
+        "code": "43625",
+        "colonies": [
+            {
+                "name": "La Morena Sección Norte \"C\"",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Morena 3a. Sección",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43626": {
+        "code": "43626",
+        "colonies": [
+            {
+                "name": "Caltengo",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43628": {
+        "code": "43628",
+        "colonies": [
+            {
+                "name": "San José Caltengo",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Argentina",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43629": {
+        "code": "43629",
+        "colonies": [
+            {
+                "name": "Jardines de Napateco",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Huapalcalco",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Parque Urbano Napateco",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Loma Napateco",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Sultepec",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Francisco Villa Napateco",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Liz Napateco",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43630": {
+        "code": "43630",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Ampliación Vicente Guerrero",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43632": {
+        "code": "43632",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Plutarco Elías Calles (PRI)",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43633": {
+        "code": "43633",
+        "colonies": [
+            {
+                "name": "La Industrial",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Metilatla",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Viveros de la Loma",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Jorge Berganza",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Rancho Guadalupe",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Heriberto Castillo Martinez",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43640": {
+        "code": "43640",
+        "colonies": [
+            {
+                "name": "Los Álamos",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Escondida",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Ferrocarrilera",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43642": {
+        "code": "43642",
+        "colonies": [
+            {
+                "name": "Santa Clara",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43645": {
+        "code": "43645",
+        "colonies": [
+            {
+                "name": "Rojo Gómez",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Ampliación Rojo Gómez",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Santa Elena",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43646": {
+        "code": "43646",
+        "colonies": [
+            {
+                "name": "Estrella",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43648": {
+        "code": "43648",
+        "colonies": [
+            {
+                "name": "Villa Sol",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43650": {
+        "code": "43650",
+        "colonies": [
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43660": {
+        "code": "43660",
+        "colonies": [
+            {
+                "name": "Villas de Tulancingo",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43669": {
+        "code": "43669",
+        "colonies": [
+            {
+                "name": "El Cerezo",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43670": {
+        "code": "43670",
+        "colonies": [
+            {
+                "name": "Aurora",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "San Luis",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "María Isabel",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43679": {
+        "code": "43679",
+        "colonies": [
+            {
+                "name": "Exhacienda Ahuehuetitla",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43680": {
+        "code": "43680",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "15 de Septiembre",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Tepeyac",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43684": {
+        "code": "43684",
+        "colonies": [
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Bella Vista",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Lomas del Paraíso",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Ampliación Santa Teresa",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Roma",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Paraíso Norte",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "2 de Agosto",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Arboledas del Paraíso",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Progresista 2000",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "San Adrian",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Villa Flores",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43685": {
+        "code": "43685",
+        "colonies": [
+            {
+                "name": "Santa Teresa",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Paraíso Sur",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43689": {
+        "code": "43689",
+        "colonies": [
+            {
+                "name": "Adolfo Ruiz Cortines",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Las Arboledas",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43690": {
+        "code": "43690",
+        "colonies": [
+            {
+                "name": "Ahuehuetitla",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43695": {
+        "code": "43695",
+        "colonies": [
+            {
+                "name": "Los Cedros",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "La Herradura",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43696": {
+        "code": "43696",
+        "colonies": [
+            {
+                "name": "Tollancingo",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43697": {
+        "code": "43697",
+        "colonies": [
+            {
+                "name": "Ex-Hacienda Exquitlán",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43698": {
+        "code": "43698",
+        "colonies": [
+            {
+                "name": "Medias Tierras",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Zapotlan de Allende",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43700": {
+        "code": "43700",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Carrillo Puerto",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "El Cuatro",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43703": {
+        "code": "43703",
+        "colonies": [
+            {
+                "name": "Huajomulco",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43705": {
+        "code": "43705",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "San Vidal",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Napateco",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43709": {
+        "code": "43709",
+        "colonies": [
+            {
+                "name": "San Antonio Farías",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Santiago Caltengo (Buenos Aires)",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Los Álamos",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43710": {
+        "code": "43710",
+        "colonies": [
+            {
+                "name": "San Rafael Loma Bonita",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            },
+            {
+                "name": "Zototlán",
+                "municipality": "Tulancingo de Bravo, Hidalgo"
+            }
+        ]
+    },
+    "43720": {
+        "code": "43720",
+        "colonies": [
+            {
+                "name": "Acaxochitlán Centro",
+                "municipality": "Acaxochitlán, Hidalgo"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Acaxochitlán, Hidalgo"
+            },
+            {
+                "name": "Tlatempa",
+                "municipality": "Acaxochitlán, Hidalgo"
+            }
+        ]
+    },
+    "43723": {
+        "code": "43723",
+        "colonies": [
+            {
+                "name": "Tlatzintla",
+                "municipality": "Acaxochitlán, Hidalgo"
+            }
+        ]
+    },
+    "43733": {
+        "code": "43733",
+        "colonies": [
+            {
+                "name": "Tlacuilolapa",
+                "municipality": "Acaxochitlán, Hidalgo"
+            }
+        ]
+    },
+    "43740": {
+        "code": "43740",
+        "colonies": [
+            {
+                "name": "El Molino",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Santa Teresa de los Pinos",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Puente de la Paz",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Almoloya",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Cuautepec de Hinojosa Centro",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "La Trinidad",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "El Vivero",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Los Chorritos",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Casas Nova",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "El Edén",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "El Pedregal 1a. Sección",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "El Pedregal 2a. Sección",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Lomas de los Pinos",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            }
+        ]
+    },
+    "43748": {
+        "code": "43748",
+        "colonies": [
+            {
+                "name": "Las Palmas",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            }
+        ]
+    },
+    "43749": {
+        "code": "43749",
+        "colonies": [
+            {
+                "name": "San Juan Hueyapan",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            }
+        ]
+    },
+    "43750": {
+        "code": "43750",
+        "colonies": [
+            {
+                "name": "Chapultepec la Palma",
+                "municipality": "Cuautepec de Hinojosa, Hidalgo"
+            }
+        ]
+    },
+    "43760": {
+        "code": "43760",
+        "colonies": [
+            {
+                "name": "Santiago Tulaltepc Centro",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Nuevo Santiago",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43762": {
+        "code": "43762",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Xacalco",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "2 de Enero",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Álvaro Obregón",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Raúl Lozano",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43763": {
+        "code": "43763",
+        "colonies": [
+            {
+                "name": "Carlos Aguilar Álvarez",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Alta Luz",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "La Florida",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "La Joya",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Ahila",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "El Biznaguero",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "El Campamento",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "El Charco",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Explanada del Pedregal",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "La Esmeralda",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Los Ahiles",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43764": {
+        "code": "43764",
+        "colonies": [
+            {
+                "name": "5 de Mayo",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43767": {
+        "code": "43767",
+        "colonies": [
+            {
+                "name": "Felipe Ángeles",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43774": {
+        "code": "43774",
+        "colonies": [
+            {
+                "name": "Ex-Hacienda de San Francisco",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "La Villita",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "El Pedregal de San José",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            },
+            {
+                "name": "Paxtepec la Villita",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43775": {
+        "code": "43775",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Santiago Tulantepec de Lugo Guerrero, Hidalgo"
+            }
+        ]
+    },
+    "43780": {
+        "code": "43780",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Singuilucan, Hidalgo"
+            },
+            {
+                "name": "Singuilucan Centro",
+                "municipality": "Singuilucan, Hidalgo"
+            },
+            {
+                "name": "Chabacano",
+                "municipality": "Singuilucan, Hidalgo"
+            }
+        ]
+    },
+    "43782": {
+        "code": "43782",
+        "colonies": [
+            {
+                "name": "Del Bosque",
+                "municipality": "Singuilucan, Hidalgo"
+            }
+        ]
+    },
+    "43784": {
+        "code": "43784",
+        "colonies": [
+            {
+                "name": "Los Patos",
+                "municipality": "Singuilucan, Hidalgo"
+            }
+        ]
+    },
+    "43786": {
+        "code": "43786",
+        "colonies": [
+            {
+                "name": "Francisco I. Madero (Col. Agrícola)",
+                "municipality": "Singuilucan, Hidalgo"
+            }
+        ]
+    },
+    "43787": {
+        "code": "43787",
+        "colonies": [
+            {
+                "name": "San Martín el Coyote",
+                "municipality": "Singuilucan, Hidalgo"
+            }
+        ]
+    },
+    "43800": {
+        "code": "43800",
+        "colonies": [
+            {
+                "name": "Tizayuca Centro",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43802": {
+        "code": "43802",
+        "colonies": [
+            {
+                "name": "El Pedregal",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Ciudad de los Niños (Rosas Rojas)",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43803": {
+        "code": "43803",
+        "colonies": [
+            {
+                "name": "San Antonio",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43804": {
+        "code": "43804",
+        "colonies": [
+            {
+                "name": "C.T.M.",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Tepeyac",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Cuenca Lechera",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43806": {
+        "code": "43806",
+        "colonies": [
+            {
+                "name": "Geo Villas",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Ampliación Lázaro Cárdenas",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Nuevo Tizayuca",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "City",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Fuentes del Valle",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43807": {
+        "code": "43807",
+        "colonies": [
+            {
+                "name": "El Arenal",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Joyas de Tizayuca",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43810": {
+        "code": "43810",
+        "colonies": [
+            {
+                "name": "El Cid",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Ampliación Emiliano Zapata",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43815": {
+        "code": "43815",
+        "colonies": [
+            {
+                "name": "Ampliación el Carmen",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Felipe Reyes",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Tizayuca, Hidalgo"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43820": {
+        "code": "43820",
+        "colonies": [
+            {
+                "name": "La Joya",
+                "municipality": "Tizayuca, Hidalgo"
+            }
+        ]
+    },
+    "43830": {
+        "code": "43830",
+        "colonies": [
+            {
+                "name": "Los Olivos",
+                "municipality": "Zempoala, Hidalgo"
+            }
+        ]
+    },
+    "43832": {
+        "code": "43832",
+        "colonies": [
+            {
+                "name": "Nueva San Agustín",
+                "municipality": "Zempoala, Hidalgo"
+            }
+        ]
+    },
+    "43837": {
+        "code": "43837",
+        "colonies": [
+            {
+                "name": "Las Palmitas",
+                "municipality": "Zempoala, Hidalgo"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Zempoala, Hidalgo"
+            },
+            {
+                "name": "El Bosque",
+                "municipality": "Zempoala, Hidalgo"
+            },
+            {
+                "name": "La Salida",
+                "municipality": "Zempoala, Hidalgo"
+            }
+        ]
+    },
+    "43838": {
+        "code": "43838",
+        "colonies": [
+            {
+                "name": "Zempoala Centro",
+                "municipality": "Zempoala, Hidalgo"
+            }
+        ]
+    },
+    "43845": {
+        "code": "43845",
+        "colonies": [
+            {
+                "name": "Lindavista",
+                "municipality": "Zempoala, Hidalgo"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Zempoala, Hidalgo"
+            },
+            {
+                "name": "La Isla",
+                "municipality": "Zempoala, Hidalgo"
+            }
+        ]
+    },
+    "43848": {
+        "code": "43848",
+        "colonies": [
+            {
+                "name": "Luna",
+                "municipality": "Zempoala, Hidalgo"
+            }
+        ]
+    },
+    "43860": {
+        "code": "43860",
+        "colonies": [
+            {
+                "name": "Tolcayuca Centro",
+                "municipality": "Tolcayuca, Hidalgo"
+            }
+        ]
+    },
+    "43863": {
+        "code": "43863",
+        "colonies": [
+            {
+                "name": "2 de Abril",
+                "municipality": "Tolcayuca, Hidalgo"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Tolcayuca, Hidalgo"
+            },
+            {
+                "name": "Santo Tomás",
+                "municipality": "Tolcayuca, Hidalgo"
+            },
+            {
+                "name": "Tildio",
+                "municipality": "Tolcayuca, Hidalgo"
+            },
+            {
+                "name": "Epitacio Mendoza",
+                "municipality": "Tolcayuca, Hidalgo"
+            }
+        ]
+    },
+    "43864": {
+        "code": "43864",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Tolcayuca, Hidalgo"
+            },
+            {
+                "name": "La Colmena",
+                "municipality": "Tolcayuca, Hidalgo"
+            },
+            {
+                "name": "Satélite",
+                "municipality": "Tolcayuca, Hidalgo"
+            },
+            {
+                "name": "La Palma",
+                "municipality": "Tolcayuca, Hidalgo"
+            }
+        ]
+    },
+    "43873": {
+        "code": "43873",
+        "colonies": [
+            {
+                "name": "Las Pintas",
+                "municipality": "Tolcayuca, Hidalgo"
+            }
+        ]
+    },
+    "43875": {
+        "code": "43875",
+        "colonies": [
+            {
+                "name": "General Felipe Ángeles",
+                "municipality": "Tolcayuca, Hidalgo"
+            }
+        ]
+    },
+    "43880": {
+        "code": "43880",
+        "colonies": [
+            {
+                "name": "Villa de Tezontepec Centro",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            }
+        ]
+    },
+    "43882": {
+        "code": "43882",
+        "colonies": [
+            {
+                "name": "Morelos",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            }
+        ]
+    },
+    "43883": {
+        "code": "43883",
+        "colonies": [
+            {
+                "name": "San Juan",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            },
+            {
+                "name": "Las Peñitas",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            }
+        ]
+    },
+    "43884": {
+        "code": "43884",
+        "colonies": [
+            {
+                "name": "Estación",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            },
+            {
+                "name": "Nueva",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            },
+            {
+                "name": "Valencia",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            }
+        ]
+    },
+    "43885": {
+        "code": "43885",
+        "colonies": [
+            {
+                "name": "Calvario",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            },
+            {
+                "name": "La Virgen",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            }
+        ]
+    },
+    "43890": {
+        "code": "43890",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            }
+        ]
+    },
+    "43895": {
+        "code": "43895",
+        "colonies": [
+            {
+                "name": "Chamberluco",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            }
+        ]
+    },
+    "43896": {
+        "code": "43896",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Villa de Tezontepec, Hidalgo"
+            }
+        ]
+    },
+    "43900": {
+        "code": "43900",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43902": {
+        "code": "43902",
+        "colonies": [
+            {
+                "name": "San Pedro",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43903": {
+        "code": "43903",
+        "colonies": [
+            {
+                "name": "Josefa Ortiz de Domínguez",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43904": {
+        "code": "43904",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "San Miguel del Arco",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Azteca",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Ampliación San Miguel del Arco",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43905": {
+        "code": "43905",
+        "colonies": [
+            {
+                "name": "El Carmen",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Ampliación la Conchita",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "La Conchita",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43906": {
+        "code": "43906",
+        "colonies": [
+            {
+                "name": "Ampliación Loma Bonita",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "El Ciervo",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Lomas de Chulco",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43907": {
+        "code": "43907",
+        "colonies": [
+            {
+                "name": "Magisterial Luis Donaldo Colosio",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "La Josefina",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43908": {
+        "code": "43908",
+        "colonies": [
+            {
+                "name": "Los Capulines",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43909": {
+        "code": "43909",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "San Javier",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "La Joyita",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Calvario",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43915": {
+        "code": "43915",
+        "colonies": [
+            {
+                "name": "San Miguel de las Tunas",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "San Diego Tlalayote",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "La Virgencita",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43917": {
+        "code": "43917",
+        "colonies": [
+            {
+                "name": "Las Peñitas",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "La Hidalguense",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43918": {
+        "code": "43918",
+        "colonies": [
+            {
+                "name": "Cocinillas",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Santa Rosa",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43919": {
+        "code": "43919",
+        "colonies": [
+            {
+                "name": "El Tezoyo",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43920": {
+        "code": "43920",
+        "colonies": [
+            {
+                "name": "Acopinalco",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Chimalpa Tlalayote",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "La Laguna",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Los Voladores",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "San José el Mirador",
+                "municipality": "Apan, Hidalgo"
+            },
+            {
+                "name": "Lomas del Tepeyac",
+                "municipality": "Apan, Hidalgo"
+            }
+        ]
+    },
+    "43930": {
+        "code": "43930",
+        "colonies": [
+            {
+                "name": "Alfredo V. Bonfil",
+                "municipality": "Tlanalapa, Hidalgo"
+            },
+            {
+                "name": "Tlanalapa Centro",
+                "municipality": "Tlanalapa, Hidalgo"
+            },
+            {
+                "name": "Mineros",
+                "municipality": "Tlanalapa, Hidalgo"
+            }
+        ]
+    },
+    "43933": {
+        "code": "43933",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Tlanalapa, Hidalgo"
+            }
+        ]
+    },
+    "43935": {
+        "code": "43935",
+        "colonies": [
+            {
+                "name": "De la Rosa",
+                "municipality": "Tlanalapa, Hidalgo"
+            }
+        ]
+    },
+    "43937": {
+        "code": "43937",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Tlanalapa, Hidalgo"
+            },
+            {
+                "name": "Km. 27",
+                "municipality": "Tlanalapa, Hidalgo"
+            },
+            {
+                "name": "Km. 28",
+                "municipality": "Tlanalapa, Hidalgo"
+            }
+        ]
+    },
+    "43940": {
+        "code": "43940",
+        "colonies": [
+            {
+                "name": "Almoloya Centro",
+                "municipality": "Almoloya, Hidalgo"
+            },
+            {
+                "name": "Ocotepec",
+                "municipality": "Almoloya, Hidalgo"
+            }
+        ]
+    },
+    "43943": {
+        "code": "43943",
+        "colonies": [
+            {
+                "name": "Antonio P. Ramírez",
+                "municipality": "Almoloya, Hidalgo"
+            },
+            {
+                "name": "Del Can",
+                "municipality": "Almoloya, Hidalgo"
+            },
+            {
+                "name": "Techin",
+                "municipality": "Almoloya, Hidalgo"
+            },
+            {
+                "name": "Calvario",
+                "municipality": "Almoloya, Hidalgo"
+            }
+        ]
+    },
+    "43944": {
+        "code": "43944",
+        "colonies": [
+            {
+                "name": "Tepozán",
+                "municipality": "Almoloya, Hidalgo"
+            },
+            {
+                "name": "Martínez",
+                "municipality": "Almoloya, Hidalgo"
+            }
+        ]
+    },
+    "43945": {
+        "code": "43945",
+        "colonies": [
+            {
+                "name": "El Llorón",
+                "municipality": "Almoloya, Hidalgo"
+            }
+        ]
+    },
+    "43960": {
+        "code": "43960",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata Centro",
+                "municipality": "Emiliano Zapata, Hidalgo"
+            }
+        ]
+    },
+    "43963": {
+        "code": "43963",
+        "colonies": [
+            {
+                "name": "Ramos Millán",
+                "municipality": "Emiliano Zapata, Hidalgo"
+            },
+            {
+                "name": "Jardines",
+                "municipality": "Emiliano Zapata, Hidalgo"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Emiliano Zapata, Hidalgo"
+            },
+            {
+                "name": "Los Reyes",
+                "municipality": "Emiliano Zapata, Hidalgo"
+            }
+        ]
+    },
+    "43964": {
+        "code": "43964",
+        "colonies": [
+            {
+                "name": "Chamizal",
+                "municipality": "Emiliano Zapata, Hidalgo"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Emiliano Zapata, Hidalgo"
+            },
+            {
+                "name": "Ampliación Loma Bonita",
+                "municipality": "Emiliano Zapata, Hidalgo"
+            }
+        ]
+    },
+    "43970": {
+        "code": "43970",
+        "colonies": [
+            {
+                "name": "Constitución de 1917",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Tepeapulco Centro",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43973": {
+        "code": "43973",
+        "colonies": [
+            {
+                "name": "18 de Marzo",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43974": {
+        "code": "43974",
+        "colonies": [
+            {
+                "name": "José María Pino Suárez",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Ampliación José María Pino Suárez",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Piedras Negras",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43975": {
+        "code": "43975",
+        "colonies": [
+            {
+                "name": "Los Reyes",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "14 de Febrero",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "El Magueyal",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43976": {
+        "code": "43976",
+        "colonies": [
+            {
+                "name": "Ampliación del Trabajo",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Ampliación Plaza Vieja",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Sales y Minerales",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Del Trabajo",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Plaza Vieja",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43977": {
+        "code": "43977",
+        "colonies": [
+            {
+                "name": "Frailes",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Ampliación Frailes",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43987": {
+        "code": "43987",
+        "colonies": [
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "El Magueyal (Las Palomas)",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "El Mirto",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "La Ermita",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43990": {
+        "code": "43990",
+        "colonies": [
+            {
+                "name": "Legaspi",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43991": {
+        "code": "43991",
+        "colonies": [
+            {
+                "name": "Irolo",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43993": {
+        "code": "43993",
+        "colonies": [
+            {
+                "name": "Mineros",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Villas de Sahagún",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43994": {
+        "code": "43994",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Fides",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43995": {
+        "code": "43995",
+        "colonies": [
+            {
+                "name": "Dina",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "IMSS",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Las Haciendas",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "21 de Julio",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43996": {
+        "code": "43996",
+        "colonies": [
+            {
+                "name": "Ex-Hacienda de Guadalupe",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Dikona",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Rojo Gómez",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Tadeo de Niza",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "El Chamizal",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Santa Barbara",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Granja Guadalupe",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43997": {
+        "code": "43997",
+        "colonies": [
+            {
+                "name": "Abecedario",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Carros",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Salvador Allende",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Sidena",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    },
+    "43998": {
+        "code": "43998",
+        "colonies": [
+            {
+                "name": "El Pedregal",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Palmillas",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Unidad Campesina",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "Plan de Ayala",
+                "municipality": "Tepeapulco, Hidalgo"
+            },
+            {
+                "name": "La Rosa",
+                "municipality": "Tepeapulco, Hidalgo"
+            }
+        ]
+    }
+}

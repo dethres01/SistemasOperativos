@@ -1,0 +1,1695 @@
+{
+    "90000": {
+        "code": "90000",
+        "colonies": [
+            {
+                "name": "Tlaxcala Centro",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90014": {
+        "code": "90014",
+        "colonies": [
+            {
+                "name": "Los Volcanes",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90020": {
+        "code": "90020",
+        "colonies": [
+            {
+                "name": "Pensionados Militares",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90040": {
+        "code": "90040",
+        "colonies": [
+            {
+                "name": "San Miguel Tlamahuco",
+                "municipality": "Tlaxcala, Tlaxcala"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90060": {
+        "code": "90060",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90062": {
+        "code": "90062",
+        "colonies": [
+            {
+                "name": "El Llanito",
+                "municipality": "Tlaxcala, Tlaxcala"
+            },
+            {
+                "name": "Xicohténcatl",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90080": {
+        "code": "90080",
+        "colonies": [
+            {
+                "name": "Del Maestro",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90090": {
+        "code": "90090",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90102": {
+        "code": "90102",
+        "colonies": [
+            {
+                "name": "El Sabinal",
+                "municipality": "Tlaxcala, Tlaxcala"
+            },
+            {
+                "name": "Mirasol",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90110": {
+        "code": "90110",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Tlaxcala, Tlaxcala"
+            },
+            {
+                "name": "Grande",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90114": {
+        "code": "90114",
+        "colonies": [
+            {
+                "name": "La Joya",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90115": {
+        "code": "90115",
+        "colonies": [
+            {
+                "name": "3 Volcanes",
+                "municipality": "Tlaxcala, Tlaxcala"
+            },
+            {
+                "name": "Del Valle",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90118": {
+        "code": "90118",
+        "colonies": [
+            {
+                "name": "Tlapancalco",
+                "municipality": "Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90125": {
+        "code": "90125",
+        "colonies": [
+            {
+                "name": "Miguel Ángel",
+                "municipality": "Ixtacuixtla de Mariano Matamoros, Tlaxcala"
+            }
+        ]
+    },
+    "90130": {
+        "code": "90130",
+        "colonies": [
+            {
+                "name": "Las Huertas",
+                "municipality": "Ixtacuixtla de Mariano Matamoros, Tlaxcala"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Ixtacuixtla de Mariano Matamoros, Tlaxcala"
+            }
+        ]
+    },
+    "90133": {
+        "code": "90133",
+        "colonies": [
+            {
+                "name": "Ejido Santa Justina Ecatepec",
+                "municipality": "Ixtacuixtla de Mariano Matamoros, Tlaxcala"
+            },
+            {
+                "name": "San Cristóbal Oxtotlapango",
+                "municipality": "Ixtacuixtla de Mariano Matamoros, Tlaxcala"
+            }
+        ]
+    },
+    "90137": {
+        "code": "90137",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Santa Ana Nopalucan, Tlaxcala"
+            }
+        ]
+    },
+    "90138": {
+        "code": "90138",
+        "colonies": [
+            {
+                "name": "Unidad Deportiva",
+                "municipality": "Santa Ana Nopalucan, Tlaxcala"
+            },
+            {
+                "name": "Nuevo México",
+                "municipality": "Santa Ana Nopalucan, Tlaxcala"
+            }
+        ]
+    },
+    "90139": {
+        "code": "90139",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Santa Ana Nopalucan, Tlaxcala"
+            }
+        ]
+    },
+    "90150": {
+        "code": "90150",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Panotla, Tlaxcala"
+            }
+        ]
+    },
+    "90180": {
+        "code": "90180",
+        "colonies": [
+            {
+                "name": "Tepeyanco",
+                "municipality": "Tepeyanco, Tlaxcala"
+            },
+            {
+                "name": "Guerrero",
+                "municipality": "Tepeyanco, Tlaxcala"
+            },
+            {
+                "name": "Las Águilas",
+                "municipality": "Tepeyanco, Tlaxcala"
+            }
+        ]
+    },
+    "90183": {
+        "code": "90183",
+        "colonies": [
+            {
+                "name": "Antorcha Campesina",
+                "municipality": "Tepeyanco, Tlaxcala"
+            }
+        ]
+    },
+    "90200": {
+        "code": "90200",
+        "colonies": [
+            {
+                "name": "Calpulalpan Centro",
+                "municipality": "Calpulalpan, Tlaxcala"
+            }
+        ]
+    },
+    "90202": {
+        "code": "90202",
+        "colonies": [
+            {
+                "name": "San Rafael",
+                "municipality": "Calpulalpan, Tlaxcala"
+            },
+            {
+                "name": "La Cañada",
+                "municipality": "Calpulalpan, Tlaxcala"
+            }
+        ]
+    },
+    "90203": {
+        "code": "90203",
+        "colonies": [
+            {
+                "name": "El Palmar",
+                "municipality": "Calpulalpan, Tlaxcala"
+            },
+            {
+                "name": "San Pedro",
+                "municipality": "Calpulalpan, Tlaxcala"
+            }
+        ]
+    },
+    "90204": {
+        "code": "90204",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Calpulalpan, Tlaxcala"
+            }
+        ]
+    },
+    "90205": {
+        "code": "90205",
+        "colonies": [
+            {
+                "name": "San Antonio Calpulalpan",
+                "municipality": "Calpulalpan, Tlaxcala"
+            }
+        ]
+    },
+    "90207": {
+        "code": "90207",
+        "colonies": [
+            {
+                "name": "Francisco Sarabia",
+                "municipality": "Calpulalpan, Tlaxcala"
+            },
+            {
+                "name": "Salvador Guarneros",
+                "municipality": "Calpulalpan, Tlaxcala"
+            }
+        ]
+    },
+    "90208": {
+        "code": "90208",
+        "colonies": [
+            {
+                "name": "Alfonso Espejel",
+                "municipality": "Calpulalpan, Tlaxcala"
+            },
+            {
+                "name": "Belén",
+                "municipality": "Calpulalpan, Tlaxcala"
+            },
+            {
+                "name": "Nazaret",
+                "municipality": "Calpulalpan, Tlaxcala"
+            }
+        ]
+    },
+    "90233": {
+        "code": "90233",
+        "colonies": [
+            {
+                "name": "NCP Álvaro Obregón",
+                "municipality": "Sanctórum de Lázaro Cárdenas, Tlaxcala"
+            }
+        ]
+    },
+    "90240": {
+        "code": "90240",
+        "colonies": [
+            {
+                "name": "Los Hornitos",
+                "municipality": "Hueyotlipan, Tlaxcala"
+            },
+            {
+                "name": "La Cañada",
+                "municipality": "Hueyotlipan, Tlaxcala"
+            }
+        ]
+    },
+    "90243": {
+        "code": "90243",
+        "colonies": [
+            {
+                "name": "San Andrés Cuaximala",
+                "municipality": "Hueyotlipan, Tlaxcala"
+            }
+        ]
+    },
+    "90245": {
+        "code": "90245",
+        "colonies": [
+            {
+                "name": "La Ardilla",
+                "municipality": "Hueyotlipan, Tlaxcala"
+            },
+            {
+                "name": "Los Caifanes (La Purísima)",
+                "municipality": "Hueyotlipan, Tlaxcala"
+            },
+            {
+                "name": "Playa Azul",
+                "municipality": "Hueyotlipan, Tlaxcala"
+            }
+        ]
+    },
+    "90246": {
+        "code": "90246",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Hueyotlipan, Tlaxcala"
+            }
+        ]
+    },
+    "90250": {
+        "code": "90250",
+        "colonies": [
+            {
+                "name": "Tepatlaxco",
+                "municipality": "Tlaxco, Tlaxcala"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Tlaxco, Tlaxcala"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Tlaxco, Tlaxcala"
+            },
+            {
+                "name": "Iturbide",
+                "municipality": "Tlaxco, Tlaxcala"
+            },
+            {
+                "name": "Postal",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90253": {
+        "code": "90253",
+        "colonies": [
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90255": {
+        "code": "90255",
+        "colonies": [
+            {
+                "name": "El Sabinal",
+                "municipality": "Tlaxco, Tlaxcala"
+            },
+            {
+                "name": "Santiago Tlatepoxco",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90257": {
+        "code": "90257",
+        "colonies": [
+            {
+                "name": "La Pedregosa",
+                "municipality": "Tlaxco, Tlaxcala"
+            },
+            {
+                "name": "Diego Muñoz Camargo",
+                "municipality": "Tlaxco, Tlaxcala"
+            },
+            {
+                "name": "La Herradura",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90258": {
+        "code": "90258",
+        "colonies": [
+            {
+                "name": "El Capulín",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90262": {
+        "code": "90262",
+        "colonies": [
+            {
+                "name": "Mazaquiáhuac",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90264": {
+        "code": "90264",
+        "colonies": [
+            {
+                "name": "Maguey Cenizo",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90266": {
+        "code": "90266",
+        "colonies": [
+            {
+                "name": "San Diego Quintanilla",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90277": {
+        "code": "90277",
+        "colonies": [
+            {
+                "name": "Comisión Federal de Electricidad-La Martinica",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90278": {
+        "code": "90278",
+        "colonies": [
+            {
+                "name": "Santa María Zotoluca",
+                "municipality": "Tlaxco, Tlaxcala"
+            }
+        ]
+    },
+    "90280": {
+        "code": "90280",
+        "colonies": [
+            {
+                "name": "Domingo Arenas",
+                "municipality": "Nanacamilpa de Mariano Arista, Tlaxcala"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Nanacamilpa de Mariano Arista, Tlaxcala"
+            },
+            {
+                "name": "La Villa",
+                "municipality": "Nanacamilpa de Mariano Arista, Tlaxcala"
+            }
+        ]
+    },
+    "90286": {
+        "code": "90286",
+        "colonies": [
+            {
+                "name": "Tepuente",
+                "municipality": "Nanacamilpa de Mariano Arista, Tlaxcala"
+            }
+        ]
+    },
+    "90290": {
+        "code": "90290",
+        "colonies": [
+            {
+                "name": "El Carmen",
+                "municipality": "Españita, Tlaxcala"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Españita, Tlaxcala"
+            }
+        ]
+    },
+    "90294": {
+        "code": "90294",
+        "colonies": [
+            {
+                "name": "Miguel Aldama",
+                "municipality": "Españita, Tlaxcala"
+            }
+        ]
+    },
+    "90297": {
+        "code": "90297",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Españita, Tlaxcala"
+            }
+        ]
+    },
+    "90298": {
+        "code": "90298",
+        "colonies": [
+            {
+                "name": "La Constancia",
+                "municipality": "Españita, Tlaxcala"
+            },
+            {
+                "name": "La Reforma",
+                "municipality": "Españita, Tlaxcala"
+            }
+        ]
+    },
+    "90300": {
+        "code": "90300",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90320": {
+        "code": "90320",
+        "colonies": [
+            {
+                "name": "Granjas de Guadalupe",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90323": {
+        "code": "90323",
+        "colonies": [
+            {
+                "name": "Cerrito de Guadalupe",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90337": {
+        "code": "90337",
+        "colonies": [
+            {
+                "name": "San Martin de Porres",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90338": {
+        "code": "90338",
+        "colonies": [
+            {
+                "name": "El Carmen",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90339": {
+        "code": "90339",
+        "colonies": [
+            {
+                "name": "San Miguel",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90340": {
+        "code": "90340",
+        "colonies": [
+            {
+                "name": "Santa Rosa",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90341": {
+        "code": "90341",
+        "colonies": [
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90342": {
+        "code": "90342",
+        "colonies": [
+            {
+                "name": "Ferrocarrilera",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Emilio Sánchez Piedras",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90355": {
+        "code": "90355",
+        "colonies": [
+            {
+                "name": "Real del Bosque",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Real del Valle",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90356": {
+        "code": "90356",
+        "colonies": [
+            {
+                "name": "Loma Florida 1a Secc",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Loma Florida 2a Secc",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90357": {
+        "code": "90357",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Fátima",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90358": {
+        "code": "90358",
+        "colonies": [
+            {
+                "name": "Jesús y San Juan",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90360": {
+        "code": "90360",
+        "colonies": [
+            {
+                "name": "La Cañada",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90378": {
+        "code": "90378",
+        "colonies": [
+            {
+                "name": "Loma Santa Anita",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90380": {
+        "code": "90380",
+        "colonies": [
+            {
+                "name": "Agrícola Covadonga",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90401": {
+        "code": "90401",
+        "colonies": [
+            {
+                "name": "Benito Juárez Apizaquito",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Tulio Hernandez",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90402": {
+        "code": "90402",
+        "colonies": [
+            {
+                "name": "10 de Mayo",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "2a. Sección",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90405": {
+        "code": "90405",
+        "colonies": [
+            {
+                "name": "Cuarta Manzana",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Atenco",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "José María Morelos",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90406": {
+        "code": "90406",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90407": {
+        "code": "90407",
+        "colonies": [
+            {
+                "name": "San Marcos",
+                "municipality": "Apizaco, Tlaxcala"
+            },
+            {
+                "name": "Atlayoalco",
+                "municipality": "Apizaco, Tlaxcala"
+            }
+        ]
+    },
+    "90411": {
+        "code": "90411",
+        "colonies": [
+            {
+                "name": "Santa Clara Ozumba",
+                "municipality": "Atlangatepec, Tlaxcala"
+            }
+        ]
+    },
+    "90418": {
+        "code": "90418",
+        "colonies": [
+            {
+                "name": "Benito Juárez (Tezoyo)",
+                "municipality": "Atlangatepec, Tlaxcala"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Atlangatepec, Tlaxcala"
+            }
+        ]
+    },
+    "90430": {
+        "code": "90430",
+        "colonies": [
+            {
+                "name": "Actipac",
+                "municipality": "Tetla de la Solidaridad, Tlaxcala"
+            },
+            {
+                "name": "Ocotitla",
+                "municipality": "Tetla de la Solidaridad, Tlaxcala"
+            }
+        ]
+    },
+    "90433": {
+        "code": "90433",
+        "colonies": [
+            {
+                "name": "Los Dolores",
+                "municipality": "Tetla de la Solidaridad, Tlaxcala"
+            }
+        ]
+    },
+    "90440": {
+        "code": "90440",
+        "colonies": [
+            {
+                "name": "Jardines de Xaltocan",
+                "municipality": "Xaltocan, Tlaxcala"
+            },
+            {
+                "name": "Tlalapechco",
+                "municipality": "Xaltocan, Tlaxcala"
+            },
+            {
+                "name": "Loma Dorada",
+                "municipality": "Xaltocan, Tlaxcala"
+            }
+        ]
+    },
+    "90443": {
+        "code": "90443",
+        "colonies": [
+            {
+                "name": "Las Mesas",
+                "municipality": "Xaltocan, Tlaxcala"
+            }
+        ]
+    },
+    "90450": {
+        "code": "90450",
+        "colonies": [
+            {
+                "name": "El Pedregal",
+                "municipality": "Yauhquemehcan, Tlaxcala"
+            }
+        ]
+    },
+    "90453": {
+        "code": "90453",
+        "colonies": [
+            {
+                "name": "Doctores",
+                "municipality": "Yauhquemehcan, Tlaxcala"
+            }
+        ]
+    },
+    "90459": {
+        "code": "90459",
+        "colonies": [
+            {
+                "name": "Chimalpa",
+                "municipality": "Yauhquemehcan, Tlaxcala"
+            },
+            {
+                "name": "Cuarta Sección",
+                "municipality": "Yauhquemehcan, Tlaxcala"
+            }
+        ]
+    },
+    "90460": {
+        "code": "90460",
+        "colonies": [
+            {
+                "name": "Venustiano Carranza",
+                "municipality": "Xaloztoc, Tlaxcala"
+            },
+            {
+                "name": "Tetitla",
+                "municipality": "Xaloztoc, Tlaxcala"
+            },
+            {
+                "name": "Santa Martha",
+                "municipality": "Xaloztoc, Tlaxcala"
+            },
+            {
+                "name": "La Sierra",
+                "municipality": "Xaloztoc, Tlaxcala"
+            },
+            {
+                "name": "Santa Cruz Zacatzontetla",
+                "municipality": "Xaloztoc, Tlaxcala"
+            }
+        ]
+    },
+    "90463": {
+        "code": "90463",
+        "colonies": [
+            {
+                "name": "José López Portillo",
+                "municipality": "Xaloztoc, Tlaxcala"
+            },
+            {
+                "name": "El Jagüey Prieto",
+                "municipality": "Xaloztoc, Tlaxcala"
+            }
+        ]
+    },
+    "90465": {
+        "code": "90465",
+        "colonies": [
+            {
+                "name": "Velazco",
+                "municipality": "Xaloztoc, Tlaxcala"
+            },
+            {
+                "name": "Florencia Sánchez Nava",
+                "municipality": "Xaloztoc, Tlaxcala"
+            }
+        ]
+    },
+    "90470": {
+        "code": "90470",
+        "colonies": [
+            {
+                "name": "Los Corrales",
+                "municipality": "Xaloztoc, Tlaxcala"
+            }
+        ]
+    },
+    "90482": {
+        "code": "90482",
+        "colonies": [
+            {
+                "name": "Venustiano Carranza",
+                "municipality": "Tocatlán, Tlaxcala"
+            }
+        ]
+    },
+    "90490": {
+        "code": "90490",
+        "colonies": [
+            {
+                "name": "Jean Charlot II",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "Zauhtla",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "Meyalco",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "La Estrella",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "Loma Dorada",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "19 de Noviembre",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "Doña María",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "San Andrés",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "Jean Charlot I",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "Jean Charlot III",
+                "municipality": "Tzompantepec, Tlaxcala"
+            },
+            {
+                "name": "Tepozotenco",
+                "municipality": "Tzompantepec, Tlaxcala"
+            }
+        ]
+    },
+    "90495": {
+        "code": "90495",
+        "colonies": [
+            {
+                "name": "1ra. Sección San José Teacalco",
+                "municipality": "San José Teacalco, Tlaxcala"
+            },
+            {
+                "name": "4ta. Sección San José Teacalco",
+                "municipality": "San José Teacalco, Tlaxcala"
+            }
+        ]
+    },
+    "90496": {
+        "code": "90496",
+        "colonies": [
+            {
+                "name": "5ta. Sección San José Teacalco",
+                "municipality": "San José Teacalco, Tlaxcala"
+            },
+            {
+                "name": "3ra. Sección San José Teacalco",
+                "municipality": "San José Teacalco, Tlaxcala"
+            }
+        ]
+    },
+    "90497": {
+        "code": "90497",
+        "colonies": [
+            {
+                "name": "2da. Sección San José Teacalco",
+                "municipality": "San José Teacalco, Tlaxcala"
+            }
+        ]
+    },
+    "90498": {
+        "code": "90498",
+        "colonies": [
+            {
+                "name": "Ecológica",
+                "municipality": "San José Teacalco, Tlaxcala"
+            }
+        ]
+    },
+    "90500": {
+        "code": "90500",
+        "colonies": [
+            {
+                "name": "Huamantla Centro",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90502": {
+        "code": "90502",
+        "colonies": [
+            {
+                "name": "Del Dulce Nombre",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "De Jesús",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90503": {
+        "code": "90503",
+        "colonies": [
+            {
+                "name": "San Juan",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90505": {
+        "code": "90505",
+        "colonies": [
+            {
+                "name": "San Miguel",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "Jardines de San Manuel",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90506": {
+        "code": "90506",
+        "colonies": [
+            {
+                "name": "Nuevos Horizontes",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90513": {
+        "code": "90513",
+        "colonies": [
+            {
+                "name": "N.C.P. San Diego Xalpatlahuaya",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90514": {
+        "code": "90514",
+        "colonies": [
+            {
+                "name": "Francisco I. Madero la Mesa",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "Francisco I. Madero Tecoac",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "Francisco Villa Tecoac",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90515": {
+        "code": "90515",
+        "colonies": [
+            {
+                "name": "El Valle",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "Ampliación Felipe Carrillo Puerto",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "NCP José María Morelos",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90520": {
+        "code": "90520",
+        "colonies": [
+            {
+                "name": "San Francisco Tecoac",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "San Francisco Notario",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90525": {
+        "code": "90525",
+        "colonies": [
+            {
+                "name": "Lic. Mauro Angulo",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "N.C.P. San José Teacalco",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90526": {
+        "code": "90526",
+        "colonies": [
+            {
+                "name": "General Francisco Villa",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "Acasillados San Martin Notario",
+                "municipality": "Huamantla, Tlaxcala"
+            },
+            {
+                "name": "Agrícola San Martín Notario",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90527": {
+        "code": "90527",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90534": {
+        "code": "90534",
+        "colonies": [
+            {
+                "name": "Altamira Guadalupe",
+                "municipality": "Huamantla, Tlaxcala"
+            }
+        ]
+    },
+    "90540": {
+        "code": "90540",
+        "colonies": [
+            {
+                "name": "Chipilo",
+                "municipality": "Terrenate, Tlaxcala"
+            },
+            {
+                "name": "Chapultepec",
+                "municipality": "Terrenate, Tlaxcala"
+            }
+        ]
+    },
+    "90542": {
+        "code": "90542",
+        "colonies": [
+            {
+                "name": "El Pilancón",
+                "municipality": "Terrenate, Tlaxcala"
+            }
+        ]
+    },
+    "90543": {
+        "code": "90543",
+        "colonies": [
+            {
+                "name": "El Capulín",
+                "municipality": "Terrenate, Tlaxcala"
+            },
+            {
+                "name": "Los Ameles (Acolco)",
+                "municipality": "Terrenate, Tlaxcala"
+            }
+        ]
+    },
+    "90547": {
+        "code": "90547",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Emiliano Zapata, Tlaxcala"
+            }
+        ]
+    },
+    "90548": {
+        "code": "90548",
+        "colonies": [
+            {
+                "name": "Gustavo Díaz Ordaz",
+                "municipality": "Emiliano Zapata, Tlaxcala"
+            }
+        ]
+    },
+    "90553": {
+        "code": "90553",
+        "colonies": [
+            {
+                "name": "La Garita",
+                "municipality": "Atltzayanca, Tlaxcala"
+            }
+        ]
+    },
+    "90555": {
+        "code": "90555",
+        "colonies": [
+            {
+                "name": "Concepción Hidalgo",
+                "municipality": "Atltzayanca, Tlaxcala"
+            }
+        ]
+    },
+    "90557": {
+        "code": "90557",
+        "colonies": [
+            {
+                "name": "Nazareth",
+                "municipality": "Atltzayanca, Tlaxcala"
+            },
+            {
+                "name": "Delicias",
+                "municipality": "Atltzayanca, Tlaxcala"
+            }
+        ]
+    },
+    "90560": {
+        "code": "90560",
+        "colonies": [
+            {
+                "name": "Los Ángeles",
+                "municipality": "Cuapiaxtla, Tlaxcala"
+            }
+        ]
+    },
+    "90563": {
+        "code": "90563",
+        "colonies": [
+            {
+                "name": "José María Morelos",
+                "municipality": "Cuapiaxtla, Tlaxcala"
+            }
+        ]
+    },
+    "90564": {
+        "code": "90564",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "Cuapiaxtla, Tlaxcala"
+            }
+        ]
+    },
+    "90565": {
+        "code": "90565",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Cuapiaxtla, Tlaxcala"
+            },
+            {
+                "name": "Manuel Ávila Camacho",
+                "municipality": "Cuapiaxtla, Tlaxcala"
+            }
+        ]
+    },
+    "90567": {
+        "code": "90567",
+        "colonies": [
+            {
+                "name": "La Asunción Rascona",
+                "municipality": "Cuapiaxtla, Tlaxcala"
+            }
+        ]
+    },
+    "90576": {
+        "code": "90576",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "El Carmen Tequexquitla, Tlaxcala"
+            }
+        ]
+    },
+    "90590": {
+        "code": "90590",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Ziltlaltépec de Trinidad Sánchez Santos, Tlaxcala"
+            }
+        ]
+    },
+    "90592": {
+        "code": "90592",
+        "colonies": [
+            {
+                "name": "San Juan Bautista Mier",
+                "municipality": "Ziltlaltépec de Trinidad Sánchez Santos, Tlaxcala"
+            }
+        ]
+    },
+    "90596": {
+        "code": "90596",
+        "colonies": [
+            {
+                "name": "Francisco Javier Mina",
+                "municipality": "Ziltlaltépec de Trinidad Sánchez Santos, Tlaxcala"
+            }
+        ]
+    },
+    "90606": {
+        "code": "90606",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Apetatitlán de Antonio Carvajal, Tlaxcala"
+            }
+        ]
+    },
+    "90640": {
+        "code": "90640",
+        "colonies": [
+            {
+                "name": "Ex-Hacienda San Manuel",
+                "municipality": "Santa Cruz Tlaxcala, Tlaxcala"
+            }
+        ]
+    },
+    "90660": {
+        "code": "90660",
+        "colonies": [
+            {
+                "name": "Centro",
+                "municipality": "Cuaxomulco, Tlaxcala"
+            }
+        ]
+    },
+    "90693": {
+        "code": "90693",
+        "colonies": [
+            {
+                "name": "Santa María Aquiáhuac",
+                "municipality": "Contla de Juan Cuamatzi, Tlaxcala"
+            }
+        ]
+    },
+    "90716": {
+        "code": "90716",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Natívitas, Tlaxcala"
+            }
+        ]
+    },
+    "90722": {
+        "code": "90722",
+        "colonies": [
+            {
+                "name": "Santa Clara Atoyac",
+                "municipality": "Natívitas, Tlaxcala"
+            },
+            {
+                "name": "San Miguel Tlale",
+                "municipality": "Natívitas, Tlaxcala"
+            },
+            {
+                "name": "San Juan Tepactepec",
+                "municipality": "Natívitas, Tlaxcala"
+            }
+        ]
+    },
+    "90723": {
+        "code": "90723",
+        "colonies": [
+            {
+                "name": "Loma Verde",
+                "municipality": "Natívitas, Tlaxcala"
+            }
+        ]
+    },
+    "90737": {
+        "code": "90737",
+        "colonies": [
+            {
+                "name": "Luis Echeverría",
+                "municipality": "San Damián Texóloc, Tlaxcala"
+            }
+        ]
+    },
+    "90754": {
+        "code": "90754",
+        "colonies": [
+            {
+                "name": "Domingo Arenas",
+                "municipality": "Zacatelco, Tlaxcala"
+            }
+        ]
+    },
+    "90773": {
+        "code": "90773",
+        "colonies": [
+            {
+                "name": "Estocapa",
+                "municipality": "Santa Catarina Ayometla, Tlaxcala"
+            }
+        ]
+    },
+    "90774": {
+        "code": "90774",
+        "colonies": [
+            {
+                "name": "Tlapayatla",
+                "municipality": "Santa Catarina Ayometla, Tlaxcala"
+            }
+        ]
+    },
+    "90775": {
+        "code": "90775",
+        "colonies": [
+            {
+                "name": "Tlaxcaltecatla",
+                "municipality": "Santa Catarina Ayometla, Tlaxcala"
+            }
+        ]
+    },
+    "90790": {
+        "code": "90790",
+        "colonies": [
+            {
+                "name": "Xilotzingo",
+                "municipality": "Papalotla de Xicohténcatl, Tlaxcala"
+            },
+            {
+                "name": "Xolalpa",
+                "municipality": "Papalotla de Xicohténcatl, Tlaxcala"
+            },
+            {
+                "name": "Xaltipa",
+                "municipality": "Papalotla de Xicohténcatl, Tlaxcala"
+            },
+            {
+                "name": "El Carmen",
+                "municipality": "Papalotla de Xicohténcatl, Tlaxcala"
+            }
+        ]
+    },
+    "90796": {
+        "code": "90796",
+        "colonies": [
+            {
+                "name": "Panzacola",
+                "municipality": "Papalotla de Xicohténcatl, Tlaxcala"
+            },
+            {
+                "name": "San Buenaventura",
+                "municipality": "Papalotla de Xicohténcatl, Tlaxcala"
+            }
+        ]
+    },
+    "90800": {
+        "code": "90800",
+        "colonies": [
+            {
+                "name": "Santa Ana Chiautempan Centro",
+                "municipality": "Chiautempan, Tlaxcala"
+            }
+        ]
+    },
+    "90802": {
+        "code": "90802",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Chiautempan, Tlaxcala"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Chiautempan, Tlaxcala"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Chiautempan, Tlaxcala"
+            },
+            {
+                "name": "Puente Picazo",
+                "municipality": "Chiautempan, Tlaxcala"
+            },
+            {
+                "name": "Llanos de Tepetlapa",
+                "municipality": "Chiautempan, Tlaxcala"
+            }
+        ]
+    },
+    "90804": {
+        "code": "90804",
+        "colonies": [
+            {
+                "name": "Chalma",
+                "municipality": "Chiautempan, Tlaxcala"
+            },
+            {
+                "name": "La Laguna",
+                "municipality": "Chiautempan, Tlaxcala"
+            }
+        ]
+    },
+    "90805": {
+        "code": "90805",
+        "colonies": [
+            {
+                "name": "Reforma",
+                "municipality": "Chiautempan, Tlaxcala"
+            }
+        ]
+    },
+    "90806": {
+        "code": "90806",
+        "colonies": [
+            {
+                "name": "Nueva",
+                "municipality": "Chiautempan, Tlaxcala"
+            },
+            {
+                "name": "Xaxala",
+                "municipality": "Chiautempan, Tlaxcala"
+            }
+        ]
+    },
+    "90833": {
+        "code": "90833",
+        "colonies": [
+            {
+                "name": "1901",
+                "municipality": "La Magdalena Tlaltelulco, Tlaxcala"
+            },
+            {
+                "name": "Tezoquipan",
+                "municipality": "La Magdalena Tlaltelulco, Tlaxcala"
+            },
+            {
+                "name": "Estocapa",
+                "municipality": "La Magdalena Tlaltelulco, Tlaxcala"
+            }
+        ]
+    },
+    "90834": {
+        "code": "90834",
+        "colonies": [
+            {
+                "name": "Satelite",
+                "municipality": "La Magdalena Tlaltelulco, Tlaxcala"
+            },
+            {
+                "name": "San Nicolás",
+                "municipality": "La Magdalena Tlaltelulco, Tlaxcala"
+            }
+        ]
+    },
+    "90835": {
+        "code": "90835",
+        "colonies": [
+            {
+                "name": "La Venta",
+                "municipality": "La Magdalena Tlaltelulco, Tlaxcala"
+            }
+        ]
+    },
+    "90850": {
+        "code": "90850",
+        "colonies": [
+            {
+                "name": "Cuaxinca",
+                "municipality": "Teolocholco, Tlaxcala"
+            }
+        ]
+    },
+    "90860": {
+        "code": "90860",
+        "colonies": [
+            {
+                "name": "Acuamanala",
+                "municipality": "Acuamanala de Miguel Hidalgo, Tlaxcala"
+            }
+        ]
+    },
+    "90900": {
+        "code": "90900",
+        "colonies": [
+            {
+                "name": "Villa Vicente Guerrero",
+                "municipality": "San Pablo del Monte, Tlaxcala"
+            }
+        ]
+    }
+}

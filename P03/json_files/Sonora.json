@@ -1,0 +1,7433 @@
+{
+    "83000": {
+        "code": "83000",
+        "colonies": [
+            {
+                "name": "Hermosillo Centro",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83010": {
+        "code": "83010",
+        "colonies": [
+            {
+                "name": "5 de Mayo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Country Club",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Lomas Pitic",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Mediterráneo Residencial",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Igualados",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83013": {
+        "code": "83013",
+        "colonies": [
+            {
+                "name": "PEMEX",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Ferrocarrilera",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83015": {
+        "code": "83015",
+        "colonies": [
+            {
+                "name": "Rinconada de Nuevo León",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83016": {
+        "code": "83016",
+        "colonies": [
+            {
+                "name": "Cruz Gálvez",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83020": {
+        "code": "83020",
+        "colonies": [
+            {
+                "name": "Amapolas",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83029": {
+        "code": "83029",
+        "colonies": [
+            {
+                "name": "Metalera",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83030": {
+        "code": "83030",
+        "colonies": [
+            {
+                "name": "Cañada de los Negros",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83040": {
+        "code": "83040",
+        "colonies": [
+            {
+                "name": "Coloso",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Mariachi",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83050": {
+        "code": "83050",
+        "colonies": [
+            {
+                "name": "El Ranchito",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Rinconada de La Cruz",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Bella Vista",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83060": {
+        "code": "83060",
+        "colonies": [
+            {
+                "name": "Los Naranjos",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83067": {
+        "code": "83067",
+        "colonies": [
+            {
+                "name": "Universidad",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83068": {
+        "code": "83068",
+        "colonies": [
+            {
+                "name": "Revolución II",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83070": {
+        "code": "83070",
+        "colonies": [
+            {
+                "name": "Del Razo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cerrada Norwalk",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83078": {
+        "code": "83078",
+        "colonies": [
+            {
+                "name": "Revolución I",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83079": {
+        "code": "83079",
+        "colonies": [
+            {
+                "name": "Casa Blanca",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cerro de La Campana",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa del Pitic",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Chino Abelardo",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83080": {
+        "code": "83080",
+        "colonies": [
+            {
+                "name": "La Matanza",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83089": {
+        "code": "83089",
+        "colonies": [
+            {
+                "name": "Las Pilas",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83090": {
+        "code": "83090",
+        "colonies": [
+            {
+                "name": "Hacienda de La Flor",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83100": {
+        "code": "83100",
+        "colonies": [
+            {
+                "name": "Apolo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Atardeceres",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Ley 57",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Popular",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Prados del Sol",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Prados de Bugambilias",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Prados de Bugambilias II",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Residencial Kino",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cerrada del Carmen",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Privada Córdoba",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Privada Robles",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "15 \"A\"",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83103": {
+        "code": "83103",
+        "colonies": [
+            {
+                "name": "CNOP",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Lomas de Madrid",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83104": {
+        "code": "83104",
+        "colonies": [
+            {
+                "name": "López Portillo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Lomas de Linda Vista",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Arcadia",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Portón Del Arco",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cumbres Residencial III",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Margaritas Olivos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Valle de Santa Mónica",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Alborada",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Colinas Del Bachoco",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83105": {
+        "code": "83105",
+        "colonies": [
+            {
+                "name": "Jacinto López",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "4 de Marzo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "San Sebastián",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83106": {
+        "code": "83106",
+        "colonies": [
+            {
+                "name": "Insurgentes",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa Guadalupe",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa Sonora",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villas del Cortijo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Heberto Castillo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa Del Rey",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83110": {
+        "code": "83110",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Mártires de Cananea",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "La Primavera",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83113": {
+        "code": "83113",
+        "colonies": [
+            {
+                "name": "Jardines",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83114": {
+        "code": "83114",
+        "colonies": [
+            {
+                "name": "Eusebio Kino",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Santa Bárbara",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villas Residencial",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83115": {
+        "code": "83115",
+        "colonies": [
+            {
+                "name": "Carmen Serdán",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Cortijo UNISON",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Rincón Agradable",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83116": {
+        "code": "83116",
+        "colonies": [
+            {
+                "name": "Primero Hermosillo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Norberto Ortega",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Manuel Gómez Morín",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Nueva Victoria",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Miguel Ángel Jiménez",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Francisco Romero",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83117": {
+        "code": "83117",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa Bonita",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Privadas Del Bosque",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Opatas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cerrada Pimas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Miguel Valencia",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83118": {
+        "code": "83118",
+        "colonies": [
+            {
+                "name": "La Lengueta",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Privadas del Real",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Jorge Valdez Muñoz",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Laura Alicia Frías de López Nogales",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Lingotes",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83120": {
+        "code": "83120",
+        "colonies": [
+            {
+                "name": "Las Isabeles",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Progresista",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Unión de Colonos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Machi López",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "H Ayuntamiento",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83125": {
+        "code": "83125",
+        "colonies": [
+            {
+                "name": "Villa Fontana",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83126": {
+        "code": "83126",
+        "colonies": [
+            {
+                "name": "Conquistadores",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cerro Colorado",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Nueva Castilla",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83128": {
+        "code": "83128",
+        "colonies": [
+            {
+                "name": "San Javier",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83129": {
+        "code": "83129",
+        "colonies": [
+            {
+                "name": "Las Aves",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83130": {
+        "code": "83130",
+        "colonies": [
+            {
+                "name": "Libertad",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Santa Isabel",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83136": {
+        "code": "83136",
+        "colonies": [
+            {
+                "name": "Choyal",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Puesta del Sol",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83137": {
+        "code": "83137",
+        "colonies": [
+            {
+                "name": "Las Flores",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cuartel Zona",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83138": {
+        "code": "83138",
+        "colonies": [
+            {
+                "name": "Luis Encinas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Santa María",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Sonomex Norte",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83139": {
+        "code": "83139",
+        "colonies": [
+            {
+                "name": "Isssteson Norte",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Torres",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Reforma Norte",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83140": {
+        "code": "83140",
+        "colonies": [
+            {
+                "name": "Bugambilia",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Jesús García",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Rosales",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83144": {
+        "code": "83144",
+        "colonies": [
+            {
+                "name": "Sacramento Residencial",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83145": {
+        "code": "83145",
+        "colonies": [
+            {
+                "name": "Privada Victoria",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83146": {
+        "code": "83146",
+        "colonies": [
+            {
+                "name": "Los Sabinos",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83147": {
+        "code": "83147",
+        "colonies": [
+            {
+                "name": "Cuatro Olivos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Rosario Ibarra de Piedra",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83148": {
+        "code": "83148",
+        "colonies": [
+            {
+                "name": "Bachoco",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Colina Blanca",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Dorado",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Loreto",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83149": {
+        "code": "83149",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83150": {
+        "code": "83150",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Pitic",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83156": {
+        "code": "83156",
+        "colonies": [
+            {
+                "name": "Periodista",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Casero Solar",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83157": {
+        "code": "83157",
+        "colonies": [
+            {
+                "name": "Issste Federal",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83159": {
+        "code": "83159",
+        "colonies": [
+            {
+                "name": "Lomas Altas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cuartel Pitic",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83160": {
+        "code": "83160",
+        "colonies": [
+            {
+                "name": "San Luis",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Parque Industrial Pimex",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83164": {
+        "code": "83164",
+        "colonies": [
+            {
+                "name": "Campestre Residencial",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83165": {
+        "code": "83165",
+        "colonies": [
+            {
+                "name": "Cuartel XX Café Combate",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83170": {
+        "code": "83170",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Álvaro Obregón",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Mirasoles",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Antonio Parada Cano",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "22 de Septiembre",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Privada de los Azulejos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Internacional",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Plazas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "San Bernardino",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Paseo Del Sahuaro",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83171": {
+        "code": "83171",
+        "colonies": [
+            {
+                "name": "Sahuaro Indeco",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83173": {
+        "code": "83173",
+        "colonies": [
+            {
+                "name": "La Antorcha Campesina",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83174": {
+        "code": "83174",
+        "colonies": [
+            {
+                "name": "Sonacer",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Rancho Bonito Residencial",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Llanito",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83175": {
+        "code": "83175",
+        "colonies": [
+            {
+                "name": "Jerez Del Valle",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Nuevo Sahuaro",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Casa Bonita Residencial",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83177": {
+        "code": "83177",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83178": {
+        "code": "83178",
+        "colonies": [
+            {
+                "name": "Camino Real",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "La Misión",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Camino Real Norte",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Sahuaro Final",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83179": {
+        "code": "83179",
+        "colonies": [
+            {
+                "name": "Unión de Ladrilleros",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Sol Aguilar",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Condominio San Pablo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "División del Norte",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Ampliación Ladrilleras",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Mirador (Invasión)",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Chaparral (Invasión)",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83180": {
+        "code": "83180",
+        "colonies": [
+            {
+                "name": "Balderrama",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Olivares",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Olivares Norte",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83188": {
+        "code": "83188",
+        "colonies": [
+            {
+                "name": "Pimentel",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83190": {
+        "code": "83190",
+        "colonies": [
+            {
+                "name": "Modelo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "San Benito",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83198": {
+        "code": "83198",
+        "colonies": [
+            {
+                "name": "Inalámbrica",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83200": {
+        "code": "83200",
+        "colonies": [
+            {
+                "name": "Rincón de La Herradura",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Racquet Club I Sección Sur",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Valle Verde",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa Satélite",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Racquet Club II Sección Norte",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83204": {
+        "code": "83204",
+        "colonies": [
+            {
+                "name": "Alameda",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Torreón",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Canarios",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83205": {
+        "code": "83205",
+        "colonies": [
+            {
+                "name": "Valle Grande",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83206": {
+        "code": "83206",
+        "colonies": [
+            {
+                "name": "Valle Del Sol",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83207": {
+        "code": "83207",
+        "colonies": [
+            {
+                "name": "Valle Escondido",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83208": {
+        "code": "83208",
+        "colonies": [
+            {
+                "name": "La Huerta",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83209": {
+        "code": "83209",
+        "colonies": [
+            {
+                "name": "Valle Hermoso",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83210": {
+        "code": "83210",
+        "colonies": [
+            {
+                "name": "El Llano",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83214": {
+        "code": "83214",
+        "colonies": [
+            {
+                "name": "Quinta Emilia",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83220": {
+        "code": "83220",
+        "colonies": [
+            {
+                "name": "La Manga",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Real del Llano",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83224": {
+        "code": "83224",
+        "colonies": [
+            {
+                "name": "Nazareo Residencial",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Real de Montejo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Compostela Residencial",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Santos Residencial",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83240": {
+        "code": "83240",
+        "colonies": [
+            {
+                "name": "Fuentes Del Mezquital",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Quintas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Valle Bonito",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83246": {
+        "code": "83246",
+        "colonies": [
+            {
+                "name": "Mezquital Del Oro",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Paseo del Sol",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83247": {
+        "code": "83247",
+        "colonies": [
+            {
+                "name": "Oficinas Federales",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83249": {
+        "code": "83249",
+        "colonies": [
+            {
+                "name": "Santa Fe",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Seminario Residencial",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83250": {
+        "code": "83250",
+        "colonies": [
+            {
+                "name": "Las Granjas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Palmar Del Sol",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Real del Arco",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Fuentes del Centenario",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Recodo",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83260": {
+        "code": "83260",
+        "colonies": [
+            {
+                "name": "Centenario",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Bernardo Esqueda",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Prados del Centenario",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Isssteson Centenario",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83270": {
+        "code": "83270",
+        "colonies": [
+            {
+                "name": "El Malecón",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "La Mosca",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83278": {
+        "code": "83278",
+        "colonies": [
+            {
+                "name": "ISSSTESON Colegio Lux",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83279": {
+        "code": "83279",
+        "colonies": [
+            {
+                "name": "Militar",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83280": {
+        "code": "83280",
+        "colonies": [
+            {
+                "name": "Cerro de La Cruz",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Jito",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Palo Verde",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Tiro Al Blanco",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa de Seris",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa Hermosa",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Solidaridad Vildosola",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Poetas",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83284": {
+        "code": "83284",
+        "colonies": [
+            {
+                "name": "Las Peredas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Tres Reynas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Casa Linda",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Palo Verde Indeur los Olivos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Girasoles",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Hacienda los Alcatraces",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Hacienda los Lirios",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa las Lomas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Olivos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83285": {
+        "code": "83285",
+        "colonies": [
+            {
+                "name": "Las Minitas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Nueva Ilusión",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Arco Iris",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Hermosa Provincia",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "San José de las Minitas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Villa Sureña",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "El Mezquite",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cerrada de Minas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Ejido el Buey",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83286": {
+        "code": "83286",
+        "colonies": [
+            {
+                "name": "Tirocapes",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Cerro Apache",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83287": {
+        "code": "83287",
+        "colonies": [
+            {
+                "name": "El Apache",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Nacameri",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "San Ángel",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Ejido de Villa de Seris",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Placitas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Camino del Seri",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Residencial Pima",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Tulipanes",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83288": {
+        "code": "83288",
+        "colonies": [
+            {
+                "name": "Montecarlo Residencial",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Mónaco Privadas Residenciales",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Praderas IV",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Praderas Norte",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Praderas Sur (FOVISSSTE)",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83289": {
+        "code": "83289",
+        "colonies": [
+            {
+                "name": "Las Villas",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83290": {
+        "code": "83290",
+        "colonies": [
+            {
+                "name": "Piedra Bola (Pedregal de la Villa)",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Y Griega",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83293": {
+        "code": "83293",
+        "colonies": [
+            {
+                "name": "Akiwiki",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Lomas Del Mirador",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Del Sol",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Del Sur",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Sección los Manzanos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Central de Abastos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas de Cortes",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Sección Bonita",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Sección Castaños",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Privada las Lomas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Sección El Paraíso",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Privada Del Bosque",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Lomas Real Del Parque",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83294": {
+        "code": "83294",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Los Álamos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Rincón Del Marquez",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83295": {
+        "code": "83295",
+        "colonies": [
+            {
+                "name": "Adolfo de la Huerta",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Comercial Cedros",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83306": {
+        "code": "83306",
+        "colonies": [
+            {
+                "name": "La Cruz",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83310": {
+        "code": "83310",
+        "colonies": [
+            {
+                "name": "Los Pinos (Adolfo López Mateos)",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83323": {
+        "code": "83323",
+        "colonies": [
+            {
+                "name": "Rosalío Parra",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83334": {
+        "code": "83334",
+        "colonies": [
+            {
+                "name": "Santa Elvira",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83336": {
+        "code": "83336",
+        "colonies": [
+            {
+                "name": "El Progreso",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83340": {
+        "code": "83340",
+        "colonies": [
+            {
+                "name": "Bahía de Kino Centro",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83342": {
+        "code": "83342",
+        "colonies": [
+            {
+                "name": "Carnavalito",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Artesanos",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "De la Cruz",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Fuentes",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83343": {
+        "code": "83343",
+        "colonies": [
+            {
+                "name": "Alcatraz",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Mediterráneo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Lomas de Kino",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83344": {
+        "code": "83344",
+        "colonies": [
+            {
+                "name": "Miguel Alemán (La Doce) Centro",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83346": {
+        "code": "83346",
+        "colonies": [
+            {
+                "name": "Aguayo Porchas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Pueblo Unido",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83347": {
+        "code": "83347",
+        "colonies": [
+            {
+                "name": "INFONAVIT",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Jesús Garcia",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "26 de Octubre",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Granjas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Manuel J Clouthier",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83348": {
+        "code": "83348",
+        "colonies": [
+            {
+                "name": "Antonio Méndez",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Salvador Alvarado",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83349": {
+        "code": "83349",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Insurgentes",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Nuevo Triunfo",
+                "municipality": "Hermosillo, Sonora"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Hermosillo, Sonora"
+            }
+        ]
+    },
+    "83383": {
+        "code": "83383",
+        "colonies": [
+            {
+                "name": "El Chamizal",
+                "municipality": "Carbó, Sonora"
+            }
+        ]
+    },
+    "83384": {
+        "code": "83384",
+        "colonies": [
+            {
+                "name": "Ferrocarril",
+                "municipality": "Carbó, Sonora"
+            }
+        ]
+    },
+    "83400": {
+        "code": "83400",
+        "colonies": [
+            {
+                "name": "San Luis Río Colorado Centro",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83403": {
+        "code": "83403",
+        "colonies": [
+            {
+                "name": "Del Río",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83420": {
+        "code": "83420",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "San Luis Río Colorado, Sonora"
+            },
+            {
+                "name": "La Mesa",
+                "municipality": "San Luis Río Colorado, Sonora"
+            },
+            {
+                "name": "Oasis",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83430": {
+        "code": "83430",
+        "colonies": [
+            {
+                "name": "Alameda",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83447": {
+        "code": "83447",
+        "colonies": [
+            {
+                "name": "Jalisco",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83450": {
+        "code": "83450",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83458": {
+        "code": "83458",
+        "colonies": [
+            {
+                "name": "Progreso",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83459": {
+        "code": "83459",
+        "colonies": [
+            {
+                "name": "10 de Abril",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83479": {
+        "code": "83479",
+        "colonies": [
+            {
+                "name": "Aeropuerto",
+                "municipality": "San Luis Río Colorado, Sonora"
+            },
+            {
+                "name": "La Grullita",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83480": {
+        "code": "83480",
+        "colonies": [
+            {
+                "name": "Del Bosque",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83487": {
+        "code": "83487",
+        "colonies": [
+            {
+                "name": "Libertad",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83488": {
+        "code": "83488",
+        "colonies": [
+            {
+                "name": "Mezquite",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83496": {
+        "code": "83496",
+        "colonies": [
+            {
+                "name": "Solidaridad",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83497": {
+        "code": "83497",
+        "colonies": [
+            {
+                "name": "Reforma",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83498": {
+        "code": "83498",
+        "colonies": [
+            {
+                "name": "México",
+                "municipality": "San Luis Río Colorado, Sonora"
+            },
+            {
+                "name": "Nuevo San Luis",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83499": {
+        "code": "83499",
+        "colonies": [
+            {
+                "name": "Campestre",
+                "municipality": "San Luis Río Colorado, Sonora"
+            },
+            {
+                "name": "Villa Colonial",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83500": {
+        "code": "83500",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83503": {
+        "code": "83503",
+        "colonies": [
+            {
+                "name": "Los Olivos",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83504": {
+        "code": "83504",
+        "colonies": [
+            {
+                "name": "Villa Florida",
+                "municipality": "San Luis Río Colorado, Sonora"
+            }
+        ]
+    },
+    "83550": {
+        "code": "83550",
+        "colonies": [
+            {
+                "name": "Puerto Peñasco Centro",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83553": {
+        "code": "83553",
+        "colonies": [
+            {
+                "name": "Oriente",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Parque Industrial",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Nuevo Peñasco",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Josefa Ortiz de Dominguez",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Nueva Aurora",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "El Carcamo",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "La Termoeléctrica",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83554": {
+        "code": "83554",
+        "colonies": [
+            {
+                "name": "Puerto",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "ISSFAM",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Recinto Portuario",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Las Conchas",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Desarrollo Del Mar",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Playa Dorada",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Cerro La Ballena",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83555": {
+        "code": "83555",
+        "colonies": [
+            {
+                "name": "Ferrocarrilero",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Bella Vista",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83556": {
+        "code": "83556",
+        "colonies": [
+            {
+                "name": "José López Portillo",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Nueva",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Lomas Campestres",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Brisas Del Mar",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "La Herradura",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83557": {
+        "code": "83557",
+        "colonies": [
+            {
+                "name": "San Rafael",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "San Rafael (El Choyal)",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83560": {
+        "code": "83560",
+        "colonies": [
+            {
+                "name": "Concretos Gocasa",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83565": {
+        "code": "83565",
+        "colonies": [
+            {
+                "name": "Aceves",
+                "municipality": "Puerto Peñasco, Sonora"
+            },
+            {
+                "name": "Agua Zarca",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83566": {
+        "code": "83566",
+        "colonies": [
+            {
+                "name": "Playa la Joya",
+                "municipality": "Puerto Peñasco, Sonora"
+            }
+        ]
+    },
+    "83570": {
+        "code": "83570",
+        "colonies": [
+            {
+                "name": "Sonoyta Centro",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            }
+        ]
+    },
+    "83573": {
+        "code": "83573",
+        "colonies": [
+            {
+                "name": "La Presa",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            },
+            {
+                "name": "La Copa",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            }
+        ]
+    },
+    "83574": {
+        "code": "83574",
+        "colonies": [
+            {
+                "name": "Hombres Blancos",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            }
+        ]
+    },
+    "83575": {
+        "code": "83575",
+        "colonies": [
+            {
+                "name": "Obregón",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            },
+            {
+                "name": "Sahop",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            },
+            {
+                "name": "Burócrata",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            }
+        ]
+    },
+    "83577": {
+        "code": "83577",
+        "colonies": [
+            {
+                "name": "La Ganadera",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            },
+            {
+                "name": "Vivah",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            }
+        ]
+    },
+    "83584": {
+        "code": "83584",
+        "colonies": [
+            {
+                "name": "Aduana San Emeterio",
+                "municipality": "General Plutarco Elías Calles, Sonora"
+            }
+        ]
+    },
+    "83600": {
+        "code": "83600",
+        "colonies": [
+            {
+                "name": "Heroica Caborca Centro",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83610": {
+        "code": "83610",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "La Huerta",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83620": {
+        "code": "83620",
+        "colonies": [
+            {
+                "name": "Deportiva",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83621": {
+        "code": "83621",
+        "colonies": [
+            {
+                "name": "Eleazar Ortiz",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83624": {
+        "code": "83624",
+        "colonies": [
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Ampliación Santa Cecilia",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Nueva Santa Cecilia",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83630": {
+        "code": "83630",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83634": {
+        "code": "83634",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Bonito",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Infonavit Bugambilias",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Palma Dorada Sección Mallorca",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83640": {
+        "code": "83640",
+        "colonies": [
+            {
+                "name": "Industrial",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83650": {
+        "code": "83650",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83660": {
+        "code": "83660",
+        "colonies": [
+            {
+                "name": "Contreras",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Agronómica",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "INFONAVIT Benito Juárez",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83663": {
+        "code": "83663",
+        "colonies": [
+            {
+                "name": "El Cerrito",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "El Ventarrón",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83664": {
+        "code": "83664",
+        "colonies": [
+            {
+                "name": "Aurora",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Fernando Honorato Pino",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Ladrillera",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Misiones de Kino Infonavit",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Infonavit San Javier",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83665": {
+        "code": "83665",
+        "colonies": [
+            {
+                "name": "Infonavit Ventarrón",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Infonavit Jose Maria Girón",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83666": {
+        "code": "83666",
+        "colonies": [
+            {
+                "name": "Armando Reyna",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83670": {
+        "code": "83670",
+        "colonies": [
+            {
+                "name": "Lizárraga",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83680": {
+        "code": "83680",
+        "colonies": [
+            {
+                "name": "Pueblo Viejo",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Kino Infonavit",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Los Jardines",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Doctores",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83690": {
+        "code": "83690",
+        "colonies": [
+            {
+                "name": "El Alto",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Pagasa",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83695": {
+        "code": "83695",
+        "colonies": [
+            {
+                "name": "Las Granjas",
+                "municipality": "Caborca, Sonora"
+            },
+            {
+                "name": "Arcos de Lee",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83720": {
+        "code": "83720",
+        "colonies": [
+            {
+                "name": "La Almita",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83730": {
+        "code": "83730",
+        "colonies": [
+            {
+                "name": "Las Torres",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83733": {
+        "code": "83733",
+        "colonies": [
+            {
+                "name": "Cecytes",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83735": {
+        "code": "83735",
+        "colonies": [
+            {
+                "name": "Los Laureles",
+                "municipality": "Caborca, Sonora"
+            }
+        ]
+    },
+    "83750": {
+        "code": "83750",
+        "colonies": [
+            {
+                "name": "Altar Centro",
+                "municipality": "Altar, Sonora"
+            }
+        ]
+    },
+    "83753": {
+        "code": "83753",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Altar, Sonora"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Altar, Sonora"
+            }
+        ]
+    },
+    "83754": {
+        "code": "83754",
+        "colonies": [
+            {
+                "name": "Las Lomas",
+                "municipality": "Altar, Sonora"
+            },
+            {
+                "name": "De Arriba",
+                "municipality": "Altar, Sonora"
+            }
+        ]
+    },
+    "83755": {
+        "code": "83755",
+        "colonies": [
+            {
+                "name": "La Otra Banda",
+                "municipality": "Altar, Sonora"
+            }
+        ]
+    },
+    "83756": {
+        "code": "83756",
+        "colonies": [
+            {
+                "name": "Valle Del Sol",
+                "municipality": "Altar, Sonora"
+            },
+            {
+                "name": "De Abajo",
+                "municipality": "Altar, Sonora"
+            }
+        ]
+    },
+    "83757": {
+        "code": "83757",
+        "colonies": [
+            {
+                "name": "Magisterial",
+                "municipality": "Altar, Sonora"
+            },
+            {
+                "name": "Niños Heroes",
+                "municipality": "Altar, Sonora"
+            }
+        ]
+    },
+    "83903": {
+        "code": "83903",
+        "colonies": [
+            {
+                "name": "San Fernando",
+                "municipality": "Benjamín Hill, Sonora"
+            }
+        ]
+    },
+    "83904": {
+        "code": "83904",
+        "colonies": [
+            {
+                "name": "Infonavit",
+                "municipality": "Benjamín Hill, Sonora"
+            }
+        ]
+    },
+    "83906": {
+        "code": "83906",
+        "colonies": [
+            {
+                "name": "Jesús Siqueiros",
+                "municipality": "Benjamín Hill, Sonora"
+            }
+        ]
+    },
+    "83907": {
+        "code": "83907",
+        "colonies": [
+            {
+                "name": "Fundo Legal",
+                "municipality": "Benjamín Hill, Sonora"
+            },
+            {
+                "name": "Ferrocarril",
+                "municipality": "Benjamín Hill, Sonora"
+            }
+        ]
+    },
+    "83931": {
+        "code": "83931",
+        "colonies": [
+            {
+                "name": "El Ocuca",
+                "municipality": "Trincheras, Sonora"
+            }
+        ]
+    },
+    "83960": {
+        "code": "83960",
+        "colonies": [
+            {
+                "name": "Barrio Zaragoza",
+                "municipality": "Pitiquito, Sonora"
+            },
+            {
+                "name": "INFONAVIT San Diego",
+                "municipality": "Pitiquito, Sonora"
+            },
+            {
+                "name": "Barrio Guadalupe",
+                "municipality": "Pitiquito, Sonora"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "Pitiquito, Sonora"
+            },
+            {
+                "name": "Barrio Luz Molina",
+                "municipality": "Pitiquito, Sonora"
+            },
+            {
+                "name": "Las Pilas",
+                "municipality": "Pitiquito, Sonora"
+            }
+        ]
+    },
+    "83990": {
+        "code": "83990",
+        "colonies": [
+            {
+                "name": "Desemboque de los Seris (El Desemboque)",
+                "municipality": "Pitiquito, Sonora"
+            }
+        ]
+    },
+    "84000": {
+        "code": "84000",
+        "colonies": [
+            {
+                "name": "Heroica Nogales Centro",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84010": {
+        "code": "84010",
+        "colonies": [
+            {
+                "name": "Buenos Aires",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84014": {
+        "code": "84014",
+        "colonies": [
+            {
+                "name": "Embarcaderos",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84015": {
+        "code": "84015",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84017": {
+        "code": "84017",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84018": {
+        "code": "84018",
+        "colonies": [
+            {
+                "name": "Buenos Aires Este",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84020": {
+        "code": "84020",
+        "colonies": [
+            {
+                "name": "Del Rosario",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Lomas de Fátima",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Pima I",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84024": {
+        "code": "84024",
+        "colonies": [
+            {
+                "name": "Pima II",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "FOVISSSTE II",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84030": {
+        "code": "84030",
+        "colonies": [
+            {
+                "name": "Fundo Legal",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Héroes",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Municipal",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Félix B Peñaloza",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84035": {
+        "code": "84035",
+        "colonies": [
+            {
+                "name": "Artículo 27",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84040": {
+        "code": "84040",
+        "colonies": [
+            {
+                "name": "Los Sauces",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "CTS CROC",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84046": {
+        "code": "84046",
+        "colonies": [
+            {
+                "name": "Del Valle II",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Del Valle I",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Del Valle III",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84047": {
+        "code": "84047",
+        "colonies": [
+            {
+                "name": "Altamira",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84048": {
+        "code": "84048",
+        "colonies": [
+            {
+                "name": "Obrera",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84050": {
+        "code": "84050",
+        "colonies": [
+            {
+                "name": "Chulavista",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84055": {
+        "code": "84055",
+        "colonies": [
+            {
+                "name": "Moderna",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84060": {
+        "code": "84060",
+        "colonies": [
+            {
+                "name": "Bolívar",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Esperanza",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84063": {
+        "code": "84063",
+        "colonies": [
+            {
+                "name": "Kennedy",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Del Rastro",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Las Torres",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Jardines de La Montaña",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Hermanos Flores Magón",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84064": {
+        "code": "84064",
+        "colonies": [
+            {
+                "name": "Buenavista",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Los Encinos",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Sierra Vista",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Rancho Contento",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Rincón Alegre",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84065": {
+        "code": "84065",
+        "colonies": [
+            {
+                "name": "Granja",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Los Tapiros",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Manlio Fabio Beltrones",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84066": {
+        "code": "84066",
+        "colonies": [
+            {
+                "name": "Kalitea",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "El Greco",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84069": {
+        "code": "84069",
+        "colonies": [
+            {
+                "name": "Canoas",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84074": {
+        "code": "84074",
+        "colonies": [
+            {
+                "name": "Empalme",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Oaxaca",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84075": {
+        "code": "84075",
+        "colonies": [
+            {
+                "name": "Villa Señor",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84076": {
+        "code": "84076",
+        "colonies": [
+            {
+                "name": "Leandro Valle",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Rosarito",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Veracruz",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Rosarito II",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Colinas del Sol",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84080": {
+        "code": "84080",
+        "colonies": [
+            {
+                "name": "Lomas de Nogales",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Belisario Domínguez",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84085": {
+        "code": "84085",
+        "colonies": [
+            {
+                "name": "Los Álamos",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84086": {
+        "code": "84086",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84090": {
+        "code": "84090",
+        "colonies": [
+            {
+                "name": "Los Virreyes",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Santa Lucía",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84093": {
+        "code": "84093",
+        "colonies": [
+            {
+                "name": "Villa Sonora",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84094": {
+        "code": "84094",
+        "colonies": [
+            {
+                "name": "Siglo XXI",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Nuevo Nogales",
+                "municipality": "Nogales, Sonora"
+            },
+            {
+                "name": "Zona Fiscal",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84100": {
+        "code": "84100",
+        "colonies": [
+            {
+                "name": "La Arizona (La Hacienda)",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84110": {
+        "code": "84110",
+        "colonies": [
+            {
+                "name": "Mascareña (Casas del Ferrocarril)",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84116": {
+        "code": "84116",
+        "colonies": [
+            {
+                "name": "Cíbuta",
+                "municipality": "Nogales, Sonora"
+            }
+        ]
+    },
+    "84120": {
+        "code": "84120",
+        "colonies": [
+            {
+                "name": "Imuris Centro",
+                "municipality": "Imuris, Sonora"
+            }
+        ]
+    },
+    "84123": {
+        "code": "84123",
+        "colonies": [
+            {
+                "name": "Plutarco Elias",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "Leandro Valle",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Imuris, Sonora"
+            }
+        ]
+    },
+    "84124": {
+        "code": "84124",
+        "colonies": [
+            {
+                "name": "Solidaridad",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "El Sahuaral",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "El Vivero",
+                "municipality": "Imuris, Sonora"
+            }
+        ]
+    },
+    "84125": {
+        "code": "84125",
+        "colonies": [
+            {
+                "name": "El Rastro",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "El Estadio",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "La Victoria",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "Aviación",
+                "municipality": "Imuris, Sonora"
+            }
+        ]
+    },
+    "84126": {
+        "code": "84126",
+        "colonies": [
+            {
+                "name": "La Estación",
+                "municipality": "Imuris, Sonora"
+            }
+        ]
+    },
+    "84136": {
+        "code": "84136",
+        "colonies": [
+            {
+                "name": "La Mesa",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "Terrenate",
+                "municipality": "Imuris, Sonora"
+            },
+            {
+                "name": "Cañada del Diablo",
+                "municipality": "Imuris, Sonora"
+            }
+        ]
+    },
+    "84160": {
+        "code": "84160",
+        "colonies": [
+            {
+                "name": "Magdalena de Kino Centro",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "Lomas de Kino",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "Fátima",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "INFONAVIT I",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "La Madera",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "La Antena",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "La Victoria",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "La Choya",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "El Mirasol",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "El Polvorín",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "Garcia Barragán",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "San Felipe",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "Los Rosales",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "San Martin",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "La Industria",
+                "municipality": "Magdalena, Sonora"
+            },
+            {
+                "name": "Guadalupe Madrid",
+                "municipality": "Magdalena, Sonora"
+            }
+        ]
+    },
+    "84164": {
+        "code": "84164",
+        "colonies": [
+            {
+                "name": "Ferrocarril",
+                "municipality": "Magdalena, Sonora"
+            }
+        ]
+    },
+    "84166": {
+        "code": "84166",
+        "colonies": [
+            {
+                "name": "El Rastro",
+                "municipality": "Magdalena, Sonora"
+            }
+        ]
+    },
+    "84167": {
+        "code": "84167",
+        "colonies": [
+            {
+                "name": "El Sasabe",
+                "municipality": "Magdalena, Sonora"
+            }
+        ]
+    },
+    "84175": {
+        "code": "84175",
+        "colonies": [
+            {
+                "name": "Los Rosales",
+                "municipality": "Magdalena, Sonora"
+            }
+        ]
+    },
+    "84180": {
+        "code": "84180",
+        "colonies": [
+            {
+                "name": "Naco Centro",
+                "municipality": "Naco, Sonora"
+            }
+        ]
+    },
+    "84183": {
+        "code": "84183",
+        "colonies": [
+            {
+                "name": "Jesús García",
+                "municipality": "Naco, Sonora"
+            },
+            {
+                "name": "San José",
+                "municipality": "Naco, Sonora"
+            }
+        ]
+    },
+    "84184": {
+        "code": "84184",
+        "colonies": [
+            {
+                "name": "Minerva",
+                "municipality": "Naco, Sonora"
+            },
+            {
+                "name": "Barrio de La Cruz",
+                "municipality": "Naco, Sonora"
+            },
+            {
+                "name": "Infonavit Colima Sol",
+                "municipality": "Naco, Sonora"
+            },
+            {
+                "name": "Barrio Nuevo",
+                "municipality": "Naco, Sonora"
+            }
+        ]
+    },
+    "84185": {
+        "code": "84185",
+        "colonies": [
+            {
+                "name": "Cerro La Cruz",
+                "municipality": "Naco, Sonora"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Naco, Sonora"
+            },
+            {
+                "name": "Colosio",
+                "municipality": "Naco, Sonora"
+            },
+            {
+                "name": "Los Encinos",
+                "municipality": "Naco, Sonora"
+            }
+        ]
+    },
+    "84186": {
+        "code": "84186",
+        "colonies": [
+            {
+                "name": "Pancho García",
+                "municipality": "Naco, Sonora"
+            }
+        ]
+    },
+    "84187": {
+        "code": "84187",
+        "colonies": [
+            {
+                "name": "Santa Cruz",
+                "municipality": "Naco, Sonora"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Naco, Sonora"
+            }
+        ]
+    },
+    "84200": {
+        "code": "84200",
+        "colonies": [
+            {
+                "name": "Agua Prieta Centro",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84210": {
+        "code": "84210",
+        "colonies": [
+            {
+                "name": "Ferrocarril",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Sector Industrial",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84220": {
+        "code": "84220",
+        "colonies": [
+            {
+                "name": "Militar",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84230": {
+        "code": "84230",
+        "colonies": [
+            {
+                "name": "Obrera",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Deportiva",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "El Alamito INFONAVIT",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Lomas del Sol",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Cueva de los Leones",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Las Praderas",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84240": {
+        "code": "84240",
+        "colonies": [
+            {
+                "name": "Jesús García",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84250": {
+        "code": "84250",
+        "colonies": [
+            {
+                "name": "Nueva",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84259": {
+        "code": "84259",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Ladrillera",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Tres Caminos",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Ladrillera II",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84260": {
+        "code": "84260",
+        "colonies": [
+            {
+                "name": "Vallarta",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Esperanza",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84267": {
+        "code": "84267",
+        "colonies": [
+            {
+                "name": "Vildosola",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Instituto Tecnológico",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Armando López Nogales",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84269": {
+        "code": "84269",
+        "colonies": [
+            {
+                "name": "Bicentenario",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "INFONAVIT Industrial",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Beltrones",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Ejidal II",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Buenos Aires",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Las Colinas",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Querobabi",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84270": {
+        "code": "84270",
+        "colonies": [
+            {
+                "name": "Manuel J Clouthier",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Acapulco",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Salsipuedes",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Burócrata",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Los Cipreses",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "San Ángel",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84279": {
+        "code": "84279",
+        "colonies": [
+            {
+                "name": "Nuevo Progreso",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "Bachicuy",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84300": {
+        "code": "84300",
+        "colonies": [
+            {
+                "name": "Colonia Morelos",
+                "municipality": "Agua Prieta, Sonora"
+            },
+            {
+                "name": "El Fresno",
+                "municipality": "Agua Prieta, Sonora"
+            }
+        ]
+    },
+    "84320": {
+        "code": "84320",
+        "colonies": [
+            {
+                "name": "Ferrocarril",
+                "municipality": "Fronteras, Sonora"
+            },
+            {
+                "name": "Molino",
+                "municipality": "Fronteras, Sonora"
+            },
+            {
+                "name": "Yaqui",
+                "municipality": "Fronteras, Sonora"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Fronteras, Sonora"
+            }
+        ]
+    },
+    "84323": {
+        "code": "84323",
+        "colonies": [
+            {
+                "name": "Balcón",
+                "municipality": "Fronteras, Sonora"
+            }
+        ]
+    },
+    "84330": {
+        "code": "84330",
+        "colonies": [
+            {
+                "name": "Esqueda Centro",
+                "municipality": "Fronteras, Sonora"
+            }
+        ]
+    },
+    "84333": {
+        "code": "84333",
+        "colonies": [
+            {
+                "name": "Infonavit",
+                "municipality": "Fronteras, Sonora"
+            },
+            {
+                "name": "Los Álamos",
+                "municipality": "Fronteras, Sonora"
+            }
+        ]
+    },
+    "84334": {
+        "code": "84334",
+        "colonies": [
+            {
+                "name": "Ejidal",
+                "municipality": "Fronteras, Sonora"
+            },
+            {
+                "name": "Minera",
+                "municipality": "Fronteras, Sonora"
+            }
+        ]
+    },
+    "84335": {
+        "code": "84335",
+        "colonies": [
+            {
+                "name": "Del Río",
+                "municipality": "Fronteras, Sonora"
+            },
+            {
+                "name": "Valle",
+                "municipality": "Fronteras, Sonora"
+            }
+        ]
+    },
+    "84336": {
+        "code": "84336",
+        "colonies": [
+            {
+                "name": "El Bajío",
+                "municipality": "Fronteras, Sonora"
+            }
+        ]
+    },
+    "84340": {
+        "code": "84340",
+        "colonies": [
+            {
+                "name": "Las Torres",
+                "municipality": "Nacozari de García, Sonora"
+            },
+            {
+                "name": "Nacozari de García Centro",
+                "municipality": "Nacozari de García, Sonora"
+            },
+            {
+                "name": "Cantera 2",
+                "municipality": "Nacozari de García, Sonora"
+            },
+            {
+                "name": "Cantera 1",
+                "municipality": "Nacozari de García, Sonora"
+            },
+            {
+                "name": "Puesta Del Sol",
+                "municipality": "Nacozari de García, Sonora"
+            },
+            {
+                "name": "Lomas Nuevas",
+                "municipality": "Nacozari de García, Sonora"
+            },
+            {
+                "name": "Lomas de Nacozari",
+                "municipality": "Nacozari de García, Sonora"
+            },
+            {
+                "name": "Tepupa",
+                "municipality": "Nacozari de García, Sonora"
+            }
+        ]
+    },
+    "84346": {
+        "code": "84346",
+        "colonies": [
+            {
+                "name": "Satélite Tres",
+                "municipality": "Nacozari de García, Sonora"
+            }
+        ]
+    },
+    "84347": {
+        "code": "84347",
+        "colonies": [
+            {
+                "name": "El Globo",
+                "municipality": "Nacozari de García, Sonora"
+            }
+        ]
+    },
+    "84415": {
+        "code": "84415",
+        "colonies": [
+            {
+                "name": "Juribana",
+                "municipality": "Huachinera, Sonora"
+            }
+        ]
+    },
+    "84445": {
+        "code": "84445",
+        "colonies": [
+            {
+                "name": "El Sauz",
+                "municipality": "Nácori Chico, Sonora"
+            }
+        ]
+    },
+    "84483": {
+        "code": "84483",
+        "colonies": [
+            {
+                "name": "San Martín",
+                "municipality": "Bacadéhuachi, Sonora"
+            }
+        ]
+    },
+    "84484": {
+        "code": "84484",
+        "colonies": [
+            {
+                "name": "San Juan",
+                "municipality": "Bacadéhuachi, Sonora"
+            }
+        ]
+    },
+    "84485": {
+        "code": "84485",
+        "colonies": [
+            {
+                "name": "San Marcos",
+                "municipality": "Bacadéhuachi, Sonora"
+            }
+        ]
+    },
+    "84486": {
+        "code": "84486",
+        "colonies": [
+            {
+                "name": "San Luis",
+                "municipality": "Bacadéhuachi, Sonora"
+            }
+        ]
+    },
+    "84500": {
+        "code": "84500",
+        "colonies": [
+            {
+                "name": "Cumpas",
+                "municipality": "Cumpas, Sonora"
+            }
+        ]
+    },
+    "84503": {
+        "code": "84503",
+        "colonies": [
+            {
+                "name": "Norte",
+                "municipality": "Cumpas, Sonora"
+            }
+        ]
+    },
+    "84504": {
+        "code": "84504",
+        "colonies": [
+            {
+                "name": "La Loma",
+                "municipality": "Cumpas, Sonora"
+            }
+        ]
+    },
+    "84505": {
+        "code": "84505",
+        "colonies": [
+            {
+                "name": "Los Mochis",
+                "municipality": "Cumpas, Sonora"
+            }
+        ]
+    },
+    "84506": {
+        "code": "84506",
+        "colonies": [
+            {
+                "name": "Pedregoza",
+                "municipality": "Cumpas, Sonora"
+            }
+        ]
+    },
+    "84507": {
+        "code": "84507",
+        "colonies": [
+            {
+                "name": "Los Huitos",
+                "municipality": "Cumpas, Sonora"
+            }
+        ]
+    },
+    "84510": {
+        "code": "84510",
+        "colonies": [
+            {
+                "name": "Bella Esperanza",
+                "municipality": "Cumpas, Sonora"
+            }
+        ]
+    },
+    "84533": {
+        "code": "84533",
+        "colonies": [
+            {
+                "name": "Buscuchi",
+                "municipality": "Huásabas, Sonora"
+            }
+        ]
+    },
+    "84534": {
+        "code": "84534",
+        "colonies": [
+            {
+                "name": "Nuevo",
+                "municipality": "Huásabas, Sonora"
+            }
+        ]
+    },
+    "84535": {
+        "code": "84535",
+        "colonies": [
+            {
+                "name": "Basuchon",
+                "municipality": "Huásabas, Sonora"
+            }
+        ]
+    },
+    "84536": {
+        "code": "84536",
+        "colonies": [
+            {
+                "name": "La Isla",
+                "municipality": "Huásabas, Sonora"
+            }
+        ]
+    },
+    "84560": {
+        "code": "84560",
+        "colonies": [
+            {
+                "name": "Moctezuma",
+                "municipality": "Moctezuma, Sonora"
+            }
+        ]
+    },
+    "84563": {
+        "code": "84563",
+        "colonies": [
+            {
+                "name": "Coplamar",
+                "municipality": "Moctezuma, Sonora"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Moctezuma, Sonora"
+            },
+            {
+                "name": "Samuel Ocaña",
+                "municipality": "Moctezuma, Sonora"
+            }
+        ]
+    },
+    "84564": {
+        "code": "84564",
+        "colonies": [
+            {
+                "name": "Esperanza",
+                "municipality": "Moctezuma, Sonora"
+            },
+            {
+                "name": "La Joya",
+                "municipality": "Moctezuma, Sonora"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Moctezuma, Sonora"
+            }
+        ]
+    },
+    "84565": {
+        "code": "84565",
+        "colonies": [
+            {
+                "name": "El Parian",
+                "municipality": "Moctezuma, Sonora"
+            },
+            {
+                "name": "La Pila",
+                "municipality": "Moctezuma, Sonora"
+            }
+        ]
+    },
+    "84566": {
+        "code": "84566",
+        "colonies": [
+            {
+                "name": "Las Liebre",
+                "municipality": "Moctezuma, Sonora"
+            },
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Moctezuma, Sonora"
+            }
+        ]
+    },
+    "84567": {
+        "code": "84567",
+        "colonies": [
+            {
+                "name": "Reforma",
+                "municipality": "Moctezuma, Sonora"
+            }
+        ]
+    },
+    "84600": {
+        "code": "84600",
+        "colonies": [
+            {
+                "name": "Santa Ana Centro",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Bellavista",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Kilómetro 106",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Infonavit 2",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "El Mirador",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "La Loma",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Fátima",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Las Playitas",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "3 Imágenes",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "V 8",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "La Terracita",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Del Rio",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Fovissste",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "Lomas de Santa Ana",
+                "municipality": "Santa Ana, Sonora"
+            },
+            {
+                "name": "La Granja",
+                "municipality": "Santa Ana, Sonora"
+            }
+        ]
+    },
+    "84603": {
+        "code": "84603",
+        "colonies": [
+            {
+                "name": "Santa Ana Viejo",
+                "municipality": "Santa Ana, Sonora"
+            }
+        ]
+    },
+    "84620": {
+        "code": "84620",
+        "colonies": [
+            {
+                "name": "Heroica Ciudad de Cananea Centro",
+                "municipality": "Cananea, Sonora"
+            }
+        ]
+    },
+    "84622": {
+        "code": "84622",
+        "colonies": [
+            {
+                "name": "Cananea Vieja",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Cananea Vieja Sección Sur",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "El Peñascal",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "El Llanito",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "El Volteadero",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Mesa de Garibay",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Petroleros",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Leyes de Reforma",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Barrilito",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "La Estación",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Petroleros 2",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Fucuy",
+                "municipality": "Cananea, Sonora"
+            }
+        ]
+    },
+    "84623": {
+        "code": "84623",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Minera Sección Oeste",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Industrial",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Mártires de Cananea",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Agropecuaria",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Valle Del Cobre",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Los Hangares",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Valle Grande",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Santa Teresa",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Leyes de Reforma II",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Nuevo Cananea",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Napoleón Gómez Zada",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "El Dorado",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Boulevard",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Río Blanco",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "La Empacadora",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Nuevo Buenavista",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Magisterio",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "1 de Junio",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Cañada del Sol",
+                "municipality": "Cananea, Sonora"
+            }
+        ]
+    },
+    "84624": {
+        "code": "84624",
+        "colonies": [
+            {
+                "name": "El Ronquillo",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Mesa Sur",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Planta Nueva",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "H Ayuntamiento",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "El Romerillo",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Campestre",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Los Pinos",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Minera Sección Este",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Recintos del Cobre",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Campestre Oriente",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Tres Marías",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Estadio",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Cementerio Viejo",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Santo Niño",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "El Hoyo",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Monarca",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Mesa Norte",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Correo",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "El Green",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "Fortín",
+                "municipality": "Cananea, Sonora"
+            },
+            {
+                "name": "El Faro",
+                "municipality": "Cananea, Sonora"
+            }
+        ]
+    },
+    "84640": {
+        "code": "84640",
+        "colonies": [
+            {
+                "name": "Arizpe Centro",
+                "municipality": "Arizpe, Sonora"
+            },
+            {
+                "name": "El Alamito",
+                "municipality": "Arizpe, Sonora"
+            },
+            {
+                "name": "Loma Sur",
+                "municipality": "Arizpe, Sonora"
+            },
+            {
+                "name": "Pueblito de Ures",
+                "municipality": "Arizpe, Sonora"
+            },
+            {
+                "name": "Nuevo Arizpe",
+                "municipality": "Arizpe, Sonora"
+            }
+        ]
+    },
+    "84683": {
+        "code": "84683",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Bacoachi, Sonora"
+            }
+        ]
+    },
+    "84710": {
+        "code": "84710",
+        "colonies": [
+            {
+                "name": "Nuevo Tepupa",
+                "municipality": "San Pedro de la Cueva, Sonora"
+            }
+        ]
+    },
+    "84863": {
+        "code": "84863",
+        "colonies": [
+            {
+                "name": "Porvenir",
+                "municipality": "Huépac, Sonora"
+            }
+        ]
+    },
+    "84864": {
+        "code": "84864",
+        "colonies": [
+            {
+                "name": "Sur",
+                "municipality": "Huépac, Sonora"
+            }
+        ]
+    },
+    "84865": {
+        "code": "84865",
+        "colonies": [
+            {
+                "name": "Norte",
+                "municipality": "Huépac, Sonora"
+            }
+        ]
+    },
+    "84874": {
+        "code": "84874",
+        "colonies": [
+            {
+                "name": "Ranchito de Huépac",
+                "municipality": "Huépac, Sonora"
+            }
+        ]
+    },
+    "84900": {
+        "code": "84900",
+        "colonies": [
+            {
+                "name": "San Pedro de Ures (San Pedro)",
+                "municipality": "Ures, Sonora"
+            },
+            {
+                "name": "Heroica Ciudad de Ures Centro",
+                "municipality": "Ures, Sonora"
+            }
+        ]
+    },
+    "84943": {
+        "code": "84943",
+        "colonies": [
+            {
+                "name": "Loma Norte",
+                "municipality": "Baviácora, Sonora"
+            }
+        ]
+    },
+    "84944": {
+        "code": "84944",
+        "colonies": [
+            {
+                "name": "Panteón",
+                "municipality": "Baviácora, Sonora"
+            }
+        ]
+    },
+    "84945": {
+        "code": "84945",
+        "colonies": [
+            {
+                "name": "Loma Sur",
+                "municipality": "Baviácora, Sonora"
+            }
+        ]
+    },
+    "85000": {
+        "code": "85000",
+        "colonies": [
+            {
+                "name": "Ciudad Obregón Centro",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Urbanizable I",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Urbanizable 2",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Urbanizable 3",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Urbanizable 4",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Urbanizable 5",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Urbanizable 7",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85010": {
+        "code": "85010",
+        "colonies": [
+            {
+                "name": "Real del Sol Ampliación",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85019": {
+        "code": "85019",
+        "colonies": [
+            {
+                "name": "Obregón Norte Ampliación",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Obregón Norte",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Real Del Sol",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Los Alisos",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85020": {
+        "code": "85020",
+        "colonies": [
+            {
+                "name": "Matías Mendez",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Manlio Fabio Beltrones",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Villa Guadalupe",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Amanecer 1",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Pioneros de Cajeme",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85023": {
+        "code": "85023",
+        "colonies": [
+            {
+                "name": "Sierra Vista",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85024": {
+        "code": "85024",
+        "colonies": [
+            {
+                "name": "Amanecer 2",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Los Olivos",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85030": {
+        "code": "85030",
+        "colonies": [
+            {
+                "name": "Agronomos",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85038": {
+        "code": "85038",
+        "colonies": [
+            {
+                "name": "Villa California",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "La Joya Villa California IV",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Túnel",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85040": {
+        "code": "85040",
+        "colonies": [
+            {
+                "name": "Electricista",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Zona Norte",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85050": {
+        "code": "85050",
+        "colonies": [
+            {
+                "name": "Cajeme",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Nuevo Cajeme",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Real Del Bosque",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85053": {
+        "code": "85053",
+        "colonies": [
+            {
+                "name": "Los Angeles",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Casa Real",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Los Patios",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85060": {
+        "code": "85060",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85063": {
+        "code": "85063",
+        "colonies": [
+            {
+                "name": "Santa Fe",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Linda Vista",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Mirasierra",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Vista Hermosa",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85064": {
+        "code": "85064",
+        "colonies": [
+            {
+                "name": "Campanario",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Las Haciendas",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85065": {
+        "code": "85065",
+        "colonies": [
+            {
+                "name": "Parque Industrial",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Ramiro Valdez",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Villa Satélite",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85070": {
+        "code": "85070",
+        "colonies": [
+            {
+                "name": "La Reforma",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85080": {
+        "code": "85080",
+        "colonies": [
+            {
+                "name": "Municipio Libre",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85090": {
+        "code": "85090",
+        "colonies": [
+            {
+                "name": "San Anselmo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Miravalle",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85095": {
+        "code": "85095",
+        "colonies": [
+            {
+                "name": "Valle Dorado",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85096": {
+        "code": "85096",
+        "colonies": [
+            {
+                "name": "Villa Fontana",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Nueva Galicia",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "El Rodeo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Villas de Cortés",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85097": {
+        "code": "85097",
+        "colonies": [
+            {
+                "name": "Valle Verde",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Villas de Trigo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Misión Del Sol",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Paseo Alameda",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Hacienda Del Sol",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85098": {
+        "code": "85098",
+        "colonies": [
+            {
+                "name": "La Misión",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Sóstenes Valenzuela",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Primero de Mayo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85099": {
+        "code": "85099",
+        "colonies": [
+            {
+                "name": "Ampliación Miravalle",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85100": {
+        "code": "85100",
+        "colonies": [
+            {
+                "name": "Chapultepec",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Noroeste",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Cincuentenario",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Altar Residencial",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85110": {
+        "code": "85110",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc (Urbanizable 6)",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Quinta Diaz",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Ampliación Cuauhtémoc (Urbanizable 6)",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85120": {
+        "code": "85120",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Santa Anita",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Multifamiliares IMSS",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85130": {
+        "code": "85130",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Fuentes Del Bosque",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Del Bosque",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Villa Itson",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85134": {
+        "code": "85134",
+        "colonies": [
+            {
+                "name": "Casa Blanca",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "San Juan Capistrano",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Privada de La Laguna",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Misioneros",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85136": {
+        "code": "85136",
+        "colonies": [
+            {
+                "name": "Villa del Nainari",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85137": {
+        "code": "85137",
+        "colonies": [
+            {
+                "name": "Nainari Del Yaqui",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85138": {
+        "code": "85138",
+        "colonies": [
+            {
+                "name": "Del Lago",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85140": {
+        "code": "85140",
+        "colonies": [
+            {
+                "name": "Cumuripa",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Hidalgo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Otancahui",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Las Arboledas",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Lázaro Mercado",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Las Torres",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Palmar",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Racket",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85148": {
+        "code": "85148",
+        "colonies": [
+            {
+                "name": "Ladrillera",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85149": {
+        "code": "85149",
+        "colonies": [
+            {
+                "name": "Ampliación Cumuripa",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85150": {
+        "code": "85150",
+        "colonies": [
+            {
+                "name": "La Florida",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Prados Del Tepeyac",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Sochiloa",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Real Del Arco",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Hacienda Real",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Prados del Tepeyac Terra",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85153": {
+        "code": "85153",
+        "colonies": [
+            {
+                "name": "Robles Del Castillo Colectivista",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85154": {
+        "code": "85154",
+        "colonies": [
+            {
+                "name": "Las Fuentes",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Las Espigas",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Las Fuentes II",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Colinas del Yaqui",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85160": {
+        "code": "85160",
+        "colonies": [
+            {
+                "name": "Herradura",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Campestre",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Cortinas 1ra. Sección",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Campestre 2da. Ampliación",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85167": {
+        "code": "85167",
+        "colonies": [
+            {
+                "name": "Cortinas 4ta. Sección",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85168": {
+        "code": "85168",
+        "colonies": [
+            {
+                "name": "Cortinas 3ra. Sección",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85169": {
+        "code": "85169",
+        "colonies": [
+            {
+                "name": "Cortinas 2da. Sección",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85170": {
+        "code": "85170",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85180": {
+        "code": "85180",
+        "colonies": [
+            {
+                "name": "Faustino Félix Serna",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85190": {
+        "code": "85190",
+        "colonies": [
+            {
+                "name": "México",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Rincón Del Valle",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Palma Real",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Quinta Real",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Pedregal",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85194": {
+        "code": "85194",
+        "colonies": [
+            {
+                "name": "Francisco Eusebio Kino",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85195": {
+        "code": "85195",
+        "colonies": [
+            {
+                "name": "Maximiliano Rubio López",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Cuauhtémoc Cárdenas",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Esperanza Tiznada",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85196": {
+        "code": "85196",
+        "colonies": [
+            {
+                "name": "Jardines Del Valle",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85197": {
+        "code": "85197",
+        "colonies": [
+            {
+                "name": "Russo Vogel",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85198": {
+        "code": "85198",
+        "colonies": [
+            {
+                "name": "Aves Del Castillo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Los Sauces",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Sonora",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Ultratec Aves",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85199": {
+        "code": "85199",
+        "colonies": [
+            {
+                "name": "Robles Del Castillo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Luis Echeverría Álvarez (Álvaro Obregón)",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85200": {
+        "code": "85200",
+        "colonies": [
+            {
+                "name": "Zona Urbana",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Héroes del 47",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Campestre",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Javier Lamarque Cano",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Juárez Blancas",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Mártires de San Ignacio",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Rodolfo Félix Valdez",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Zona Ejidal",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85203": {
+        "code": "85203",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc (Campo Cinco)",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Providencia",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Severo Girón",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Armando López Nogales",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Ciudad del Cielo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Sin Ley",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85204": {
+        "code": "85204",
+        "colonies": [
+            {
+                "name": "Marte R Gómez (Tobarito)",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Del Valle",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "La Estrellita",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Los Trigales",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Zona Urbana Ejidal",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85210": {
+        "code": "85210",
+        "colonies": [
+            {
+                "name": "Robinson Bours",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Leandro Valle",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Valle de Héroes",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Nueva Esperanza",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Francisco Urbalejo",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Sonora",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Luis Antillan",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Hogar y Patrimonio",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Blanca Ramos",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Praderas",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Praderas Altas",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85218": {
+        "code": "85218",
+        "colonies": [
+            {
+                "name": "La Tinajera",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85219": {
+        "code": "85219",
+        "colonies": [
+            {
+                "name": "Alameda",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Viviano Murieta",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Eduardo Estrella",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Campestre",
+                "municipality": "Cajeme, Sonora"
+            },
+            {
+                "name": "Nueva Creación",
+                "municipality": "Cajeme, Sonora"
+            }
+        ]
+    },
+    "85228": {
+        "code": "85228",
+        "colonies": [
+            {
+                "name": "El Recodo",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85229": {
+        "code": "85229",
+        "colonies": [
+            {
+                "name": "Cuchilla de Bahuises",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85240": {
+        "code": "85240",
+        "colonies": [
+            {
+                "name": "Etchoropo",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85241": {
+        "code": "85241",
+        "colonies": [
+            {
+                "name": "Baburo",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85245": {
+        "code": "85245",
+        "colonies": [
+            {
+                "name": "Júpare",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Navobaxia",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Pueblo Viejo",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85247": {
+        "code": "85247",
+        "colonies": [
+            {
+                "name": "6 de Enero",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85249": {
+        "code": "85249",
+        "colonies": [
+            {
+                "name": "La Curva",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Macías",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85252": {
+        "code": "85252",
+        "colonies": [
+            {
+                "name": "Miramar",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85265": {
+        "code": "85265",
+        "colonies": [
+            {
+                "name": "Rosario Osuna",
+                "municipality": "Bácum, Sonora"
+            },
+            {
+                "name": "Viva",
+                "municipality": "Bácum, Sonora"
+            }
+        ]
+    },
+    "85276": {
+        "code": "85276",
+        "colonies": [
+            {
+                "name": "Colonia Sepúlveda",
+                "municipality": "Bácum, Sonora"
+            }
+        ]
+    },
+    "85280": {
+        "code": "85280",
+        "colonies": [
+            {
+                "name": "13 de Octubre",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "14 de Febrero",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Armando López Nogales",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Beltrones",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Crucero",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Jito",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Panteón",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Independiente",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Laura Alicia Frías López Nogales",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Leobardo Ibarra Gandara",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Nueva Reubicación",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Nueva Tosalicarit",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Olegario Carrillo",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Pueblo Viejo",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "19 de Julio",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Progresista",
+                "municipality": "Etchojoa, Sonora"
+            }
+        ]
+    },
+    "85283": {
+        "code": "85283",
+        "colonies": [
+            {
+                "name": "Bacame Nuevo",
+                "municipality": "Etchojoa, Sonora"
+            }
+        ]
+    },
+    "85284": {
+        "code": "85284",
+        "colonies": [
+            {
+                "name": "Buaysiacobe",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Salitral",
+                "municipality": "Etchojoa, Sonora"
+            }
+        ]
+    },
+    "85285": {
+        "code": "85285",
+        "colonies": [
+            {
+                "name": "Tejabanes Viejos",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Colonia Nacozari",
+                "municipality": "Etchojoa, Sonora"
+            }
+        ]
+    },
+    "85286": {
+        "code": "85286",
+        "colonies": [
+            {
+                "name": "Mochipaco",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Mabejaqui",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Colonia Soto (Caurará)",
+                "municipality": "Etchojoa, Sonora"
+            }
+        ]
+    },
+    "85287": {
+        "code": "85287",
+        "colonies": [
+            {
+                "name": "El Comparto",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Barraza",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Alhuate",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Panteón",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Resbalón",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "El Sifón",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "San Ángel",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Campo 9",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Sahuaral",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "La Bocana",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Las Guayabas",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Salubridad",
+                "municipality": "Etchojoa, Sonora"
+            },
+            {
+                "name": "Los Jardines",
+                "municipality": "Etchojoa, Sonora"
+            }
+        ]
+    },
+    "85288": {
+        "code": "85288",
+        "colonies": [
+            {
+                "name": "Las Mayas (Colonia Agrícola Basconcobe)",
+                "municipality": "Etchojoa, Sonora"
+            }
+        ]
+    },
+    "85290": {
+        "code": "85290",
+        "colonies": [
+            {
+                "name": "Palma Real",
+                "municipality": "Benito Juárez, Sonora"
+            },
+            {
+                "name": "Villa Juárez",
+                "municipality": "Benito Juárez, Sonora"
+            },
+            {
+                "name": "Ley Echeverría Z U",
+                "municipality": "Benito Juárez, Sonora"
+            }
+        ]
+    },
+    "85294": {
+        "code": "85294",
+        "colonies": [
+            {
+                "name": "Jecopaco",
+                "municipality": "Benito Juárez, Sonora"
+            }
+        ]
+    },
+    "85295": {
+        "code": "85295",
+        "colonies": [
+            {
+                "name": "Agua Blanca",
+                "municipality": "Benito Juárez, Sonora"
+            }
+        ]
+    },
+    "85297": {
+        "code": "85297",
+        "colonies": [
+            {
+                "name": "Vicente Suárez",
+                "municipality": "Benito Juárez, Sonora"
+            },
+            {
+                "name": "La Azteca",
+                "municipality": "Benito Juárez, Sonora"
+            }
+        ]
+    },
+    "85300": {
+        "code": "85300",
+        "colonies": [
+            {
+                "name": "Empalme Centro",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85310": {
+        "code": "85310",
+        "colonies": [
+            {
+                "name": "Pesqueira",
+                "municipality": "Empalme, Sonora"
+            },
+            {
+                "name": "Pitic",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85319": {
+        "code": "85319",
+        "colonies": [
+            {
+                "name": "Ronaldo Camacho Durán",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85320": {
+        "code": "85320",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85330": {
+        "code": "85330",
+        "colonies": [
+            {
+                "name": "Moderna",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85338": {
+        "code": "85338",
+        "colonies": [
+            {
+                "name": "Juárez",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85339": {
+        "code": "85339",
+        "colonies": [
+            {
+                "name": "Moderna Norte",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85340": {
+        "code": "85340",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio (Gobernación)",
+                "municipality": "Empalme, Sonora"
+            },
+            {
+                "name": "Sector Poniente Km. 2",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85347": {
+        "code": "85347",
+        "colonies": [
+            {
+                "name": "Ignacio Chavez",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85349": {
+        "code": "85349",
+        "colonies": [
+            {
+                "name": "Sector Oriente Km. 2",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85350": {
+        "code": "85350",
+        "colonies": [
+            {
+                "name": "Oriente",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85360": {
+        "code": "85360",
+        "colonies": [
+            {
+                "name": "Ortiz Rubio",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85370": {
+        "code": "85370",
+        "colonies": [
+            {
+                "name": "Libertad",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85388": {
+        "code": "85388",
+        "colonies": [
+            {
+                "name": "Infonavit Guadalupe",
+                "municipality": "Empalme, Sonora"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Empalme, Sonora"
+            },
+            {
+                "name": "7 de Enero",
+                "municipality": "Empalme, Sonora"
+            },
+            {
+                "name": "Nuevo Empalme",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85390": {
+        "code": "85390",
+        "colonies": [
+            {
+                "name": "Jordán",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85397": {
+        "code": "85397",
+        "colonies": [
+            {
+                "name": "Sahuaral",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85398": {
+        "code": "85398",
+        "colonies": [
+            {
+                "name": "Club Residencial Jacarandas",
+                "municipality": "Empalme, Sonora"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85399": {
+        "code": "85399",
+        "colonies": [
+            {
+                "name": "Ladrillera",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85400": {
+        "code": "85400",
+        "colonies": [
+            {
+                "name": "Heroica Guaymas Centro",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85405": {
+        "code": "85405",
+        "colonies": [
+            {
+                "name": "La Cantera",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85406": {
+        "code": "85406",
+        "colonies": [
+            {
+                "name": "Yucatán",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85410": {
+        "code": "85410",
+        "colonies": [
+            {
+                "name": "Adolfo de La Huerta",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Guarida Del Tigre",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Colinas de Fátima",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Torres de Fátima",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85415": {
+        "code": "85415",
+        "colonies": [
+            {
+                "name": "Fátima",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "El Rinconcito",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85420": {
+        "code": "85420",
+        "colonies": [
+            {
+                "name": "Campo de Tiro",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Ampliación Loma Linda",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Burócrata",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "La Aurora",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Loma Linda",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85423": {
+        "code": "85423",
+        "colonies": [
+            {
+                "name": "De Las Praderas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Carlos Romero Deschamps",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Valle Bonito",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Misioneros",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Atardeceres",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "El Roble",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85424": {
+        "code": "85424",
+        "colonies": [
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "San Germán",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Vista Dorada",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Juan Francisco Patrón Marquez",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85427": {
+        "code": "85427",
+        "colonies": [
+            {
+                "name": "Las Delicias",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85428": {
+        "code": "85428",
+        "colonies": [
+            {
+                "name": "Ampliación Burócrata",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85430": {
+        "code": "85430",
+        "colonies": [
+            {
+                "name": "Golondrinas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Punta Arena",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Punta de Lastre",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Termoeléctrica",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Monte Lolita",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Las Bautecas",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85440": {
+        "code": "85440",
+        "colonies": [
+            {
+                "name": "Cerro Gandareño",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Las Juntas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Las Plazas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Sonora",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "29 de Noviembre",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Las Villas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Los Ríos",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Rodriguez Alcaine",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "El Periodista",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85444": {
+        "code": "85444",
+        "colonies": [
+            {
+                "name": "Colinas de Guaymas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Colinas de Miramar",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85447": {
+        "code": "85447",
+        "colonies": [
+            {
+                "name": "Popular",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85448": {
+        "code": "85448",
+        "colonies": [
+            {
+                "name": "Quintas Guaymas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Loma Dorada",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "El Álamo",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85450": {
+        "code": "85450",
+        "colonies": [
+            {
+                "name": "Lomas de Cortés",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Lomas Miramar",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Miramar",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85454": {
+        "code": "85454",
+        "colonies": [
+            {
+                "name": "Las Tinajas",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85455": {
+        "code": "85455",
+        "colonies": [
+            {
+                "name": "El Dorado",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Villas de Miramar",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85456": {
+        "code": "85456",
+        "colonies": [
+            {
+                "name": "Los Pinos",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Petrolera",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Femosa o el Tular",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "18 de Marzo",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85460": {
+        "code": "85460",
+        "colonies": [
+            {
+                "name": "El Rastro",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "San Bernardo",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Rastro Playa",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85463": {
+        "code": "85463",
+        "colonies": [
+            {
+                "name": "22 de Noviembre",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "23 de Noviembre",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Costa Azul",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85465": {
+        "code": "85465",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo (La Antena)",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "San Vicente",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Rodrigo de Triana",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Ampliación Miguel Hidalgo",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85467": {
+        "code": "85467",
+        "colonies": [
+            {
+                "name": "San Gilberto",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85470": {
+        "code": "85470",
+        "colonies": [
+            {
+                "name": "5 de Mayo",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Pescadores",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Ramón Gil Samaniego",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "23 de Marzo",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "18 de Noviembre",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85476": {
+        "code": "85476",
+        "colonies": [
+            {
+                "name": "100 Casas",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85477": {
+        "code": "85477",
+        "colonies": [
+            {
+                "name": "Nacionalización del Golfo de California",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85480": {
+        "code": "85480",
+        "colonies": [
+            {
+                "name": "La Península",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Las Playitas",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85484": {
+        "code": "85484",
+        "colonies": [
+            {
+                "name": "Adolfo Lopez Mateos",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Fuentes Rodriguez",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85486": {
+        "code": "85486",
+        "colonies": [
+            {
+                "name": "El Mirador",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85490": {
+        "code": "85490",
+        "colonies": [
+            {
+                "name": "Rancho Blancarte",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Misión Del Sol",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Sahuaripa",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Ampliación Independencia",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85499": {
+        "code": "85499",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "El Centinela",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Manuel R Bobadilla",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85503": {
+        "code": "85503",
+        "colonies": [
+            {
+                "name": "Marina Real",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85506": {
+        "code": "85506",
+        "colonies": [
+            {
+                "name": "Loma del Mar",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Country Club",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Villa Hermosa",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Bahía",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Caracol Península",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Caracol Turístico",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Ranchito Campestre",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Los Arcos",
+                "municipality": "Guaymas, Sonora"
+            },
+            {
+                "name": "Lomas de San Carlos",
+                "municipality": "Guaymas, Sonora"
+            }
+        ]
+    },
+    "85515": {
+        "code": "85515",
+        "colonies": [
+            {
+                "name": "Doctores",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "La Sauceda",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "San Ignacio Río Muerto Centro",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "Llano de Zaragoza",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "Rosendo Montaño",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "La Arboleda",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "El Gallito",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            }
+        ]
+    },
+    "85518": {
+        "code": "85518",
+        "colonies": [
+            {
+                "name": "Militar",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            }
+        ]
+    },
+    "85519": {
+        "code": "85519",
+        "colonies": [
+            {
+                "name": "Bahía de Lobos",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            },
+            {
+                "name": "Sonora",
+                "municipality": "San Ignacio Río Muerto, Sonora"
+            }
+        ]
+    },
+    "85524": {
+        "code": "85524",
+        "colonies": [
+            {
+                "name": "Cruz de Piedra",
+                "municipality": "Empalme, Sonora"
+            }
+        ]
+    },
+    "85563": {
+        "code": "85563",
+        "colonies": [
+            {
+                "name": "La Otra Banda",
+                "municipality": "Mazatán, Sonora"
+            }
+        ]
+    },
+    "85564": {
+        "code": "85564",
+        "colonies": [
+            {
+                "name": "Loma LInda",
+                "municipality": "Mazatán, Sonora"
+            }
+        ]
+    },
+    "85565": {
+        "code": "85565",
+        "colonies": [
+            {
+                "name": "Las Playitas",
+                "municipality": "Mazatán, Sonora"
+            }
+        ]
+    },
+    "85600": {
+        "code": "85600",
+        "colonies": [
+            {
+                "name": "Sahuaripa Centro",
+                "municipality": "Sahuaripa, Sonora"
+            },
+            {
+                "name": "Los Atardeceres",
+                "municipality": "Sahuaripa, Sonora"
+            },
+            {
+                "name": "Nuevo Sahuaripa",
+                "municipality": "Sahuaripa, Sonora"
+            },
+            {
+                "name": "Talamantes",
+                "municipality": "Sahuaripa, Sonora"
+            },
+            {
+                "name": "Trincheras",
+                "municipality": "Sahuaripa, Sonora"
+            },
+            {
+                "name": "Ricardo Duran",
+                "municipality": "Sahuaripa, Sonora"
+            },
+            {
+                "name": "Buchuari",
+                "municipality": "Sahuaripa, Sonora"
+            }
+        ]
+    },
+    "85760": {
+        "code": "85760",
+        "colonies": [
+            {
+                "name": "Álamos Centro",
+                "municipality": "Álamos, Sonora"
+            }
+        ]
+    },
+    "85764": {
+        "code": "85764",
+        "colonies": [
+            {
+                "name": "El Barranco",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Olas Altas 4",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "La Campana",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "5 de Febrero La Campana",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "La Estación",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Chula Vista",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "El Rastro",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Hacienda Vieja",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Las Delicias",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Real de Minas",
+                "municipality": "Álamos, Sonora"
+            }
+        ]
+    },
+    "85765": {
+        "code": "85765",
+        "colonies": [
+            {
+                "name": "Los Cangrejos",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Tacubaya El Perico",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Loma de Guadalupe",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "La Colorada",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Las Higueras",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "El Calvario",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "El Perico",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "El Volantín",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Monte",
+                "municipality": "Álamos, Sonora"
+            }
+        ]
+    },
+    "85766": {
+        "code": "85766",
+        "colonies": [
+            {
+                "name": "Real de los Álamos",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Los Guayparines",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Los Guayparines Sonochihua",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Churubusco",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "El Chalatón",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Nuevo Álamos",
+                "municipality": "Álamos, Sonora"
+            }
+        ]
+    },
+    "85767": {
+        "code": "85767",
+        "colonies": [
+            {
+                "name": "DIF",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "La Capilla",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Ferrocarril",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Álamos 5 de Febrero",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Álamo Dorado",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Aurora",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "El Mezquital",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "La Aviación",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "La Esmeralda",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "La Ladrillera",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Los Vergeles",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Nueva Creación",
+                "municipality": "Álamos, Sonora"
+            },
+            {
+                "name": "Nueva Esmeralda",
+                "municipality": "Álamos, Sonora"
+            }
+        ]
+    },
+    "85800": {
+        "code": "85800",
+        "colonies": [
+            {
+                "name": "Navojoa Centro",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85810": {
+        "code": "85810",
+        "colonies": [
+            {
+                "name": "Pueblo Nuevo",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Buenavista",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85820": {
+        "code": "85820",
+        "colonies": [
+            {
+                "name": "Constitución",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Tierra Blanca",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85827": {
+        "code": "85827",
+        "colonies": [
+            {
+                "name": "Tetanchopo",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85830": {
+        "code": "85830",
+        "colonies": [
+            {
+                "name": "Reforma",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85835": {
+        "code": "85835",
+        "colonies": [
+            {
+                "name": "Mezquital de Pueblo Viejo",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85840": {
+        "code": "85840",
+        "colonies": [
+            {
+                "name": "Aviación",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Hidalgo",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Moderna",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Nogalitos",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85850": {
+        "code": "85850",
+        "colonies": [
+            {
+                "name": "Allende",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Mocúzarit",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Rosales",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Miravalle",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85860": {
+        "code": "85860",
+        "colonies": [
+            {
+                "name": "Deportiva",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Itson",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Beltrones",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Ampliación Beltrones",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85864": {
+        "code": "85864",
+        "colonies": [
+            {
+                "name": "Brisas del Valle",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85870": {
+        "code": "85870",
+        "colonies": [
+            {
+                "name": "Juárez",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85874": {
+        "code": "85874",
+        "colonies": [
+            {
+                "name": "Villa Dorada",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85880": {
+        "code": "85880",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Jacarandas II",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Tierra y Libertad",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Armando López Nogales",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "La Guadalupana",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Aeropuerto",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85890": {
+        "code": "85890",
+        "colonies": [
+            {
+                "name": "Sonora",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "SOP",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Indeur",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Sonora Progresista",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Rosario Ruelas",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Minas de Arena",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85893": {
+        "code": "85893",
+        "colonies": [
+            {
+                "name": "16 de Junio",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85894": {
+        "code": "85894",
+        "colonies": [
+            {
+                "name": "Tetaboca",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Tepeyac",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "Privada del Pedregal",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85895": {
+        "code": "85895",
+        "colonies": [
+            {
+                "name": "Nueva Generación",
+                "municipality": "Navojoa, Sonora"
+            },
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Navojoa, Sonora"
+            }
+        ]
+    },
+    "85900": {
+        "code": "85900",
+        "colonies": [
+            {
+                "name": "Huatabampo Centro",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85910": {
+        "code": "85910",
+        "colonies": [
+            {
+                "name": "Ibarra",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85913": {
+        "code": "85913",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85914": {
+        "code": "85914",
+        "colonies": [
+            {
+                "name": "El Porvenir",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85920": {
+        "code": "85920",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85925": {
+        "code": "85925",
+        "colonies": [
+            {
+                "name": "La Trinidad",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85930": {
+        "code": "85930",
+        "colonies": [
+            {
+                "name": "14 de Enero",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Muñoz",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85935": {
+        "code": "85935",
+        "colonies": [
+            {
+                "name": "El Sauce",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Nuevo Amanecer",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85937": {
+        "code": "85937",
+        "colonies": [
+            {
+                "name": "Independencia",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85940": {
+        "code": "85940",
+        "colonies": [
+            {
+                "name": "El Alhuate",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Pascual Orozco",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Oscar Lopez",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85943": {
+        "code": "85943",
+        "colonies": [
+            {
+                "name": "Colosio",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85950": {
+        "code": "85950",
+        "colonies": [
+            {
+                "name": "Obregón",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85960": {
+        "code": "85960",
+        "colonies": [
+            {
+                "name": "La Ranchería",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85966": {
+        "code": "85966",
+        "colonies": [
+            {
+                "name": "Santa Cruz",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Nueva",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85967": {
+        "code": "85967",
+        "colonies": [
+            {
+                "name": "Guadalupe Ríos",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85968": {
+        "code": "85968",
+        "colonies": [
+            {
+                "name": "La Laguna",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "PRI 90",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85970": {
+        "code": "85970",
+        "colonies": [
+            {
+                "name": "Anselmo Macías",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85980": {
+        "code": "85980",
+        "colonies": [
+            {
+                "name": "El Rastro Viejo",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "El Control",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85984": {
+        "code": "85984",
+        "colonies": [
+            {
+                "name": "INFONAVIT Los Juris",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85990": {
+        "code": "85990",
+        "colonies": [
+            {
+                "name": "La Cuchilla",
+                "municipality": "Huatabampo, Sonora"
+            },
+            {
+                "name": "Unidad Deportiva",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    },
+    "85994": {
+        "code": "85994",
+        "colonies": [
+            {
+                "name": "La Unión",
+                "municipality": "Huatabampo, Sonora"
+            }
+        ]
+    }
+}

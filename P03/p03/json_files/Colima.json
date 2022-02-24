@@ -1,0 +1,2411 @@
+{
+    "28000": {
+        "code": "28000",
+        "colonies": [
+            {
+                "name": "Colima Centro",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28010": {
+        "code": "28010",
+        "colonies": [
+            {
+                "name": "Lomas de Circunvalación",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Militar Lomas",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28014": {
+        "code": "28014",
+        "colonies": [
+            {
+                "name": "Jardines de las Lomas",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28016": {
+        "code": "28016",
+        "colonies": [
+            {
+                "name": "Lomas Vistahermosa",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28017": {
+        "code": "28017",
+        "colonies": [
+            {
+                "name": "Colinas de Santa Bárbara",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Jardines Vista Hermosa",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Lomas Verdes",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Parque Royal",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Residencial Santa Bárbara",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Residencial Esmeralda Norte",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Jardines de La Hacienda",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28018": {
+        "code": "28018",
+        "colonies": [
+            {
+                "name": "El Diezmo",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Real Vista Hermosa",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Girasoles",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Valle Dorado",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Puerta Paraíso",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Real Vista Hermosa III",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28019": {
+        "code": "28019",
+        "colonies": [
+            {
+                "name": "El Porvenir",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28020": {
+        "code": "28020",
+        "colonies": [
+            {
+                "name": "La Armonía",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28023": {
+        "code": "28023",
+        "colonies": [
+            {
+                "name": "Jardines de Guadalupe",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28025": {
+        "code": "28025",
+        "colonies": [
+            {
+                "name": "Niños Héroes",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Villa los Prados",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28030": {
+        "code": "28030",
+        "colonies": [
+            {
+                "name": "Guadalajarita",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Jardines de La Corregidora",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Jardines Residenciales",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Magisterial",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28035": {
+        "code": "28035",
+        "colonies": [
+            {
+                "name": "Huertas del Sol",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28037": {
+        "code": "28037",
+        "colonies": [
+            {
+                "name": "Hidalgo",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28040": {
+        "code": "28040",
+        "colonies": [
+            {
+                "name": "Camino Real",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "INFONAVIT La Estancia",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Las Víboras",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Burócratas Municipales",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28043": {
+        "code": "28043",
+        "colonies": [
+            {
+                "name": "INFONAVIT Camino Real",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28045": {
+        "code": "28045",
+        "colonies": [
+            {
+                "name": "Villa San Sebastián",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28046": {
+        "code": "28046",
+        "colonies": [
+            {
+                "name": "Oriental",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28047": {
+        "code": "28047",
+        "colonies": [
+            {
+                "name": "Camino Real",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Jardines de La Estancia",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "La Virgencita",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "San José Norte",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Santa Elena",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Las Américas",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Unidad Antorchista",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28048": {
+        "code": "28048",
+        "colonies": [
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "El Pedregal",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Insurgentes",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "La Estancia",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "La Guadalupe",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Los Ángeles",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Moctezuma",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Nuevo Paraíso",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Paraíso",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "San José Sur",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "San Rafael",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Santa Amalia",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Jardines del Sol",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Nuevo Milenio",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Mirador de La Cumbre",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Gustavo Vázquez Montes",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Los Jazmines",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Mirador de La Cumbre II",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Mirador de La Cumbre III",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28050": {
+        "code": "28050",
+        "colonies": [
+            {
+                "name": "Fátima",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Placetas Estadio",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Villas del Bosque",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Villas Primaveras",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Rincón del Bosque",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28060": {
+        "code": "28060",
+        "colonies": [
+            {
+                "name": "El Moralete",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28063": {
+        "code": "28063",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Santa Gertrudis",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Los Volcanes",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Rinconada San Pablo",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28067": {
+        "code": "28067",
+        "colonies": [
+            {
+                "name": "De los Trabajadores",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28070": {
+        "code": "28070",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Los Viveros",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Del Periodista",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Popular",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Patios de Ferrocarril",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28077": {
+        "code": "28077",
+        "colonies": [
+            {
+                "name": "Arboledas",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "José Pimentel Llerenas",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28078": {
+        "code": "28078",
+        "colonies": [
+            {
+                "name": "INDECO Albarrada",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "La Rivera",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Arboledas de La Hacienda",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "La Albarrada",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28079": {
+        "code": "28079",
+        "colonies": [
+            {
+                "name": "Gregorio Torres Quintero",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Villas del Sur",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Parajes del Sur",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28080": {
+        "code": "28080",
+        "colonies": [
+            {
+                "name": "El Tivoli",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28085": {
+        "code": "28085",
+        "colonies": [
+            {
+                "name": "Juana de Asbaje",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Los Sauces",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28089": {
+        "code": "28089",
+        "colonies": [
+            {
+                "name": "Leonardo B Gutiérrez",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28090": {
+        "code": "28090",
+        "colonies": [
+            {
+                "name": "El Tecolote",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Las Bugambilias",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28100": {
+        "code": "28100",
+        "colonies": [
+            {
+                "name": "Tecomán Centro",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28110": {
+        "code": "28110",
+        "colonies": [
+            {
+                "name": "Tepeyac",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Manuel Álvarez",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Josefa Ortiz de Domínguez",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28113": {
+        "code": "28113",
+        "colonies": [
+            {
+                "name": "Elba Cecilia Vega",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28114": {
+        "code": "28114",
+        "colonies": [
+            {
+                "name": "Amalia Solórzano",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28120": {
+        "code": "28120",
+        "colonies": [
+            {
+                "name": "Cofradía de Juárez",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Valle Querido",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Noriega Pizano",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28130": {
+        "code": "28130",
+        "colonies": [
+            {
+                "name": "Fátima",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "La Unión",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28133": {
+        "code": "28133",
+        "colonies": [
+            {
+                "name": "Loma Bonita",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28134": {
+        "code": "28134",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Lázaro Cárdenas II",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Santa Elena",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Sor Juana Inés de La Cruz",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Griselda Álvarez",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Álvaro Obregón",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Reyes Heroles",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Niños Héroes",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Palma Real",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28140": {
+        "code": "28140",
+        "colonies": [
+            {
+                "name": "El Chamizal",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "La Floresta",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Villa Florida",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "INFONAVIT Las Huertas",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28150": {
+        "code": "28150",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "La Palmita",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28159": {
+        "code": "28159",
+        "colonies": [
+            {
+                "name": "INFONAVIT Las Palmas",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28160": {
+        "code": "28160",
+        "colonies": [
+            {
+                "name": "Pablo Silva García",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Ponciano Arriaga",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Estatuto Jurídico",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Sedena Militar",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28170": {
+        "code": "28170",
+        "colonies": [
+            {
+                "name": "Parque Las Flores (Elias Zamora Verduzco)",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Indeco",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Libertad",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28180": {
+        "code": "28180",
+        "colonies": [
+            {
+                "name": "Bugambilias",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "La Floresta II",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Primaveras del Real",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Villa del Centenario",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Villas del Rey",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28190": {
+        "code": "28190",
+        "colonies": [
+            {
+                "name": "Gustavo Díaz Ordaz",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "San José",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Tuxpan",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28200": {
+        "code": "28200",
+        "colonies": [
+            {
+                "name": "Manzanillo Centro",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28218": {
+        "code": "28218",
+        "colonies": [
+            {
+                "name": "Las Brisas",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Playa Azul",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Del Mar",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Del Pacífico",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28219": {
+        "code": "28219",
+        "colonies": [
+            {
+                "name": "Playa Esmeralda",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Palma Real",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "FETSE",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Isla Real",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Esperanza",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Playa Blanca",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Playa de Oro",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Playa Real",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Villa Mar",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Barrio 5",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Villa Océano",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28230": {
+        "code": "28230",
+        "colonies": [
+            {
+                "name": "Las Joyas",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "El Rocío",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Ignacio Zaragoza",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28237": {
+        "code": "28237",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Gasera",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Las Torres",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Leandro Valle",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Punta Grande",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28238": {
+        "code": "28238",
+        "colonies": [
+            {
+                "name": "Bellavista",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28239": {
+        "code": "28239",
+        "colonies": [
+            {
+                "name": "Lomas de Gregorio Figueroa",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Loma Alta",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Primavera",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "16 de Septiembre",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Tapeixtles",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "INDECO",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Negrita",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28240": {
+        "code": "28240",
+        "colonies": [
+            {
+                "name": "Punta Chica",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28250": {
+        "code": "28250",
+        "colonies": [
+            {
+                "name": "Burócrata",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28259": {
+        "code": "28259",
+        "colonies": [
+            {
+                "name": "San Pedrito",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28260": {
+        "code": "28260",
+        "colonies": [
+            {
+                "name": "Libertad",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28269": {
+        "code": "28269",
+        "colonies": [
+            {
+                "name": "Sector 5",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Alameda",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28270": {
+        "code": "28270",
+        "colonies": [
+            {
+                "name": "Padre Hidalgo",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28278": {
+        "code": "28278",
+        "colonies": [
+            {
+                "name": "Pedregoza",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28279": {
+        "code": "28279",
+        "colonies": [
+            {
+                "name": "Bonanza",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28300": {
+        "code": "28300",
+        "colonies": [
+            {
+                "name": "Armería Centro",
+                "municipality": "Armería, Colima"
+            }
+        ]
+    },
+    "28304": {
+        "code": "28304",
+        "colonies": [
+            {
+                "name": "Cristo Rey",
+                "municipality": "Armería, Colima"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Armería, Colima"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Armería, Colima"
+            }
+        ]
+    },
+    "28305": {
+        "code": "28305",
+        "colonies": [
+            {
+                "name": "Ejido",
+                "municipality": "Armería, Colima"
+            }
+        ]
+    },
+    "28306": {
+        "code": "28306",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Armería, Colima"
+            },
+            {
+                "name": "Independencia",
+                "municipality": "Armería, Colima"
+            }
+        ]
+    },
+    "28307": {
+        "code": "28307",
+        "colonies": [
+            {
+                "name": "Hacienda las Primaveras",
+                "municipality": "Armería, Colima"
+            },
+            {
+                "name": "El Campanario",
+                "municipality": "Armería, Colima"
+            },
+            {
+                "name": "El Pelillo",
+                "municipality": "Armería, Colima"
+            },
+            {
+                "name": "Gregorio Torres Quintero",
+                "municipality": "Armería, Colima"
+            },
+            {
+                "name": "El Arenal",
+                "municipality": "Armería, Colima"
+            },
+            {
+                "name": "Sagrado Corazón",
+                "municipality": "Armería, Colima"
+            }
+        ]
+    },
+    "28330": {
+        "code": "28330",
+        "colonies": [
+            {
+                "name": "Flor de Coco",
+                "municipality": "Armería, Colima"
+            }
+        ]
+    },
+    "28400": {
+        "code": "28400",
+        "colonies": [
+            {
+                "name": "Santa Rita",
+                "municipality": "Coquimatlán, Colima"
+            },
+            {
+                "name": "Camichines",
+                "municipality": "Coquimatlán, Colima"
+            },
+            {
+                "name": "Cazumba",
+                "municipality": "Coquimatlán, Colima"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Coquimatlán, Colima"
+            },
+            {
+                "name": "Elías Zamora Verduzco",
+                "municipality": "Coquimatlán, Colima"
+            },
+            {
+                "name": "Jardines del Llano",
+                "municipality": "Coquimatlán, Colima"
+            },
+            {
+                "name": "Las Higueras",
+                "municipality": "Coquimatlán, Colima"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Coquimatlán, Colima"
+            },
+            {
+                "name": "Las Moras",
+                "municipality": "Coquimatlán, Colima"
+            }
+        ]
+    },
+    "28450": {
+        "code": "28450",
+        "colonies": [
+            {
+                "name": "Los Llanitos",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Los Aguajes",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Francisco Ramírez Villarreal",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Celsa Virgen",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Santa Cecilia",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "La Trinidad",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Miguel de La Madrid Hurtado",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Lomas de Comala",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Campo Verde",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Solidaridad Aguajitos",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Real Nogueras",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Lomas del Pedregal",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Lomas Altas",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Real de Mendoza",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Barrio Alto",
+                "municipality": "Comala, Colima"
+            },
+            {
+                "name": "Campestre Comala",
+                "municipality": "Comala, Colima"
+            }
+        ]
+    },
+    "28459": {
+        "code": "28459",
+        "colonies": [
+            {
+                "name": "La Cañada",
+                "municipality": "Comala, Colima"
+            }
+        ]
+    },
+    "28500": {
+        "code": "28500",
+        "colonies": [
+            {
+                "name": "El Toreo",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28504": {
+        "code": "28504",
+        "colonies": [
+            {
+                "name": "Griselda Alvarez Ponce de León",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "La Presa",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "Los Monos",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "Campestre San Jerónimo",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "La Cayetana",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "La Escondida",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28506": {
+        "code": "28506",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "San Jerónimo",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28507": {
+        "code": "28507",
+        "colonies": [
+            {
+                "name": "Valle Real",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "Las Higueras",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28510": {
+        "code": "28510",
+        "colonies": [
+            {
+                "name": "Santa Mariana",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "Quesería",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28513": {
+        "code": "28513",
+        "colonies": [
+            {
+                "name": "El Arenal",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "México",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "Ermita",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28515": {
+        "code": "28515",
+        "colonies": [
+            {
+                "name": "Concepción Barbosa",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28516": {
+        "code": "28516",
+        "colonies": [
+            {
+                "name": "Arsenio Farell Cubillas",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28550": {
+        "code": "28550",
+        "colonies": [
+            {
+                "name": "El Campanario",
+                "municipality": "Cuauhtémoc, Colima"
+            },
+            {
+                "name": "Lagunilla",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28597": {
+        "code": "28597",
+        "colonies": [
+            {
+                "name": "Alzada",
+                "municipality": "Cuauhtémoc, Colima"
+            }
+        ]
+    },
+    "28620": {
+        "code": "28620",
+        "colonies": [
+            {
+                "name": "Lo de Villa",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "Ejidal",
+                "municipality": "Colima, Colima"
+            },
+            {
+                "name": "J. Jesús Ríos",
+                "municipality": "Colima, Colima"
+            }
+        ]
+    },
+    "28700": {
+        "code": "28700",
+        "colonies": [
+            {
+                "name": "Los Gobernadores",
+                "municipality": "Ixtlahuacán, Colima"
+            },
+            {
+                "name": "Carlos de la Madrid Virgen",
+                "municipality": "Ixtlahuacán, Colima"
+            },
+            {
+                "name": "Daniel Contreras Lara",
+                "municipality": "Ixtlahuacán, Colima"
+            },
+            {
+                "name": "Mojotal",
+                "municipality": "Ixtlahuacán, Colima"
+            },
+            {
+                "name": "11 Pueblos",
+                "municipality": "Ixtlahuacán, Colima"
+            },
+            {
+                "name": "6 de Enero",
+                "municipality": "Ixtlahuacán, Colima"
+            }
+        ]
+    },
+    "28705": {
+        "code": "28705",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Ixtlahuacán, Colima"
+            }
+        ]
+    },
+    "28733": {
+        "code": "28733",
+        "colonies": [
+            {
+                "name": "Las Anonas",
+                "municipality": "Ixtlahuacán, Colima"
+            }
+        ]
+    },
+    "28750": {
+        "code": "28750",
+        "colonies": [
+            {
+                "name": "27 de Octubre",
+                "municipality": "Minatitlán, Colima"
+            },
+            {
+                "name": "Los Mangos",
+                "municipality": "Minatitlán, Colima"
+            },
+            {
+                "name": "Minatitlán",
+                "municipality": "Minatitlán, Colima"
+            },
+            {
+                "name": "Carlos de La Madrid Vejar",
+                "municipality": "Minatitlán, Colima"
+            },
+            {
+                "name": "Infonavit",
+                "municipality": "Minatitlán, Colima"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Minatitlán, Colima"
+            }
+        ]
+    },
+    "28767": {
+        "code": "28767",
+        "colonies": [
+            {
+                "name": "Paticajo",
+                "municipality": "Minatitlán, Colima"
+            }
+        ]
+    },
+    "28773": {
+        "code": "28773",
+        "colonies": [
+            {
+                "name": "San Antonio",
+                "municipality": "Minatitlán, Colima"
+            }
+        ]
+    },
+    "28800": {
+        "code": "28800",
+        "colonies": [
+            {
+                "name": "Zona Centro El Colomo",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Arturo Noriega Pizano",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "5 de Mayo",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "El Garcero",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "El Libramiento",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "El Paraíso",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Cima del Progreso",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Lupita",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "López Mateos",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "María Luisa Campero",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Marina Nacional",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Miguel de La Madrid",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "20 de Noviembre",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Calma",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Playita",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28808": {
+        "code": "28808",
+        "colonies": [
+            {
+                "name": "Villa Florida",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28809": {
+        "code": "28809",
+        "colonies": [
+            {
+                "name": "Campos",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28813": {
+        "code": "28813",
+        "colonies": [
+            {
+                "name": "Llano de la Marina",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28860": {
+        "code": "28860",
+        "colonies": [
+            {
+                "name": "La Querencia",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Santiago",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Olas Altas",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28863": {
+        "code": "28863",
+        "colonies": [
+            {
+                "name": "Abelardo L. Rodríguez",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Colinas de Santiago",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Francisco Villa",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "El Jabalí",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Cruz",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Las Flores",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Obradores",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Perla de Occidente",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Porfirio Gaytán",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "San Isidro Labrador",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Barrio Nuevo",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Pedro Núñez",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28864": {
+        "code": "28864",
+        "colonies": [
+            {
+                "name": "Deportiva",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Hermosa Provincia",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Lomas Verdes",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Montebello",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Viveros Pelayo",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28867": {
+        "code": "28867",
+        "colonies": [
+            {
+                "name": "Salagua",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Villas del Faro",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Villas del Palmar",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28868": {
+        "code": "28868",
+        "colonies": [
+            {
+                "name": "Maravillas del Campo",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Ejidal Miramar",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Club Santiago",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Nuevo Miramar",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "La Central",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28869": {
+        "code": "28869",
+        "colonies": [
+            {
+                "name": "Barrio Nuevo Salagua",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Las Palmas",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Guadalupe Victoria",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "López de Legaspi",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Obispo Sergio Méndez Arceo",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Puerta del Sol",
+                "municipality": "Manzanillo, Colima"
+            },
+            {
+                "name": "Elías Zamora Verduzco",
+                "municipality": "Manzanillo, Colima"
+            }
+        ]
+    },
+    "28900": {
+        "code": "28900",
+        "colonies": [
+            {
+                "name": "Tecolapa",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Progreso",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "El Bordo",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "El Rocio",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Martín del Campo",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Hermanos Leaños",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28910": {
+        "code": "28910",
+        "colonies": [
+            {
+                "name": "Articulo 27 Constitucional",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Conacar PRI",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "La Pedregal",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28934": {
+        "code": "28934",
+        "colonies": [
+            {
+                "name": "La Estación",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Leonardo Jaramillo",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Ruiz Cortines",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "San Martín de Porres",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "El Olivo",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Bayardo",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Luis Rodríguez Alcalá [La Báscula]",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "Antonio Salazar Salazar",
+                "municipality": "Tecomán, Colima"
+            },
+            {
+                "name": "María Esther Zuno de Echeverría",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28936": {
+        "code": "28936",
+        "colonies": [
+            {
+                "name": "Ladislao Moreno",
+                "municipality": "Tecomán, Colima"
+            }
+        ]
+    },
+    "28970": {
+        "code": "28970",
+        "colonies": [
+            {
+                "name": "Villa de Álvarez Centro",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas del Sol",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28973": {
+        "code": "28973",
+        "colonies": [
+            {
+                "name": "Floresta",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Manuel M. Diéguez",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Real los Arcos",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Santa Teresa",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas del Río",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas Adriana",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas de Mayo",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Santa Cristina",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Rancho Santo",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28974": {
+        "code": "28974",
+        "colonies": [
+            {
+                "name": "San Isidro",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas Coliman",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28975": {
+        "code": "28975",
+        "colonies": [
+            {
+                "name": "López Mateos",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Santa Martha",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Morelos",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "La Frontera",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "La Cajita del Agua",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28976": {
+        "code": "28976",
+        "colonies": [
+            {
+                "name": "Liberación",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas del Centro",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Francisco Hernández",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Rosario Ibarra de Piedra",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28978": {
+        "code": "28978",
+        "colonies": [
+            {
+                "name": "Arboledas del Carmen",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Azaleas",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Colinas del Carmen",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "FOVISSSTE",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Golondrinas",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Jardines de Bugambilias",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Primaveras",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Rinconada de La Hacienda",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Senderos del Carmen",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28979": {
+        "code": "28979",
+        "colonies": [
+            {
+                "name": "Alfredo V. Bonfil",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Las Águilas",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Lindavista",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Lomas de las Flores",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Loma Hermosa",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Lomas de La Higuera",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Los Almendros",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Solidaridad",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villa Izcalli Caxitlán",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas de Bugambilias",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Real Bugambilias",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Carlos de La Madrid",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Lomas Altas",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas del Cañaveral",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "El Angel",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Cruz de Comala",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Lomas de La Villa",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Vista Bugambilias",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Bugambilias",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Las Colinas",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Las Lagunas",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Lomas de La Herradura",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Salomón Preciado",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Colinas del Sol",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28980": {
+        "code": "28980",
+        "colonies": [
+            {
+                "name": "La Gloria",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28982": {
+        "code": "28982",
+        "colonies": [
+            {
+                "name": "La Joya",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "El Cortijo",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Santa Fe",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Los Olivos",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28983": {
+        "code": "28983",
+        "colonies": [
+            {
+                "name": "Jardines del Llano",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Rinconada del Centenario",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Jardines del Centenario",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Alfonso Rolón Michel",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Senderos de Rancho Blanco",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villa Flores",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas Rancho Blanco",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villa Flores II",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28984": {
+        "code": "28984",
+        "colonies": [
+            {
+                "name": "Azteca",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "El Centenario",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Juan José Ríos",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Loma Bonita",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Lomas del Centenario",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Manuel Álvarez",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Ramón Serrano",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas de San José",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Jardines de La Villa",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Los Triángulos",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Centenario II",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28985": {
+        "code": "28985",
+        "colonies": [
+            {
+                "name": "Del Valle",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villa de Oro",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "San Miguel",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28986": {
+        "code": "28986",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villas Diamante",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28987": {
+        "code": "28987",
+        "colonies": [
+            {
+                "name": "Alta Villa",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "La Haciendita",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28988": {
+        "code": "28988",
+        "colonies": [
+            {
+                "name": "Campestre",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "El Llano",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    },
+    "28989": {
+        "code": "28989",
+        "colonies": [
+            {
+                "name": "Burócratas del Estado",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Las Tunas",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Leandro Valle",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Prados de La Villa",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Villa de Alba",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Campestre Bugambilias",
+                "municipality": "Villa de Álvarez, Colima"
+            },
+            {
+                "name": "Real de Minas",
+                "municipality": "Villa de Álvarez, Colima"
+            }
+        ]
+    }
+}

@@ -1,0 +1,2183 @@
+{
+    "97000": {
+        "code": "97000",
+        "colonies": [
+            {
+                "name": "Mérida Centro",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Garcia Gineres C - 29",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97050": {
+        "code": "97050",
+        "colonies": [
+            {
+                "name": "Alcalá Martín",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Yucatán",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97060": {
+        "code": "97060",
+        "colonies": [
+            {
+                "name": "Carrillo Ancona",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97069": {
+        "code": "97069",
+        "colonies": [
+            {
+                "name": "Inalámbrica",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97070": {
+        "code": "97070",
+        "colonies": [
+            {
+                "name": "Dolores Patron",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Garcia Gineres",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97089": {
+        "code": "97089",
+        "colonies": [
+            {
+                "name": "Cupules",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97098": {
+        "code": "97098",
+        "colonies": [
+            {
+                "name": "Lourdes",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97100": {
+        "code": "97100",
+        "colonies": [
+            {
+                "name": "Itzimna",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97109": {
+        "code": "97109",
+        "colonies": [
+            {
+                "name": "Ferrocarrileros",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Jesús Carranza",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97114": {
+        "code": "97114",
+        "colonies": [
+            {
+                "name": "Privada Monterreal Plus",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97115": {
+        "code": "97115",
+        "colonies": [
+            {
+                "name": "Sodzil Norte",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Montes de Ame",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Ampliación Revolución",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97116": {
+        "code": "97116",
+        "colonies": [
+            {
+                "name": "Privada San Antonio Cucul",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97117": {
+        "code": "97117",
+        "colonies": [
+            {
+                "name": "San Ramon Norte",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Ramon Sur",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Ramon Norte I",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97118": {
+        "code": "97118",
+        "colonies": [
+            {
+                "name": "Ampliación Plan de Ayala (Villas del Sol)",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97119": {
+        "code": "97119",
+        "colonies": [
+            {
+                "name": "Benito Juárez Nte",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Gonzalo Guerrero",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97125": {
+        "code": "97125",
+        "colonies": [
+            {
+                "name": "México",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Nuevo México",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97127": {
+        "code": "97127",
+        "colonies": [
+            {
+                "name": "Buenavista",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97128": {
+        "code": "97128",
+        "colonies": [
+            {
+                "name": "México Norte",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Mediterráneo",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97129": {
+        "code": "97129",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata Nte",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97130": {
+        "code": "97130",
+        "colonies": [
+            {
+                "name": "Diaz Ordaz",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Vista Alegre",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Santa Rita Cholul",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97133": {
+        "code": "97133",
+        "colonies": [
+            {
+                "name": "Montevideo",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97134": {
+        "code": "97134",
+        "colonies": [
+            {
+                "name": "Maya",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97136": {
+        "code": "97136",
+        "colonies": [
+            {
+                "name": "Felipe Carrillo Puerto Nte",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97137": {
+        "code": "97137",
+        "colonies": [
+            {
+                "name": "México Oriente",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97138": {
+        "code": "97138",
+        "colonies": [
+            {
+                "name": "San Pedro Cholul",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Santa Maria",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Vista Alegre Lotificacion",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97140": {
+        "code": "97140",
+        "colonies": [
+            {
+                "name": "Lopez Mateos",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97143": {
+        "code": "97143",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Luis Donaldo Colosio",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Leandro Valle",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Brisas Del Bosque",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97144": {
+        "code": "97144",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata Ote",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97145": {
+        "code": "97145",
+        "colonies": [
+            {
+                "name": "Pet-kanche",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Juan Grande",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97146": {
+        "code": "97146",
+        "colonies": [
+            {
+                "name": "Nueva Alemán",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97147": {
+        "code": "97147",
+        "colonies": [
+            {
+                "name": "San Nicolás",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97148": {
+        "code": "97148",
+        "colonies": [
+            {
+                "name": "Miguel Alemán",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97149": {
+        "code": "97149",
+        "colonies": [
+            {
+                "name": "San Esteban",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97150": {
+        "code": "97150",
+        "colonies": [
+            {
+                "name": "Industrial",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Trava Quintero",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97155": {
+        "code": "97155",
+        "colonies": [
+            {
+                "name": "Fenix",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Lourdes Industrial",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97157": {
+        "code": "97157",
+        "colonies": [
+            {
+                "name": "Lázaro Cárdenas Ote",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Nueva Mayapan",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97158": {
+        "code": "97158",
+        "colonies": [
+            {
+                "name": "Chuminopolis",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97159": {
+        "code": "97159",
+        "colonies": [
+            {
+                "name": "Máximo Ancona",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Manuel Avila Camacho",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Mayapan",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Nueva Pacabtun",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Nueva Mayapan",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97160": {
+        "code": "97160",
+        "colonies": [
+            {
+                "name": "Pacabtun",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Del Autotransporte CTM",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97165": {
+        "code": "97165",
+        "colonies": [
+            {
+                "name": "Melchor Ocampo",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Melchor Ocampo II",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97166": {
+        "code": "97166",
+        "colonies": [
+            {
+                "name": "Salvador Alvarado Oriente",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97168": {
+        "code": "97168",
+        "colonies": [
+            {
+                "name": "Del Carmen",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Cortes Sarmiento",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Jardines de Miraflores",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97169": {
+        "code": "97169",
+        "colonies": [
+            {
+                "name": "Esperanza",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97170": {
+        "code": "97170",
+        "colonies": [
+            {
+                "name": "Chichen-itza",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Nueva Chichen-itza",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97173": {
+        "code": "97173",
+        "colonies": [
+            {
+                "name": "San Jose Vergel",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97174": {
+        "code": "97174",
+        "colonies": [
+            {
+                "name": "Morelos Oriente",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97175": {
+        "code": "97175",
+        "colonies": [
+            {
+                "name": "Amalia Solorzano",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97176": {
+        "code": "97176",
+        "colonies": [
+            {
+                "name": "San Pablo Oriente",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97177": {
+        "code": "97177",
+        "colonies": [
+            {
+                "name": "Azcorra",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97179": {
+        "code": "97179",
+        "colonies": [
+            {
+                "name": "Miraflores",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Miraflores",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97180": {
+        "code": "97180",
+        "colonies": [
+            {
+                "name": "Vicente Solis",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97189": {
+        "code": "97189",
+        "colonies": [
+            {
+                "name": "Canto",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Jose",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97195": {
+        "code": "97195",
+        "colonies": [
+            {
+                "name": "Nueva Kukulkan",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Antonio Kaua",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Miraflores II",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97196": {
+        "code": "97196",
+        "colonies": [
+            {
+                "name": "Salvador Alvarado Sur",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Salvador Alvarado Sur II",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Ampliación Salvador Alvarado Sur",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97198": {
+        "code": "97198",
+        "colonies": [
+            {
+                "name": "Ampliación Granjas",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97199": {
+        "code": "97199",
+        "colonies": [
+            {
+                "name": "Maria Luisa",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97203": {
+        "code": "97203",
+        "colonies": [
+            {
+                "name": "San Pedro Uxmal",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Pablo",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Chuburna de Hidalgo (II)",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Chuburna Plus",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Rincón Colonial",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Arboledas Chuburna",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97204": {
+        "code": "97204",
+        "colonies": [
+            {
+                "name": "Xcumpich",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97205": {
+        "code": "97205",
+        "colonies": [
+            {
+                "name": "Chuburna de Hidalgo",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Juan B Sosa",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Chuburna de Hidalgo (La Floresta)",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Luis Chuburna",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Pinzon",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Chuburna de Hidalgo I",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Arboledas",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Campestre Chuburna",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97206": {
+        "code": "97206",
+        "colonies": [
+            {
+                "name": "San Francisco Chuburna",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Mérida (Elefante Grande)",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Vicente Chuburna",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Lotificacion San Vicente Chuburna",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Las Dalias",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada San Ángel Chuburna",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97207": {
+        "code": "97207",
+        "colonies": [
+            {
+                "name": "Callejones de Chuburna",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97208": {
+        "code": "97208",
+        "colonies": [
+            {
+                "name": "Felipe Carrillo Puerto",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97209": {
+        "code": "97209",
+        "colonies": [
+            {
+                "name": "Privada San Jorge (Chuburna)",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97210": {
+        "code": "97210",
+        "colonies": [
+            {
+                "name": "Tanlum",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97217": {
+        "code": "97217",
+        "colonies": [
+            {
+                "name": "Francisco El Porvenir",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97218": {
+        "code": "97218",
+        "colonies": [
+            {
+                "name": "Roma",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Damián",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Isidro",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Lotificacion San Damián",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada San Damián",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97219": {
+        "code": "97219",
+        "colonies": [
+            {
+                "name": "Francisco Villa",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Amapola",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Residencial Pensiones VII",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Paseos de Pensiones",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97220": {
+        "code": "97220",
+        "colonies": [
+            {
+                "name": "Miguel Hidalgo",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97226": {
+        "code": "97226",
+        "colonies": [
+            {
+                "name": "El Porvenir",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97229": {
+        "code": "97229",
+        "colonies": [
+            {
+                "name": "Luis Echeverría Alvarez",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Xcom",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Ampliación Roma (Luis Echeverría)",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97230": {
+        "code": "97230",
+        "colonies": [
+            {
+                "name": "Bojorquez",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97240": {
+        "code": "97240",
+        "colonies": [
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97245": {
+        "code": "97245",
+        "colonies": [
+            {
+                "name": "Lopez Portillo",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Xoclan Canto",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Xoclan Santos",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97246": {
+        "code": "97246",
+        "colonies": [
+            {
+                "name": "La Reja",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Mulsay de La Magdalena",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Xoclan",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Xoclan Xbech",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "México Poniente",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Xoclan Carmelitas",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97249": {
+        "code": "97249",
+        "colonies": [
+            {
+                "name": "Mulsay",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Nueva Mulsay",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Nueva Mulsay I",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Plantel México",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Pedregales de Nueva Mulsay Etapa",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Xoclan Susula",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Nueva Reforma Agraria",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Núcleo Mulsay",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Hacienda Opichen",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97250": {
+        "code": "97250",
+        "colonies": [
+            {
+                "name": "Nueva Sambula",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Sambula",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97255": {
+        "code": "97255",
+        "colonies": [
+            {
+                "name": "El Roble",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Manuel Crescencio Rejon",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "El Roble II",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97256": {
+        "code": "97256",
+        "colonies": [
+            {
+                "name": "Pino Suárez",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97260": {
+        "code": "97260",
+        "colonies": [
+            {
+                "name": "Obrera",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97268": {
+        "code": "97268",
+        "colonies": [
+            {
+                "name": "Delio Moreno Canton",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97269": {
+        "code": "97269",
+        "colonies": [
+            {
+                "name": "Meliton Salazar",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97270": {
+        "code": "97270",
+        "colonies": [
+            {
+                "name": "Dolores Otero",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97277": {
+        "code": "97277",
+        "colonies": [
+            {
+                "name": "Mercedes Barrera",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97278": {
+        "code": "97278",
+        "colonies": [
+            {
+                "name": "Castilla Camara",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97279": {
+        "code": "97279",
+        "colonies": [
+            {
+                "name": "Santa Rosa",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97280": {
+        "code": "97280",
+        "colonies": [
+            {
+                "name": "5 Colonias",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97285": {
+        "code": "97285",
+        "colonies": [
+            {
+                "name": "Ampliación Plan de Ayala",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Haltunchén",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Plan de Ayala Sur",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Carlos del Sur",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Plan de Ayala Sur III",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97289": {
+        "code": "97289",
+        "colonies": [
+            {
+                "name": "San Nicolás Del Sur",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97290": {
+        "code": "97290",
+        "colonies": [
+            {
+                "name": "San Antonio Xluch",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Nueva San Jose Tecoh",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Antonio Xluch II",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "La Guadalupana",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97295": {
+        "code": "97295",
+        "colonies": [
+            {
+                "name": "El Roble Agrícola",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97296": {
+        "code": "97296",
+        "colonies": [
+            {
+                "name": "San Marcos Nocoh",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97297": {
+        "code": "97297",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata Sur",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Luis Sur",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Metropolitana",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Antonio Xluch III",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97298": {
+        "code": "97298",
+        "colonies": [
+            {
+                "name": "San Jose Tecoh Sur",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Privada Zuzil - Ha",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97299": {
+        "code": "97299",
+        "colonies": [
+            {
+                "name": "San Jose Tecoh",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97302": {
+        "code": "97302",
+        "colonies": [
+            {
+                "name": "Los Tamarindos",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Antonio Hool",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "San Juan Bautista",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Temozón Norte",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Núcleo Sodzil",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97305": {
+        "code": "97305",
+        "colonies": [
+            {
+                "name": "San Luis Cholul",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Granjas Cholul",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "El Triunfo",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Santa Gertrudis Copo",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97306": {
+        "code": "97306",
+        "colonies": [
+            {
+                "name": "Chichi Suárez",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97315": {
+        "code": "97315",
+        "colonies": [
+            {
+                "name": "Jardines de Tahdzibichén",
+                "municipality": "Mérida, Yucatán"
+            },
+            {
+                "name": "Xmatkuil",
+                "municipality": "Mérida, Yucatán"
+            }
+        ]
+    },
+    "97320": {
+        "code": "97320",
+        "colonies": [
+            {
+                "name": "Las Fuentes II",
+                "municipality": "Progreso, Yucatán"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Progreso, Yucatán"
+            },
+            {
+                "name": "Progreso de Castro Centro",
+                "municipality": "Progreso, Yucatán"
+            },
+            {
+                "name": "Feliciano Canul Reyes",
+                "municipality": "Progreso, Yucatán"
+            },
+            {
+                "name": "Ismael Garcia",
+                "municipality": "Progreso, Yucatán"
+            },
+            {
+                "name": "Juan Montalvo",
+                "municipality": "Progreso, Yucatán"
+            },
+            {
+                "name": "Nueva Yucalpeten",
+                "municipality": "Progreso, Yucatán"
+            },
+            {
+                "name": "Revolución",
+                "municipality": "Progreso, Yucatán"
+            },
+            {
+                "name": "Francisco I. Madero",
+                "municipality": "Progreso, Yucatán"
+            }
+        ]
+    },
+    "97350": {
+        "code": "97350",
+        "colonies": [
+            {
+                "name": "Papagayos",
+                "municipality": "Hunucmá, Yucatán"
+            },
+            {
+                "name": "Centro Hunucmá",
+                "municipality": "Hunucmá, Yucatán"
+            }
+        ]
+    },
+    "97357": {
+        "code": "97357",
+        "colonies": [
+            {
+                "name": "San Juan",
+                "municipality": "Ucú, Yucatán"
+            }
+        ]
+    },
+    "97370": {
+        "code": "97370",
+        "colonies": [
+            {
+                "name": "San Haroldo San José Tzal",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Leona Vicario",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Álamos de Oriente",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Cuauhtémoc",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Pedregales del Oriente",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Xelpac",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Ampliación Xelpac",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Mulchechén II",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Andrés Quintana Roo",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "El Cerrito",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Amalia Solorzano II",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Kanasín Centro",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Colibrí",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "CROC",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Francisco Villa Oriente",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Mulchechén",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "San Antonio Kaua III",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Reparto las Granjas",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "San Camilo",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Flor de Mayo",
+                "municipality": "Kanasín, Yucatán"
+            },
+            {
+                "name": "Cecilio Chi",
+                "municipality": "Kanasín, Yucatán"
+            }
+        ]
+    },
+    "97373": {
+        "code": "97373",
+        "colonies": [
+            {
+                "name": "Santa Isabel",
+                "municipality": "Kanasín, Yucatán"
+            }
+        ]
+    },
+    "97380": {
+        "code": "97380",
+        "colonies": [
+            {
+                "name": "Santiago",
+                "municipality": "Acanceh, Yucatán"
+            },
+            {
+                "name": "El Zapotal",
+                "municipality": "Acanceh, Yucatán"
+            }
+        ]
+    },
+    "97390": {
+        "code": "97390",
+        "colonies": [
+            {
+                "name": "Centro Umán",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "Los Ceibos",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "Ampliación Ciudad Industrial",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "La Mejorada",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "Bosques de San Francisco",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "Cepeda Peraza",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "La Candelaria",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "Dzibikal",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "Santa Elena",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "Miguel Hidalgo y Costilla",
+                "municipality": "Umán, Yucatán"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Umán, Yucatán"
+            }
+        ]
+    },
+    "97392": {
+        "code": "97392",
+        "colonies": [
+            {
+                "name": "El Roble Agrícola IV",
+                "municipality": "Umán, Yucatán"
+            }
+        ]
+    },
+    "97400": {
+        "code": "97400",
+        "colonies": [
+            {
+                "name": "Centro Telchac Pueblo",
+                "municipality": "Telchac Pueblo, Yucatán"
+            }
+        ]
+    },
+    "97404": {
+        "code": "97404",
+        "colonies": [
+            {
+                "name": "INFONAVIT",
+                "municipality": "Dzemul, Yucatán"
+            }
+        ]
+    },
+    "97420": {
+        "code": "97420",
+        "colonies": [
+            {
+                "name": "Miguel Alemán",
+                "municipality": "Sinanché, Yucatán"
+            }
+        ]
+    },
+    "97430": {
+        "code": "97430",
+        "colonies": [
+            {
+                "name": "Motul de Carrillo Puerto Centro",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "Sambula",
+                "municipality": "Motul, Yucatán"
+            }
+        ]
+    },
+    "97432": {
+        "code": "97432",
+        "colonies": [
+            {
+                "name": "San Silverio",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "Felipe Carrillo Puerto",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "Infonavit",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "Mario H Cuevas",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "Perla de La Costa",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "Londres",
+                "municipality": "Motul, Yucatán"
+            }
+        ]
+    },
+    "97433": {
+        "code": "97433",
+        "colonies": [
+            {
+                "name": "San Carlos",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "Santiago Castillo",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Motul, Yucatán"
+            }
+        ]
+    },
+    "97434": {
+        "code": "97434",
+        "colonies": [
+            {
+                "name": "Edesio Carrillo",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "Rogelio Chale",
+                "municipality": "Motul, Yucatán"
+            },
+            {
+                "name": "San Roque",
+                "municipality": "Motul, Yucatán"
+            }
+        ]
+    },
+    "97460": {
+        "code": "97460",
+        "colonies": [
+            {
+                "name": "Santa Teresa",
+                "municipality": "Cacalchén, Yucatán"
+            }
+        ]
+    },
+    "97500": {
+        "code": "97500",
+        "colonies": [
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Dzidzantún, Yucatán"
+            },
+            {
+                "name": "San Diego Chumul",
+                "municipality": "Dzidzantún, Yucatán"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Dzidzantún, Yucatán"
+            },
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Dzidzantún, Yucatán"
+            }
+        ]
+    },
+    "97540": {
+        "code": "97540",
+        "colonies": [
+            {
+                "name": "Benito Juárez",
+                "municipality": "Izamal, Yucatán"
+            },
+            {
+                "name": "San Genaro",
+                "municipality": "Izamal, Yucatán"
+            },
+            {
+                "name": "Santo Domingo",
+                "municipality": "Izamal, Yucatán"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Izamal, Yucatán"
+            },
+            {
+                "name": "Izamal",
+                "municipality": "Izamal, Yucatán"
+            },
+            {
+                "name": "San Juan Izamal",
+                "municipality": "Izamal, Yucatán"
+            }
+        ]
+    },
+    "97570": {
+        "code": "97570",
+        "colonies": [
+            {
+                "name": "Vicente Guerrero",
+                "municipality": "Seyé, Yucatán"
+            }
+        ]
+    },
+    "97655": {
+        "code": "97655",
+        "colonies": [
+            {
+                "name": "Quintana Roo",
+                "municipality": "Quintana Roo, Yucatán"
+            }
+        ]
+    },
+    "97700": {
+        "code": "97700",
+        "colonies": [
+            {
+                "name": "Tizimin Centro",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Santa Cruz",
+                "municipality": "Tizimín, Yucatán"
+            }
+        ]
+    },
+    "97702": {
+        "code": "97702",
+        "colonies": [
+            {
+                "name": "Comichén",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Jacinto Canek",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "8 Calles",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Aviación",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Santa Maria",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Zoológico",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Justo Sierra",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "San Martín",
+                "municipality": "Tizimín, Yucatán"
+            }
+        ]
+    },
+    "97703": {
+        "code": "97703",
+        "colonies": [
+            {
+                "name": "Adolfo Lopez Mateos",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "San Jose Nabalam",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Santo Domingo",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Huayita",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Los Reyes",
+                "municipality": "Tizimín, Yucatán"
+            }
+        ]
+    },
+    "97704": {
+        "code": "97704",
+        "colonies": [
+            {
+                "name": "Adolfo López Mateos",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Los Aguacates",
+                "municipality": "Tizimín, Yucatán"
+            },
+            {
+                "name": "Santa Maria de Lima",
+                "municipality": "Tizimín, Yucatán"
+            }
+        ]
+    },
+    "97730": {
+        "code": "97730",
+        "colonies": [
+            {
+                "name": "Santa Cruz Regario",
+                "municipality": "Espita, Yucatán"
+            }
+        ]
+    },
+    "97769": {
+        "code": "97769",
+        "colonies": [
+            {
+                "name": "X-Cocmil",
+                "municipality": "Tekom, Yucatán"
+            }
+        ]
+    },
+    "97770": {
+        "code": "97770",
+        "colonies": [
+            {
+                "name": "Benito Juárez García",
+                "municipality": "Chemax, Yucatán"
+            }
+        ]
+    },
+    "97780": {
+        "code": "97780",
+        "colonies": [
+            {
+                "name": "Valladolid Centro",
+                "municipality": "Valladolid, Yucatán"
+            }
+        ]
+    },
+    "97782": {
+        "code": "97782",
+        "colonies": [
+            {
+                "name": "Candelaria",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Flor Campestre",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Residencial Campestre",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Santa Ana",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Santa Lucia",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Fernando Novelo",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Militar",
+                "municipality": "Valladolid, Yucatán"
+            }
+        ]
+    },
+    "97783": {
+        "code": "97783",
+        "colonies": [
+            {
+                "name": "Leonardo Rodríguez Alcaine",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Oaxaqueña",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "San Juan",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "San Antonio",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Santana",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "San Francisco",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "San Vicente",
+                "municipality": "Valladolid, Yucatán"
+            }
+        ]
+    },
+    "97784": {
+        "code": "97784",
+        "colonies": [
+            {
+                "name": "Bacalar",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Sisal",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Emiliano Zapata",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "San Carlos",
+                "municipality": "Valladolid, Yucatán"
+            },
+            {
+                "name": "Cruz Verde",
+                "municipality": "Valladolid, Yucatán"
+            }
+        ]
+    },
+    "97800": {
+        "code": "97800",
+        "colonies": [
+            {
+                "name": "Guadalupe",
+                "municipality": "Maxcanú, Yucatán"
+            },
+            {
+                "name": "La Sirena",
+                "municipality": "Maxcanú, Yucatán"
+            }
+        ]
+    },
+    "97830": {
+        "code": "97830",
+        "colonies": [
+            {
+                "name": "San José",
+                "municipality": "Halachó, Yucatán"
+            }
+        ]
+    },
+    "97840": {
+        "code": "97840",
+        "colonies": [
+            {
+                "name": "Tepakán",
+                "municipality": "Muna, Yucatán"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Muna, Yucatán"
+            },
+            {
+                "name": "San Bernardo",
+                "municipality": "Muna, Yucatán"
+            },
+            {
+                "name": "San Mateo",
+                "municipality": "Muna, Yucatán"
+            },
+            {
+                "name": "San Sebastián",
+                "municipality": "Muna, Yucatán"
+            },
+            {
+                "name": "Víctor Cervera Pacheco",
+                "municipality": "Muna, Yucatán"
+            }
+        ]
+    },
+    "97860": {
+        "code": "97860",
+        "colonies": [
+            {
+                "name": "Ticul Centro",
+                "municipality": "Ticul, Yucatán"
+            }
+        ]
+    },
+    "97862": {
+        "code": "97862",
+        "colonies": [
+            {
+                "name": "Mejorada",
+                "municipality": "Ticul, Yucatán"
+            },
+            {
+                "name": "Guadalupe",
+                "municipality": "Ticul, Yucatán"
+            },
+            {
+                "name": "Obrera",
+                "municipality": "Ticul, Yucatán"
+            }
+        ]
+    },
+    "97863": {
+        "code": "97863",
+        "colonies": [
+            {
+                "name": "San Juan",
+                "municipality": "Ticul, Yucatán"
+            }
+        ]
+    },
+    "97864": {
+        "code": "97864",
+        "colonies": [
+            {
+                "name": "San Joaquín",
+                "municipality": "Ticul, Yucatán"
+            },
+            {
+                "name": "San Enrique",
+                "municipality": "Ticul, Yucatán"
+            },
+            {
+                "name": "San Benito",
+                "municipality": "Ticul, Yucatán"
+            },
+            {
+                "name": "Santa Maria",
+                "municipality": "Ticul, Yucatán"
+            },
+            {
+                "name": "San Román",
+                "municipality": "Ticul, Yucatán"
+            },
+            {
+                "name": "Santiago",
+                "municipality": "Ticul, Yucatán"
+            }
+        ]
+    },
+    "97880": {
+        "code": "97880",
+        "colonies": [
+            {
+                "name": "Tutul Xiú",
+                "municipality": "Oxkutzcab, Yucatán"
+            }
+        ]
+    },
+    "97930": {
+        "code": "97930",
+        "colonies": [
+            {
+                "name": "Peto Centro",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Francisco Sarabia",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Miraflores",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Morelos y Fátima",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "3 Cruces",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Trinidad",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Felipe Carrillo Puerto",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Jacinto Kanek",
+                "municipality": "Peto, Yucatán"
+            },
+            {
+                "name": "Ciprés",
+                "municipality": "Peto, Yucatán"
+            }
+        ]
+    },
+    "97960": {
+        "code": "97960",
+        "colonies": [
+            {
+                "name": "México Primero",
+                "municipality": "Tzucacab, Yucatán"
+            },
+            {
+                "name": "Tzucacab Centro",
+                "municipality": "Tzucacab, Yucatán"
+            }
+        ]
+    },
+    "97970": {
+        "code": "97970",
+        "colonies": [
+            {
+                "name": "San Francisco",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Villa Flores",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Lázaro Cárdenas",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Benito Juárez",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Francisco I Madero",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Padre Eterno",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Yocchenkax",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Chunchucun",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Chobenche",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "San Ignacio",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Ermita",
+                "municipality": "Tekax, Yucatán"
+            },
+            {
+                "name": "Unidad Antigua",
+                "municipality": "Tekax, Yucatán"
+            }
+        ]
+    },
+    "97990": {
+        "code": "97990",
+        "colonies": [
+            {
+                "name": "Akil Centro",
+                "municipality": "Akil, Yucatán"
+            }
+        ]
+    }
+}
