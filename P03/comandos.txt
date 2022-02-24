@@ -1,0 +1,1 @@
+go run main.go agrupar -1 "Jalisco" -2 "Colima" -3 "Chiapas" -4 "Durango" -5 "Hidalgo"
